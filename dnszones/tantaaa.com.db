@@ -1,0 +1,75 @@
+; cPanel first:11.68.0.39 (update_time):1609881837 Cpanel::ZoneFile::VERSION:1.3 hostname:server52.dnsserverboot.com latest:11.68.0.39
+; Zone file for tantaaa.com
+$TTL 14400
+tantaaa.com.	86400	IN	SOA	ns1.inteligenes.com.	skillvent2.gmail.com.	(
+						2021010502 ;Serial Number
+						3600 ;refresh
+						7200 ;retry
+						1209600 ;expire
+						86400	)
+; tantaaa.com.	86400	IN	SOA	ns1.inteligenes.com.	sastaplaza.gmail.com.	( ; Previous value removed by cPanel transfer auto-merge on 20201112205546 GMT
+; 						2020110806 ;Serial Number ; Previous value removed by cPanel transfer auto-merge on 20201112205546 GMT
+; 						3600 ;refresh ; Previous value removed by cPanel transfer auto-merge on 20201112205546 GMT
+; 						7200 ;retry ; Previous value removed by cPanel transfer auto-merge on 20201112205546 GMT
+; 						1209600 ;expire ; Previous value removed by cPanel transfer auto-merge on 20201112205546 GMT
+; 						86400	) ; Previous value removed by cPanel transfer auto-merge on 20201112205546 GMT
+
+tantaaa.com.	86400	IN	NS	ns1.inteligenes.com.
+tantaaa.com.	86400	IN	NS	ns2.inteligenes.com.
+
+
+tantaaa.com.	14400	IN	A	51.210.156.16
+
+tantaaa.com.	14400	IN	MX	0	tantaaa.com.
+
+mail	14400	IN	CNAME	tantaaa.com.
+www	14400	IN	CNAME	tantaaa.com.
+ftp	14400	IN	A	51.210.156.16
+; ftp	14400	IN	A	142.54.161.34 ; Previous value removed by cPanel transfer auto-merge on 20201112205546 GMT
+
+tantaaa.com.	14400	IN	TXT	"v=spf1 ip4:51.210.156.16 +a +mx +ip4:142.54.161.34 ~all"
+cpanel	14400	IN	A	51.210.156.16
+webdisk	14400	IN	A	51.210.156.16
+cpcalendars	14400	IN	A	51.210.156.16
+cpcontacts	14400	IN	A	51.210.156.16
+whm	14400	IN	A	51.210.156.16
+webmail	14400	IN	A	51.210.156.16
+default._domainkey	14400	IN	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5WZGNO0FS6N3hkPYMc6YMGpto64kV9uaiT6+TO76c/UL+t4A8VnbpiblRc3sdaVnu9KmYr4ockp3a6nTNoz7ptPGtm4s3jc+O7+ano1yUskbuvV/pkd+SGamM2Jm4HxXdUjPRoPACPQfpr1NdR7wkxGpP4fue+6OjbJyffT+qq40g6sz1CmPFLr9nCAHiTaqZ" lOq1P7CCmc6QPxGCuzm09zxUaoEeBkOIrgjBaZF6NZyNRn4c3BLSsFx5arxo4PlDREyTRdhDx7TQXN1WGloDbTQbIwYx3XylcTo/O91ty9Z/2z9++wPX1AfbpgPJ+i535sSMgP3Au6Rg/xSpdXhsQIDAQAB\;
+_acme-challenge.mail	1	IN	TXT	f-IGmNGtEs9NSnoE4CfrSD_E96SQ_lKWop657Ny7HCA
+_acme-challenge	1	IN	TXT	ZXbW62DGY0W8vnUsWwFr_s3h2oeXtVCRJaFWpl3KJ_k
+_acme-challenge.www	1	IN	TXT	Q2SzjQbZGqf-0Hgk2ZtUsjUgR5uHFtWzeuQBsh8Yy2Y
+_acme-challenge	1	IN	TXT	a-YWVuBRuzybguwn_QcVjatbo5WTxOkjLmrlMM2R8iw
+demo	14400	IN	A	51.210.156.16
+www.demo	14400	IN	A	51.210.156.16
+default._domainkey.demo	14400	IN	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0svQUlYv3dKGl3/qWlSej/URmdSct0gR4hQvYYbU9XEDno7K5Yjcovx6aDxYm8Z4R1id5mr85VFro6dibMyuffCz6fjp1YPP8Jc3piHFMTOVEVriWiKhO+/022a1+pZyGub6UNbXWo4Xfe0H3u/xvedDbWqeUn4/IFdqkkRjYMVIggovsFh4B30z/3vErSMof" jCHLdpT9aK12H/nrtsXGn53WAv9VfDB/Qtx+cuUZW3OzSZpZLTocJfPAKfBbfPVGFO4kRrtsg3c38uK4KhXTjSnlgnTZrKO6XCIdTsmJQWUpnWVwDP5JEjrnOqYdu5ONj+ZUqdwD0RakP5Mk7KXLQIDAQAB\;
+demo	14400	IN	TXT	"v=spf1 ip4:51.210.156.16 +a +mx +ip4:142.54.161.34 ~all"
+cpanel.demo	14400	IN	A	51.210.156.16
+cpcontacts.demo	14400	IN	A	51.210.156.16
+webmail.demo	14400	IN	A	51.210.156.16
+cpcalendars.demo	14400	IN	A	51.210.156.16
+webdisk.demo	14400	IN	A	51.210.156.16
+whm.demo	14400	IN	A	51.210.156.16
+demo1	14400	IN	A	51.210.156.16
+www.demo1	14400	IN	A	51.210.156.16
+default._domainkey.demo1	14400	IN	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzYkBFHg9d4Zx5w4Bx69+9J7VH6M1z2+jftWYqk0sQJbRgd6RO3VggbnZ5zQMKZh5+HR9aKFncdHi42wiTqr/TiX90lU2QOIVG9KijhGe/XCz2gg1n6h8lJ3WVGPIXmw48kiTWoIH82MlStPdnAl6kthMGuAs7LJhhfM9LG19adhmreSZ8FRfYVaUPU/dfgJQV" VbTC6J0I07QjhhjzEMN/leodTcTZd+cf/Vp6Kb/+pGizjT3E2BpQug2SHduahZI8vP8BmZh5zOKOHLedsIOIWRSOrqyqGtzS6u4yHroxqRrdoDLI4SMwDrjbfyhXQwcG36tNFUWFzjTybYN97v8WQIDAQAB\;
+demo1	14400	IN	TXT	"v=spf1 ip4:51.210.156.16 +a +mx +ip4:142.54.161.34 ~all"
+webdisk.demo1	14400	IN	A	51.210.156.16
+whm.demo1	14400	IN	A	51.210.156.16
+webmail.demo1	14400	IN	A	51.210.156.16
+cpcalendars.demo1	14400	IN	A	51.210.156.16
+cpanel.demo1	14400	IN	A	51.210.156.16
+cpcontacts.demo1	14400	IN	A	51.210.156.16
+s	14400	IN	A	51.210.156.16
+www.s	14400	IN	A	51.210.156.16
+default._domainkey.s	14400	IN	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAl9AE+93GcifCq1YgCss7DZw3oRCNiS86Qy+vd2QAdhXKLRdhB7N/I7eDSFRn+BVgAcF0xU7stQHs30fFTHr+ABHO8nNbQvaNIERp0NzqqavaP6rx9cInELbz23+6y/Tb3BEmJCK9KuTcsEVDru/bKe7fL9QDbu+eGwy02sAYZ/ToGbVj7dcSyktRefCEDK2dW" XEgOu3DizDaVd1aJ3VJfEZHXK+p8rI9qM5e30QlUREo5jvufX0XXC7wbnyPezasnoaDhkK0W6JH+pgHh8+Etjpk2u5ADC9MUJB8gU3+IYLDxxA4+leL6MHUm8mFwmCE8LNubC8mC1TCqI5gQsKxTwIDAQAB\;
+s	14400	IN	TXT	"v=spf1 ip4:51.210.156.16 +a +mx +ip4:142.54.161.34 ~all"
+cpanel.s	14400	IN	A	51.210.156.16
+webdisk.s	14400	IN	A	51.210.156.16
+whm.s	14400	IN	A	51.210.156.16
+webmail.s	14400	IN	A	51.210.156.16
+cpcalendars.s	14400	IN	A	51.210.156.16
+cpcontacts.s	14400	IN	A	51.210.156.16
+_acme-challenge.s	1	IN	TXT	sqB3lPpFI9DYtaCJDKXVcjk7n8iCXO4MekAT-PF9ZU0
+_acme-challenge.www.s	1	IN	TXT	xh8Y6PtFyqXWkEYEOvSH6dxonO4gf9l70QbZNNO9LNM
+_acme-challenge.s	1	IN	TXT	k7APkpeodLoD8CcaWdxxW4IGMpRBHUwGGfJfB0csj_E
+

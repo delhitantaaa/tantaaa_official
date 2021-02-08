@@ -1,0 +1,21 @@
+--- 
+documentroot: /home2/delhitantaa/public_html/demo1
+group: delhitantaa
+hascgi: 1
+homedir: /home2/delhitantaa
+ip: 51.210.156.16
+ipv6: ~
+owner: intelige
+phpopenbasedirprotect: 1
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@demo1.tantaaa.com
+serveralias: www.demo1.tantaaa.com
+servername: demo1.tantaaa.com
+ssl: 1
+sslcacertificatefile: pkgacct_cab_demo1.tantaaa.com
+sslcertificatefile: pkgacct_demo1.tantaaa.com
+sslcertificatekeyfile: pkgacct_demo1.tantaaa.com
+usecanonicalname: 'Off'
+user: delhitantaa
+userdirprotect: ''

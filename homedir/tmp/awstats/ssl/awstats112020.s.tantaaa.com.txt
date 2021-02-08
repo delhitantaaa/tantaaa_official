@@ -1,0 +1,485 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 202011 will be lost/reset.
+# Last config file used to build this data file was /home2/delhitantaa/tmp/awstats/ssl/awstats.s.tantaaa.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2018                
+POS_TIME 2692                
+POS_VISITOR 11104               
+POS_DAY 12661               
+POS_DOMAIN 3439                
+POS_LOGIN 3744                
+POS_ROBOT 3899                
+POS_WORMS 4300                
+POS_EMAILSENDER 4431                
+POS_EMAILRECEIVER 4574                
+POS_SESSION 13072               
+POS_SIDER 13278               
+POS_FILETYPES 4709                
+POS_DOWNLOADS 4994                
+POS_OS 5042                
+POS_BROWSER 5221                
+POS_SCREENSIZE 5550                
+POS_UNKNOWNREFERER 5624                
+POS_UNKNOWNREFERERBROWSER 5787                
+POS_ORIGIN 5945                
+POS_SEREFERRALS 6083                
+POS_PAGEREFS 6227                
+POS_SEARCHWORDS 6402                
+POS_KEYWORDS 6554                
+POS_MISC 2356                
+POS_ERRORS 6613                
+POS_CLUSTER 3600                
+POS_SIDER_404 6776                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20201201022425 6 800 10538101624180
+FirstTime 20201108151921
+LastTime 20201129222135
+LastUpdate 20201201183842 6 0 5 0 0
+TotalVisits 43                  
+TotalUnique 35                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 37                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 1 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 31 2115898 2 7 31101
+1 0 0 0 1 1 14111
+2 0 0 0 2 5 316327
+3 0 0 0 58 66 1489818
+4 0 0 0 2 2 30043
+5 0 0 0 2 2 14102
+6 0 0 0 2 3 30619
+7 1 1 15390 5 10 39171
+8 8 8 61533 2 14 22571
+9 0 0 0 1 1 16478
+10 14 16 427347 7 41 377459
+11 467 915 21758608 16 144 985477
+12 140 319 7664123 13 220 129484
+13 81 137 3125780 11 117 1064273
+14 77 123 952488 6 63 44921
+15 53 193 7008563 18 77 282858
+16 110 250 6763802 30 86 85936
+17 24 125 5946332 7 54 59027
+18 169 216 804031 8 179 125924
+19 74 135 3305944 3 56 389951
+20 191 338 5975494 5 199 137480
+21 41 198 8382143 5 53 308926
+22 4 5 152946 5 18 53945
+23 3 3 47331 2 2 28149
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+in 939 2013 53559999
+ca 481 905 20105671
+np 31 60 395966
+us 6 33 429110
+de 1 1 0
+eu 1 1 17007
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+Googlebot/ 58 590993 20201123195535 0
+YandexBot/ 51 809932 20201120021317 0
+AhrefsBot/ 38 570914 20201130225252 0
+YandexImages/ 9 964793 20201120021339 0
+facebookexternalhit/ 7 4700 20201124112541 0
+no_user_agent 4 981516 20201117131519 0
+unknown 1 24 20201109104905 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+woff 53 2101568 0 0
+js 681 8124541 0 0
+jpg 349 49174953 0 0
+map 17 4666334 0 0
+Unknown 1187 1544100 0 0
+png 113 307743 0 0
+eot 3 205214 0 0
+woff2 75 3889184 0 0
+jpeg 3 337677 0 0
+html 124 1779844 0 0
+css 408 2376595 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+ios_iphone 30 3
+linuxandroid 213 64
+winxp 3 3
+win10 1173 611
+Unknown 3 3
+macosx 314 128
+win7 1276 646
+winlong 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 12
+chrome86.0.4240.198 487 207
+chrome87.0.4280.66 1365 777
+Unknown 3 3
+chrome84.0.4147.135 30 3
+msie11.0 65 13
+chrome40.0.2214.85 1 1
+chrome86.0.4240.183 686 297
+chrome86.0.4240.185 107 45
+chrome39.0.2146.0 3 3
+chrome34.0.1847.116 1 1
+chrome86.0.4240.193 235 106
+safari14.0.1 30 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+WhatsApp/2.20.202.18_A 20201117155404
+WhatsApp/2.20.205.13_A 20201124115526
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WhatsApp/2.20.202.18_A 20201117155404
+WhatsApp/2.20.205.13_A 20201124115526
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 86 86
+From1 0 0
+From2 0 0
+From3 1 1
+From4 1372 2926
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://l.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+303 18 661
+307 19 30
+500 8 344485
+403 5 5124
+404 1162 634636
+206 26 1167827
+400 5 2516
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 55
+/uploads/services/se_full_160498885719813.jpg 94 https://s.tantaaa.com/
+/uploads/category_images/1604902575download_381_286.jpg 1 https://s.tantaaa.com/
+/uploads/category_images/thu_160433426916012_50_50.jpg 2 https://s.tantaaa.com/categories
+/uploads/category_images/thu_16049024925e4bf034acae7f373e129948_50_50.jpg 2 https://s.tantaaa.com/categories
+/uploads/profile_img/temp/1606201763.png 31 https://s.tantaaa.com/subcategories
+/uploads/category_images/1604903245House-Painters-Near-You_381_286.jpg 1 https://s.tantaaa.com/
+/uploads/logo/1606201545_web%20design%20logo.png 1 https://s.tantaaa.com/admin/settings
+/uploads/category_images/thu_1604903245House-Painters-Near-You_50_50.jpg 2 https://s.tantaaa.com/categories
+/uploads/logo/Untitled%20design.png 11 https://s.tantaaa.com/
+/assets/img/title-image2.png 74 https://s.tantaaa.com/assets/css/style.css
+/adm 1 -
+/uploads/logo/1604917384_favicon.png.png 43 https://s.tantaaa.com/admin/emailsettings
+/admi 1 -
+/search/appliances-repair-and-services 1 https://s.tantaaa.com/
+/uploads/subcategory_images/kitchen-cleaning-services-dubai-2_50_50.jpg 1 https://s.tantaaa.com/subcategories
+/ 1 -
+/admin/emailsettings 4 https://s.tantaaa.com/admin/settings
+/uploads/category_images/16049024925e4bf034acae7f373e129948_381_286.jpg 1 https://s.tantaaa.com/
+/subscriptions 1 https://s.tantaaa.com/review-reports
+/uploads/profile_img/temp/1606199568.png 33 https://s.tantaaa.com/admin-profile
+/uploads/category_images/160433426916012_381_286.jpg 1 https://s.tantaaa.com/
+/robots.txt 12 -
+/assets/img/hiwbg.png 66 https://s.tantaaa.com/assets/css/style.css
+/uploads/subcategory_images/20139_50_50.jpg 1 https://s.tantaaa.com/subcategories
+/uploads/category_images/thu_160433441015873_50_50.jpg 2 https://s.tantaaa.com/categories
+/uploads/logo/1606308964_TANTAAA%20LOGO%20.png 105 https://s.tantaaa.com/categories
+/edit-ratingstype/1 1 https://s.tantaaa.com/ratingstype
+/uploads/profile_img/temp/1606308911.png 107 https://s.tantaaa.com/categories
+/assets/img/title-image.png 74 https://s.tantaaa.com/assets/css/style.css
+/uploads/subcategory_images/index_50_50.jpg 1 https://s.tantaaa.com/subcategories
+/user/service/get_category 18 https://s.tantaaa.com/
+/dashboard 2 -
+/uploads/subcategory_images/61945_50_50.jpg 1 https://s.tantaaa.com/subcategories
+/subcategories 1 https://s.tantaaa.com/edit-ratingstype/1
+/uploads/subcategory_images/16049035607692.jpg 1 https://s.tantaaa.com/subcategories
+/ad 1 -
+/uploads/category_images/thu_1604902319product-500x500_50_50.jpeg 2 https://s.tantaaa.com/categories
+/uploads/subcategory_images/images_50_50.jpg 1 https://s.tantaaa.com/subcategories
+/uploads/logo/TANTAAA%20LOGO%20.png 23 https://s.tantaaa.com/
+/uploads/services/se_full_16049066317692.jpg 1 https://s.tantaaa.com/service-list
+/uploads/category_images/thu_1604902820istockphoto-512756266-612x612_50_50.jpg 2 https://s.tantaaa.com/categories
+/search/home-cleaning 1 https://s.tantaaa.com/
+/assets/js/popper.min.js.map 16 -
+/uploads/subcategory_images/1604903740depositphotos_24857221-stock-photo-manicure-nail.jpg 1 https://s.tantaaa.com/subcategories
+/admin 5 -
+/uploads/category_images/thu_1604902575download_50_50.jpg 2 https://s.tantaaa.com/categories
+/uploads/services/se_full_1604988718sparkel-shine.jpg 94 https://s.tantaaa.com/
+/uploads/subcategory_images/160490361387562.jpg 1 https://s.tantaaa.com/subcategories
+/uploads/subcategory_images/160490346952436.jpg 1 https://s.tantaaa.com/subcategories
+/uploads/logo/1606201563_web%20design%20logo.png 43 https://s.tantaaa.com/subcategories
+/uploads/category_images/1604902820istockphoto-512756266-612x612_381_286.jpg 1 https://s.tantaaa.com/
+/uploads/category_images/1604902955How-Home-Security-Has-Advanced-in-the-21st-Century_381_286.jpg 1 https://s.tantaaa.com/
+/assets/img/logo-icon.png 259 https://s.tantaaa.com/dashboard
+/uploads/category_images/thu_1604902955How-Home-Security-Has-Advanced-in-the-21st-Century_50_50.jpg 2 https://s.tantaaa.com/categories
+/admin/settings 6 https://s.tantaaa.com/service-list
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 37
+122.179.197.154 361 603 11455745 20201124175229
+122.176.8.222 226 549 16772845 20201117170306
+47.30.198.217 225 326 4543509 20201124192508
+47.30.192.138 164 184 391167 20201125184229
+122.162.201.1 89 192 6072506 20201118134806
+103.95.81.6 77 127 2265667 20201125220123
+27.5.27.96 68 119 2708977 20201123202734
+103.95.121.96 54 130 3232179 20201126001114
+110.225.90.98 34 84 2098408 20201124122957
+120.89.102.248 31 60 395966 20201124115011
+110.225.90.201 17 71 3215761 20201121113156
+47.31.172.12 16 24 127265 20201118211653
+47.31.235.160 13 65 3249439 20201126175715
+47.30.198.48 10 61 2935707 20201129222135
+47.30.164.76 9 62 3155810 20201121122434
+47.30.215.17 8 8 70148 20201128104136
+47.8.116.94 5 54 2651477 20201129214827
+47.31.48.6 5 5 45678 20201118080027
+122.180.217.88 5 54 2671664 20201123125436
+117.97.242.147 5 54 2671669 20201125215550
+47.30.157.232 5 54 2103992 20201120124130
+47.30.171.77 4 4 31262 20201126194041
+47.30.132.15 4 4 31191 20201122101202
+154.12.162.18 3 3 47331 20201119232051
+202.71.1.4 3 30 394578 20201124145335
+173.252.95.5 2 12 97677 20201124112545
+47.30.208.226 2 14 13318 20201108152115
+47.30.128.66 2 2 16533 20201126201834
+138.246.253.24 1 1 0 20201124132543
+178.62.82.141 1 1 17007 20201122200945
+47.31.7.18 2 4 326008 20201126101523
+173.252.95.28 0 8 146936 
+47.31.158.76 3 30 381922 20201128181025
+173.252.95.25 0 9 100554 
+47.30.176.36 2 2 15599 20201120080014
+173.252.95.116 1 1 36612 20201124112545
+47.31.173.238 2 2 15646 20201119082043
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 14
+20201108 2 14 13318 1
+20201109 99 239 5717708 1
+20201117 127 310 11055137 2
+20201118 110 221 6245449 4
+20201119 5 5 62977 2
+20201120 7 56 2119591 2
+20201121 26 133 6371571 3
+20201122 5 5 48198 2
+20201123 73 173 5380641 2
+20201124 658 1134 19269985 11
+20201125 298 464 6444784 4
+20201126 23 106 5739140 5
+20201128 11 38 452070 2
+20201129 15 115 5587184 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 2
+0s-30s 20
+30mn-1h 4
+15mn-30mn 4
+30s-2mn 7
+1h+ 4
+2mn-5mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 99
+/admin/login/is_valid_login 373 2281 0 0
+/user/service/get_category 124 20122 0 22
+/ 115 1774744 31 7
+/user/login/email_chk 94 1657 0 0
+/admin 60 53840 9 1
+/user/login/mobileno_chk 54 936 0 0
+/dashboard 46 98596 0 0
+/user/login/email_chk_user 37 612 0 0
+/map_lists 35 1656 0 0
+/admin/settings 32 104570 0 1
+/categories/check_subcategory_name 31 522 0 0
+/assets/plugins/fontawesome/webfonts/fa-solid-900.woff2 23 1741744 0 0
+/assets/plugins/fontawesome/webfonts/fa-brands-400.woff2 23 1732728 0 1
+/assets/plugins/fontawesome/webfonts/fa-regular-400.woff2 23 312432 0 0
+/payment_list 16 35162 0 0
+/assets/fonts/CircularStd-Medium.woff 15 612600 0 1
+/assets/fonts/CircularStd-Book.woff 15 549180 1 3
+/service-list 14 44343 0 1
+/admin/emailsettings 14 33976 0 1
+/service-providers 13 34938 0 0
+/provider_list 13 5301 0 0
+/subcategories 13 39802 0 0
+/ratingstype 12 26868 0 0
+/subscriptions 12 25732 0 0
+/categories 11 30227 0 2
+/admin-notification 3 5214 0 0
+/assets/fonts/poppins-bold.woff2 2 33952 0 0
+/user/login/send_otp_request_user 1 64 0 0
+/assets/plugins/fontawesome/webfonts/fa-solid-900.eot 1 99301 0 0
+/assets/plugins/fontawesome/webfonts/fa-regular-400.eot 1 16843 0 0
+/search/home-repair 2 28174 0 0
+/admin/total-report 8 26744 0 0
+/provider-availability 2 31948 0 0
+/categories/check_category_name 4 54 0 0
+/admin/settings/payment_type 4 686 0 0
+/user-wallet 1 15240 0 0
+/assets/plugins/fontawesome/webfonts/fa-brands-400.eot 1 89070 0 0
+/user/login/mobileno_chk_user 10 183 0 0
+/admin/wallet 6 19205 0 0
+/admin-profile 9 26846 0 0
+/search/appliances-repair-and-services 1 14090 0 0
+/edit-subcategory/5 1 2353 0 0
+/provider-subscription 2 30201 0 0
+/provider-dashboard 2 29986 0 0
+/all-categories 10 139916 1 0
+/users_list 10 3649 0 0
+/search/Hospitality 1 14562 0 0
+/search 2 30559 0 0
+/assets/fonts/poppins-regular.woff2 2 34128 0 0
+/assets/fonts/CircularStd-BookItalic.woff 5 196100 0 0
+/provider-bookings 1 14672 0 0
+/user/login/check_otp 2 366 0 0
+/user/login/send_otp_request 4 256 0 1
+/admin/login 2 2145 1 0
+/review-reports 7 18279 0 0
+/assets/plugins/toaster/toastr.js.map 1 25633 0 0
+/edit-subscription/1 3 6813 0 0
+/uploads/category_images/thu_category_151adfe0_50_50. 1 5422 0 0
+/admin/dashboard/change_rating 1 0 0 0
+/admin/sms-settings 8 19006 0 1
+/search/home-cleaning 1 14594 0 0
+/edit-subcategory/1 3 7008 0 0
+/user-settings 1 17066 0 0
+/webmail 1 13003 0 0
+/assets/fonts/CircularStd-Black.woff 9 371916 0 0
+/service/check_subscription_name 8 160 0 0
+/users 10 24720 0 0
+/assets/fonts/CircularStd-Bold.woff 9 371772 0 0
+/user/login/check_otp_user 1 181 0 0
+/service-details/4 1 2563 0 0
+/service-preview/monthly-essential-package 1 15129 0 0
+/user/subscription/stripe_payments/ 1 9 0 0
+/assets/plugins/bootstrap/css/bootstrap.min.css.map 5 3232160 0 0
+/assets/js/moment.min.js.map 5 432410 0 0
+/assets/plugins/bootstrap/js/bootstrap.min.js.map 5 957430 0 0
+/assets/fonts/poppins-medium.woff2 2 34200 0 0
+/user-dashboard 2 28892 0 0
+/about-us 2 28641 0 1
+/admin/profile/crop_profile_img/ 8 5091 0 0
+/service/update_subscription 2 26 0 0
+/search/salon-at-home 5 73310 0 0
+/provider-details/1 1 2075 0 0
+/user/service/get_subcategory 3 108 0 0
+/add-service 1 14725 0 0
+/contact 3 43914 0 0
+/search/home-security 1 14135 0 0
+/user-payment 1 14482 0 0
+/search/painting 3 42248 0 0
+/admin/stripe_payment_gateway 9 21757 0 0
+/search/hospitality 4 58301 0 0
+/edit-ratingstype/1 2 4094 0 0
+/service-preview/MONTHLY-ESSENTIAL-PACKAGE 2 30657 0 0
+/user/login/check_mobile_existing 1 23 0 0
+/add-category 1 1930 0 0
+/ratingstype/check_ratingstype_name 1 18 0 0
+/admin/reject-report 1 3461 0 0
+/assets/plugins/theia-sticky-sidebar/maps/theia-sticky-sidebar.js.map 1 18701 0 0
+/edit-category/1 2 4289 0 0
+/service-preview/hospitality-service 1 14816 0 0
+END_SIDER

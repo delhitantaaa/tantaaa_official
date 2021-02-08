@@ -1,0 +1,599 @@
+Return-Path: <1axbmoza30zvza3mtibsx23ykeeahq0qazoptf-sales=tantaaa.com@bf01x.hubspotemail.net>
+Delivered-To: sales@tantaaa.com
+Received: from server25.dnsserverboot.com
+	by server25.dnsserverboot.com with LMTP id iFM6OmRCbF8QdgAAwMDd9w
+	for <sales@tantaaa.com>; Thu, 24 Sep 2020 12:23:24 +0530
+Return-path: <1axbmoza30zvza3mtibsx23ykeeahq0qazoptf-sales=tantaaa.com@bf01x.hubspotemail.net>
+Envelope-to: sales@tantaaa.com
+Delivery-date: Thu, 24 Sep 2020 12:23:24 +0530
+Received: from bid46ms.bf01x.hubspotemail.net ([158.247.18.66]:8145)
+	by server25.dnsserverboot.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89_1)
+	(envelope-from <1axbmoza30zvza3mtibsx23ykeeahq0qazoptf-sales=tantaaa.com@bf01x.hubspotemail.net>)
+	id 1kLL88-0007pQ-S2
+	for sales@tantaaa.com; Thu, 24 Sep 2020 12:23:24 +0530
+Received: by 172.16.224.35 with SMTP id aw646eswp3ibyakkcoirpxe0jgufbapfvveq;
+        Thu, 24 Sep 2020 06:52:44 GMT
+DKIM-Signature: v=1; s=hs2; d=bf01x.hubspotemail.net; 
+        i=@bf01x.hubspotemail.net; 
+        h=sender:from:reply-to:to:subject:mime-version:content-type:list-unsubscribe:form-sub:feedback-id; 
+        a=rsa-sha256; c=relaxed/relaxed; 
+        bh=wqJXfTsz/gv/jPU65KI2NRocRSMd9CsmSG14Nqcv0Yc=; 
+        b=Gl8ACO+JEeyuCtNsQyrWKfxBQeQLCoTggAPOH6PRDgJrymhjP01YwlgjNSHLAY
+         LH55e2BEdwmGnn9GV0WZ6La+EZCf+lrxOTzsiuooY94QoOnzaQHazT2zNMLzrcP
+         /pa70d2Wj0YUxjfwReFsTuIT5jT2Bl4V/it67j4OA5Ksq73x9wRtTXXf/RUCwn9
+         i9QQxzxQ7w+gQcxt7vHrQJS4YSgOaVdj4RsS0bg+GUnccHMc+Z3GNKSEJmlMEIX
+         IKbGbJro9PW8DKxh4d6ttb1hNahDlT6FnzwEdICuILKjox+kFu6VEsIFSDuF2KL
+         rXN8JhLVLYkFEG2V3BlDTjeutN9g==; q=dns/txt; t=1600930364;
+DKIM-Signature: v=1; s=hs1; d=razorpay.com; i=@razorpay.com; 
+        h=sender:from:reply-to:to:subject:mime-version:content-type:list-unsubscribe:form-sub:feedback-id; 
+        a=rsa-sha256; c=relaxed/relaxed; 
+        bh=wqJXfTsz/gv/jPU65KI2NRocRSMd9CsmSG14Nqcv0Yc=; 
+        b=fHLkpKtjtRLSqmmamsCL+9JuNmxvIrZaBHKEAqYsGKZjik7R2ND/Vtr67HeBpt
+         LdRufXqm3zN4/uVnBtX/4ex9U/bxfYhUfswNR96Fp85bxeq5dVFrLvl271UYuT7
+         aVZsK4BhQVXCkL4olVO/mundz7xRd30YKzaBtGS/8/AuohTaD3vIKS/tfZtdp0z
+         Qx29VILpvw3mbUZ7jdodW0m66Sor8Ta6lwgshTsuoPXA8RjoAh8YMcyJmHNCRLo
+         VmtcMGgM/QADSEIRfE/Q4wnhNuLPgA8Fpa5UrY9bicQKz1wsjSSxp7YXr4T5biq
+         uaZGpgQcs0+FNLzdx6WxpIX4oaTg==; q=dns/txt; t=1600930364;
+X-HS-Cid: 1axfefi1ekcene9zpoi6cf6pi1kpfbpvptsddf
+List-Unsubscribe: <mailto:1axcqumgulskz33chaupdfncucri7q4xf8fu67-sales=tantaaa.com@bf01x.hubspotemail.net?subject=unsubscribe>
+Date: Thu, 24 Sep 2020 12:22:44 +0530
+From: Jyotika from Razorpay <jyotika.a@razorpay.com>
+Reply-To: jyotika.a@razorpay.com
+To: sales@tantaaa.com
+Message-ID: <1600930364174.f294e6bf-ff95-431c-aac6-12c78655fecd@bf01x.hubspotemail.net>
+Subject: Hey MANOJ KUMAR MISHRA, Start Accepting Payments Today
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_622871_1448864807.1600930364354"
+X-Report-Abuse-To: abuse@hubspot.com (see
+ https://www.hubspot.com/abuse-complaints)
+
+------=_Part_622871_1448864807.1600930364354
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+View in browser (https://hs-5558946.t.hubspotemail.net/e2t/sc2/Mm-nFbkn5CZW=
+6y6Rkz8kbP36W5KSlXK9lQ5LnW8SvHsT90sf59f1HVPN203 )
+
+Welcome aboard Razorpay!
+
+Hey MANOJ KUMAR MISHRA,
+
+We have your business details, but we need a bit more to activate your acco=
+unt.
+
+Just enter your billing label & business category to start accepting paymen=
+ts.
+
+P.S. Start accepting payments before 30th Sep to unlock a special 1.85% lif=
+etime slashed pricing + accept payments worth =E2=82=B91 lakh for free of c=
+ost =F0=9F=8E=81
+
+Start Accepting Payments
+
+(https://hs-5558946.t.hubspotemail.net/e2t/sc2/Mm-nFbkn5CZW6y6Rkz8kbP36W5KS=
+lXK9lQ5LnW8SvHsT90sf59f1HVPN213 )
+
+Jyotika Agarwal
+
+Customer Onboarding Specialist
+
+If you face any issues while integrating, feel free to
+Contact us (https://hs-5558946.t.hubspotemail.net/e2t/sc2/Mm-nFbkn5CZW6y6Rk=
+z8kbP36W5KSlXK9lQ5LnW8SvHsT90sf59f1HVPN223 )
+
+Razorpay, Hosur Road, Bengaluru, Karnataka
+
+Unsubscribe (https://hs-5558946.s.hubspotemail.net/hs/manage-preferences/un=
+subscribe-all?d=3DVnchcR639-pdVFrjJq3K984HW3zd-fZ3z7rYZW43T2Pf7DCB1CW17f7hv=
+7xrGcRW94_D1X6crkwTW4Y2gNk7VFPTqV28Ns254bxyjMGKd_P20N4DW51gpxF55Pb8sVfXrR95=
+HkgWs517LrC1&v=3D3&_hsenc=3Dp2ANqtz-8P7OioBEq0SlowNpCbA7n7rTp4kHWmk0xiYZF6P=
+ytwdD69FGafG_6FVhor9GgnNtQ3WdM9df6RcNtX8yg2pD95L47zCw&_hsmi=3D94718297 )
+
+Manage preferences (https://hs-5558946.s.hubspotemail.net/hs/manage-prefere=
+nces/unsubscribe?d=3DVnchcR639-pdVFrjJq3K984HW3zd-fZ3z7rYZW43T2Pf7DCB1CW17f=
+7hv7xrGcRW94_D1X6crkwTW4Y2gNk7VFPTqV28Ns254bxyjMGKd_P20N4DW51gpxF55Pb8sVfXr=
+R95HkgWs517LrC1&v=3D3&_hsenc=3Dp2ANqtz-8P7OioBEq0SlowNpCbA7n7rTp4kHWmk0xiYZ=
+F6PytwdD69FGafG_6FVhor9GgnNtQ3WdM9df6RcNtX8yg2pD95L47zCw&_hsmi=3D94718297 )
+------=_Part_622871_1448864807.1600930364354
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3=
+.org/1999/xhtml" xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:=
+v=3D"urn:schemas-microsoft-com:vml" lang=3D"en"><head>
+    <title>Hey MANOJ KUMAR MISHRA, Start Accepting Payments Today</title>
+    <meta property=3D"og:title" content=3D"Hey MANOJ KUMAR MISHRA, Start Ac=
+cepting Payments Today">
+    <meta name=3D"twitter:title" content=3D"Hey MANOJ KUMAR MISHRA, Start A=
+ccepting Payments Today">
+   =20
+   =20
+   =20
+<meta name=3D"x-apple-disable-message-reformatting">
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+    <!--[if gte mso 9]>
+  <xml>
+      <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+  </xml>
+ =20
+  <style>
+    ul > li {
+      text-indent: -1em;
+    }
+  </style>
+<![endif]-->
+<!--[if mso]>
+<style type=3D"text/css">
+ body, td {font-family: Arial, Helvetica, sans-serif;}
+</style>
+<![endif]-->
+   =20
+     =20
+   =20
+  <meta name=3D"generator" content=3D"HubSpot"><meta property=3D"og:url" co=
+ntent=3D"http://razorpay-5558946.hs-sites.com/hey-personalization_tokencont=
+act.signup_contact_name-start-accepting-payments-today-3"><meta name=3D"rob=
+ots" content=3D"noindex,follow"><!--[if !((mso)|(IE))]><!-- --><style type=
+=3D"text/css">[owa] .hse-column-container{max-width:600px !important;width:=
+600px !important}[owa] .hse-column{display:table-cell;vertical-align:top}
+[owa] .hse-section .hse-size-12{max-width:600px !important;width:600px !imp=
+ortant}
+@media only screen and (min-width:640px){.hse-column-container{max-width:60=
+0px !important;width:600px !important}
+.hse-column{display:table-cell;vertical-align:top}.hse-section .hse-size-12=
+{max-width:600px !important;width:600px !important}
+}@media only screen and (max-width:639px){img.stretch-on-mobile,.hs_rss_ema=
+il_entries_table img{height:auto !important;width:100% !important}
+.display_block_on_small_screens{display:block}.hs_padded{padding-left:20px =
+!important;padding-right:20px !important}
+}</style><!--<![endif]--><style type=3D"text/css">a[x-apple-data-detectors]=
+{color:inherit !important;text-decoration:none !important;font-size:inherit=
+ !important;font-family:inherit !important;font-weight:inherit !important;l=
+ine-height:inherit !important}
+#outlook a{padding:0}.yshortcuts a{border-bottom:none !important}a{text-dec=
+oration:underline}
+.ExternalClass{width:100%}.ExternalClass,.ExternalClass p,.ExternalClass td=
+,.ExternalClass div,.ExternalClass span,.ExternalClass font{line-height:100=
+%}
+p{margin:0}body{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-we=
+bkit-font-smoothing:antialiased;moz-osx-font-smoothing:grayscale}</style></=
+head>
+  <body bgcolor=3D"#ffffff" style=3D"margin:0 !important; padding:0 !import=
+ant; font-family:Arial, sans-serif; font-size:15px; color:#23496d; word-bre=
+ak:break-word">
+   =20
+   =20
+<!--[if gte mso 9]>
+<v:background xmlns:v=3D"urn:schemas-microsoft-com:vml" fill=3D"t">
+ =20
+    <v:fill type=3D"tile" size=3D"100%,100%" color=3D"#ffffff"/>
+ =20
+</v:background>
+<![endif]-->
+    <div class=3D"hse-body-background" style=3D"background-color:#ffffff" b=
+gcolor=3D"#ffffff">
+      <table role=3D"presentation" class=3D"hse-body-wrapper-table" cellpad=
+ding=3D"0" cellspacing=3D"0" style=3D"border-spacing:0 !important; border-c=
+ollapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; margin:0; pad=
+ding:0; width:100% !important; min-width:320px !important; height:100% !imp=
+ortant" width=3D"100%" height=3D"100%">
+        <tbody><tr>
+          <td class=3D"hse-body-wrapper-td" valign=3D"top" style=3D"border-=
+collapse:collapse; mso-line-height-rule:exactly; font-family:Arial, sans-se=
+rif; font-size:15px; color:#23496d; word-break:break-word; padding-top:20px=
+">
+            <div id=3D"hs_cos_wrapper_main" class=3D"hs_cos_wrapper hs_cos_=
+wrapper_widget hs_cos_wrapper_type_dnd_area" style=3D"color: inherit; font-=
+size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widget" d=
+ata-hs-cos-type=3D"dnd_area">  <div id=3D"section_1599473726662" class=3D"h=
+se-section hse-section-first" style=3D"padding-left:10px; padding-right:10p=
+x">
+   =20
+   =20
+    <!--[if !((mso)|(IE))]><!-- -->
+      <div class=3D"hse-column-container" style=3D"min-width:280px; max-wid=
+th:600px; width:100%; Margin-left:auto; Margin-right:auto; border-collapse:=
+collapse; border-spacing:0">
+    <!--<![endif]-->
+   =20
+    <!--[if (mso)|(IE)]>
+      <div class=3D"hse-column-container" style=3D"min-width:280px;max-widt=
+h:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:colla=
+pse;border-spacing:0;">
+      <table align=3D"center" style=3D"border-collapse:collapse;mso-table-l=
+space:0pt;mso-table-rspace:0pt;width:600px;" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation">
+      <tr>
+    <![endif]-->
+    <!--[if (mso)|(IE)]>
+  <td valign=3D"top" style=3D"width:600px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role=3D"presentation" width=3D"600" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0pt;mso-table-rsp=
+ace:0pt;width:600px">
+<![endif]-->
+<div id=3D"column_1599473726662_0" class=3D"hse-column hse-size-12">
+  <div id=3D"hs_cos_wrapper_module_159947372665911" class=3D"hs_cos_wrapper=
+ hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inherit;=
+ font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"wid=
+get" data-hs-cos-type=3D"module">
+<div style=3D"overflow:hidden">
+<table role=3D"presentation" class=3D"hse-pre-header hse-secondary" width=
+=3D"100%" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing:0 !im=
+portant; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0=
+pt; text-align:right; font-family:Arial, sans-serif; font-size:12px; line-h=
+eight:135%; color:#23496d; margin-bottom:0; padding:0" align=3D"right">
+    <tbody>
+        <tr>
+            <td align=3D"right" valign=3D"top" style=3D"border-collapse:col=
+lapse; mso-line-height-rule:exactly; color:#23496d; word-break:break-word; =
+text-align:right; font-family:Arial, sans-serif; font-size:12px; padding:10=
+px 0; margin-bottom:0; line-height:135%">
+                <a href=3D"https://hs-5558946.t.hubspotemail.net/e2t/tc/VXd=
+40K70RLhyW12zn9d7hHFkWW7vv0b_4glRt_MwF3V75nxJcV3Zsc37CgBtKMgGwPYp5jLxW4d8DW=
+32DlLFkW41VZ_21BwZ2-W7HB6Vz6q-_gmM_n0RFrq32NV8M89T33BlH6W2_ydS-7kGDPNN5d6Yx=
+p4FpqGW5hBPZd2S8MXZW1YypzT6tynnVW6XNj0m1NYm_zW1PGVz5672TQqW74Xjdr5d1l00N3QK=
+RkDskvp1Vrj6Ng6M818fW47Qz_R8ry-K7W14VHBt4DkT_PVN82db7tbMmvW8DqsLs6sfm8jW90n=
+KJB577mHTW8vvS9x4J4xHRW7kK9j_6wD0lVW8HJQtW3XVPnzW5PnBq38GzTbyW6-8J1k3WZJ2vW=
+20lrPJ1jGW97VwsjpB6M0rMFW3hvlw15hS7rQW1F1xHX72DfsWW9kvGlS1tD2n_N3CqKwTpRbnd=
+V6LJ2G7SJ7JmW1xKLwX1QrwQDW2c-CrK2cH9w_W6V-Dbq974rptW3JV-Pf4BBz7JVwm5j68FBSr=
+sW22vLcy3dYvXYN6KgsqgCCty0W7ftrz78WrY0CVvvx7F4pkX-7W9dC8qd7j69t-W7rhRff2KJD=
+-pW8tn9vr8QZZY9W6rpZLh94G_bxW1WTdFq1VfC2H3qdD1" style=3D"mso-line-height-ru=
+le:exactly; color:#00a4bd; font-weight:normal; text-decoration:underline; f=
+ont-style:normal" data-hs-link-id=3D"0" target=3D"_blank">View in browser</=
+a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+    </div>
+  =20
+  </div>
+  <div id=3D"builtin_section-0" class=3D"hse-section" style=3D"padding-left=
+:10px; padding-right:10px">
+   =20
+   =20
+    <!--[if !((mso)|(IE))]><!-- -->
+      <div class=3D"hse-column-container" style=3D"min-width:280px; max-wid=
+th:600px; width:100%; Margin-left:auto; Margin-right:auto; border-collapse:=
+collapse; border-spacing:0; background-color:#ffffff" bgcolor=3D"#ffffff">
+    <!--<![endif]-->
+   =20
+    <!--[if (mso)|(IE)]>
+      <div class=3D"hse-column-container" style=3D"min-width:280px;max-widt=
+h:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:colla=
+pse;border-spacing:0;">
+      <table align=3D"center" style=3D"border-collapse:collapse;mso-table-l=
+space:0pt;mso-table-rspace:0pt;width:600px;" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" width=3D"600" bgcolor=3D"#ffffff">
+      <tr style=3D"background-color:#ffffff;">
+    <![endif]-->
+    <!--[if (mso)|(IE)]>
+  <td valign=3D"top" style=3D"width:600px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role=3D"presentation" width=3D"600" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0pt;mso-table-rsp=
+ace:0pt;width:600px">
+<![endif]-->
+<div id=3D"builtin_column_0-0" class=3D"hse-column hse-size-12">
+  <div id=3D"hs_cos_wrapper_module_15707028145151" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inherit; =
+font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widg=
+et" data-hs-cos-type=3D"module">
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">
+    <style type=3D"text/css">
+      @media (max-width: 600px) {=20
+       .desc{
+          margin-left: 0 !important;
+          margin-right: 0 !important;
+              }
+      }
+     =20
+   @media all and (max-width: 600px) {=20
+       .desc{
+          margin-left: 0 !important;
+          margin-right: 0 !important;
+              }
+      }
+    =20
+  </style>
+    =20
+=09
+=09
+=09
+ =20
+    <div style=3D"height: 100%; width: 100%; background-color: #F8F9F9; pad=
+ding-bottom: 32px;" id=3D"welcome-email">
+  <div class=3D"blue-background" style=3D"background-color: #072654; height=
+: 120px; text-align: center;">
+    <img class=3D"rzp-logo" src=3D"https://lp.razorpay.com/hubfs/assets/raz=
+orpay-logo-white1.png" style=3D"outline:none; text-decoration:none; -ms-int=
+erpolation-mode:bicubic; width:125px; height:auto; padding-top:16px; paddin=
+g-bottom:16px; margin-left:auto; margin-right:auto" ; width=3D"125" height=
+=3D"auto">
+    <div class=3D"top-text-container" style=3D"width: 75%; max-width: 460px=
+;
+                                    border-top-left-radius: 2px;
+                                    border-top-right-radius: 2px;=09
+                                    background-color: #FFFFFF;
+                                    margin-left: auto;
+                                    margin-top: -20;
+                                    margin-bottom: 10px;
+                                    margin-right: auto;
+                                    padding: 24px 24px 0 24px">
+      <div class=3D"img-container" style=3D"text-align: center;">
+        <img src=3D"https://hs-5558946.f.hubspotemail.net/hubfs/5558946/ass=
+ets/rocket.png" style=3D"outline:none; text-decoration:none; -ms-interpolat=
+ion-mode:bicubic; width:62px; height:54px; margin:0; position:relative; tex=
+t-align:center" width=3D"62" height=3D"54" align=3D"center">               =
+                                            =20
+    </div>
+    </div>
+  </div>
+  <div class=3D"text-container" style=3D"width: 75%; max-width: 460px;=09bo=
+rder-radius: 2px;=09background-color: #FFFFFF; margin-left: auto; margin-ri=
+ght: auto; margin-top: 12px; padding: 5px 30px 20px 20px">
+    <h2 style=3D"margin:0; mso-line-height-rule:exactly; height:24px; color=
+:#0D2366; font-family:&quot;Trebuchet MS&quot;; font-size:18px; font-weight=
+:bold; line-height:24px; margin-top:10px; text-align:center" height=3D"24" =
+align=3D"center">
+      Welcome aboard Razorpay!
+    </h2>
+    <p class=3D"desc" style=3D"mso-line-height-rule:exactly; color:#646D8B;=
+ font-family:&quot;Trebuchet MS&quot;; font-size:14px; line-height:20px; te=
+xt-align:left; padding-top:0px; margin-top:10px; margin-left:0px; margin-ri=
+ght:0px" align=3D"left">
+      </p><p style=3D"mso-line-height-rule:exactly; font-size:14px; line-he=
+ight:150%"><span style=3D"font-family: Tahoma, sans-serif;">Hey MANOJ KUMAR=
+ MISHRA, <br><br>We have your business details, but we need a bit more to a=
+ctivate your account.</span></p><br><p style=3D"mso-line-height-rule:exactl=
+y; font-size:14px; line-height:150%"><span style=3D"font-family: Tahoma, sa=
+ns-serif;">Just enter your billing label &amp; business category to start a=
+ccepting payments.</span></p><br><p style=3D"mso-line-height-rule:exactly; =
+color:#53b562; line-height:150%; font-size:14px; text-align:left" align=3D"=
+left"><span style=3D"font-family: 'Trebuchet MS', sans-serif;"><span style=
+=3D"color: #23496d;">P.S. Start accepting payments before 30th Sep to unloc=
+k a special</span> <strong>1.85% lifetime slashed pricing + accept payments=
+ worth =E2=82=B91 lakh for free of cost </strong>=F0=9F=8E=81</span></p><br=
+><p style=3D"mso-line-height-rule:exactly"></p>
+    <a style=3D"mso-line-height-rule:exactly; color:#FFFFFF; text-decoratio=
+n:none" href=3D"https://hs-5558946.t.hubspotemail.net/e2t/tc/VXd40K70RLhyW1=
+2zn9d7hHFkWW7vv0b_4glRt_MwF3Ty3p_9rV1-WJV7CgCT7W4JL6637yQcGyW86jHsk9dHlbnVh=
+1Zw85wJ60CW5WY4Nd2N2nFmW16qS-j23qmSRW1_SWnv6Z7FyVW294jN34DKM0mW9lyfRp1dM3gN=
+W17P3Bd8n89w9VKmcvr4g8TTyW3KDf2341TvkbW3NlgV53vg2JyW5b0gBK3G2qmJT2JNd7-g0Jv=
+VR-SCz4vvPShW5q-xXT4bJ68VW2X4WH26h4YQmW5V0kQY4h84RDW2QH4b62crf5zW6NGsGn6r55=
+F3MzfbNjx5zqyN3-65n2thgVJN82jT2yW9W7bW3xXW0q5gd7B5W2YlqFL99WS42N65JTMWbcMNw=
+32D01" data-hs-link-id=3D"0" target=3D"_blank">
+=09=09=09<div class=3D"button" style=3D"border-radius: 2px;=09
+=09=09=09=09=09=09=09=09=09background-color: #528FF0;
+=09=09=09=09=09=09=09=09=09color: #FFFFFF;=09
+=09=09=09=09=09=09=09=09=09font-family: &quot;Trebuchet MS&quot;;=09
+=09=09=09=09=09=09=09=09=09font-size: 14px;=09
+=09=09=09=09=09=09=09=09=09font-weight: bold;=09
+=09=09=09=09=09=09=09=09=09line-height: 20px;=09
+=09=09=09=09=09=09=09=09=09text-align: center;
+=09=09=09=09=09=09=09=09=09padding: 10px 24px;
+=09=09=09=09=09=09=09=09=09width: fit-content;
+=09=09=09=09=09=09=09=09=09margin: auto;
+=09=09=09=09=09=09=09=09=09margin-bottom: 20px;">
+=09=09=09=09Start Accepting Payments
+=09=09=09</div>
+    </a>
+  </div>
+  <div class=3D"text-container author-container" style=3D"width: 75%; max-w=
+idth: 460px;=09border-radius: 2px;=09background-color: #FFFFFF; margin-left=
+: auto; margin-right: auto; margin-top: 12px; padding: 1px 24px 16px 24px;"=
+>
+    <div style=3D"padding-top: 16px;margin: auto;width: 240px;">
+      <img src=3D"https://hs-5558946.f.hubspotemail.net/hubfs/5558946/ac35f=
+80f-8483-4d7f-893f-4a34e7c2c4ca-2.png" style=3D"outline:none; text-decorati=
+on:none; -ms-interpolation-mode:bicubic; height:48px; width:48px; border-ra=
+dius:50%; vertical-align:top; display:inline-block" height=3D"48" width=3D"=
+48">       =20
+      <div class=3D"author" style=3D"display: inline-block; text-align: lef=
+t; max-width: 175px; padding-left: 12px">
+        <div style=3D"color: #646D8B;=09font-family: &quot;Trebuchet MS&quo=
+t;;=09font-size: 12px;=09font-weight: bold;=09line-height: 20px;">
+          Jyotika Agarwal
+        </div>
+        <div style=3D"color: #7B8199;=09font-family: &quot;Trebuchet MS&quo=
+t;;=09font-size: 12px;=09line-height: 18px;">Customer Onboarding Specialist=
+ </div>
+      </div>
+    </div>
+  </div>
+ =20
+  <div style=3D"text-align: center; color: #646D8B; max-width: 215px;margin=
+-left: auto; margin-right: auto; margin-top: 18px; font-family: &quot;Trebu=
+chet MS&quot;;=09font-size: 12px;line-height: 18px;=09text-align: center;=
+=09">
+    If you face any issues while integrating, feel free to  =20
+    <span><a href=3D"https://hs-5558946.t.hubspotemail.net/e2t/tc/VXd40K70R=
+LhyW12zn9d7hHFkWW7vv0b_4glRt_MwF3Tf3p_97V1-WJV7CgYT2W7H5sCf1MnF8BW6X1Xjm1dP=
+mklW8XzvrD9lMxZ4W1gKR_X1K13JdW8t1T3Q6L1WQgW1bTZ-59bQRBmN92k9nPxp6DdW2dMnkZ8=
+cT0kcW6j6RCh5dMThfW3B-npS7ZxNcXW5vvBX11pn4pFW32pHLp6SFBJ1VkSgpp5RdQj2W8MsV0=
+L5g-z93N7L763mVv3qfW8bkPQD6nFT-dW6F3VpK4kX1KNW6NXBqG6x5sHYW8N-c0G8WgJxDW2GH=
+Bp16HNGHxW14QlYF4KtXc7W4dMlQr6fGGXsW2ZWg6H6bPxwKN3q_xMVT5Bqp3hJT1" style=3D=
+"mso-line-height-rule:exactly; color:#528FF0; text-decoration:none; margin:=
+0" data-hs-link-id=3D"0" target=3D"_blank">Contact us</a></span>
+<div>
+        <a href=3D"https://hs-5558946.t.hubspotemail.net/e2t/tc/VXd40K70RLh=
+yW12zn9d7hHFkWW7vv0b_4glRt_MwF3Tf3p_97V1-WJV7CgBjSW4zm_9W3DXywBW6YC3MM2l9j0=
+XW4B0FZ66dbZpBW1n7gk-2qw7jGN8rlKJx4C1rXW3MtqBG4cGRB1W4ZFD9y96rsXjVNGshz81f1=
+3gW2-Qt5n45-jl3N53LR4JFgTV1W3FFYxG68DfW2W3Z_wjY207YKpW5mfnlQ36VqnvV_qMC85HV=
+5lTV-CFNc9brqQ-W2SHnQJ2lbYybW40dDvH4_Zm6-N2XMrJQk046dW2fLM532qW9YvW6QpXh_8Z=
+jJXpW7S4mv31tFddJN3Fs30SXt_gdW9bbS9z2XG_4LW8YlFgz6N0ZQJ3kpv1" style=3D"colo=
+r:#00a4bd; mso-line-height-rule:exactly" data-hs-link-id=3D"0" target=3D"_b=
+lank"><img src=3D"https://hs-5558946.f.hubspotemail.net/hubfs/5558946/asset=
+s/facebook.png" style=3D"outline:none; text-decoration:none; -ms-interpolat=
+ion-mode:bicubic; border:none; display:inline-block; width:20px; height:20p=
+x; border-radius:1.2px; margin-top:12px; margin-right:12px" width=3D"20" he=
+ight=3D"20"></a>
+       <a href=3D"https://hs-5558946.t.hubspotemail.net/e2t/tc/VXd40K70RLhy=
+W12zn9d7hHFkWW7vv0b_4glRt_MwF3Tf3p_97V1-WJV7CgFjvVgwxZ-5208FJW51GzTV9cQmM3W=
+1kd5hJ9hBY9SW1twRs94tXMyQW6561FK4gSScbW23WmYw1ZtYg8N7xnxnCxyqB3W6-RGQs7LX_6=
+GW1WDQyc8vDN_wW96qppf1n1crVW7sQhbv1HNNPsW5sl3xd3TJzFMW7X1l3z4QdpbzW3-xMJz6S=
+vpKWW6_JgSQ6CX-bCW2-MmbK11FQdYVz-Pz264RphsW59d3Cy4QHKSCW6gLrkP7g01V3W2qWCm9=
+659K41W52vTcX3YkSsHN8SdZCGtw987W8SDmfG1kDV11W3Hg2P14wx9BL3lmz1" style=3D"co=
+lor:#00a4bd; mso-line-height-rule:exactly" data-hs-link-id=3D"0" target=3D"=
+_blank"><img src=3D"https://hs-5558946.f.hubspotemail.net/hubfs/5558946/ass=
+ets/twitter.png" style=3D"outline:none; text-decoration:none; -ms-interpola=
+tion-mode:bicubic; border:none; display:inline-block; width:20px; height:20=
+px; border-radius:1.2px; margin-top:12px; margin-right:12px" width=3D"20" h=
+eight=3D"20"></a>
+       <a href=3D"https://hs-5558946.t.hubspotemail.net/e2t/tc/VXd40K70RLhy=
+W12zn9d7hHFkWW7vv0b_4glRt_MwF3Tf3p_97V1-WJV7CgVHmW5cHYW59lJkXNW82J4nc2T3b_b=
+W88cYN88KGSC5W5Q_91K4SQyw6W4ZQCmM2D2MYpW8HvgjP7MFnsMW5YPlTw1Wf1_fW2MBPhf28r=
+H_-W7yCY9j8Drc4SVbszp94WLdMFW7CW-Zh6jJ82HW4PScpn6N-MZRW7g2b1j5DsgBWN8BTd2MS=
+jjL4V4W2WQ6cp7dkN2rQ_Srd3bG2W7w56bv5y72v6W5Lc21c8mL2_3W3jz5m27czch_W5wTqd38=
+bYZTvW19B8f16G3R_QW1tpgGq4BxRlnW7xgl7c3cjnDKW3cg82v8SvSkr24w1" style=3D"col=
+or:#00a4bd; mso-line-height-rule:exactly" data-hs-link-id=3D"0" target=3D"_=
+blank"><img src=3D"https://hs-5558946.f.hubspotemail.net/hubfs/5558946/asse=
+ts/github.png" style=3D"outline:none; text-decoration:none; -ms-interpolati=
+on-mode:bicubic; border:none; display:inline-block; width:20px; height:20px=
+; border-radius:1.2px; margin-top:12px; margin-right:12px" width=3D"20" hei=
+ght=3D"20"></a>
+      </div>
+  </div>
+</div>
+   =20
+ =20
+ =20
+ =20
+ =20
+ =20
+</div>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+    </div>
+  =20
+  </div>
+  <div id=3D"builtin_section-1" class=3D"hse-section hse-section-last" styl=
+e=3D"padding-left:10px; padding-right:10px; padding-bottom:20px">
+   =20
+   =20
+    <!--[if !((mso)|(IE))]><!-- -->
+      <div class=3D"hse-column-container" style=3D"min-width:280px; max-wid=
+th:600px; width:100%; Margin-left:auto; Margin-right:auto; border-collapse:=
+collapse; border-spacing:0">
+    <!--<![endif]-->
+   =20
+    <!--[if (mso)|(IE)]>
+      <div class=3D"hse-column-container" style=3D"min-width:280px;max-widt=
+h:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:colla=
+pse;border-spacing:0;">
+      <table align=3D"center" style=3D"border-collapse:collapse;mso-table-l=
+space:0pt;mso-table-rspace:0pt;width:600px;" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation">
+      <tr>
+    <![endif]-->
+    <!--[if (mso)|(IE)]>
+  <td valign=3D"top" style=3D"width:600px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role=3D"presentation" width=3D"600" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0pt;mso-table-rsp=
+ace:0pt;width:600px">
+<![endif]-->
+<div id=3D"builtin_column_1-0" class=3D"hse-column hse-size-12">
+  <div id=3D"hs_cos_wrapper_footer_module" class=3D"hs_cos_wrapper hs_cos_w=
+rapper_widget hs_cos_wrapper_type_module" style=3D"color: inherit; font-siz=
+e: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widget" data=
+-hs-cos-type=3D"module">
+ =20
+ =20
+ =20
+ =20
+ =20
+ =20
+ =20
+<table role=3D"presentation" class=3D"hse-footer hse-secondary" width=3D"10=
+0%" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing:0 !importan=
+t; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; fo=
+nt-family:Arial, sans-serif; font-size:12px; line-height:135%; color:#23496=
+d; margin-bottom:0; padding:0">
+    <tbody>
+        <tr>
+            <td align=3D"center" valign=3D"top" style=3D"border-collapse:co=
+llapse; mso-line-height-rule:exactly; font-family:Arial, sans-serif; font-s=
+ize:15px; color:#23496d; word-break:break-word; text-align:center; margin-b=
+ottom:0; line-height:135%; padding:10px 20px">
+                <p style=3D"mso-line-height-rule:exactly; font-family:Arial=
+, sans-serif; font-size:12px; font-weight:normal; text-decoration:none; fon=
+t-style:normal; color:#23496d">
+                  Razorpay, Hosur Road, Bengaluru, Karnataka
+                </p>
+                <p style=3D"mso-line-height-rule:exactly">
+                 =20
+                  <a data-unsubscribe=3D"true"  href=3D"https://hs-5558946.=
+s.hubspotemail.net/hs/manage-preferences/unsubscribe-all?d=3DVnchcR639-pdVF=
+rjJq3K984HW3zd-fZ3z7rYZW43T2Pf7DCB1CW17f7hv7xrGcRW94_D1X6crkwTW4Y2gNk7VFPTq=
+V28Ns254bxyjMGKd_P20N4DW51gpxF55Pb8sVfXrR95HkgWs517LrC1&amp;v=3D3&amp;utm_c=
+ampaign=3DSignup%20to%20Activation&amp;utm_source=3Dhs_automation&amp;utm_m=
+edium=3Demail&amp;utm_content=3D94718297&amp;_hsenc=3Dp2ANqtz-_aIslra_RCBlK=
+P50SqDZ9wOlgaeGevk7kkonXCBpLCk5tfnhfgdlzODAQAk6uOZKF8KQteuzt3-rvJOfr8BT9FsA=
+3-8g&amp;_hsmi=3D94718297" style=3D"mso-line-height-rule:exactly; font-fami=
+ly:Helvetica,Arial,sans-serif; font-size:12px; color:#00a4bd; font-weight:n=
+ormal; text-decoration:underline; font-style:normal" data-hs-link-id=3D"0" =
+target=3D"_blank">Unsubscribe</a>
+                 =20
+                  <a data-unsubscribe=3D"true"  href=3D"https://hs-5558946.=
+s.hubspotemail.net/hs/manage-preferences/unsubscribe?d=3DVnchcR639-pdVFrjJq=
+3K984HW3zd-fZ3z7rYZW43T2Pf7DCB1CW17f7hv7xrGcRW94_D1X6crkwTW4Y2gNk7VFPTqV28N=
+s254bxyjMGKd_P20N4DW51gpxF55Pb8sVfXrR95HkgWs517LrC1&amp;v=3D3&amp;utm_campa=
+ign=3DSignup%20to%20Activation&amp;utm_source=3Dhs_automation&amp;utm_mediu=
+m=3Demail&amp;utm_content=3D94718297&amp;_hsenc=3Dp2ANqtz-_aIslra_RCBlKP50S=
+qDZ9wOlgaeGevk7kkonXCBpLCk5tfnhfgdlzODAQAk6uOZKF8KQteuzt3-rvJOfr8BT9FsA3-8g=
+&amp;_hsmi=3D94718297" style=3D"mso-line-height-rule:exactly; font-family:H=
+elvetica,Arial,sans-serif; font-size:12px; color:#00a4bd; font-weight:norma=
+l; text-decoration:underline; font-style:normal" data-hs-link-id=3D"0" targ=
+et=3D"_blank">Manage preferences</a>
+                 =20
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+    </div>
+  =20
+  </div>
+</div>
+          </td>
+        </tr>
+      </tbody></table>
+    </div>
+ =20
+<img src=3D"https://hs-5558946.t.hubspotemail.net/e2t/to/VXd40K70RLhyW12zn9=
+d7hHFkWW7vv0b_4glRt_dwF3C_22" alt=3D"" width=3D"1" height=3D"1" border=3D"0=
+" style=3D"display:none!important;min-height:1px!important;width:1px!import=
+ant;border-width:0!important;margin-top:0!important;margin-bottom:0!importa=
+nt;margin-right:0!important;margin-left:0!important;padding-top:0!important=
+;padding-bottom:0!important;padding-right:0!important;padding-left:0!import=
+ant"></body></html>
+------=_Part_622871_1448864807.1600930364354--
+

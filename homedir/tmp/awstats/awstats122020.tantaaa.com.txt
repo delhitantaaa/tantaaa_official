@@ -1,0 +1,417 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 202012 will be lost/reset.
+# Last config file used to build this data file was /home2/delhitantaa/tmp/awstats/awstats.tantaaa.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2686                
+POS_VISITOR 8020                
+POS_DAY 10663               
+POS_DOMAIN 3447                
+POS_LOGIN 3801                
+POS_ROBOT 3956                
+POS_WORMS 4303                
+POS_EMAILSENDER 4434                
+POS_EMAILRECEIVER 4577                
+POS_SESSION 11256               
+POS_SIDER 11457               
+POS_FILETYPES 4712                
+POS_DOWNLOADS 4955                
+POS_OS 5003                
+POS_BROWSER 5181                
+POS_SCREENSIZE 5671                
+POS_UNKNOWNREFERER 5745                
+POS_UNKNOWNREFERERBROWSER 6077                
+POS_ORIGIN 6295                
+POS_SEREFERRALS 6432                
+POS_PAGEREFS 6576                
+POS_SEARCHWORDS 6724                
+POS_KEYWORDS 6876                
+POS_MISC 2350                
+POS_ERRORS 6935                
+POS_CLUSTER 3657                
+POS_SIDER_404 7101                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210101131149 2 125 10065960086933
+FirstTime 20201201000522
+LastTime 20201229225259
+LastUpdate 20210101190511 2 0 1 0 0
+TotalVisits 68                  
+TotalUnique 62                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 64                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 39 99 2277807 8 66 332074
+1 0 0 0 6 11 18933
+2 1 1 77160 7 11 20800
+3 1 1 12834 7 10 15976
+4 0 0 0 5 7 9182
+5 3 3 118686 11 15 21953
+6 0 0 0 5 6 1911
+7 15 16 117314 13 30 53256
+8 46 232 4555167 20 61 298641
+9 4 4 50283 13 16 16870
+10 18 44 526458 7 23 21851
+11 56 254 6755206 40 87 241497
+12 8 77 276172 47 55 160281
+13 58 158 3323256 14 33 28649
+14 85 220 4674597 13 74 78094
+15 1 1 12834 6 19 180455
+16 29 98 2676054 11 21 28225
+17 303 764 16183804 12 80 99685
+18 44 178 4678838 19 42 66460
+19 13 69 2242354 11 23 20071
+20 27 165 5408218 12 35 30521
+21 0 0 0 27 30 162686
+22 20 146 4730430 4 20 26820
+23 32 40 1469955 28 52 72677
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+in 482 1662 37201392
+ca 252 717 16299464
+ma 29 98 2676054
+gb 23 76 3198175
+us 8 8 77112
+zz 5 5 385025
+cn 2 2 211580
+eu 1 1 12835
+id 1 1 105790
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+Googlebot/ 42 354079 20201220002141 0
+bot[\s_+:,\.\;\/\\-] 41 559878 20201229160805 0
+Googlebot\-Image/ 13 330485 20201204153534 0
+facebookexternalhit/ 6 73088 20201211031711 0
+LinkedInBot/ 1 12835 20201204232739 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 425 3299673 0 0
+html 78 1558672 0 0
+png 362 16933351 0 0
+jpeg 422 26201848 0 0
+jpg 58 947695 0 0
+woff2 54 2780112 0 0
+xml 3 146 0 0
+js 500 6306302 0 0
+Unknown 668 2139628 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+linuxandroid 1065 298
+Unknown 81 27
+win7 313 175
+win10 996 258
+win2003 2 2
+win8.1 102 33
+macosx10 1 1
+linux 10 9
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 20
+chrome79.0.3945.136 75 12
+chrome68.0.3440.75 3 3
+opera53.0.2907.68 1 1
+firefox59.0 1 1
+chrome83.0.4103.106 85 19
+firefox83.0 160 36
+chrome44.0.2403.157 4 4
+chrome85.0.4183.101 604 212
+chrome81.0.4044.138 79 15
+firefox40.1 1 1
+chrome87.0.4280.101 72 10
+chrome67.0.3396.87 4 4
+Unknown 8 7
+chrome86.0.4240.198 154 34
+msie6.0 2 2
+chrome87.0.4280.88 917 368
+chrome87.0.4280.66 325 52
+chrome56.0.2924.87 1 1
+chrome45.0.2454.94 1 1
+mozilla 73 20
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20201229105108
+axios/0.18.0 20201201233430
+WhatsApp/2.20.202.24_A 20201209080312
+Mozilla/5.0_(compatible;_ips-agent) 20201221071144
+Mozilla/5.0_(compatible;_Dataprovider.com) 20201212170628
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+WhatsApp/2.20.202.24_A 20201209080312
+axios/0.18.0 20201201233430
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20201229105108
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 90 92
+From1 1 1
+From2 0 0
+From3 0 0
+From4 712 2477
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+419 29 1711
+302 32 9883
+206 2 42798
+403 2 2278
+301 101 61083
+404 403 509671
+500 153 49779
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 15
+/wp-login.php 4 -
+/public/frontend/js/bootstrap-tagsinput.min.js.map 1 -
+/public/frontend/images/placeholder-rect.jpg 87 http://www.tantaaa.com/
+/public/frontend/images/placeholder.jpg 177 http://www.tantaaa.com/
+/public/img/favicon.png 1 http://www.tantaaa.com/admin/login
+/public/frontend/js/vendor/bootstrap.min.js.map 1 -
+/public/uploads/sliders/NCv47fHKnhVOljpkXik5KgIHCleEbbpzcweNOIhl.jpeg 80 http://www.tantaaa.com/
+/about-us 2 -
+/public/frontend/css/bootstrap.min.css.map 1 -
+/ads.txt 4 -
+/humans.txt 1 -
+/admin/login 1 -
+/contact 1 -
+/public/frontend/js/vendor/popper.min.js.map 1 -
+/robots.txt 41 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 64
+103.95.81.110 124 194 2764885 20201209180010
+47.31.43.197 60 98 1733977 20201219175217
+122.162.107.170 49 118 2679224 20201209132543
+47.31.21.31 41 77 1080405 20201219175216
+42.111.32.196 36 160 4153823 20201208184625
+45.248.2.2 29 98 2676054 20201201164911
+27.100.13.251 27 87 2158339 20201201000630
+47.30.164.177 26 27 136600 20201206142732
+42.111.34.214 22 100 426631 20201211174741
+103.106.23.250 21 89 2660409 20201226144947
+42.111.27.178 20 89 188633 20201210143025
+47.8.171.20 19 85 1790531 20201226143038
+47.31.222.101 17 18 206344 20201203113402
+42.111.27.10 17 75 43920 20201209081535
+42.111.26.239 16 19 528421 20201211174259
+47.31.209.212 16 153 5313995 20201202204946
+103.98.189.176 15 79 2218065 20201208080319
+47.31.199.137 14 15 104480 20201204075841
+223.225.67.19 14 78 2293182 20201209080312
+51.222.41.44 13 13 1040075 20201212170608
+42.111.2.30 12 71 2062028 20201216224632
+47.31.223.108 12 38 498983 20201203104254
+42.111.24.226 12 62 1637796 20201211115912
+42.111.8.92 11 20 303070 20201220113316
+1.38.45.197 10 72 2281660 20201226175246
+1.38.50.45 7 9 511979 20201219231448
+42.111.35.81 1 1 12491 20201217190122
+107.178.231.243 1 1 12834 20201214030307
+47.31.194.171 5 5 14641 20201203203814
+1.38.48.190 7 60 1779400 20201229171117
+81.22.44.128 3 3 229806 20201219232816
+49.40.64.148 4 4 212484 20201202235941
+42.111.4.124 1 1 12482 20201218205426
+47.31.213.174 3 13 511680 20201201180548
+110.225.87.139 7 67 2099844 20201209115045
+178.62.91.140 1 1 12835 20201225183048
+47.31.212.204 5 10 194567 20201201133403
+42.111.35.12 7 76 2673019 20201216205452
+42.111.37.207 1 1 12482 20201218091156
+39.76.221.2 1 1 105790 20201221051608
+167.99.45.141 1 1 62 20201226052537
+1.38.53.87 2 2 24965 20201224110108
+112.228.40.236 1 1 105790 20201219122329
+1.38.49.157 10 11 461675 20201225200209
+1.38.52.13 7 62 1782825 20201224194329
+35.203.252.148 1 1 12834 20201209054212
+127.0.0.1 5 5 385025 20201219232859
+47.31.201.157 10 10 70611 20201203142601
+64.202.160.110 1 1 42 20201201233430
+42.111.0.54 0 26 447660 
+107.178.237.12 1 1 12835 20201229105108
+107.178.200.206 1 1 12837 20201204091007
+110.136.216.37 1 1 105790 20201229225259
+47.30.200.56 7 58 1603126 20201201113951
+47.30.200.121 10 10 29252 20201201001311
+64.246.165.160 1 1 12834 20201210151803
+1.38.52.130 5 7 94228 20201225231137
+47.30.183.110 0 26 447660 
+42.111.3.246 2 2 24964 20201216093645
+47.31.203.224 7 74 2562612 20201201224201
+72.13.62.25 1 1 12834 20201221071144
+42.111.68.237 5 6 447041 20201221114001
+51.77.246.200 7 60 1928294 20201212170627
+42.111.15.6 10 14 203767 20201224235240
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 22
+20201201 90 352 9812832 9
+20201202 19 156 5449319 4
+20201203 44 71 790579 4
+20201204 15 16 117317 2
+20201206 26 27 136600 1
+20201208 51 239 6371888 2
+20201209 212 533 9893889 6
+20201210 21 90 201467 4
+20201211 50 181 2592848 4
+20201212 20 73 2968369 2
+20201214 1 1 12834 1
+20201215 0 52 895320 0
+20201216 21 149 4760011 3
+20201217 1 1 12491 1
+20201218 2 2 24964 2
+20201219 117 193 4046982 6
+20201220 11 20 303070 1
+20201221 7 8 565665 3
+20201224 19 78 2011557 3
+20201225 16 19 568738 3
+20201226 51 247 6732662 4
+20201229 9 62 1898025 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+30mn-1h 1
+5mn-15mn 7
+15mn-30mn 1
+2mn-5mn 4
+30s-2mn 12
+0s-30s 43
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 27
+/category/nav-element-list 306 47552 0 6
+/ 78 1558672 53 12
+/home/section/featured 71 20590 1 0
+/home/section/best_sellers 71 1420 1 12
+/home/section/best_selling 71 75118 0 4
+/home/section/home_categories 71 31027 0 11
+/public/frontend/fonts/line-awesome.woff2 28 1082592 2 2
+/public/frontend/fonts/fontawesome-webfont.woff2 26 1697520 1 2
+/users/login 17 711971 1 5
+/search 16 333330 1 3
+/cpanel 7 87384 5 5
+/sellerpolicy 5 51083 0 0
+/supportpolicy 5 112435 0 0
+/product/Fresho-Pomegranate-4-pcs-approx-720-to-800-gmFresho-Pomegranate-4-pcs-approx-720-to-800-gm-UhmiT 4 56412 0 0
+/categories 4 126304 0 1
+/returnpolicy 4 42939 0 1
+/product/variant_price 3 192 0 1
+/language 3 60 0 0
+/sitemap.xml 3 146 2 2
+/privacypolicy 3 108661 0 1
+/cart 1 79353 0 0
+/brands 1 10347 0 0
+/terms 1 79086 0 0
+/track_your_order 1 73473 0 0
+/currency 1 20 0 0
+/users/registration 1 78679 1 0
+/products 1 12192 0 0
+END_SIDER

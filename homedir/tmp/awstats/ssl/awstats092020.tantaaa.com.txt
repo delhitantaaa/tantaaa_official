@@ -1,0 +1,916 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 202009 will be lost/reset.
+# Last config file used to build this data file was /home/delhitantaa/tmp/awstats/ssl/awstats.tantaaa.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2015                
+POS_TIME 2695                
+POS_VISITOR 11645               
+POS_DAY 18648               
+POS_DOMAIN 3611                
+POS_LOGIN 4089                
+POS_ROBOT 4244                
+POS_WORMS 4777                
+POS_EMAILSENDER 4908                
+POS_EMAILRECEIVER 5051                
+POS_SESSION 19361               
+POS_SIDER 19572               
+POS_FILETYPES 5186                
+POS_DOWNLOADS 5568                
+POS_OS 5697                
+POS_BROWSER 5974                
+POS_SCREENSIZE 7004                
+POS_UNKNOWNREFERER 7078                
+POS_UNKNOWNREFERERBROWSER 7698                
+POS_ORIGIN 8177                
+POS_SEREFERRALS 8321                
+POS_PAGEREFS 8522                
+POS_SEARCHWORDS 8718                
+POS_KEYWORDS 8870                
+POS_MISC 2358                
+POS_ERRORS 8929                
+POS_CLUSTER 3945                
+POS_SIDER_404 9090                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20201001000108 85 20977 15075570518251
+FirstTime 20200904194625
+LastTime 20200930215943
+LastUpdate 20201001210201 85 0 84 0 0
+TotalVisits 175                 
+TotalUnique 154                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 174                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 15 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 14 128 4201878 871 874 1459590
+1 533 683 6136383 1 9 49938
+2 2 13 245699 3 5 111463
+3 2 2 0 221 707 26897466
+4 4 4 18214 0 2 13745
+5 7 50 1564381 12 14 401461
+6 14 21 515762 11 11 130778
+7 2 2 1341 9 12 176858
+8 1271 1409 5765106 16 93 1071190
+9 4826 5415 29148048 26 65 941018
+10 1548 1862 11394515 18 36 913866
+11 3005 3777 28711792 17 19 227194
+12 9050 9793 26457003 270 515 8730682
+13 6943 7351 14980535 20 25 204875
+14 5651 5871 4390697 7 7 131472
+15 4152 4208 2112116 9 12 268321
+16 2894 2938 2136215 25 27 710839
+17 4258 4879 21770758 24 25 331890
+18 2908 3497 26622933 15 122 2463987
+19 7559 8221 22246385 51 163 4083473
+20 3312 4397 32262251 2628 2695 2027508
+21 4088 4725 21583782 2892 2936 929987
+22 3967 4687 23440927 2887 2887 246625
+23 1005 1689 19512377 2908 2940 2041337
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 16
+np 28550 29020 19475115
+ca 26286 29199 115673366
+in 11951 15939 126680218
+us 129 1032 32481246
+se 58 143 2382058
+ip 9 29 899018
+ie 8 116 3675484
+gb 7 116 3349309
+de 5 5 0
+eu 5 5 91532
+cn 2 2 36652
+fr 1 1 18386
+ua 1 1 105479
+es 1 12 227487
+tr 1 1 18269
+au 1 1 105479
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+crawl 705 26906553 20200930032102 1
+Googlebot/ 213 3173549 20200930011950 11
+facebookexternalhit/ 173 3060258 20200930000732 0
+bingpreview 168 5692567 20200929125407 0
+Dalvik/ 116 3675373 20200929125427 0
+link 113 3657008 20200928195940 0
+Googlebot\-Image/ 46 1335471 20200930233447 0
+bot[\s_+:,\.\;\/\\-] 14 1306617 20200930160007 0
+bingbot/ 11 123762 20200917185741 4
+unknown 1 24 20200924103222 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 16
+json 4 65029 0 0
+html 342 6923973 0 0
+env 1 16222 0 0
+jpeg 11 164025 0 0
+woff2 325 55587792 0 0
+txt 2 32416 0 0
+csv 2 1510 0 0
+jpg 3988 123439254 0 0
+woff 19 1991339 0 0
+Unknown 66215 16878404 0 0
+php 88 318729 0 0
+gif 89 2346582 0 0
+js 1476 21878647 0 0
+png 1965 63649064 0 0
+css 1074 9838720 0 0
+ttf 21 2087392 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/assets/product-csv-format.csv 2 0 1510
+/ads.txt 1 0 16209
+/humans.txt 1 0 16207
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+winlong 5 5
+macosx9 2 2
+macosx 931 551
+win10 69693 65275
+Unknown 126 39
+macosx8 2 2
+win7 242 27
+macosx12 1 1
+macosx5 1 1
+linuxandroid 4155 901
+ios_iphone 235 18
+macosx10 1 1
+winxp 4 4
+macosx11 1 1
+linux 223 187
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 42
+safari12.1.2 118 11
+msie6.0 2 2
+chrome71.0.3578.141 270 43
+chrome35.0.1916.47 2 2
+chrome84.0.4147.125 113 7
+chrome57.0.2987.108 148 9
+chrome40.0.2214.93 1 1
+chrome80.0.3987.122 1 1
+chrome70.0.3538.80 172 42
+mozilla 5 5
+chrome83.0.4103.101 369 25
+msie11.0 2 2
+firefox81.0 72 6
+chrome41.0.2224.3 1 1
+chrome75.0.3770.143 141 8
+chrome79.0.3945.88 1 1
+chrome85.0.4183.127 244 20
+chrome36.0.1985.67 1 1
+chrome41.0.2227.0 2 2
+chrome85.0.4183.102 53913 50956
+chrome61.0.3163.79 1 1
+chrome47.0.2526.83 3 3
+firefox15.0.1 1 1
+safari14.0 117 7
+chrome84.0.4147.105 1 1
+chrome85.0.4183.121 14717 13973
+chrome51.0.2704.84 1 1
+chrome81.0.4044.138 266 38
+chrome84.0.4147.111 159 24
+firefox80.0 1215 767
+chrome84.0.4143.7 470 38
+chrome85.0.4183.101 523 89
+chrome26.0.1410.65 2 2
+Unknown 122 35
+chrome62.0.3202.84 168 19
+chrome69.0.3497.100 1 1
+chrome40.0.2214.85 5 5
+chrome34.0.1847.116 5 5
+chrome71.0.3578.98 13 2
+chrome83.0.4103.106 1547 735
+chrome85.0.4183.83 424 58
+chrome84.0.4147.135 283 65
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 13
+colly_-_https://github.com/gocolly/colly/v2 20200926231826
+WhatsApp/2.20.195.15_A 20200920064452
+WhatsApp/2.20.197.20_A 20200919230611
+Go-http-client/1.1 20200922113949
+Go-http-client/2.0 20200926231830
+facebookexternalua 20200929101207
+python-requests/2.18.4 20200924174104
+\ 20200926222742
+Scrapy/1.7.2_(_https://scrapy.org) 20200923125747
+cortex/1.0 20200929125430
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20200908014716
+Mozilla/5.0_(compatible;_ips-agent) 20200928173614
+adreview/1.0 20200929125500
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 11
+adreview/1.0 20200929125500
+cortex/1.0 20200929125430
+Scrapy/1.7.2_(_https://scrapy.org) 20200923125747
+\ 20200926222742
+python-requests/2.18.4 20200924174104
+Go-http-client/1.1 20200922113949
+facebookexternalua 20200929101207
+Go-http-client/2.0 20200926231830
+WhatsApp/2.20.195.15_A 20200920064452
+WhatsApp/2.20.197.20_A 20200919230611
+colly_-_https://github.com/gocolly/colly/v2 20200926231826
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 256 353
+From1 5 5
+From2 13 13
+From3 8 8
+From4 66733 75243
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+www_google_co_in 1 1
+www_google_com 11 11
+google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://l.wl.co 4 4
+https://l.instagram.com 4 4
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+302 217 45792
+206 50 2244533
+404 176 2629188
+500 116 7027
+401 12064 579072
+301 1 617
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 47
+/assets/images/1600923873Logopit_1600919421368.png 2 https://tantaaa.com/category/fashion-and-Beauty/accessories
+/images/bg01.jpg 4 http://www.tantaaa.com/
+/assets/admin/css/croppie.min.css.map 1 -
+/fonts/font-awesome-4.7.0/css/font-awesome.min.css 5 http://www.tantaaa.com/
+/assets/admin/css/bootstrap-colorpicker.css.map 1 -
+/assets/images/1599041891TAntaaa.png 3 https://tantaaa.com/user/login
+/vendor/countdowntime/moment-timezone.min.js 8 http://www.tantaaa.com/
+/assets/admin/css/bootstrap.min.css.map 1 -
+/vendor/bootstrap/js/popper.js 4 http://www.tantaaa.com/
+/app/.env 1 -
+/vendor/countdowntime/countdowntime.js 6 http://www.tantaaa.com/
+/vendor/countdowntime/moment.min.js 9 http://www.tantaaa.com/
+/vendor/select2/select2.min.css 6 http://www.tantaaa.com/
+/laravel/.env 1 -
+/assets/admin/plugins/fullside-menu/waves.min.js.map 1 -
+/config/.env 1 -
+/robots.txt 4 -
+/assets/front/js/popper.min.js.map 6 -
+/vendor/countdowntime/moment-timezone-with-data.min.js 7 http://www.tantaaa.com/
+/vendor/bootstrap/js/bootstrap.min.js 7 http://www.tantaaa.com/
+/vendor/bootstrap/css/bootstrap.min.css 5 http://www.tantaaa.com/
+/vendor/countdowntime/flipclock.css 5 http://www.tantaaa.com/
+/vendor/animate/animate.css 5 http://www.tantaaa.com/
+/v1/.env 1 -
+/assets/images/1599041907Logopit_1598671350327.png 1 https://tantaaa.com/
+/assets/front/css/bootstrap.min.css.map 2 -
+/apps/.env 1 -
+/.well-known/assetlinks.json 2 -
+/assets/front/js/bootstrap.min.js.map 6 -
+/vendor/countdowntime/flipclock.min.js 9 http://www.tantaaa.com/
+/admin/pickup/delete/6 7 https://tantaaa.com/admin/pickup
+/public/.env 1 -
+/vendor/jquery/jquery-3.2.1.min.js 4 http://www.tantaaa.com/
+/demo/demo/PHPMailer/smtp.php 1 -
+/admin/.env 1 -
+/css/main.css 5 http://www.tantaaa.com/
+/vendor/tilt/tilt.jquery.min.js 5 http://www.tantaaa.com/
+/assets/admin/js/vendors/bootstrap.min.js.map 1 -
+/vendor/select2/select2.min.js 8 http://www.tantaaa.com/
+/assets/front/js/toastr.js.map 6 -
+/css/util.css 5 http://www.tantaaa.com/
+/admin/currency/delete/9 3 https://tantaaa.com/admin/currency
+/js/main.js 5 http://www.tantaaa.com/
+/assets/images/1599041893TAntaaa.png 3 https://tantaaa.com/user/login
+/core/.env 1 -
+/images/icons/logo.png 4 http://www.tantaaa.com/
+/ADMIN/LOGIN 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 174
+27.34.68.212 9913 10039 3685509 20200919222637
+120.89.103.176 9027 9027 189567 20200922224026
+47.31.215.159 7036 7051 2256580 20200929182625
+106.207.35.32 6220 6609 12342576 20200915133814
+47.31.199.245 4694 4918 11386323 20200921194717
+47.31.194.234 4174 4277 10185332 20200922095857
+47.31.180.105 3999 4151 11945191 20200924122043
+120.89.102.51 3795 3872 6287370 20200919125254
+120.89.102.203 2555 2555 53655 20200919142534
+47.31.217.169 2242 2357 2327724 20200926225235
+106.207.10.112 2181 2334 6434396 20200922193537
+120.89.102.251 1656 1716 2932026 20200922174515
+106.207.54.82 1591 2006 14457223 20200919230611
+27.34.20.103 1536 1536 32256 20200919132629
+47.31.214.244 1456 1467 1205800 20200922201926
+47.31.244.107 1098 1462 13153371 20200919222436
+103.80.54.59 756 1158 15464017 20200921191007
+47.31.213.172 656 706 1616481 20200929115157
+103.61.113.10 522 565 2341489 20200922012348
+114.31.132.9 355 377 2313054 20200919231036
+47.31.180.142 325 405 3041234 20200924000219
+47.31.235.178 307 422 3102021 20200919230652
+114.31.128.5 84 184 3785599 20200920132037
+27.34.69.107 47 47 987 20200922193221
+80.251.202.6 46 69 895845 20200919231017
+66.102.8.87 3 18 1207597 20200924111641
+49.33.191.202 9 110 3493219 20200925135128
+45.125.155.141 9 122 4139848 20200930005628
+199.244.88.132 1 1 18384 20200919110656
+47.30.176.89 3 4 563299 20200921092257
+47.9.179.60 35 59 1040715 20200920091755
+66.249.82.137 10 138 4816805 20200924093113
+173.252.127.11 0 1 8316 
+31.13.115.4 3 26 533988 20200929125451
+54.149.216.11 1 1 18212 20200927021135
+120.89.103.217 0 1 116251 
+47.31.214.29 6 8 604685 20200925222340
+31.13.115.116 0 17 372450 
+106.198.172.203 3 4 41442 20200923174241
+47.9.171.100 9 120 3518008 20200919214258
+47.8.130.167 7 113 3804364 20200924122455
+173.252.127.23 0 1 142983 
+138.197.141.201 1 1 0 20200911033602
+106.198.155.9 12 121 3691600 20200922201857
+103.224.54.83 25 238 7332457 20200923001758
+47.31.171.131 14 20 185405 20200924231330
+31.13.115.119 1 20 689159 20200929125426
+112.79.89.232 11 122 1248679 20200927230513
+106.198.234.42 2 68 201582 20200929103457
+47.9.88.9 7 106 3322793 20200924111532
+208.80.194.41 2 2 106820 20200917101613
+46.45.185.163 1 1 18269 20200929223102
+69.171.249.28 1 1 18286 20200929125500
+47.9.183.26 2 5 595227 20200912113945
+114.31.132.122 0 1 161047 
+223.176.18.100 3 90 878118 20200918115617
+45.118.166.13 13 124 4069225 20200924132206
+18.217.223.118 1 1 105835 20200922201033
+173.252.127.26 0 1 199498 
+47.31.241.154 13 21 361217 20200920090012
+114.31.128.4 2 8 42631 20200921210222
+14.98.209.222 8 114 3805733 20200926173825
+178.136.123.39 1 1 105479 20200918200020
+47.29.106.223 6 26 861945 20200906123708
+47.8.148.187 3 8 621129 20200921191001
+173.252.87.16 1 1 18280 20200929125435
+106.198.187.157 10 121 3535750 20200920090528
+54.92.197.123 1 1 18214 20200928043456
+54.219.221.180 1 1 105813 20200924101452
+47.31.220.97 2 4 24999 20200928234453
+112.79.156.230 11 118 1971380 20200922204543
+157.47.227.118 8 141 3776693 20200919230709
+47.8.122.168 7 107 3668773 20200921204343
+47.31.157.128 9 116 3682629 20200930011507
+47.31.236.255 13 20 497376 20200920064706
+69.171.249.117 1 1 18282 20200929125423
+47.8.162.59 23 142 3720829 20200920211112
+47.9.169.150 6 14 504437 20200922155958
+47.9.187.135 10 200 3756844 20200922200621
+47.8.234.139 5 8 675328 20200909125310
+112.79.82.14 9 54 400795 20200927230216
+47.31.220.34 1 2 6774 20200927084431
+47.31.223.129 5 12 621634 20200927214620
+144.48.39.114 17 129 3207991 20200929112118
+31.13.115.13 2 18 526635 20200929125435
+173.252.127.17 0 1 10261 
+27.60.193.159 2 69 679164 20200915201420
+27.34.69.84 0 1 116251 
+81.40.154.154 1 12 227487 20200922020122
+35.245.188.175 1 1 105835 20200922201033
+157.34.34.101 12 51 482849 20200922195643
+66.249.82.138 9 117 3434587 20200924093108
+47.31.167.104 4 5 581271 20200920165751
+66.102.8.86 1 17 122252 20200924111640
+47.8.164.41 7 117 3510155 20200915201453
+27.34.69.247 1 1 0 20200907143008
+173.252.127.119 0 1 98174 
+47.9.101.193 1 11 408282 20200924193159
+198.27.85.233 1 1 105479 20200920091621
+173.252.95.23 2 2 0 20200929101207
+157.43.9.249 2 22 326649 20200906095129
+173.252.127.116 0 1 137116 
+31.13.115.22 0 15 589413 
+173.252.127.117 0 1 10261 
+223.223.137.45 7 113 3587616 20200922195313
+66.102.8.85 2 14 415536 20200924111641
+114.31.132.246 7 114 3384415 20200919225348
+173.252.127.9 0 1 10261 
+31.13.115.12 2 20 963839 20200929125427
+47.9.103.239 18 140 4253234 20200921185720
+2401:4900:3b08:8ef0:39a2:3cca:c8e7:6289 9 29 899018 20200909190712
+66.249.81.33 4 40 1324275 20200924103215
+157.43.26.187 3 5 47183 20200906122131
+207.244.230.205 4 5 387315 20200926231826
+173.252.87.22 0 1 10798 
+195.154.191.98 1 1 18386 20200918090244
+114.31.132.174 8 140 3533867 20200919230150
+96.21.0.4 7 116 3349283 20200920085758
+72.13.46.6 3 3 53316 20200928173614
+223.196.116.106 6 49 1546113 20200924050251
+66.249.81.62 3 38 1811356 20200924103233
+66.249.81.36 4 41 1290824 20200924103232
+47.31.189.182 2 3 25375 20200923173519
+192.241.150.153 1 1 18213 20200928001343
+106.198.171.186 1 59 90565 20200929103623
+43.247.158.77 12 135 4374338 20200921211412
+161.35.175.63 1 1 16222 20200924174104
+192.71.3.26 0 2 32416 
+104.131.182.73 1 1 5395 20200908014716
+157.39.51.165 7 113 3787365 20200924171850
+47.31.131.152 13 127 3853384 20200930114557
+47.9.167.24 12 126 4059273 20200922144108
+47.31.196.255 3 4 563242 20200923105157
+114.67.87.60 2 2 36652 20200922113949
+173.252.127.2 0 2 24278 
+138.197.147.71 1 1 0 20200911033556
+80.248.225.154 11 71 1435469 20200923125646
+47.31.38.149 1 1 56548 20200914180758
+27.34.20.89 6 59 735312 20200930200234
+182.64.126.241 24 159 5037738 20200923234517
+47.8.233.254 5 25 860639 20200904194650
+54.171.146.133 1 1 18268 20200930052433
+47.31.202.185 3 5 32463 20200921171531
+62.255.45.135 7 116 3349309 20200919231041
+66.249.82.139 8 96 3906655 20200924093057
+159.203.63.239 1 1 0 20200912041747
+47.31.238.129 6 8 67937 20200920083921
+47.31.163.205 4 6 50746 20200924211112
+173.252.127.14 0 1 51747 
+192.71.225.127 1 1 18328 20200922102835
+27.60.206.81 2 66 984730 20200918193647
+183.87.109.83 7 113 3587560 20200922201439
+138.246.253.15 5 5 0 20200925075221
+35.224.79.247 1 1 1341 20200909000620
+173.252.127.5 0 1 110354 
+138.197.148.89 1 1 0 20200912041747
+47.9.177.175 7 25 287144 20200919215920
+106.211.186.154 2 3 25432 20200920174228
+106.198.237.234 8 21 334346 20200924174737
+47.31.219.124 4 9 512339 20200921222448
+27.34.68.73 8 116 3526036 20200923203906
+27.34.69.31 5 49 1798990 20200924104333
+120.89.103.14 1 1 905 20200905231442
+118.127.15.84 1 1 105479 20200918132711
+27.60.199.30 22 137 3575104 20200906123730
+54.245.165.64 1 1 105479 20200918174832
+67.227.32.121 1 1 18386 20200918063309
+173.252.87.17 0 1 10798 
+3.81.245.94 5 5 529090 20200926222742
+47.31.13.191 2 19 0 20200913200441
+173.252.127.10 0 1 10798 
+47.30.169.103 13 120 238105 20200928155927
+106.210.4.82 7 113 3787370 20200926181743
+178.62.74.6 5 5 91532 20200930215943
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 26
+20200904 5 25 860639 1
+20200905 1 1 905 1
+20200906 33 190 4810881 4
+20200907 1 1 0 1
+20200908 1 1 5395 1
+20200909 26 95 2935479 4
+20200910 2 2 1341 2
+20200911 4 4 0 4
+20200912 4 7 595227 3
+20200913 2 19 0 1
+20200914 1 1 56548 1
+20200915 6229 6795 16531895 3
+20200917 2 2 105479 2
+20200918 11 162 2322506 8
+20200919 21301 23199 66824088 20
+20200920 199 681 17177337 12
+20200921 5444 6289 36103629 10
+20200922 19172 20547 52986021 23
+20200923 375 760 13662262 9
+20200924 4119 5287 49730117 24
+20200925 16 120 4214155 3
+20200926 2262 2591 10527629 5
+20200927 27 191 2296094 5
+20200928 20 129 352847 5
+20200929 7715 8093 10597651 16
+20200930 43 430 12520973 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 5
+30mn-1h 9
+30s-2mn 26
+0s-30s 103
+5mn-15mn 10
+1h+ 12
+2mn-5mn 10
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 308
+/admin/user/notf/count 15443 323751 1 2
+/admin/product/notf/count 15437 323667 1 4
+/admin/order/notf/count 15436 323642 3 2
+/admin/conv/notf/count 15432 323541 2 7
+/admin/login 2472 3308067 7 5
+/vendor/products/catalogs 387 4162624 0 0
+/ 339 6922163 130 47
+/extras 274 1440547 5 54
+/admin 196 1344261 0 0
+/admin/forgot 157 189045 0 0
+/vendor/order/notf/count/29 136 2835 0 0
+/assets/front/css/styles.php 80 307211 4 5
+/admin/general-settings/update/all 73 3968 0 0
+/assets/front/fonts/icofont.woff2 70 33491176 0 3
+/assets/front/fonts/fa-brands-400.woff2 65 4329184 1 2
+/assets/front/fonts/fa-regular-400.woff2 65 892320 3 1
+/assets/front/fonts/fa-solid-900.woff2 64 4627484 2 3
+/user/login 46 638353 1 3
+/vendor/dashboard 20 162270 0 0
+/admin/conv/notf/show 19 2223 0 0
+/admin/page-settings/contact 17 85427 0 0
+/assets/admin/fonts/icofont.woff2 17 9134272 1 0
+/assets/admin/webfonts/fa-regular-400.woff2 15 203880 0 0
+/assets/admin/webfonts/fa-solid-900.woff2 15 1115220 0 0
+/admin/general-settings/logo 13 57807 0 0
+/admin/order/2/show 1 6916 0 0
+/category/smart-phone-and-table/samsung 1 18020 0 0
+/category/electric/television/led-tv 1 18918 0 1
+/blog/25 2 37765 0 0
+/category/electric/air-conditioners 1 18347 0 0
+/autosearch/product/Mo 1 20 0 0
+/admin/general-settings/maintain/1 1 20 0 0
+/item/license-key-title-will-be-here-according-to-your-wish-1-bbb114jm9 3 61929 0 0
+/admin/verificatons 1 5659 0 0
+/admin/role/datatables 4 1932 0 0
+/autosearch/product/eli 1 302 0 0
+/admin/general-settings/talkto/0 1 20 0 0
+/admin/partner/datatables 5 2001 0 0
+/admin/orders/datatables/completed 2 132 0 0
+/item/digital-product-title-will-be-here-by-name-109-ext109m9m 1 21095 0 1
+/demo/assets/front/fonts/fa-brands-400.woff2 1 74288 0 0
+/admin/page-settings/best-seller 1 4532 0 0
+/user/affilate/withdraw 1 16604 0 0
+/admin/load/subcategories/17 1 76 0 0
+/admin/user/29/show 1 4964 0 0
+/admin/general-settings/email-verify/1 2 40 0 0
+/admin/currency/delete/4 1 48 0 0
+/user/forgot 4 31980 0 0
+/admin/orders/datatables/processing 5 8361 0 0
+/admin/general-settings/contact/1 5 100 0 0
+/admin/pickup/delete/6 1 48 0 0
+/order/track/34567tsvbhj567 1 67 0 0
+/admin/orders/completed 2 10437 0 0
+/admin/subscribers 3 12897 0 0
+/admin/general-settings/loader/1 2 40 0 0
+/admin/paymentgateway/datatables 2 841 0 0
+/admin/general-settings/footer 3 13624 0 0
+/admin/users 3 14879 0 0
+/admin/blog 1 4845 0 0
+/blog/18 2 37727 0 0
+/admin/password 1 4329 0 0
+/admin/verificatons/show 1 141 0 0
+/admin/products/import/datatables 2 7334 0 0
+/admin/orders 3 15985 0 0
+/admin/general-settings/contact/0 5 100 0 0
+/admin/general-settings/favicon 12 50713 0 0
+/admin/general-settings/maintain/0 1 20 0 0
+/admin/orders/datatables/pending 7 26105 0 0
+/admin/orders/declined 1 5260 0 0
+/admin/product/notf/show 2 258 0 0
+/admin/products/popular/30 3 14373 0 0
+/admin/vendor/verify/29 1 711 0 0
+/category 1 17595 0 0
+/demo/assets/front/fonts/fa-regular-400.woff2 1 14872 0 0
+/admin/products/physical/create 4 31107 0 0
+/admin/user/default/image 1 4434 0 0
+/admin/general-settings/popup/0 1 20 0 0
+/admin/subscription 4 19377 0 0
+/admin/products/import 8 35350 0 0
+/item/license-key-title-will-be-here-according-to-your-wish-1-sct112k8z 1 20451 0 0
+/admin/general-settings/admin/loader/1 1 20 0 0
+/autosearch/product/Mobiles 2 40 0 0
+/admin/coupon/datatables 5 3280 0 0
+/admin/order/track/delete/1 1 48 0 0
+/admin/products/import/index 2 11917 0 0
+/item/physical-product-title-title-will-be-here-100-qqz100nzi 1 22063 0 1
+/admin/vendors/withdraws 2 9768 0 0
+/item/elite-24-elite-hd-led-tv-dn600d-oo42939gas 1 22193 0 0
+/admin/products/license/create 1 6998 0 0
+/blog/archive/July%202018 1 16694 0 0
+/category/electric/television/lcd-tv 1 20367 0 0
+/vendor/products/catalog/datatables 1 3567 0 0
+/item/top-rated-product-title-will-be-here-according-to-your-wish-96-rdk96x5b 1 21586 0 0
+/admin/users/datatables 3 4705 0 0
+/admin/order/track/delete/29 1 48 0 0
+/category/toys-and-hobbies 1 17775 0 0
+/admin/products/import/create 1 7974 0 0
+/admin/seotools/analytics 1 4313 0 0
+/asset-manifest.json 4 65029 0 2
+/admin/general-settings/loader 11 49417 0 0
+/admin/profile/update 8 440 0 0
+/carts 6 102592 0 0
+/demo/smtp.php 5 3360 0 0
+/removecart/125000000 1 21 0 0
+/admin/messages/datatables/Ticket 2 674 0 0
+/admin/service 4 19744 0 0
+/admin/general-settings/affilate 5 22956 0 0
+/user/favorite/seller 1 16921 0 0
+/admin/staff/create 1 1019 0 0
+/admin/banner/datatables/TopSmall 1 371 0 0
+/admin/vendors/status/29/2 1 52 0 0
+/admin/slider/datatables 3 1769 0 0
+/category/camera-and-photo 1 17678 0 0
+/admin/check/movescript 1 0 0 0
+/vendor/withdraw 4 36540 0 0
+/item/zain-digital-agency-auu-no66517sjq 5 110728 0 0
+/admin/adminlanguages/delete/2 1 48 0 0
+/item/zain-digital-agency-and-startup-html-template-toc5844n0t 1 21309 0 0
+/category/fashion-and-Beauty/clothings 1 18048 0 0
+/admin/languages/create 2 47987 0 0
+/admin/blog/category/datatables 1 460 0 0
+/admin/faq 1 4926 0 0
+/fonts/Poppins/Poppins-Bold.ttf 7 863944 2 2
+/admin/order/update/1 1 50 0 0
+/admin/products/deactive 1 5985 0 0
+/item/physical-product-title-title-will-be-here-99-mf56823djs 1 21186 0 0
+/admin/category 1 4967 0 0
+/store/Tantaaa-Shopping-Store 2 35942 0 0
+/cpanel 8 102511 0 1
+/admin/partner/delete/4 1 48 0 0
+/terms 2 35774 0 0
+/demo/assets/front/fonts/icofont.woff2 1 537868 0 0
+/admin/products/deactive/datatables 2 3651 0 0
+/admin/staff 4 19354 0 0
+/admin/vendor/color 1 4319 0 0
+/blog/archive/June%202018 1 16691 0 0
+/admin/banner/datatables/BottomSmall 1 393 0 0
+/admin/partner/delete/6 1 48 0 0
+/admin/verificatons/datatables/all 1 564 0 0
+/.env 1 16222 1 1
+/category/fashion-and-Beauty/accessories 4 78475 2 1
+/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2 8 475912 1 1
+/unprotected/loader.html 3 1810 2 2
+/vendor/products/types 1 8940 0 0
+/category/Outdoor-Recreation-and-Fitness 3 18044 0 0
+/admin/vendor/edit/27 1 965 0 0
+/admin/large/banner 1 4864 0 0
+/admin/slider 3 14447 0 0
+/admin/order/1/track 1 1339 0 0
+/admin/payment-informations 3 18528 0 0
+/user/profile 1 20577 0 0
+/admin/currency/edit/1 1 768 0 0
+/assets/front/css/rtl/styles.php 1 3892 0 0
+/admin/banner/datatables/Large 1 337 0 0
+/admin/email-templates/datatables 3 2118 0 0
+/admin/password/update 1 55 0 0
+/admin/orders/datatables/declined 1 2738 0 0
+/contact 13 203568 1 2
+/admin/load/childcategories/9 1 65 0 0
+/admin/partner 2 9682 0 0
+/item/physical-product-title-title-will-be-here-102-pr607jsv 1 21639 0 0
+/admin/subscription/datatables 3 1845 0 0
+/category/automobiles-and-motorcycles 4 72131 1 2
+/autosearch/product/shoe 1 256 0 0
+/demo/PHPMailer/smtp.php 1 0 0 1
+/autosearch/product/Mob 1 20 0 0
+/admin/general-settings/contents 6 34316 0 0
+/admin/getattributes 4 333 0 0
+/admin/order/1/show 3 20759 0 1
+/autosearch/product/elite%20 1 302 0 0
+/autosearch/product/sho 1 256 0 0
+/item/top-rated-product-title-will-be-here-according-to-your-wish-125-lbp125hto 1 21209 0 0
+/autosearch/product/elit 1 302 0 0
+/item/digital-product-title-will-be-here-by-name-105-xpt105lfz 1 20921 0 0
+/blog/22 2 37755 0 0
+/admin/pickup 5 23697 0 0
+/admin/vendors/datatables 6 8584 0 0
+/admin/vendors/withdraws/datatables 2 132 0 0
+/subscriber/store 1 53 0 0
+/checkout 4 98951 0 0
+/admin/pickup/datatables 11 3600 0 0
+/admin/products/datatables 10 39803 0 0
+/admin/service/edit/2 2 1023 0 0
+/admin/staff/show/5 1 485 0 0
+/assets/front/fonts/fa-regular-400.woff 4 54492 0 0
+/admin/bottom/small/banner 1 4879 0 0
+/admin/products/catalogs 2 11769 0 0
+/blog 3 50241 0 1
+/admin/currency/datatables 13 5002 0 0
+/admin/currency/delete/6 1 48 0 0
+/admin/currency 3 14818 0 0
+/user/dashboard 8 132172 1 0
+/admin/shipping/datatables 3 1034 0 0
+/admin/user/notf/show 3 657 0 0
+/admin/general-settings/home/1 1 20 0 0
+/admin/orders/pending 5 26151 0 0
+/admin/order/2/invoice 1 4847 0 0
+/admin/products/digital/create 1 6777 0 0
+/admin/currency/delete/9 1 48 0 0
+/categories 7 115028 0 0
+/admin/orders/processing 5 26215 0 0
+/item/top-rated-product-title-will-be-here-according-to-your-wish-102-rgr128igz 1 21587 0 0
+/admin/pickup/edit/3 2 709 0 0
+/under-maintenance 5 1014 0 0
+/admin/shipping 4 14800 0 0
+/admin/service/edit/4 2 1023 0 0
+/admin/subscribers/datatables 2 300 0 0
+/checkout/payment/paypal/0 4 712 0 0
+/admin/paymentgateway 2 9685 0 0
+/blog/17 1 18883 0 1
+/admin/message/1 1 4440 0 0
+/admin/staff/datatables 4 2218 0 0
+/admin/generate/backup 3 13039 0 0
+/store/Test-Stores 4 78302 0 0
+/blog/archive/August%202018 1 16756 0 0
+/admin/general-settings/popup 2 9330 0 0
+/admin/activation 10 34425 0 0
+/contact/refresh_code 13 312 0 0
+/admin/products/status/176/0 2 40 0 0
+/admin/coupon 6 24362 0 0
+/admin/partner/delete/5 1 48 0 0
+/admin/order/edit/2 1 847 0 0
+/autosearch/product/Mobil 1 20 0 0
+/user/affilate/code 1 17145 0 0
+/item/physical-product-title-title-will-be-here-101-8e1101lbq 2 42960 0 0
+/admin/products/store 1 115 0 0
+/admin/package 1 4869 0 0
+/admin/users/withdraws 2 9723 0 0
+/user/messages 1 17632 0 0
+/demo/assets/front/fonts/fa-solid-900.woff2 1 79100 0 0
+/admin/top/small/banner 1 4878 0 0
+/admin/page-settings/customize 5 23040 0 0
+/privacy 1 18037 0 0
+/admin/tickets 2 10049 0 0
+/admin/general-settings/talkto/1 1 20 0 0
+/admin/category/datatables 1 1089 0 0
+/autosearch/product/M 1 20 0 0
+/fonts/Poppins/Poppins-Regular.ttf 7 884160 0 2
+/admin/vendors 3 16500 0 0
+/admin/package/datatables 1 351 0 0
+/admin/profile 9 40585 0 0
+/autosearch/product/e 1 20 0 0
+/autosearch/product/Mobile 1 20 0 0
+/autosearch/product/elite 1 302 0 0
+/autosearch/product/sh 1 256 0 0
+/assets/vendor/webfonts/fa-solid-900.woff2 1 74348 0 0
+/about 9 160990 0 1
+/autosearch/product/el 1 302 0 0
+/admin/pickup/edit/5 4 1422 0 0
+/blog/archive/May%202018 1 16692 0 0
+/category/electric 4 79318 0 1
+/admin/users/withdraws/datatables 2 132 0 0
+/assets/front/fonts/icofont.woff 6 1369031 0 2
+/autosearch/product/s 1 20 0 0
+/category/electric/television 1 18536 0 0
+/item/compare/view 3 48216 0 1
+/admin/languages/delete/2 1 48 0 0
+/admin/order/update/2 1 50 0 0
+/assets/front/fonts/fa-solid-900.woff 4 306672 0 1
+/admin/products/status/176/1 1 20 0 0
+/category/fashion-and-Beauty 7 120452 1 0
+/admin/role 4 18549 0 0
+/category/Home-decoration-and-Appliance 1 17990 0 0
+/admin/general-settings/faq/0 1 20 0 0
+/item/shoes-qmp72605ge 1 20427 0 0
+/admin/products 7 42095 0 0
+/admin/load/subcategories/5 1 183 0 0
+/blog/archive/January%202019 1 16847 0 0
+/admin/products/types 4 15932 0 0
+/assets/front/fonts/fa-brands-400.woff 5 261144 0 0
+/autosearch/product/Mobi 1 20 0 0
+/user/register 5 340 0 0
+/admin/email-config 2 9137 0 0
+/fonts/Aldrich/Aldrich-Regular.ttf 7 339288 1 4
+/assets/vendor/fonts/icofont.woff2 1 537868 0 0
+/user/package 2 33948 0 0
+/admin/adminlanguages/datatables 2 652 0 0
+/admin/pickup/edit/2 2 711 0 0
+/admin/pickup/edit/4 2 709 0 0
+/admin/orders/datatables/none 3 14013 0 0
+/admin/faq/datatables 1 607 0 0
+/admin/order/notf/show 2 228 0 0
+/demo/assets/front/css/styles.php 1 4266 1 0
+/admin/gallery/show 1 23 0 0
+/admin/currency/update/8 1 48 0 0
+/faq 2 32790 0 0
+/item/affiliate-product-title-will-be-here-affiliate-product-title-will-be-here-1-pr495jsv 4 84362 0 1
+/admin/email-templates 3 14276 0 0
+/item/top-rated-product-title-will-be-here-according-to-your-wish-123-0af12392v 2 43224 0 1
+/admin/products/catalogs/datatables 2 8668 0 0
+/category/smart-phone-and-table 4 53417 0 1
+/admin/adminlanguages 1 4675 0 0
+/admin/social/google 1 4661 0 0
+/admin/general-settings/maintenance 3 13527 0 0
+/admin/blog/datatables 1 2608 0 0
+/category/smart-phone-and-table/apple 2 35849 0 1
+/admin/order/edit/1 1 847 0 0
+/admin/currency/status/8/1 6 288 0 0
+/admin/languages 4 19092 0 0
+/admin/load/childcategories/8 1 65 0 0
+/item/digital-product-title-will-be-here-by-name-106-iq4106dr3 1 20722 0 0
+/admin/service/datatables 6 3154 0 0
+/admin/blog/category 1 4838 0 0
+/category/sport-and-Outdoor 1 18393 0 0
+/admin/general-settings/loader/0 1 20 0 0
+/admin/languages/datatables 5 1474 0 0
+/admin/currency/edit/8 1 782 0 0
+/category/portable-and-personal-electronics 1 18528 0 0
+END_SIDER

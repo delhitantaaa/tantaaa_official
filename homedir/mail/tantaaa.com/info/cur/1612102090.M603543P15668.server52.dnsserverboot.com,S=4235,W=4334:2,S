@@ -1,0 +1,99 @@
+Return-Path: <beingak8@gmail.com>
+Delivered-To: info@tantaaa.com
+Received: from server52.dnsserverboot.com
+	by server52.dnsserverboot.com with LMTP id wBjvI8q5FmA0PQAAKDZJLQ
+	for <info@tantaaa.com>; Sun, 31 Jan 2021 19:38:10 +0530
+Return-path: <beingak8@gmail.com>
+Envelope-to: info@tantaaa.com
+Delivery-date: Sun, 31 Jan 2021 19:38:10 +0530
+Received: from mail-wm1-f42.google.com ([209.85.128.42]:39305)
+	by server52.dnsserverboot.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89_1)
+	(envelope-from <beingak8@gmail.com>)
+	id 1l6DOc-000600-Hj
+	for info@tantaaa.com; Sun, 31 Jan 2021 19:38:10 +0530
+Received: by mail-wm1-f42.google.com with SMTP id u14so10933747wmq.4
+        for <info@tantaaa.com>; Sun, 31 Jan 2021 06:07:50 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20161025;
+        h=mime-version:references:in-reply-to:from:date:message-id:subject:to;
+        bh=enjUKlecoJdhv4M8cOB4oxtpTAT8bG57ciW/NCE/VqE=;
+        b=tccXQ9uRXmVp+ChAjTRs+dPHurHaJcfqZCGCq3al1f6tIPRodg7c+pdVKZmiBf67qm
+         5+8YUDQvAOcPC5eeX2j5dWq0Rt4M1jSceA8ZZvlhqSvQuQqa2YLXUmmL8pTaKGS5y1xQ
+         XvFXFjtKL2mofrNvbFLQy+zU7N5q7YSIq6qqsqSMjXZNMlrDKA+jmd2c/YBo0h5sHQft
+         o2nLsqBuV2YXdX+jwbsAAbzB3rF3Qji3IwKotME3rl+klTHgZnPQrYwVghBfC3mciI/B
+         wVAMc70Dqd7NLR/DIMOIOjq7dEUJJ7nBHY2L9xNxRub8Eamzn0jJuxd6BK3BMAbYzYR4
+         /Rhw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:references:in-reply-to:from:date
+         :message-id:subject:to;
+        bh=enjUKlecoJdhv4M8cOB4oxtpTAT8bG57ciW/NCE/VqE=;
+        b=A6iE3SpgIjojTy0INBjUNKD29SXnl3h6rJ/aZsYPa5KPzQCNiAt17qCR06Nu0HobmI
+         bmPO6jo8W8KUhSAI2WN2yr7gHfSHT5J8KDfDw6Qs6BnfCySoeufZHlasy9M9BY1nJmDg
+         JAnAoivjyRzbxueqCG0L95IliPzRwQCvtpntyqAGDWPNuvf7D2g5ziGLNjakG6K4SlTn
+         cD6DBt4n+LIM+PbJcI16ydv5nmOPi5ezv99IznxWqDj610IaTLjAQcDCkcjpFs1C4iCG
+         Q/fdQ3NFCBIgnn7Ib3J/cHIbWK2JzzYXAxvFVNEPZ8LtT1RX1tymwCUgyc0yEX2wxd3L
+         rMuQ==
+X-Gm-Message-State: AOAM530W/AG1BAwa1K2ZAtsk+YPNNMApcfd69JWlmiO/M9+AsH1GN5QF
+	dttSYxYxAlL0j2e6RBEH1Fx4wQSogTAArd1DmrubSGnr
+X-Google-Smtp-Source: ABdhPJz6o2E12TS/gVozImPu4h8ecpO+yFuFZ3PlJeGfFBTsLAPazcidTylF1rezPi2gEbddEjKgi7PvZFq5gSzR6kw=
+X-Received: by 2002:a1c:f70f:: with SMTP id v15mr11093537wmh.38.1612102049868;
+ Sun, 31 Jan 2021 06:07:29 -0800 (PST)
+MIME-Version: 1.0
+References: <75ba4c99a192b53ce33887671aeea5f1@tantaaa.com> <a5611cb08bc626933c4d44adecab2953@tantaaa.com>
+In-Reply-To: <a5611cb08bc626933c4d44adecab2953@tantaaa.com>
+From: An Kur <beingak8@gmail.com>
+Date: Sun, 31 Jan 2021 19:37:18 +0530
+Message-ID: <CAG2ptXVf1U8mO0KFwYCfGtnqk6_yN1m8OT=-_D+zvRc-25_T+g@mail.gmail.com>
+Subject: Re: Test Mail
+To: info@tantaaa.com
+Content-Type: multipart/alternative; boundary="000000000000062fa105ba32c299"
+
+--000000000000062fa105ba32c299
+Content-Type: text/plain; charset="UTF-8"
+
+Thanks for the mail.
+
+On Sun, 31 Jan, 2021, 7:36 pm TANTAAA, <info@tantaaa.com> wrote:
+
+>
+>
+> -------- Original Message --------
+> Subject: Test Mail
+> Date: 2021-01-31 19:34
+>  From: TANTAAA <info@tantaaa.com>
+> To: manojmishra98@gmail.com
+> Reply-To: info@tantaaa.com
+>
+> PFA
+>
+> PFA
+>
+
+--000000000000062fa105ba32c299
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"auto">Thanks for the mail.=C2=A0</div><br><div class=3D"gmail_q=
+uote"><div dir=3D"ltr" class=3D"gmail_attr">On Sun, 31 Jan, 2021, 7:36 pm T=
+ANTAAA, &lt;<a href=3D"mailto:info@tantaaa.com">info@tantaaa.com</a>&gt; wr=
+ote:<br></div><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;=
+border-left:1px #ccc solid;padding-left:1ex"><br>
+<br>
+-------- Original Message --------<br>
+Subject: Test Mail<br>
+Date: 2021-01-31 19:34<br>
+=C2=A0From: TANTAAA &lt;<a href=3D"mailto:info@tantaaa.com" target=3D"_blan=
+k" rel=3D"noreferrer">info@tantaaa.com</a>&gt;<br>
+To: <a href=3D"mailto:manojmishra98@gmail.com" target=3D"_blank" rel=3D"nor=
+eferrer">manojmishra98@gmail.com</a><br>
+Reply-To: <a href=3D"mailto:info@tantaaa.com" target=3D"_blank" rel=3D"nore=
+ferrer">info@tantaaa.com</a><br>
+<br>
+PFA<br>
+<br>
+PFA<br>
+</blockquote></div>
+
+--000000000000062fa105ba32c299--

@@ -1,0 +1,40 @@
+Return-Path: <rsh@tantaaa.com>
+Delivered-To: delhitantaa@server25.dnsserverboot.com
+Received: from server25.dnsserverboot.com
+	by server25.dnsserverboot.com with LMTP id IKCwEbTDWF8JcAAAwMDd9w
+	for <delhitantaa@server25.dnsserverboot.com>; Wed, 09 Sep 2020 17:29:48 +0530
+Return-path: <rsh@tantaaa.com>
+Envelope-to: info@tantaaa.com
+Delivery-date: Wed, 09 Sep 2020 17:29:48 +0530
+Received: from [142.54.161.34] (port=57824 helo=tantaaa.com)
+	by server25.dnsserverboot.com with esmtpsa (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89_1)
+	(envelope-from <rsh@tantaaa.com>)
+	id 1kFylQ-0007w6-5Q; Wed, 09 Sep 2020 17:29:48 +0530
+Date: Wed, 9 Sep 2020 11:59:48 +0000
+To: Joe User <skillvent@gmail.com>, sales@tantaaa.com
+From: Mailer <rsh@tantaaa.com>
+Reply-To: Information <skillvent@gmail.com>
+Subject: Here is the subject
+Message-ID: <yoNxvSH6piw7mvjev8Yd4KQgTBYugSzMnKWIbNJs@tantaaa.com>
+X-Mailer: PHPMailer 6.1.6 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_yoNxvSH6piw7mvjev8Yd4KQgTBYugSzMnKWIbNJs"
+Content-Transfer-Encoding: 8bit
+
+This is a multi-part message in MIME format.
+
+--b1_yoNxvSH6piw7mvjev8Yd4KQgTBYugSzMnKWIbNJs
+Content-Type: text/plain; charset=us-ascii
+
+This is the body in plain text for non-HTML mail clients
+
+--b1_yoNxvSH6piw7mvjev8Yd4KQgTBYugSzMnKWIbNJs
+Content-Type: text/html; charset=us-ascii
+
+This is the HTML message body <b>in bold!</b>
+
+
+--b1_yoNxvSH6piw7mvjev8Yd4KQgTBYugSzMnKWIbNJs--
+

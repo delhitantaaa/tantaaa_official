@@ -1,0 +1,75 @@
+Return-Path: <>
+Delivered-To: delhitantaa@server52.dnsserverboot.com
+Received: from server52.dnsserverboot.com
+	by server52.dnsserverboot.com with LMTP id yGIyIN0q518vWAAAKDZJLQ
+	for <delhitantaa@server52.dnsserverboot.com>; Sat, 26 Dec 2020 17:51:49 +0530
+Return-path: <>
+Envelope-to: delhitantaa@server52.dnsserverboot.com
+Delivery-date: Sat, 26 Dec 2020 17:51:49 +0530
+Received: from mailnull by server52.dnsserverboot.com with local (Exim 4.89_1)
+	id 1kt8Zx-0006VM-Gd
+	for delhitantaa@server52.dnsserverboot.com; Sat, 26 Dec 2020 17:51:49 +0530
+X-Failed-Recipients: gzhandler@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server52.dnsserverboot.com>
+To: delhitantaa@server52.dnsserverboot.com
+Content-Type: multipart/report; report-type=delivery-status; boundary=1608985309-eximdsn-1948964696
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1kt8Zx-0006VM-Gd@server52.dnsserverboot.com>
+Date: Sat, 26 Dec 2020 17:51:49 +0530
+
+--1608985309-eximdsn-1948964696
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  gzhandler@gmail.com
+    host alt4.gmail-smtp-in.l.google.com [74.125.28.27]
+    SMTP error from remote mail server after RCPT TO:<gzhandler@gmail.com>:
+    450-4.2.1 The user you are trying to contact is receiving mail at a rate that
+    450-4.2.1 prevents additional messages from being delivered. Please resend your
+    450-4.2.1 message at a later time. If the user is able to receive mail at that
+    450-4.2.1 time, your message will be delivered. For more information, please
+    450-4.2.1 visit
+    450 4.2.1  https://support.google.com/mail/?p=ReceivingRate lk3si7998772pjb.0 - gsmtp:
+    retry timeout exceeded
+
+--1608985309-eximdsn-1948964696
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server52.dnsserverboot.com
+
+Action: failed
+Final-Recipient: rfc822;gzhandler@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; alt4.gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 450-4.2.1 The user you are trying to contact is receiving mail at a rate that
+ 450-4.2.1 prevents additional messages from being delivered. Please resend your
+ 450-4.2.1 message at a later time. If the user is able to receive mail at that
+ 450-4.2.1 time, your message will be delivered. For more information, please
+ 450-4.2.1 visit
+ 450 4.2.1  https://support.google.com/mail/?p=ReceivingRate lk3si7998772pjb.0 - gsmtp: retry timeout exceeded
+
+--1608985309-eximdsn-1948964696
+Content-type: message/rfc822
+
+Return-path: <delhitantaa@server52.dnsserverboot.com>
+Received: from delhitantaa by server52.dnsserverboot.com with local (Exim 4.89_1)
+	(envelope-from <delhitantaa@server52.dnsserverboot.com>)
+	id 1kt8Zp-0006Qy-Ms
+	for gzhandler@gmail.com; Sat, 26 Dec 2020 17:51:41 +0530
+To: gzhandler@gmail.com
+Subject: 
+X-PHP-Script: www.tantaaa.com/index.php for 1.38.45.197
+X-PHP-Originating-Script: 2204:Helpers.php
+Message-Id: <E1kt8Zp-0006Qy-Ms@server52.dnsserverboot.com>
+From: delhitantaa@server52.dnsserverboot.com
+Date: Sat, 26 Dec 2020 17:51:41 +0530
+
+http://www.tantaaa.com/product/Fresho-Pomegranate-4-pcs-approx-720-to-800-gmFresho-Pomegranate-4-pcs-approx-720-to-800-gm-UhmiT
+
+--1608985309-eximdsn-1948964696--

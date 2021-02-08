@@ -1,0 +1,1237 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 202011 will be lost/reset.
+# Last config file used to build this data file was /home2/delhitantaa/tmp/awstats/ssl/awstats.tantaaa.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2676                
+POS_VISITOR 32011               
+POS_DAY 39845               
+POS_DOMAIN 3572                
+POS_LOGIN 4022                
+POS_ROBOT 4177                
+POS_WORMS 4736                
+POS_EMAILSENDER 4867                
+POS_EMAILRECEIVER 5010                
+POS_SESSION 40652               
+POS_SIDER 40865               
+POS_FILETYPES 5145                
+POS_DOWNLOADS 5559                
+POS_OS 5656                
+POS_BROWSER 5907                
+POS_SCREENSIZE 6812                
+POS_UNKNOWNREFERER 6886                
+POS_UNKNOWNREFERERBROWSER 7435                
+POS_ORIGIN 7979                
+POS_SEREFERRALS 8126                
+POS_PAGEREFS 8313                
+POS_SEARCHWORDS 11325               
+POS_KEYWORDS 11477               
+POS_MISC 2340                
+POS_ERRORS 11536               
+POS_CLUSTER 3878                
+POS_SIDER_404 11797               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20201201000024 5 831 9385471910159
+FirstTime 0
+LastTime 20201130153216
+LastUpdate 20201201183842 5 0 4 0 0
+TotalVisits 221                 
+TotalUnique 174                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 196                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 8 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 12 90 2257487 45 80 411235
+1 22 179 4445941 16 19 84923
+2 2 16 657356 7 21 188305
+3 1 1 0 10 32 300960
+4 4 5 52144 12 18 102797
+5 1 1 1081 5 11 454081
+6 11 65 1807421 4 13 277221
+7 16 78 1409590 36 58 400737
+8 25 178 5212599 7 13 34662
+9 12 76 1951021 6 14 127861
+10 117 491 10092473 263 466 2078536
+11 955 2944 59389070 661 1361 5661030
+12 1253 2276 32129083 233 420 1095875
+13 692 1874 34505418 111 592 1301491
+14 702 1298 16692580 131 319 1173925
+15 599 1743 41600072 262 458 1504467
+16 747 1649 25804867 251 635 656127
+17 281 947 24635530 115 331 290072
+18 564 1795 37318893 335 1532 1068858
+19 274 725 15147379 52 223 575357
+20 356 1092 17446162 74 285 495371
+21 716 1174 18610646 85 372 826887
+22 121 385 7270351 29 78 372478
+23 174 565 11808194 49 165 2869969
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 16
+in 3293 8330 173035148
+ca 2104 5411 93661577
+np 2031 5370 95285848
+ru 136 341 2887729
+us 65 167 5097418
+hu 9 9 114281
+eu 6 6 69664
+de 2 2 0
+fr 2 2 13828
+jp 2 2 26005
+at 2 2 18442
+gr 1 1 0
+id 1 1 2114
+sc 1 1 12674
+se 1 1 12625
+cn 1 1 8005
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+Googlebot/ 260 2324911 20201130042251 1
+crawl 74 2607822 20201128234711 0
+bingbot/ 60 833781 20201129172903 12
+no_user_agent 39 4391265 20201126201703 0
+AhrefsBot/ 36 462006 20201130171456 0
+facebookexternalhit/ 35 732725 20201130140236 0
+Googlebot\-Image/ 22 1570131 20201130140530 0
+bot[\s_+:,\.\;\/\\-] 3 130538 20201130120055 0
+bingpreview 2 122268 20201118203128 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 12486 20201109172041 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 18
+ttf 17 1224900 0 0
+tt 7 4202 0 0
+ptt 1 409 0 0
+env 1 2114 0 0
+png 2294 66802328 0 0
+css 3638 25535761 0 0
+gif 16 30266 0 0
+svg 19 572055 0 0
+woff2 453 21294888 0 0
+html 897 13051669 0 0
+jpeg 1283 90285610 0 0
+map 29 7012446 0 0
+Unknown 6149 10219390 0 0
+woff 89 2843820 0 0
+js 3864 53772582 0 0
+php 14 50527 0 0
+xlsx 1 9685 0 0
+jpg 875 77532706 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/public/download/product_bulk_demo.xlsx 1 0 9685
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+macosx8 1 1
+linux 23 12
+linuxandroid 2357 501
+winxp 56 32
+win8 92 23
+winvista 1 1
+macosx 650 271
+ios_iphone 175 18
+win7 5434 2482
+win10 10770 4253
+win8.1 16 2
+winlong 6 6
+Unknown 66 55
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 37
+chrome49.0.2623.75 2 1
+chrome84.0.4147.135 176 12
+chrome86.0.4240.193 2905 929
+chrome85.0.4183.101 683 185
+chrome40.0.2214.93 1 1
+chrome81.0.4044.138 15 1
+firefox61.0 9 9
+chrome83.0.4103.106 9 0
+firefox82.0 1 1
+safari13.0.3 48 3
+chrome81.0.4044.129 1 1
+Unknown 66 55
+firefox78.0 341 136
+chrome75.0.3770.143 80 10
+chrome41.0.2228.0 1 1
+chrome87.0.4280.66 2798 845
+firefox54.0 1 1
+chrome79.0.3945.130 27 0
+chrome74.0.3729.169 2 2
+chrome83.0.4103.97 1 1
+chrome41.0.2225.0 2 2
+chrome34.0.1847.116 6 6
+chrome87.0.4280.67 1 1
+chrome86.0.4240.111 893 547
+chrome86.0.4240.185 731 195
+chrome26.0.1410.65 1 1
+chrome86.0.4240.198 4348 1846
+chrome58.0.3029.110 1 1
+chrome86.0.4240.110 212 21
+chrome40.0.2214.85 2 2
+safari14.0 73 12
+chrome86.0.4240.183 5997 2777
+android 1 1
+chrome85.0.4183.83 30 2
+chrome71.0.3578.141 72 14
+safari14.0.1 54 3
+chrome39.0.2146.0 56 32
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 11
+WhatsApp/2.20.202.21_A 20201109143336
+WhatsApp/2.20.202.18_A 20201117062953
+Go-http-client/2.0 20201126042602
+WhatsApp/2.2043.22_N 20201125202340
+WhatsApp/2.20.195.15_A 20201125154347
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20201129161817
+python-requests/2.25.0 20201120023721
+Go-http-client/1.1 20201130153217
+WhatsApp/2.20.205.13_A 20201126112306
+WhatsApp/2.20.205.16_A 20201128234353
+colly_-_https://github.com/gocolly/colly/v2 20201126042557
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 11
+WhatsApp/2.20.205.13_A 20201126112306
+colly_-_https://github.com/gocolly/colly/v2 20201126042557
+WhatsApp/2.20.205.16_A 20201128234353
+Go-http-client/1.1 20201130153217
+python-requests/2.25.0 20201120023721
+WhatsApp/2.20.195.15_A 20201125154347
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20201129161817
+Go-http-client/2.0 20201126042602
+WhatsApp/2.2043.22_N 20201125202340
+WhatsApp/2.20.202.18_A 20201117062953
+WhatsApp/2.20.202.21_A 20201109143336
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 669 683
+From1 0 0
+From2 25 53
+From3 316 551
+From4 6647 18360
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_co_in 3 12
+www_google_com 22 41
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 31
+https://cpanel.tantaaa.com/cpsess5618654436/frontend/paper_lantern/filemanager/index.html 99 102
+https://cpanel.tantaaa.com/cpsess8284521427/frontend/paper_lantern/filemanager/index.html 46 63
+https://cpanel.tantaaa.com/cpsess5262592494/frontend/paper_lantern/index.html 30 62
+https://cpanel.tantaaa.com/cpsess5618654436/frontend/paper_lantern/filemanager/editit.html 23 28
+https://cpanel.tantaaa.com/cPanel_magic_revision_1526491939/frontend/paper_lantern/_assets/css/master-ltr.cmb.min.css 15 15
+https://cpanel.tantaaa.com/cpsess8284521427/frontend/paper_lantern/filemanager/editit.html 12 26
+https://cpanel.tantaaa.com/cpsess8284521427/frontend/paper_lantern/index.html 11 45
+https://cpanel.tantaaa.com/cpsess5618654436/frontend/paper_lantern/index.html 10 30
+https://brandnewblogs.com 9 9
+https://cpanel.tantaaa.com/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css 9 9
+https://cpanel.tantaaa.com/cpsess7930086296/frontend/paper_lantern/index.html 7 18
+https://cpanel.tantaaa.com/cpsess5262592494/frontend/paper_lantern/mail/pops/index.html 6 13
+https://cpanel.tantaaa.com 6 15
+https://cpanel.tantaaa.com/cPanel_magic_revision_1386192030/frontend/paper_lantern/3rdparty/ui-fonts/open_sans/optimized/open_sans.min.css 5 5
+https://cpanel.tantaaa.com/cpsess5618654436/frontend/paper_lantern/filemanager/upload-ajax.html 4 7
+https://cpanel.tantaaa.com/unprotected/loader.html 4 4
+https://cpanel.tantaaa.com/cpsess5262592494/frontend/paper_lantern/filemanager/index.html 3 19
+https://cpanel.tantaaa.com/cpsess5262592494/frontend/paper_lantern/diskusage/index.html 3 8
+https://cpanel.tantaaa.com/cPanel_magic_revision_1424892677/frontend/paper_lantern/3rdparty/fontawesome/css/font-awesome.min.css 2 2
+https://cpanel.tantaaa.com/cpsess7930086296/frontend/paper_lantern/sql/wizard1.html 2 15
+http://m.facebook.com 2 2
+https://cpanel.tantaaa.com/cPanel_magic_revision_1392312282/frontend/paper_lantern/3rdparty/bootstrap/optimized/css/bootstrap.min.css 2 2
+https://cpanel.tantaaa.com/cpsess5262592494/frontend/paper_lantern/cpanelpro/images.html 2 7
+https://l.facebook.com 1 1
+https://cpanel.tantaaa.com/cPanel_magic_revision_1526491939/frontend/paper_lantern/_assets/css/master-legacy-ltr.cmb.min.css 1 1
+https://cpanel.tantaaa.com/cPanel_magic_revision_1526491937/cjt/css/ajaxapp-min.css 0 3
+https://cpanel.tantaaa.com/styled/current_style/sprites/icon_spritemap.css 0 7
+https://cpanel.tantaaa.com/cPanel_magic_revision_1526491939/frontend/paper_lantern/filemanager/css/tree_styles2_optimized.css 0 1
+https://cpanel.tantaaa.com/cpsess5262592494/frontend/paper_lantern/styleswitcher/index.html 1 9
+https://cpanel.tantaaa.com/cPanel_magic_revision_1455824270/frontend/paper_lantern/libraries/chosen/1.5.1/chosen.min.css 0 1
+https://cpanel.tantaaa.com/cPanel_magic_revision_1526491937/unprotected/cpanel/style_v2_optimized.css 1 22
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 14
+503 95 115595
+419 109 7483
+405 13 5826
+303 12 491
+206 138 4143827
+301 43 26531
+404 6008 4167634
+307 24 233
+401 36 434816
+500 138 158013
+400 3 1544
+308 6 774
+403 38 35871
+302 294 51071
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 271
+/s/truleysell_web/assets/themes/img/bg_direction_nav.png 110 https://tantaaa.com/s/truleysell_web/assets/themes/css/flexslider.css
+/s/truleysell_web/assets/img/logo-icon.png 3 https://tantaaa.com/s/truleysell_web/admin
+/s/truleysell_web/assets/css/webfonts/fa-solid-900.ttf 142 https://tantaaa.com/s/truleysell_web/assets/css/frontend_css/all.css
+/s/truleysell_web/assets/js/frontend_js/jquery.superslides.min.js 2 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/js/admin.js 6 https://tantaaa.com/s/truleysell_web/admin
+/s/truleysell_web/assets/themes/images/ladies/2.jpg 6 https://tantaaa.com/s/truleysell_web/
+/s/uploads/category_images/1604902955How-Home-Security-Has-Advanced-in-the-21st-Century_381_286.jpg 12 https://tantaaa.com/s/
+/public/frontend/css/bootstrap.min.css.map 18 -
+/item/physical-product-title-title-will-be-here-99-hjm99shr 2 -
+/s/themes/images/ladies/4.jpg 1 https://tantaaa.com/s/
+/s/truleysell_web/assets/plugins/bootstrap/css/bootstrap.min.css 3 https://tantaaa.com/s/truleysell_web/
+/s/admin 4 -
+/admin 2 -
+/s/user/service/get_category 23 https://tantaaa.com/s/
+/s/truleysell_web/assets/plugins/datatables/datatables.min.js 6 https://tantaaa.com/s/truleysell_web/
+/s/uploads/category_images/1604903245House-Painters-Near-You_381_286.jpg 13 https://tantaaa.com/s/
+/s/truleysell_web/assets/css/select2.min.css 3 https://tantaaa.com/s/truleysell_web/admin
+/assets/images/categories/1557807287light.png 1 -
+/s/truleysell_web/assets/js/frontend_js/images-loded.min.js 2 https://tantaaa.com/s/truleysell_web/
+/s/themes/images/ladies/2.jpg 24 https://tantaaa.com/s/
+/s/truleysell_web/assets/js/jquery-3.5.0.min.js 6 https://tantaaa.com/s/truleysell_web/
+/user/login 2 https://www.google.com/
+/s/truleysell_web/user/service/get_category 1 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/plugins/owlcarousel/owl.carousel.min.js 6 https://tantaaa.com/s/truleysell_web/
+/s/uploads/category_images/1604902319product-500x500_381_286.jpeg 7 https://tantaaa.com/s/
+/s/truleysell_web/assets/themes/img/loader.gif 112 https://tantaaa.com/s/truleysell_web/assets/themes/css/flexslider.css
+/s/truleysell_web/assets/bootstrap/css/bootstrap.min.css 5 https://tantaaa.com/s/truleysell_web/
+/category/Outdoor-Recreation-and-Fitness 2 -
+/public/shop/logo/Gt1xw7vjTpMnwpADkGSilc35qrAfcw02kuZ36Jdn.png 14 https://tantaaa.com/
+/s/truleysell_web/assets/js/place.js 6 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/plugins/jquery-ui/jquery-ui.min.js 6 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/plugins/toaster/toastr.min.js 6 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/all-categories/admin 1 -
+/s/admin/settings 1 https://tantaaa.com/s/dashboard
+/s/uploads/services/se_full_160498885719813.jpg 77 https://tantaaa.com/s/
+/s/truleysell_web/assets/js/functions.js 6 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/plugins/toaster/toastr.js.map 1 -
+/s/truleysell_web/themes/images/ladies/4.jpg 24 https://tantaaa.com/s/truleysell_web/
+/invoice/seller/9 1 https://tantaaa.com/admin/orders
+/assets/images/blogs/15542700383-min.jpg 1 -
+/category/toys-and-hobbies 1 -
+/s/truleysell_web/uploads/logo/1604917384_favicon.png.png 384 https://tantaaa.com/s/truleysell_web/
+/category/electric/refrigerator 1 -
+/category/electric/air-conditioners/hybrid-air 1 -
+/s/all-categories 1 https://tantaaa.com/s/
+/home/section/featured 23 https://tantaaa.com/
+/s/truleysell_web/assets/fonts/CircularStd-Bold.woff 7 https://tantaaa.com/s/truleysell_web/assets/css/admin.css
+/category/electric/refrigerator/side-by-side 1 -
+/s/truleysell_web/assets/css/style.css 6 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/css/webfonts/fa-solid-900.woff2 145 https://tantaaa.com/s/truleysell_web/assets/css/frontend_css/all.css
+/s/truleysell_web/assets/plugins/jquery-ui/jquery-ui.min.css 6 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/css/frontend_css/custom.css 1 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/plugins/bootstrap/css/bootstrap.min.css.map 1 -
+/search 5 https://tantaaa.com/
+/faq 1 -
+/s/truleysell_web/assets/css/webfonts/fa-regular-400.woff 142 https://tantaaa.com/s/truleysell_web/assets/css/frontend_css/all.css
+/s/truleysell_web/assets/css/webfonts/fa-brands-400.ttf 142 https://tantaaa.com/s/truleysell_web/assets/css/frontend_css/all.css
+/category/electric/washing-machine/washer-dryer-combo 1 -
+/s/truleysell_web/assets/css/animate.min.css 3 https://tantaaa.com/s/truleysell_web/
+/category/fashion-and-Beauty/bags 3 -
+/s/truleysell_web/assets/css/avatar.css 3 https://tantaaa.com/s/truleysell_web/
+/category/electric 1 -
+/public/frontend/js/vendor/bootstrap.min.js.map 18 -
+/s/truleysell_web/admi 2 -
+/s/truleysell_web/assets/js/service_search.js 1 https://tantaaa.com/s/truleysell_web/search/home-repair
+/s/truleysell_web 2 -
+/s/truleysell_web/assets/js/frontend_js/isotope.min.js 2 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/img/icon-1.png 3 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/js/script_crop.js 6 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/img/banners/19874.jpg 6 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/img/user.jpg 7 https://tantaaa.com/s/truleysell_web/
+/public/frontend/js/bootstrap-tagsinput.min.js.map 18 -
+/s/truleysell_web/assets/themes/images/sprites.png 122 https://tantaaa.com/s/truleysell_web/assets/themes/css/main.css
+/wordpress/wp-admin/install.php 1 -
+/s/truleysell_web/assets/img/banners/21516.jpg 3 https://tantaaa.com/s/truleysell_web/
+/category/camera-and-photo/digital-camera 1 -
+/s 1 -
+/s/uploads/logo/1604917384_favicon.png.png 34 https://tantaaa.com/s/
+/s/truleysell_web/assets/js/login.js 6 https://tantaaa.com/s/truleysell_web/
+/category/camera-and-photo/animation-camera 1 -
+/s/truleysell_web/adm 2 -
+/category/smart-phone-and-table/samsung 1 -
+/s/truleysell_web/assets/themes/images/bg_h.png 120 https://tantaaa.com/s/truleysell_web/assets/themes/css/main.css
+/s/users 1 https://tantaaa.com/s/dashboard
+/wishlists 1 https://tantaaa.com/
+/s/truleysell_web/assets/plugins/toaster/toastr.min.css 6 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/js/select2.min.js 6 https://tantaaa.com/s/truleysell_web/admin
+/s/assets/img/hiwbg.png 49 https://tantaaa.com/s/assets/css/style.css
+/s/truleysell_web/assets/themes/images/ladies/1.jpg 6 https://tantaaa.com/s/truleysell_web/
+/public/frontend/images/placeholder.jpg 230 https://tantaaa.com/
+/s/truleysell_web/assets/js/sweetalert.min.js 6 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/plugins/theia-sticky-sidebar/ResizeSensor.js 6 https://tantaaa.com/s/truleysell_web/
+/s/uploads/services/se_full_1604988718sparkel-shine.jpg 77 https://tantaaa.com/s/
+/truley_sellweb 1 -
+/about 1 -
+/home/section/best_selling 23 https://tantaaa.com/
+/s/truleysell_web/assets/img/favicon.png 3 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/js/cropper.min.js 6 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/img/icon-2.png 3 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/css/webfonts/fa-brands-400.woff2 144 https://tantaaa.com/s/truleysell_web/assets/css/frontend_css/all.css
+/s/truleysell_web/themes/images/ladies/1.jpg 131 https://tantaaa.com/s/truleysell_web/
+/category/electric/washing-machine/top-loading 1 -
+/public/frontend/images/xloading.gif 7 https://tantaaa.com/public/frontend/css/xzoom.css
+/s/user/service/get_subcategory 1 https://tantaaa.com/s/search
+/s/truleysell_web/assets/css/bootstrap-datetimepicker.min.css 3 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/plugins/datatables/datatables.min.css 3 https://tantaaa.com/s/truleysell_web/
+/assets/images/thumbnails/15708754456n2CU31X.jpg 1 -
+/s/assets/themes/images/bg_h.png 25 https://tantaaa.com/s/assets/themes/css/main.css
+/public/uploads/shop/sliders/ltwUfHND4QP1K7bPFbuOC4i8v6zL9KHJKzex4zaX.jpeg 1 https://tantaaa.com/shops/visit/Demo-Seller-Shop-1
+/s/truleysell_web/assets/themes/js/jquery.flexslider-min.js 10 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/service-preview/themes/images/gotop.png 2 https://tantaaa.com/s/truleysell_web/service-preview/MONTHLY-ESSENTIAL-PACKAGE
+/s/assets/img/title-image.png 26 https://tantaaa.com/s/assets/css/style.css
+/s/truleysell_web/assets/plugins/jvectormap/jquery-jvectormap-2.0.3.css 3 https://tantaaa.com/s/truleysell_web/admin
+/users/login 2 https://tantaaa.com/
+/s/truleysell_web/assets/themes/js/common.js 10 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/js/multi-step-modal.js 6 https://tantaaa.com/s/truleysell_web/
+/item/top-rated-product-title-will-be-here-according-to-your-wish-1-7uo96fft 1 -
+/s/truleysell_web/assets/img/icon-3.png 3 https://tantaaa.com/s/truleysell_web/
+/assets/images/blogs/15557542831-min.jpg 1 -
+/s/truleysell_web/assets/js/bootstrap-notify.min.js 6 https://tantaaa.com/s/truleysell_web/admin
+/s/truleysell_web/themes/images/ladies/8.jpg 24 https://tantaaa.com/s/truleysell_web/
+/s/themes/images/ladies/1.jpg 24 https://tantaaa.com/s/
+/public/frontend/js/vendor/popper.min.js.map 18 -
+/s/truleysell_web/assets/themes/css/bootstrappage.css 5 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/ad 1 -
+/s/truleysell_web/assets/js/popper.min.js 6 https://tantaaa.com/s/truleysell_web/
+/%E0%A4%8F%E0%A4%A1%E0%A4%AE%E0%A4%BF%E0%A4%A8 1 -
+/s/themes/images/ladies/5.jpg 24 https://tantaaa.com/s/
+/s/truleysell_web/assets/img/hiwbg.png 9 https://tantaaa.com/s/truleysell_web/assets/css/style.css
+/s/truleysell_web/assets/js/frontend_js/contact-form-script.js 2 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/js/frontend_js/bootstrap-select.js 2 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/product_detail.html 1 https://tantaaa.com/s/truleysell_web/
+/public/plugins/bootstrap-tagsinput/bootstrap-tagsinput.min.js.map 7 -
+/s/truleysell_web/assets/js/frontend_js/inewsticker.js 2 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/plugins/fontawesome/css/fontawesome.min.css 3 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/plugins/theia-sticky-sidebar/maps/theia-sticky-sidebar.js.map 1 -
+/s/truleysell_web/assets/themes/css/flexslider.css 5 https://tantaaa.com/s/truleysell_web/
+/public/uploads/shop/sliders/asDBJ3Bro1ijNaNnx3Hpnp6uq3n66ndyLczOJ0F6.jpeg 1 https://tantaaa.com/shops/visit/Demo-Seller-Shop-1
+/category/electric/television/led-tv 1 -
+/s/uploads/category_images/160433441015873_381_286.jpg 9 https://tantaaa.com/s/
+/s/truleysell_web/assets/js/frontend_js/form-validator.min.js 2 https://tantaaa.com/s/truleysell_web/
+/assets/images/categories/1557807252furniture.png 2 -
+/home 7 -
+/admin/login 16 -
+/s/truleysell_web/assets/js/frontend_js/custom.js 2 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/themes/images/ladies/2.jpg 131 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/js/frontend_js/passtrength.js 2 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/themes/js/jquery.scrolltotop.js 9 https://tantaaa.com/s/truleysell_web/
+/s/themes/images/gotop.png 26 https://tantaaa.com/s/
+/s/uploads/category_images/160433426916012_381_286.jpg 13 https://tantaaa.com/s/
+/install/ 1 -
+/s/truleysell_web/assets/plugins/owlcarousel/owl.carousel.min.css 3 https://tantaaa.com/s/truleysell_web/
+/assets/images/categories/1557807279fashion.png 1 -
+/s/truleysell_web/assets/themes/js/jquery-1.7.2.min.js 5 https://tantaaa.com/s/truleysell_web/
+/s/themes/images/ladies/7.jpg 24 https://tantaaa.com/s/
+/s/assets/img/title-image2.png 26 https://tantaaa.com/s/assets/css/style.css
+/s/truleysell_web/assets/js/moment.min.js 6 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/js/script.js 6 https://tantaaa.com/s/truleysell_web/
+/s/themes/images/ladies/3.jpg 24 https://tantaaa.com/s/
+/item/top-rated-product-title-will-be-here-according-to-your-wish-102-rgr128igz 8 -
+/s/truleysell_web/assets/css/admin.css 3 https://tantaaa.com/s/truleysell_web/admin
+/s/service-providers 1 https://tantaaa.com/s/users
+/cp 1 -
+/public/img/favicon.png 12 https://tantaaa.com/s/service-preview/monthly-essential-package
+/%E0%A4%86%E0%A4%A6%E0%A4%AE%E0%A5%80 1 -
+/s/truleysell_web/assets/plugins/owlcarousel/owl.theme.default.min.css 3 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/ 1 -
+/s/truleysell_web/assets/img/banners/1192.jpg 6 https://tantaaa.com/s/truleysell_web/
+/wp-admin 2 -
+/category/fashion-and-Beauty/shoes 1 -
+/s/assets/js/popper.min.js.map 1 -
+/s/truleysell_web/assets/css/frontend_css/main.css 1 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/plugins/jvectormap/jquery-jvectormap-2.0.3.min.js 4 https://tantaaa.com/s/truleysell_web/admin
+/s/uploads/category_images/1604902820istockphoto-512756266-612x612_381_286.jpg 9 https://tantaaa.com/s/all-categories
+/item/physical-product-title-title-will-be-here-101-8e1101lbq 1 -
+/s/truleysell_web/assets/plugins/jquery-confirm/jquery-confirm.min.js 6 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/bootstrap/js/bootstrap.min.js 7 https://tantaaa.com/s/truleysell_web/
+/category/portable-and-personal-electronics 1 -
+/public/js/bootstrap-select.min.js.map 7 -
+/s/truleysell_web/assets/js/frontend_js/baguetteBox.min.js 2 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/js/frontend_js/bootsnav.js 2 https://tantaaa.com/s/truleysell_web/
+/s/uploads/category_images/16049024925e4bf034acae7f373e129948_381_286.jpg 10 https://tantaaa.com/s/
+/item/physical-product-title-title-will-be-here-100-qqz100nzi 1 -
+/s/truleysell_web/assets/css/frontend_css/passtrength.css 1 https://tantaaa.com/s/truleysell_web/
+/s/service-preview/monthly-essential-package 2 https://tantaaa.com/s/search/salon-at-home
+/assets/images/categories/1557807214sports.png 1 -
+/category/health-and-beauty 1 -
+/category/electric/refrigerator/top-freezer 1 -
+/cpane 1 -
+/s/themes/images/ladies/6.jpg 24 https://tantaaa.com/s/
+/category/electric/washing-machine 3 https://www.google.com/
+/home/section/home_categories 23 https://tantaaa.com/
+/s/truleysell_web/assets/css/webfonts/fa-regular-400.ttf 142 https://tantaaa.com/s/truleysell_web/assets/css/frontend_css/all.css
+/s/truleysell_web/assets/bootstrap/css/bootstrap-responsive.min.css 5 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/js/moment.min.js.map 1 -
+/contact 1 -
+/web 1 -
+/s/truleysell_web/themes/images/ladies/3.jpg 131 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/cpanel 1 -
+/s/truleysell_web/assets/css/frontend_css/bootstrap.min.css 1 https://tantaaa.com/s/truleysell_web/
+/s/dashboard 1 -
+/s/user/login/email_chk_user 15 https://tantaaa.com/s/
+/s/truleysell_web/assets/js/bootstrapValidator.min.js 6 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/plugins/fontawesome/css/all.min.css 3 https://tantaaa.com/s/truleysell_web/
+/assets/images/capcha_code.png 1 -
+/s/truleysell_web/assets/plugins/theia-sticky-sidebar/theia-sticky-sidebar.js 6 https://tantaaa.com/s/truleysell_web/
+/category/fashion-and-Beauty 1 -
+/s/truleysell_web/themes/images/gotop.png 130 https://tantaaa.com/s/truleysell_web/
+/public/frontend/css/active-shop.css 1 https://tantaaa.com/
+/s/truleysell_web/user/service/images/home/searchicon.png 2 https://tantaaa.com/s/truleysell_web/user/service/edit_service/2
+/s/truleysell_web/assets/js/admin_emailsettings.js 4 https://tantaaa.com/s/truleysell_web/admin/emailsettings
+/s/truleysell_web/themes/images/ladies/7.jpg 130 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/css/frontend_css/bootstrap.min.css.map 2 -
+/s/truleysell_web/assets/plugins/bootstrap/js/bootstrap.min.js.map 1 -
+/s/images/home/searchicon.png 189 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/css/frontend_css/service_main.css 1 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/images/home/searchicon.png 40 https://tantaaa.com/s/truleysell_web/search/Salon-At-Home
+/s/truleysell_web/assets/css/webfonts/fa-regular-400.woff2 145 https://tantaaa.com/s/truleysell_web/assets/css/frontend_css/all.css
+/category/books 1 -
+/s/truleysell_web/assets/plugins/jquery-confirm/jquery-confirm.min.css 6 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/themes/images/ladies/5.jpg 130 https://tantaaa.com/s/truleysell_web/
+/wp-admin/install.php 1 -
+/s/assets/themes/img/loader.gif 24 https://tantaaa.com/s/assets/themes/css/flexslider.css
+/category/electric/washing-machine/laundry-center 1 -
+/public/uploads/sliders/NCv47fHKnhVOljpkXik5KgIHCleEbbpzcweNOIhl.jpeg 220 https://tantaaa.com/
+/cpan 1 -
+/home/section/best_sellers 23 https://tantaaa.com/
+/s/truleysell_web/search/themes/images/gotop.png 14 https://tantaaa.com/s/truleysell_web/search/Home-Security
+/public/frontend/images/placeholder-rect.jpg 113 https://tantaaa.com/
+/s/truleysell_web/uploads/services/se_full_16049066317692.jpg 7 https://tantaaa.com/s/truleysell_web/my-services-inactive
+/s/truleysell_web/assets/js/popper.min.js.map 22 -
+/s/truleysell_web/assets/js/stripe_payment_gateway.js 1 https://tantaaa.com/s/truleysell_web/admin/stripe_payment_gateway
+/s/subcategories 1 https://tantaaa.com/s/edit-subcategory/1
+/s/uploads/category_images/1604902575download_381_286.jpg 9 https://tantaaa.com/s/all-categories
+/s/truleysell_web/assets/fonts/CircularStd-Black.woff 13 https://tantaaa.com/s/truleysell_web/assets/css/admin.css
+/s/truleysell_web/assets/js/admin_functions.js 6 https://tantaaa.com/s/truleysell_web/admin
+/s/truleysell_web/assets/themes/css/main.css 5 https://tantaaa.com/s/truleysell_web/
+/item/physical-product-title-title-will-be-here-102-pr607jsv 2 -
+/s/user/login/mobileno_chk_user 8 https://tantaaa.com/s/
+/public/uploads/shop/sliders/lToeKDeUyWcxy1HRs2yH37oBLyIwEwyPkqdyXBRO.jpeg 1 https://tantaaa.com/shops/visit/Demo-Seller-Shop-1
+/s/user/login/check_mobile_existing 1 https://tantaaa.com/s/
+/s/truleysell_web/assets/css/frontend_css/slide/bootstrap.min.css 148 https://tantaaa.com/s/truleysell_web/
+/robots.txt 71 -
+/s/truleysell_web/assets/css/frontend_css/nice-select.css 146 https://tantaaa.com/s/truleysell_web/assets/css/frontend_css/main.css
+/assets/images/1564224328loading3.gif 1 -
+/category/nav-element-list 213 https://tantaaa.com/
+/s/truleysell_web/themes/images/ladies/6.jpg 129 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/css/webfonts/fa-brands-400.woff 142 https://tantaaa.com/s/truleysell_web/assets/css/frontend_css/all.css
+/assets/images/blogs/15542698832-min.jpg 3 -
+/public/.env 1 -
+/s/truleysell_web/assets/plugins/bootstrap/js/bootstrap.min.js 6 https://tantaaa.com/s/truleysell_web/
+/images/home/searchicon.png 26 https://tantaaa.com/s/
+/cpa 1 -
+/s/truleysell_web/assets/plugins/slimscroll/jquery.slimscroll.min.js 4 https://tantaaa.com/s/truleysell_web/admin
+/category/electric/washing-machine/front-loading 1 -
+/s/truleysell_web/assets/css/cropper.min.css 3 https://tantaaa.com/s/truleysell_web/
+/category/electric/air-conditioners 1 -
+/s/truleysell_web/assets/css/frontend_css/responsive.css 1 https://tantaaa.com/s/truleysell_web/
+/%E0%A4%AF%E0%A4%BE%E0%A4%A6 1 -
+/s/truleysell_web/assets/js/bootstrap-datetimepicker.min.js 6 https://tantaaa.com/s/truleysell_web/
+/s/assets/themes/images/sprites.png 25 https://tantaaa.com/s/assets/themes/css/main.css
+/s/truley_sellweb 1 -
+/vendor/.env 1 -
+/s/assets/themes/img/bg_direction_nav.png 24 https://tantaaa.com/s/assets/themes/css/flexslider.css
+/s/service-preview/MONTHLY-ESSENTIAL-PACKAGE 1 https://tantaaa.com/s/
+/s/truleysell_web/assets/js/cropper_profile_provider.js 6 https://tantaaa.com/s/truleysell_web/
+/currency/1 1 -
+/s/truleysell_web/assets/themes/js/superfish.js 9 https://tantaaa.com/s/truleysell_web/
+/s/truleysell_web/assets/plugins/jvectormap/jquery-jvectormap-world-mill.js 6 https://tantaaa.com/s/truleysell_web/admin
+/storage/.env 1 -
+/s/truleysell_web/assets/css/webfonts/fa-solid-900.woff 142 https://tantaaa.com/s/truleysell_web/assets/css/frontend_css/all.css
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 196
+122.176.8.222 2015 4216 79261525 20201117175612
+47.31.168.246 385 625 4978463 20201104130358
+47.30.184.236 335 904 19060427 20201115195006
+120.89.103.216 293 514 10399094 20201117220332
+122.162.201.1 276 541 10102059 20201118134811
+47.30.192.138 273 425 7675727 20201125193807
+47.8.116.94 218 287 2716530 20201129215202
+27.34.68.23 207 359 5377751 20201109170740
+120.89.103.13 200 296 2378475 20201110114447
+120.89.102.9 161 344 7898169 20201117164954
+103.95.81.6 140 257 5110684 20201125215421
+185.220.100.254 134 339 2770113 20201116140159
+110.225.86.166 133 331 7000059 20201125162747
+27.34.69.77 130 307 3387488 20201115162540
+27.34.69.120 127 694 9827381 20201110212339
+47.30.128.66 124 396 1622515 20201126201818
+103.95.121.96 117 136 1446592 20201125211028
+47.31.202.113 117 183 2684617 20201109154959
+120.89.103.64 116 296 3726515 20201111173541
+27.34.68.169 104 167 3574997 20201115211510
+27.6.195.157 81 151 2664607 20201116193357
+47.31.170.88 79 158 3026796 20201110150742
+103.95.81.48 77 258 5602311 20201116115148
+122.180.217.88 71 211 5278747 20201123125428
+120.89.102.119 70 145 3005494 20201115160638
+120.89.103.28 16 29 593630 20201108222956
+47.30.219.6 1 1 12296 20201108134002
+47.31.223.0 0 26 421337 
+107.178.236.7 1 1 12723 20201120160042
+119.42.153.6 1 4 2897 20201104114246
+120.89.103.245 13 17 114606 20201110171826
+173.214.194.35 31 55 2011318 20201119232047
+47.31.57.185 0 27 402529 
+157.38.82.160 10 80 2503006 20201116175840
+47.30.164.203 6 8 105380 20201124200449
+120.89.102.126 64 357 5241353 20201111132840
+47.30.193.235 64 149 2456811 20201124224637
+47.31.30.145 0 27 445522 
+27.34.68.215 7 74 2570606 20201118181537
+149.28.46.213 1 1 12668 20201120023721
+66.102.6.138 1 1 12865 20201120080002
+106.210.12.50 14 72 1014074 20201104130501
+109.70.100.58 2 2 18442 20201116161121
+66.102.6.136 0 1 14595 
+47.31.54.110 1 1 1081 20201114055253
+54.173.130.242 1 1 106763 20201126111725
+47.30.139.78 32 138 3851258 20201127175313
+120.89.102.172 20 20 87537 20201110152528
+47.8.100.244 7 56 1529605 20201130112306
+47.31.174.98 11 80 2204642 20201125180137
+27.5.27.96 26 95 2647568 20201123202435
+120.89.102.237 5 64 999236 20201109112258
+49.44.80.6 1 15 644689 20201125222950
+35.203.245.210 2 2 25055 20201116120836
+117.96.176.103 3 54 1208405 20201119195503
+171.50.182.236 8 78 2595847 20201116140434
+47.30.134.175 7 57 1502446 20201126102011
+47.31.131.80 2 2 17323 20201110065333
+42.106.161.6 1 15 164942 20201116112116
+117.97.242.147 33 35 181639 20201125215030
+103.248.87.207 7 59 1162581 20201109155211
+114.31.133.180 7 67 2075685 20201128185232
+120.89.103.208 19 41 533653 20201109124550
+183.83.214.158 63 219 5239339 20201126122458
+120.89.102.142 4 83 1359659 20201108114553
+115.187.40.141 8 73 2249879 20201116181521
+120.89.102.200 6 72 528541 20201115160856
+120.89.102.53 0 26 421337 
+103.216.89.111 10 12 505464 20201121103934
+120.89.103.92 4 5 30759 20201122162411
+47.31.48.6 5 5 14380 20201118075929
+47.9.107.191 5 5 14600 20201129125833
+47.30.214.241 2 4 342600 20201109193143
+47.30.221.29 0 27 445522 
+49.44.86.164 1 15 644689 20201126212819
+37.9.13.68 1 1 104946 20201128170224
+47.30.153.106 11 18 266236 20201127130239
+107.178.200.193 1 1 12718 20201125002649
+182.64.8.51 13 121 3282928 20201125154503
+107.178.232.225 2 2 2552 20201104073833
+47.31.18.14 10 27 630976 20201117215549
+47.31.183.6 0 5 120925 
+44.242.169.76 1 1 12797 20201130153130
+47.30.175.56 17 78 2340236 20201111094019
+47.9.120.43 7 68 2192848 20201129103936
+168.81.94.74 1 1 12674 20201119231912
+47.31.34.26 0 1 24185 
+115.97.136.226 3 4 45367 20201126112305
+163.53.87.196 1 15 164944 20201109124119
+49.44.87.166 1 15 164945 20201110221339
+27.34.69.212 12 68 3205692 20201117170728
+42.83.147.202 1 1 8005 20201103131000
+107.178.232.249 1 1 12812 20201129155214
+47.31.0.200 0 27 445522 
+110.225.90.98 3 17 163111 20201124121528
+47.31.156.184 4 4 33861 20201109215618
+47.31.170.59 25 30 286086 20201110161701
+47.31.45.233 1 1 12973 20201113203351
+110.225.90.201 10 10 49106 20201121125830
+122.179.197.154 52 342 8781885 20201124175221
+120.89.102.177 29 75 1016646 20201112134753
+42.106.160.4 1 27 449139 20201109120721
+27.34.69.224 10 10 92425 20201117112823
+47.31.11.246 0 27 0 
+47.30.171.77 22 24 652686 20201126192533
+103.77.42.37 23 92 2701793 20201128234516
+47.30.174.250 7 70 1921951 20201127090111
+34.216.206.122 1 2 65246 20201130153216
+43.252.24.173 7 59 1819187 20201126144917
+47.30.175.224 7 58 1773835 20201123205128
+120.89.102.221 58 74 425814 20201109222403
+47.31.241.109 0 9 53928 
+47.30.160.116 14 60 767180 20201117110222
+47.31.165.243 0 2 48370 
+47.31.148.189 8 102 3026262 20201127201536
+47.30.208.226 1 1 12298 20201108151857
+178.164.146.171 4 4 50928 20201129222759
+47.31.200.57 14 157 4241677 20201112011326
+47.31.0.121 1 1 16919 20201114113814
+120.89.102.64 40 147 2558186 20201117111415
+159.203.30.140 1 1 0 20201118014148
+47.30.205.27 5 8 348689 20201108115401
+103.13.106.46 1 1 13001 20201127103428
+120.89.102.141 10 77 2262272 20201116154603
+192.71.3.26 1 1 12625 20201127183214
+106.223.113.207 12 73 2044042 20201115191247
+27.34.68.175 0 28 469707 
+47.31.199.3 16 96 2237682 20201117071959
+47.31.141.179 43 137 2969022 20201109134330
+47.30.198.217 49 253 3955474 20201124192311
+120.89.103.101 54 147 3101467 20201116184638
+47.31.12.251 7 71 2510847 20201111133012
+49.44.82.75 3 40 563924 20201126221248
+120.89.102.5 34 39 350327 20201118155820
+47.31.142.200 68 165 642531 20201117231726
+207.244.230.205 4 5 52144 20201126042557
+120.89.102.81 30 38 462126 20201110163611
+103.95.123.220 2 36 703538 20201115234815
+47.31.174.25 0 1 24185 
+120.89.102.248 5 54 2671656 20201124115354
+120.89.103.93 12 112 2369875 20201111110053
+102.142.63.61 1 1 2114 20201108210140
+138.246.253.24 1 1 0 20201123115252
+47.30.157.232 7 71 2459065 20201120124113
+182.79.251.83 1 15 164941 20201124121555
+47.31.17.3 29 46 549099 20201113192927
+116.74.141.53 7 67 2099638 20201127134824
+8.20.101.18 0 5 175252 
+120.89.102.140 3 4 34593 20201110183452
+27.34.69.121 0 53 866859 
+34.221.59.149 1 1 12703 20201126012638
+27.34.69.40 22 96 2388250 20201116130953
+49.44.76.75 1 15 164941 20201125011634
+183.83.211.39 7 103 3121231 20201126113144
+47.31.30.242 0 27 445522 
+27.34.69.168 17 42 516588 20201108212309
+202.88.175.70 1 15 644690 20201125234647
+47.31.198.189 0 5 120925 
+77.234.65.129 5 5 63353 20201122012056
+47.30.157.235 2 4 275930 20201116074307
+47.30.210.213 1 1 1551 20201125154347
+120.89.103.11 5 6 184230 20201115140416
+203.187.245.134 1 15 644688 20201126022402
+47.31.185.191 10 11 43545 20201110223855
+68.183.196.60 1 1 0 20201118014146
+27.34.20.144 10 88 2232385 20201112112209
+168.119.48.148 1 1 12669 20201119013928
+178.128.227.116 1 1 0 20201118014145
+35.203.251.56 1 1 1276 20201104080210
+120.89.103.138 16 131 4929144 20201122154307
+47.30.201.60 13 19 239386 20201128101133
+123.136.216.160 7 67 2067610 20201121190727
+47.30.179.45 15 19 259801 20201115220208
+35.203.245.183 1 1 12815 20201129161817
+103.13.105.253 1 1 13004 20201124223910
+49.44.87.232 1 15 164942 20201116112105
+103.212.146.131 7 75 2648374 20201129214139
+47.8.253.254 0 30 518077 
+47.31.32.99 0 29 493892 
+103.212.158.145 0 27 445522 
+47.30.166.230 2 2 16501 20201109213021
+47.30.192.118 1 1 12999 20201124232500
+47.31.142.141 12 12 49989 20201109140742
+138.246.253.15 1 1 0 20201106030211
+115.97.142.25 33 103 2686217 20201128234812
+120.89.103.249 33 34 134104 20201115170357
+103.118.53.158 3 48 444163 20201123140857
+37.9.13.155 1 1 12670 20201125085109
+120.89.103.141 5 6 186456 20201111210047
+47.30.215.17 1 15 639982 20201128113745
+120.89.103.126 60 131 2770765 20201118113358
+107.178.239.199 1 1 12724 20201120153808
+178.62.82.141 6 6 69664 20201122200955
+47.30.220.90 0 27 445522 
+62.210.92.175 2 2 13828 20201118085445
+35.203.252.155 1 1 12717 20201125005212
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20201102 1 1 1276 1
+20201103 1 1 8005 1
+20201104 403 704 5999262 5
+20201106 1 28 445522 1
+20201107 0 84 1409121 0
+20201108 48 171 2945131 11
+20201109 1334 2527 37746816 17
+20201110 1217 2410 31873168 16
+20201111 343 1106 19626628 10
+20201112 132 741 17242055 6
+20201113 30 127 1428931 2
+20201114 2 57 933229 2
+20201115 726 1941 36568669 12
+20201116 616 1914 42337708 18
+20201117 654 1758 39934787 12
+20201118 388 796 15846024 12
+20201119 101 254 6238441 7
+20201120 11 76 2524640 5
+20201121 28 90 2634855 5
+20201122 27 143 5042242 5
+20201123 44 297 7584943 5
+20201124 184 842 18350929 14
+20201125 727 1434 28395915 16
+20201126 244 948 16081610 13
+20201127 67 402 11366223 8
+20201128 78 297 8448009 6
+20201129 241 439 7623571 8
+20201130 9 59 1607648 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 18
+15mn-30mn 11
+1h+ 22
+30mn-1h 15
+30s-2mn 24
+0s-30s 120
+2mn-5mn 11
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 354
+/category/nav-element-list 2081 337927 0 12
+/ 437 5556932 118 44
+/s/truleysell_web/user/service/get_category 391 62716 0 28
+/home/section/home_categories 376 156936 0 10
+/home/section/featured 376 104040 1 0
+/home/section/best_sellers 376 24192 0 6
+/home/section/best_selling 376 371179 0 13
+/s/truleysell_web/ 278 5024425 31 3
+/s/truleysell_web/admin/login/is_valid_login 247 4899 0 0
+/s/ 117 1904756 9 1
+/cpsess5618654436/json-api/cpanel 113 81031 0 0
+/s/user/service/get_category 107 16750 0 9
+/login 106 157723 19 15
+/search 96 1098224 0 7
+/s/truleysell_web/user/login/email_chk 84 2165 0 0
+/public/frontend/fonts/fontawesome-webfont.woff2 81 6018480 0 3
+/public/frontend/fonts/line-awesome.woff2 80 3473316 0 15
+/admin 79 495999 2 2
+/s/truleysell_web/user/login/email_chk_user 52 1359 0 0
+/users/login 47 501457 1 3
+/cpsess8284521427/json-api/cpanel 45 41362 1 0
+/s/truleysell_web/user/login/mobileno_chk 42 1065 0 0
+/s/truleysell_web/assets/plugins/fontawesome/webfonts/fa-brands-400.woff2 37 2787432 0 5
+/s/truleysell_web/assets/plugins/fontawesome/webfonts/fa-solid-900.woff2 37 2801936 0 0
+/s/truleysell_web/assets/plugins/fontawesome/webfonts/fa-regular-400.woff2 35 475440 0 0
+/s/truleysell_web/admin/settings 21 64428 0 1
+/admin/seller/payments 3 15435 0 0
+/s/user/login/check_mobile_existing 9 207 0 0
+/s/user/login/mobileno_chk_user 14 181 0 0
+/public/css/demo/fonts/nifty-demo-icons.ttf 16 1179496 0 0
+/s/map_lists 3 171 0 0
+/s/assets/js/moment.min.js.map 1 86482 0 0
+/admin/subcategories/eyJpdiI6Ing5cHRpemJTTGUyaWcrTHd5bXNCSWc9PSIsInZhbHVlIjoiK29iVXlRdW1wNnl0djBxemZcL2lESEE9PSIsIm1hYyI6IjgzZjM0MWVkODAxMDMyODU4NzdjYmUxNmE1YTUyOTQ4MTI0ODRkNjY3YTc5MjE4Y2NkYjAxOTM3YWE2OWJmNjMifQ==/edit 1 5643 0 0
+/s/truleysell_web/user/login/check_mobile_existing 10 370 0 0
+/admin/stock_report 2 11115 0 0
+/s/truleysell_web/payment_list 1 2648 0 0
+/admin/subcategories 6 42822 0 0
+/admin/languages/create 1 6818 0 0
+/s/truleysell_web/assets/css/webfonts/fa-brands-400.woff 1 0 0 0
+/s/truleysell_web/provider-dashboard 1 18066 0 0
+/track_your_order 7 74044 0 0
+/s/truleysell_web/search/computers-repair-and-services 1 16208 0 0
+/cpsess5618654436/frontend/paper_lantern/home/views/statistics.html.tt 1 597 0 0
+/cPanel_magic_revision_1526491939/frontend/paper_lantern/_assets/css/OpenSans-Bold-webfont.woff 3 67296 0 0
+/s/truleysell_web/assets/fonts/CircularStd-Medium.woff 13 530920 0 1
+/cart 7 90394 0 1
+/step3 3 4315 0 0
+/cpsess8284521427/frontend/paper_lantern/softaculous/index.live.php 1 4776 0 0
+/email/verify 1 1189 0 0
+/cPanel_magic_revision_1526491939/frontend/paper_lantern/_assets/css/OpenSans-Italic-webfont.woff 1 23188 0 0
+/s/truleysell_web/user/login/send_otp_request_user 2 145 0 0
+/admin/frontend_settings/sliders/create 1 761 0 0
+/admin/frontend_settings/home_banners/6/edit 2 2019 0 0
+/s/truleysell_web/assets/fonts/CircularStd-Black.woff 11 454564 0 0
+/admin/links/create 2 10877 0 0
+/admin/conversations 4 22927 0 0
+/s/subcategories 2 6117 0 0
+/admin/logo 33 180262 0 0
+/s/truleysell_web/provider-availability 2 39189 0 0
+/s/home/all_services 1 645 0 0
+/s/users_list 1 434 0 0
+/cPanel_magic_revision_1424892677/frontend/paper_lantern/3rdparty/fontawesome/fonts/fontawesome-webfont.woff2 2 113560 0 0
+/admin/seller_report 2 10648 0 0
+/admin/verification/form 4 24315 0 0
+/admin/categories/eyJpdiI6InVCUndEdStoMG1KdzNvaG1MUVpEaHc9PSIsInZhbHVlIjoibnZqZUtEZVNkczJQcEJyTXR2THJOQT09IiwibWFjIjoiMzAwMjY0NTM0NDNmZjcxNzQxY2ViZmQyNDBlY2JhMzgyYWRhYzUxMDMxMjgxMmNmZmE2M2RlYjUxMjBmNjkwNyJ9/edit 1 5623 0 0
+/s/truleysell_web/user-wallet 3 53645 0 0
+/s/truleysell_web/terms-conditions 1 15101 0 0
+/unprotected/loader.html 6 5430 0 1
+/cpsess5262592494/frontend/paper_lantern/cpanelpro/images.html 1 7738 0 0
+/admin/color 14 75910 0 0
+/s/service-preview/MONTHLY-ESSENTIAL-PACKAGE 1 14979 0 0
+/admin/languages/eyJpdiI6InZhNEs2c0VwYnJkTnEyeTQ3Z1wvbDZnPT0iLCJ2YWx1ZSI6IkxMaW5OMlNWSktDajd1UmpKcyt5NHc9PSIsIm1hYyI6ImMxNWZjNzZiNmE5ZDhmN2JmYzliMzBlNGU3NWRiMmE3M2RkMmNiODhjMjljOTg0NTViZDI4MGJkYmE5MjZiMmIifQ==/edit 1 6866 0 0
+/s/truleysell_web/assets/fonts/CircularStd-BookItalic.woff 1 39220 0 0
+/s/assets/fonts/CircularStd-Bold.woff 1 41308 0 0
+/cpsess0664899628/frontend/paper_lantern/home/views/statistics.html.tt 1 604 0 0
+/dashboard 1 11364 0 0
+/cpsess7930086296/execute/Resellers/list_accounts 1 140 0 0
+/s/truleysell_web/assets/css/webfonts/fa-solid-900.woff 1 0 0 0
+/s/truleysell_web/book-service/5 2 35492 0 0
+/cpsess5618654436/execute/Fileman/list_files 2 495 0 0
+/admin/frontend_settings/home_banners/4/edit 3 3036 0 1
+/cpsess7930086296/frontend/paper_lantern/sql/wizard1.html 1 21218 0 1
+/public/fonts/glyphicons-halflings-regular.woff2 8 144224 0 0
+/cpsess7930086296/execute/Themes/list 1 97 0 0
+/cpsess8284521427/execute/Notifications/get_notifications_count 1 66 0 0
+/cpsess5262592494/execute/DAV/has_shared_global_addressbook 1 79 0 0
+/s/truleysell_web/all-services 2 36370 0 0
+/admin/classified_products 2 10869 0 0
+/admin/categories/featured 9 173 0 0
+/s/truleysell_web/user/service/check_service_title 5 178 0 0
+/cpsess5262592494/frontend/paper_lantern/libraries/cjt2/directives/pagination.ptt 1 409 0 0
+/admin/categories/eyJpdiI6IjVKUzNaa1ZiR2lzdDA3ZHRzdzM1MWc9PSIsInZhbHVlIjoiSmdpem9xQmhuUnBRUXhNdTlnSlFxdz09IiwibWFjIjoiNjc5MWM1ZmY4MTdkMmU4OGUxNjZlZmI1YTU5MTkxMTAwNGJmNzMyNWQ3NGJmNzQ1MWI0ZGQ0MzczNDA2MWQ0NSJ9/edit 1 5534 0 0
+/admin/google-analytics 1 5306 0 0
+/withdraw_requests_all 3 16245 0 0
+/categories 18 189764 2 0
+/cpanel 35 453584 17 12
+/cpsess5618654436/frontend/paper_lantern/softaculous/index.live.php 1 4776 0 0
+/cPanel_magic_revision_1392312282/frontend/paper_lantern/3rdparty/bootstrap/optimized/fonts/glyphicons-halflings-regular.woff 2 46640 0 0
+/s/search 4 59849 0 0
+/admin/categories/eyJpdiI6ImdYWTlNNmh4cUpuY2FxamtmZlFOYlE9PSIsInZhbHVlIjoiTXFJOEZaOXZCUnJKT0NMUk41Q2kxQT09IiwibWFjIjoiMTJhYzdhMzM4ZTg1NzUyYTkxM2MwNGMyMTQ4YTNlNTVmMmZhZjI4ZGM1Njc2NWMyMzZmN2JjMjE0ZTBiODRjNyJ9/edit 1 5553 0 0
+/checkout/order-confirmed 2 23152 0 0
+/customer-packages 13 138570 2 1
+/admin/categories/eyJpdiI6IjNiQzRhQkd4K2NRemJQNmozRGdUeHc9PSIsInZhbHVlIjoiSklIYWpoblQ1K0hGNFVsb2I0OGdOdz09IiwibWFjIjoiNGQ1MThmMjdkYTkyZDNkYzczMjMyYWI4YTdjYWZlNTcxYmMwZjZhNjNlYTI0MmFiNTU1YjIyODhkM2VkYzc1OSJ9/edit 1 5536 0 0
+/admin/frontend_settings/home_banners/10/edit 1 1020 0 0
+/admin/coupon 3 15618 0 0
+/cPanel_magic_revision_1386192030/frontend/paper_lantern/3rdparty/ui-fonts/open_sans/optimized/OpenSans-ExtraBold-webfont.woff 1 23764 0 0
+/s/truleysell_web/search/painting 1 16228 0 0
+/admin/products/admin 6 39402 0 1
+/admin/brands 5 29847 0 0
+/admin/subsubcategories/eyJpdiI6IldXYndPdmozWTJGdUhkMHd1MlhHOWc9PSIsInZhbHVlIjoiMjVkV2ZySlpcL1pwVEg2NjBuUTJnT1E9PSIsIm1hYyI6IjU3OTJhZDlmZjcwYTUwYWUyNDI2ODFjMzhhOGU2Njc0NWZiM2JkMmVmZjhmOWQ4NzhlMDQ5MWU4YTIzZmY4MzgifQ==/edit 1 5967 0 0
+/cpsess5618654436/execute/Resellers/list_accounts 1 140 0 0
+/admin/subsubcategories/eyJpdiI6ImpnTHBhaytBdTZ3Z01vblJMU0hNaXc9PSIsInZhbHVlIjoiUDRMVEI5QjQ2MXBKYnNRYVdlQnVMQT09IiwibWFjIjoiMjhmY2ZiNmM5NTdkNWQ0MDcwMmJjNzQ0ZTY1MjdjYzYyN2FmYWM2MjdhYjhhNDgyMDNlYTc0NmU1NzBmYTU5MyJ9/edit 1 5968 0 0
+/s/truleysell_web/user/service/delete_service 1 22 0 0
+/admin/products/get_products_by_subsubcategory 3 18 0 0
+/supportpolicy 5 50571 0 0
+/cpsess5262592494/frontend/paper_lantern/home/views/statistics.html.tt 4 2408 0 0
+/admin/currency/currency_edit 2 1142 0 0
+/cpsess5262592494/frontend/paper_lantern/diskusage/ 1 10002 0 0
+/products 2 24249 0 0
+/step5 2 3675 0 0
+/admin/frontend_settings/home_banners/7/edit 1 1020 0 0
+/s/service-preview/monthly-essential-package 1 15093 0 0
+/cpsess5618654436/frontend/paper_lantern/softaculous/themes/default/fonts/soft.woff 1 28712 0 0
+/cpsess5262592494/frontend/paper_lantern/ 4 92033 0 0
+/cpsess5618654436/frontend/paper_lantern/ 1 22805 0 0
+/s/truleysell_web/assets/fonts/poppins-regular.woff 1 22892 0 0
+/currency 2 20 0 0
+/s/assets/fonts/CircularStd-Black.woff 1 41324 0 0
+/cpsess5262592494/frontend/paper_lantern/styleswitcher/ 1 8213 0 0
+/cpsess8284521427/3rdparty/sitepad/index.live.php 1 2041 0 0
+/login/ 9 1493 2 0
+/s/truleysell_web/add-service 5 89759 0 0
+/cpsess8284521427/frontend/paper_lantern/filemanager/ 3 39540 0 0
+/install/ 6 14385 5 4
+/admin/frontend_settings/home 19 151462 0 0
+/s/assets/plugins/bootstrap/css/bootstrap.min.css.map 1 646432 0 0
+/admin/pick_up_points 1 5252 0 0
+/admin/vendor_commission 5 26220 0 0
+/admin/sales 12 64661 0 0
+/s/truleysell_web/search/Home-Security 5 79004 0 0
+/s/truleysell_web/service-preview/Home-Cleaning 2 32670 2 0
+/s/admin/login/is_valid_login 15 75 0 0
+/cpsess5262592494/frontend/paper_lantern/filemanager/ 1 17677 0 0
+/checkout/payment_select 3 36994 0 0
+/s/assets/plugins/bootstrap/js/bootstrap.min.js.map 1 191486 0 0
+/s/truleysell_web/dashboard 31 60687 0 0
+/cpsess5618654436/frontend/paper_lantern/filemanager/ 4 70714 0 0
+/s/truleysell_web/contact 2 30092 0 0
+/s/truleysell_web/assets/fonts/CircularStd-Book.woff 13 475956 0 0
+/admin/payment-method 3 18356 0 0
+/s/assets/plugins/fontawesome/webfonts/fa-solid-900.woff2 13 984464 0 0
+/invoice/seller/8 1 10255 0 0
+/cpsess5618654436/frontend/paper_lantern/filemanager/editit.html 7 89789 1 0
+/public/css/bootstrap.min.css.map 4 2168776 0 1
+/cpsess5262592494/frontend/paper_lantern/softaculous/index.live.php 4 19112 0 0
+/cpsess8284521427/execute/Resellers/list_accounts 1 140 0 0
+/s/truleysell_web/assets/fonts/poppins-semibold.woff2 16 263220 0 1
+/sellerpolicy 5 50865 0 0
+/subscribers 1 0 0 0
+/cpsess5618654436/execute/Notifications/get_notifications_count 1 66 0 0
+/s/assets/fonts/poppins-regular.woff2 8 136512 0 0
+/cPanel_magic_revision_1526491937/unprotected/fonts/fontawesome-webfont.woff2 1 56780 0 0
+/cpsess7930086296/frontend/paper_lantern/softaculous/index.live.php 2 9552 0 0
+/cpsess5618654436/execute/Themes/list 1 97 0 0
+/cpsess5262592494/execute/Themes/list 4 388 0 0
+/cpsess8284521427/frontend/paper_lantern/filemanager/editit.html 7 73754 0 1
+/s/truleysell_web/notification-list 2 34758 0 0
+/s/all-services 1 14936 0 0
+/system_settings 1 1568 0 0
+/admin/languages/update_rtl_status 6 30 0 0
+/admin/facebook-chat 1 5962 0 0
+/admin/support_ticket 5 26556 0 0
+/s/user/login/check_otp_user 2 356 0 0
+/s/truleysell_web/assets/plugins/bootstrap/js/bootstrap.min.js.map 4 765944 0 0
+/admin/orders 22 128180 0 0
+/s/categories/check_subcategory_name 1 18 0 0
+/s/assets/fonts/poppins-semibold.woff2 1 17548 0 0
+/s/truleysell_web/assets/js/moment.min.js.map 4 345928 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff 3 68724 0 0
+/s/truleysell_web/all-categories 11 177289 0 0
+/cpsess5262592494/3rdparty/sitepad/index.live.php 4 8229 0 0
+/cpsess5262592494/execute/NVData/get 1 175 0 0
+/s/assets/plugins/fontawesome/webfonts/fa-regular-400.woff2 13 176592 0 0
+/s/truleysell_web/service-preview/monthly-essential-package 8 148528 0 0
+/admin/categories/create 9 49258 0 0
+/admin/staffs 4 20932 0 0
+/admin/staffs/create 1 5413 0 0
+/s/truleysell_web/admin/total-report 1 3461 0 0
+/s/user/login/email_chk_user 24 360 0 0
+/invoice/seller/1 1 8650 0 0
+/s/dashboard 8 9992 0 0
+/cpsess5262592494/execute/Email/get_main_account_disk_usage 1 76 0 0
+/s/truleysell_web/user/booking/book_service/ 1 414 0 0
+/admin/languages 14 90779 0 0
+/orders/update_delivery_status 1 5 0 0
+/s/truleysell_web/categories 3 8196 0 0
+/admin/frontend_settings/home_banners/9/edit 2 2016 0 0
+/cpsess7930086296/execute/Notifications/get_notifications_count 1 66 1 0
+/webmail 1 13005 0 0
+/admin/subcategories/eyJpdiI6IkhaeW5FMDFCMXcwVnBXNllxYmYyNWc9PSIsInZhbHVlIjoiRzVCOEVwbVEyYk1oVnlCTnRcLzlXRXc9PSIsIm1hYyI6IjQwNDI5MzhmYThiYWViN2QwNTllMTk5ZTk5MDhiOTgxOWViNzE4ZmM5NDYwNGE4ODlkZGUyMzFjOGM2Y2U4MmEifQ==/edit 1 5644 0 0
+/s/truleysell_web/admin/login 7 8200 2 1
+/admin/subsubcategories/create 2 11938 0 0
+/s/truleysell_web/user/subscription/stripe_payments/ 1 25 0 0
+/invoice/customer/1 1 8650 0 0
+/admin/links 7 42392 0 0
+//password/reset/621409782e015724c8135b4a784b17ef325b726f8a2fb5ddbc487806987e799f 1 1479 1 1
+/cpsess5262592494/frontend/paper_lantern/softaculous/themes/default/fonts/soft.woff 1 28712 0 0
+/s/truleysell_web/search/Painting 1 17461 0 0
+/admin/in_house_sale_report 1 5558 0 0
+/digitalproducts 11 60650 0 0
+/admin/seller_sale_report 2 10680 0 0
+/cpsess5262592494/frontend/paper_lantern/mail/pops/ 1 15125 0 0
+/unprotected/redirect.html 4 2052 0 0
+/admin/categories 18 135715 0 0
+/s/truleysell_web/api/add-user-wallet 1 171 0 0
+/returnpolicy 5 50524 0 0
+/admin/brands/create 1 5376 0 1
+/s/truleysell_web/service-preview/MONTHLY-ESSENTIAL-PACKAGE 3 51029 0 0
+/s/truleysell_web/assets/fonts/poppins-medium.woff 1 22940 0 0
+/cPanel_magic_revision_1526491939/frontend/paper_lantern/_assets/fonts/fontawesome-webfont.woff2 4 182628 0 0
+/s/truleysell_web/my-services 8 146004 0 0
+/cart/show-cart-modal 1 1526 0 0
+/s/users 1 2529 0 0
+/s/truleysell_web/search/Mobile-Repair-and-Services 1 17461 0 0
+/step4 2 2808 0 0
+/admin/sellers 8 46922 0 1
+/admin/seosetting 14 78000 0 0
+/admin/generalsettings 12 68676 0 0
+/admin/social-login 2 11023 0 0
+/admin/products/admin/eyJpdiI6ImwycVwvbncxdUJ1SmZRZnljM1Q5Mll3PT0iLCJ2YWx1ZSI6ImpvT1NMbytROUZwZng5Y2JIK1puZ3c9PSIsIm1hYyI6IjRlMTNmMTMyM2QwNTE1MTY4YWI3NDE0YWY5NTYxZDJjZGRkYjA5ZTgzNzQ1MzU5YTBmNzIzM2Q4MWI4NThiNWQifQ==/edit 1 11391 0 0
+/admin/currency 12 89690 0 0
+/language 6 40 0 0
+/product-bulk-export 2 13184 0 0
+/s/truleysell_web/provider-subscription 5 86936 0 0
+/checkout/delivery_info 3 37505 0 0
+/cpsess5262592494/json-api/cpanel 4 3363 0 0
+/s/truleysell_web/map_lists 17 1543 0 1
+/s/user/login/send_otp_request_user 2 128 0 0
+/admin/sales/eyJpdiI6ImxUMG9nRnREXC93ZXZ6b29HSk83djlBPT0iLCJ2YWx1ZSI6ImF2UUxFM3FZYUNkdkU0YUtSV1RlSWc9PSIsIm1hYyI6ImI3NDdmNWY1N2ViZDJhNzYxMThhZGQ4NjU0ZjNhZjI3ZDZkYWY0ZGYzZWM2YTRlZTcxNDZlY2NjYTJhZjEyMmMifQ==/show 1 6048 0 0
+/admin/categories/eyJpdiI6ImdBalk0dFZ5dTdGMmxlM29qMlh4bnc9PSIsInZhbHVlIjoiQmVxNXVzOTR0OGo3b0gxSWJ0dktRZz09IiwibWFjIjoiZWUyZTFmMWNkZDZhZDRhZGY2NjZkYmE2MWIwMzU4ZGI3YmYwNTI1NWY3NTY0NGM4OGRlYWQ1YWIzMzY5MTljZiJ9/edit 1 5535 0 0
+/s/truleysell_web/user/login/send_otp_request 10 793 0 0
+/.env 1 2114 1 1
+/public/fonts/glyphicons-halflings-regular.ttf 1 45404 0 0
+/checkout 3 45742 0 0
+/admin/subcategories/eyJpdiI6ImZPVjg2N1wvY0doNStkV2d1b21pa2F3PT0iLCJ2YWx1ZSI6IjhyREUrcjRzclZnTkdzWmlmTXVxTXc9PSIsIm1hYyI6IjY4YmZkZDEyZjA2N2M0YzVkZDdiYjFjNDU4NmM2M2U2MDhmZWQyMTcxOTJhODYxYzE2MGRkMGMwNzQwMmU0NWYifQ==/edit 1 5642 0 0
+/admin/smtp-settings 11 68424 0 2
+/s/truleysell_web/user/login/check_otp 11 2121 0 0
+/s/truleysell_web/user/service/edit_service/2 5 92300 0 0
+/cPanel_magic_revision_1386192030/frontend/paper_lantern/3rdparty/ui-fonts/open_sans/optimized/OpenSans-Bold-webfont.woff 2 44864 0 0
+/s/truleysell_web/admin/wallet 1 3153 0 0
+/brands 2 20575 0 0
+/s/truleysell_web/admin/reject-report 1 3539 0 0
+/cpsess5618654436/3rdparty/sitepad/index.live.php 1 2041 0 0
+/s/truleysell_web/assets/plugins/theia-sticky-sidebar/maps/theia-sticky-sidebar.js.map 4 74804 0 0
+/cpsess5262592494/execute/Resellers/list_accounts 4 560 0 0
+/admin/flash_deals 14 78357 1 0
+/s/truleysell_web/user/login/check_otp_user 2 398 0 0
+/admin/frontend_settings/home_banners/5/edit 1 1019 0 0
+/s/truleysell_web/update_status_user 1 22 0 0
+/cPanel_magic_revision_1526491939/frontend/paper_lantern/_assets/css/OpenSans-Regular-webfont.woff 4 90640 0 0
+/s/truleysell_web/search/home-security 2 32091 0 0
+/s/assets/fonts/CircularStd-Medium.woff 2 81680 0 0
+/cpsess8284521427/frontend/paper_lantern/home/views/statistics.html.tt 1 593 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff 3 67296 0 0
+/s/assets/fonts/CircularStd-Book.woff 2 73224 0 0
+/cpsess8284521427/frontend/paper_lantern/softaculous/themes/default/fonts/soft.woff 1 28712 0 0
+/admin/business-settings/update/activation 9 109 0 0
+/shops/visit/Demo-Seller-Shop-1 1 11779 0 0
+/s/truleysell_web/user/login/mobileno_chk_user 17 421 0 0
+/s/truleysell_web/provider-wallet 1 18717 0 0
+/admin/wish_report 1 5550 0 0
+/s/truleysell_web/service-providers 1 2788 0 0
+/s/assets/fonts/poppins-medium.woff2 8 136800 0 0
+/s/truleysell_web/search/home-repair 2 33347 0 0
+/s/assets/plugins/fontawesome/webfonts/fa-brands-400.woff2 13 979368 0 2
+/s/truleysell_web/provider_list 1 409 0 0
+/s/truleysell_web/assets/fonts/poppins-bold.woff2 24 390448 0 0
+/password/reset 12 16565 0 0
+/admin/sellerpolicy/seller_policy 2 10477 0 0
+/s/truleysell_web/user/service/get_subcategory 8 989 0 0
+/compare 3 31338 0 1
+/admin/products/admin/eyJpdiI6Iit1UE5Dc2NxYlRXVzN4eW1HQ3VXMlE9PSIsInZhbHVlIjoiaHhDTjZMQ21NRVFCckJyeVwva1VNV1E9PSIsIm1hYyI6ImUwNmFmNjdlZjAzNTAyZDgyMTQ5ODA4MzllOGRmOTI3OTdhMzY5YWI5NTk5Y2YyNTZiOGEyNzU5NzJjMzY0NDAifQ==/edit 1 11399 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff 3 67980 0 0
+/admin/attributes 4 23330 0 0
+/cpsess5262592494/execute/Notifications/get_notifications_count 8 528 0 1
+/admin/orders/eyJpdiI6ImNJZWVueTRLa05HV2MybkVpblpva2c9PSIsInZhbHVlIjoic3VDaXZwYlwvUXhKOER0UG9BWXhOcXc9PSIsIm1hYyI6Ijg0NTc4MzlmNzNjN2U0YzU2Yzc3YzY0NDI1M2QwN2EzNDEyYmJjNjYyNWYyNmFkNGUzNGVhY2E5OTY1NjRjODMifQ==/show 1 6439 0 0
+/admin/frontend_settings/sliders/8 5 41 0 0
+/cpsess5262592494/execute/Email/list_pops_with_disk 1 415 0 0
+/cart/nav-cart-items 5 4344 0 0
+/admin/frontend_settings/sliders/11 1 21 0 0
+/admin/products/seller 4 23597 0 0
+/s/truleysell_web/user/service/delete_inactive_service 1 22 0 0
+/s/truleysell_web/search/Salon-At-Home 2 35824 0 0
+/shops/create 6 64461 0 0
+/s/truleysell_web/assets/plugins/toaster/toastr.js.map 4 102532 0 0
+/products/sku_combination_edit 4 0 0 0
+/s/search/salon-at-home 1 14664 1 0
+/s/assets/fonts/poppins-bold.woff2 8 135808 0 0
+/s/assets/plugins/theia-sticky-sidebar/maps/theia-sticky-sidebar.js.map 1 18701 0 0
+/s/truleysell_web/user-bookings 3 54154 0 0
+/s/truleysell_web/assets/fonts/poppins-regular.woff2 24 392472 0 0
+/public/plugins/font-awesome/fonts/fontawesome-webfont.woff2 16 1234560 0 1
+/s/admin 2 2234 0 0
+/s/truleysell_web/admin 33 33515 0 0
+/product/Fresho-Pomegranate-4-pcs-approx-720-to-800-gmFresho-Pomegranate-4-pcs-approx-720-to-800-gm-UhmiT 10 142832 0 0
+/s/truleysell_web/search/appliances-repair-and-services 3 47564 0 0
+/cPanel_magic_revision_1526491939/frontend/paper_lantern/_assets/fonts/glyphicons-halflings-regular.woff 4 74056 0 0
+/cpsess7930086296/frontend/paper_lantern/ 2 45690 0 0
+/privacypolicy 5 50516 0 0
+/admin/customers 20 113907 0 1
+/admin/coupon/create 1 5472 0 0
+/ajax-search 3 1095 0 0
+/users/registration 23 257318 0 2
+/admin/languages/eyJpdiI6IkdGZU8xNXlSVkJYa0V5Y2VnVGlYZVE9PSIsInZhbHVlIjoiTkdHRkZGc0ZGZUh0djBBcXJRaHl2QT09IiwibWFjIjoiNmU5ODJhYTA5OTZjNzE1ODg1Y2FlMmZhZjU1MWQ4MDhhYTY2MWNiNTRkMThmZjdkZmY4ODlhMTNkZjk1ZGYwZiJ9/edit 1 6873 0 0
+/orders/update_payment_status 1 5 0 0
+/step1 3 4159 0 0
+/admin/coupon/get_form 1 1502 0 0
+/admin/reviews 3 16835 0 0
+/s/truleysell_web/search/salon-at-home 11 195697 1 0
+/product-bulk-upload/index 2 11355 0 0
+/admin/subsubcategories 6 49198 0 0
+/subsubcategories/get_subsubcategories_by_subcategory 7 1015 0 0
+/cpsess8284521427/execute/Themes/list 1 97 0 0
+/admin/roles/create 1 5586 0 0
+/cPanel_magic_revision_1386192030/frontend/paper_lantern/3rdparty/ui-fonts/open_sans/optimized/OpenSans-Regular-webfont.woff 2 45320 0 0
+/s/truleysell_web/user/service/service_availability/ 1 193 0 0
+/public/fonts/glyphicons-halflings-regular.woff 1 23424 0 0
+/subcategories/get_subcategories_by_category 10 1742 0 0
+/s/truleysell_web/admin/emailsettings 10 24069 0 0
+/admin/activation 11 68951 0 0
+/s/truleysell_web/assets/fonts/poppins-medium.woff2 24 393300 0 0
+/admin/customer_packages 1 5013 0 0
+/cpsess8284521427/frontend/paper_lantern/ 1 22759 0 0
+/admin/frontend_settings/home_banners/8/edit 2 2019 0 0
+/cart/addtocart 5 2851 0 0
+/admin/orders_by_pickup_point 15 72585 0 0
+/s/truleysell_web/my-services-inactive 3 54315 0 0
+/s/truleysell_web/assets/fonts/CircularStd-Bold.woff 8 330464 0 0
+/s/all-categories 12 166882 0 0
+/product/variant_price 10 591 0 0
+/s/truleysell_web/assets/css/webfonts/fa-regular-400.woff 1 0 0 1
+/s/edit-subcategory/1 1 2335 0 0
+/s/truleysell_web/admin/stripe_payment_gateway 2 4708 0 0
+/s/assets/plugins/toaster/toastr.js.map 1 25633 0 0
+/admin/newsletter 2 10832 0 0
+/admin/frontend_settings/home_banners/update_status 1 21 0 0
+/cpsess5618654436/frontend/paper_lantern/filemanager/upload-ajax.html 2 4507 0 0
+/admin/roles 3 17120 0 0
+/step2 3 4116 0 0
+/admin/profile 12 65228 0 0
+/s/truleysell_web/admin/sms-settings 5 11747 0 1
+/s/truleysell_web/search/mobile-repair-and-services 5 81957 0 0
+/cpsess5618654436/execute/Fileman/upload_files 2 689 0 0
+/s/truleysell_web/assets/plugins/bootstrap/css/bootstrap.min.css.map 4 2585728 0 0
+END_SIDER

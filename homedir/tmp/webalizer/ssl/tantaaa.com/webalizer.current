@@ -1,0 +1,1638 @@
+# Webalizer V2.23-08 Incremental Data - 01/31/2021 16:14:29
+2021 1 31 16 14 29
+4037 3114 266 214 41 87 73216853 1295 475 0
+14 1 431 1 31
+14 4 262834 10 9 8
+15 0 240 10 10 10
+16 0 300 10 13 8
+20 0 340 9 19 11
+14 0 260 12 10 10
+19 8 275830 10 7 6
+64 41 459575 17 16 14
+48 0 920 18 19 18
+32 0 36854 14 12 12
+25 0 37848 17 14 14
+84 26 293968 24 34 28
+50 1 14881 21 8 7
+17 1 85763 15 12 12
+158 121 3322884 20 32 16
+128 109 3126184 16 13 9
+118 83 1257549 17 31 23
+61 39 543723 13 18 11
+251 220 6291445 16 34 16
+112 87 2820060 24 25 18
+154 107 2568851 21 38 15
+235 194 5698876 20 35 16
+1002 870 19901023 23 342 29
+247 210 6770797 16 65 15
+53 41 617094 15 27 18
+528 492 8609407 24 283 28
+37 18 330692 19 13 13
+201 170 3688802 22 71 29
+23 14 144778 14 8 8
+133 111 2577777 19 31 23
+153 130 3036422 18 33 18
+25 17 440876 14 13 12
+46 17 274929 17
+49 26 392732 14
+60 36 611820 30
+49 19 231291 14
+61 36 320777 15
+60 52 645259 8
+43 19 409223 22
+50 22 485379 20
+57 26 346261 25
+30 16 313786 10
+122 101 2951110 28
+48 16 500103 16
+89 44 463863 24
+270 223 6916479 46
+44 23 531803 24
+589 483 13989470 108
+460 382 8780343 157
+155 113 2888615 31
+389 351 3457040 266
+698 618 15472369 245
+236 172 4445268 82
+81 49 679353 21
+296 245 7621898 52
+55 25 487682 20
+9
+0
+0
+3114
+0
+0
+0
+0
+0
+6
+0
+1
+8
+0
+26
+0
+0
+0
+42
+0
+5
+443
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+382
+0
+0
+0
+0
+0
+# -urls- 
+/public/plugins/bootstrap-wizard/jquery.bootstrap.wizard.min.js
+0 2 3544614381717291008 3184 0 0
+/public/frontend/js/vendor/popper.min.js
+0 33 3343185394177355825 212116 0 0
+/public/frontend/js/jquery.share.js
+0 33 28583376 53288 0 0
+/home/section/featured
+0 44 0 12760 4 3
+/s/
+0 16 0 284527 16 11
+/s/assets/js/moment.min.js
+0 4 0 73208 0 0
+/s/assets/js/cropper.min.js
+0 4 0 46812 0 0
+/public/uploads/sliders/X6MMpLZ8eteE4ok2jwoO443KDyeSMcet9XHW1YVt.png
+0 23 0 9945223 0 0
+/s/assets/js/sweetalert.min.js
+0 3 0 34338 0 0
+/public/frontend/css/jquery.share.css
+0 26 0 21829 0 0
+/s/assets/js/functions.js
+0 5 0 39840 0 0
+/sitemap.xml
+0 44 0 2708 0 0
+/public/uploads/categories/banner/qUwudEZfv1faRCrFvthPBkwUvWZK6G05LSUYMoqJ.png
+0 19 0 415549 0 0
+/public/plugins/bootstrap-validator/bootstrapValidator.min.js
+0 2 0 48486 0 0
+/public/css/jodit.min.css
+0 2 0 32534 0 0
+/cPanel_magic_revision_1526491937/unprotected/cpanel/images/notice-success.png
+0 6 0 5772 0 0
+/public/css/bootstrap-select.min.css
+0 2 0 4036 0 0
+/public/frontend/js/jquery.countdown.min.js
+0 32 0 69992 0 0
+/s/assets/plugins/datatables/datatables.min.css
+0 2 0 2062 0 0
+/public/uploads/products/photos/yxfrROcZpxVnWmiqCO9Xeasdc12XJZn5xhvdVHd7.jpeg
+0 3 0 90219 0 0
+/public/plugins/font-awesome/fonts/fontawesome-webfont.woff2
+0 3 0 154321 0 0
+/public/frontend/js/vendor/bootstrap.min.js
+0 34 0 445021 0 0
+/public/uploads/categories/icon/iKxNp8VBAUYWyLxQvE8eMuRQjnxOvLjiBqxTH6EW.png
+0 19 0 277305 0 0
+/public/plugins/font-awesome/css/font-awesome.min.css
+0 2 0 13332 0 0
+/cPanel_magic_revision_1386192031/unprotected/cpanel/fonts/open_sans/OpenSans-Bold-webfont.woff
+0 6 0 134592 0 0
+/public/uploads/logo/WRurcGIkPsP53wz5LsHpA0KtXLRj9MQrBVDf1xzn.png
+0 30 87311317344596270 216659 0 0
+/public/frontend/css/xzoom.css
+0 26 86182131687042610 17766 0 0
+/public/frontend/js/bootstrap-tagsinput.min.js
+0 32 7349594457814150713 95068 0 0
+/public/frontend/css/sweetalert2.min.css
+0 25 26955189550395960 102344 0 0
+/s/assets/css/cropper.min.css
+0 5 3329908546542305536 5210 0 0
+/s/assets/plugins/fontawesome/css/all.min.css
+0 3 4121692158521912883 35649 0 0
+/cPanel_magic_revision_1526491938/unprotected/cpanel/images/cp-logo.svg
+0 6 7311146958435135789 5400 0 0
+/public/frontend/css/custom-style.css
+0 29 0 1015 0 0
+/s/assets/js/popper.min.js
+0 4 0 28748 0 0
+/public/uploads/categories/icon/KjJP9wuEZNL184XVUk3S7EiZ8NnBN99kiU4wdvp3.png
+0 24 0 503033 0 0
+/public/css/demo/active-shop-demo-icons.min.css
+0 2 0 4584 0 0
+/public/frontend/images/icons/cards/paypal.png
+0 3 0 74046 0 0
+/public/frontend/fonts/fontawesome-webfont.woff2
+0 23 0 1774680 0 0
+/public/frontend/images/icons/flags/in.png
+0 23 0 11066 0 0
+/public/frontend/js/nouislider.min.js
+0 33 0 164876 0 0
+/s/assets/img/user.jpg
+0 2 0 1112 0 0
+/public/plugins/datatables/media/js/jquery.dataTables.js
+0 2 0 212334 0 0
+/track_your_order
+0 1 0 10492 0 0
+/public/plugins/select2/css/select2.min.css
+0 2 0 4032 0 0
+/public/uploads/products/photos/YoCi6VwFYN1vZUb6Kd7KEFpQSu4OdqVEDeKD8rkB.jpeg
+0 5 0 431925 0 0
+/public/uploads/favicon/N5j9jcWkUo60mje8JTDGladBOFG2nWekxQNp3ot8.png
+0 26 0 1258800 0 0
+/public/plugins/font-awesome/fonts/fontawesome-webfont.woff
+0 3 0 155089 0 0
+/compare
+0 1 0 10457 0 0
+/public/plugins/switchery/switchery.min.css
+0 2 0 524 0 0
+/public/plugins/font-awesome/fonts/fontawesome-webfont.ttf
+0 2 0 190024 0 0
+/s/assets/js/script.js
+0 4 0 8344 0 0
+/public/uploads/banners/tplb01x4ZWQZQyfXQFeH11XpJ5Db1VYoVNAUPHcq.jpeg
+0 22 0 1075118 0 0
+/public/frontend/images/icons/user-placeholder.jpg
+0 4 0 93344 0 0
+/public/uploads/brands/brand.jpg
+0 16 0 229744 0 0
+/public/js/jodit.min.js
+0 2 0 213410 0 0
+/terms
+0 17 0 220714 15 16
+/public/frontend/css/slick.css
+0 27 0 13395 0 0
+/public/css/spectrum.css
+0 29 0 110356 0 0
+/sellerpolicy
+0 1 0 10209 0 0
+/public/uploads/banners/4u8M09tIL4wV7wRDWdBsoqw0L11WSYyPcR2zSrsc.jpeg
+0 15 0 734850 0 0
+/public/css/demo/active-shop-demo.min.css
+0 2 0 4084 0 0
+/public/plugins/datatables/media/css/dataTables.bootstrap.css
+0 2 0 1902 0 0
+/s/assets/js/cropper_profile_provider.js
+0 3 0 6861 0 0
+/public/uploads/categories/icon/feUnaSk7vYgQZlDc3JmoLgxxCktdsiJcmZzAeztb.jpeg
+0 22 0 2399958 0 0
+/cPanel_magic_revision_1526491937/unprotected/cpanel/images/notice-info.png
+0 6 0 5856 0 0
+/cPanel_magic_revision_1526491937/unprotected/cpanel/images/icon-username.png
+0 6 0 1920 0 0
+/public/plugins/bootstrap-tagsinput/bootstrap-tagsinput.min.css
+0 2 0 722 0 0
+/home/section/best_sellers
+0 47 0 940 0 7
+/users/registration
+0 1 0 11280 0 0
+/s/assets/js/bootstrapValidator.min.js
+0 3 0 76221 0 0
+/favicon.ico
+0 1 0 0 0 0
+/s/assets/js/place.js
+0 3 0 3150 0 0
+/supportpolicy
+0 1 0 10209 0 0
+/s/assets/plugins/jquery-confirm/jquery-confirm.min.js
+0 4 0 27744 0 0
+/s/assets/js/login.js
+0 5 0 16485 0 0
+/public/js/bootstrap-select.min.js
+0 2 0 30330 0 0
+/cPanel_magic_revision_1526491937/unprotected/cpanel/images/notice-error.png
+0 6 0 6156 0 0
+/public/uploads/categories/icon/h9XhWwI401u6sRoLITEk9SUMRAlWN8moGrpPfS6I.png
+0 23 0 503033 0 0
+/public/frontend/fonts/line-awesome.woff2
+0 23 0 1037484 0 0
+/public/uploads/products/flash_deal/8zmMX1I0ccrrUhNdL45t0p8RJPmkGd6eZFwi73aA.jpeg
+0 19 0 918384 0 0
+/s/assets/css/style.css
+0 4 0 59900 0 0
+/s/assets/plugins/owlcarousel/owl.carousel.min.css
+0 4 0 3664 0 0
+/public/js/bootstrap.min.js
+0 2 0 19056 0 0
+/public/frontend/css/colors/2.css
+0 28 0 91888 0 0
+/s/uploads/category_images/1605599694Tantaaa_(3)_381_286.jpg
+0 1 0 120958 0 0
+/currency
+0 1 0 20 0 0
+/public/uploads/sliders/QH6ULgS7FQ2o1VAbVG1IdKZdw2kfnFf2kUToWl1k.jpeg
+0 23 0 1332666 0 0
+/public/uploads/sliders/jP33zrOGWk09VrK9JUhXYAEkxnMXaxxjTWGw5rWc.jpeg
+0 24 0 2618136 0 0
+/public/frontend/js/jodit.min.js
+0 34 0 3555957 0 0
+/s/uploads/category_images/1605599678Tantaaa_(1)_381_286.jpg
+0 1 0 127363 0 0
+/public/frontend/js/xzoom.min.js
+0 31 0 133702 0 0
+/public/uploads/categories/banner/category-banner.jpg
+0 24 0 494328 0 0
+/cPanel_magic_revision_1526491937/unprotected/cpanel/images/warning.png
+0 6 0 6360 0 0
+/public/plugins/switchery/switchery.min.js
+0 2 0 12116 0 0
+/public/uploads/categories/icon/DMAOTD2zo5rE9Ind62gtgwlIjIvMuzhs2163xh7w.png
+0 19 0 415549 0 0
+/public/uploads/categories/icon/HovxKRvdxgYhfK4es21I2x810V0UAGn2LzspWLuR.jpeg
+0 25 0 2582275 0 0
+/public/frontend/css/images/social-icons.png
+0 2 0 88914 0 0
+/public/uploads/admin_login_background/WnsCWXYB7AknefWDIQ0PQafKiC0BBXnqSQHsPiSQ.png
+0 2 0 833243 0 0
+/categories
+0 12 0 134357 9 10
+/public/uploads/banners/ibCzEGJVr02oBDST7ZuOiVFPZpwhYSbGqv3FzlxR.jpeg
+0 16 0 690280 0 0
+/s/user/service/get_category
+0 8 0 1392 8 8
+/public/uploads/admin_logo/lgOZDq7lwSS0wrfxvJpPajoBMbdNSwaUR4E36DNT.png
+0 2 0 8996 0 0
+/home/section/home_categories
+0 43 0 18791 4 4
+/search
+0 28 0 329077 0 0
+/public/plugins/datatables/extensions/Responsive/css/responsive.dataTables.min.css
+0 2 0 1544 0 0
+/public/frontend/js/select2.min.js
+0 34 0 586807 0 0
+/s/assets/plugins/owlcarousel/owl.carousel.min.js
+0 3 0 33483 0 0
+/cPanel_magic_revision_1526491938/unprotected/cpanel/images/cpanel-logo.svg
+0 6 0 15792 0 0
+/public/frontend/js/slick.min.js
+0 32 0 314368 0 0
+/public/js/demo/tables-datatables.js
+0 2 0 1556 0 0
+/public/uploads/categories/icon/rKAPw5rNlS84JtD9ZQqn366jwE11qyJqbzAe5yaA.png
+0 23 0 503033 0 0
+/login
+0 3 0 4585 0 0
+/public/frontend/images/icons/cards/mastercard.png
+0 3 0 6222 0 0
+/s/assets/css/avatar.css
+0 3 0 1827 0 0
+/public/uploads/categories/banner/Q7ksWQE0TZqncsAoBetGLclpthMZN3O2u9VMqjRX.jpeg
+0 19 3329064133655003136 2072691 0 0
+/s/assets/plugins/bootstrap/css/bootstrap.min.css
+0 4 3832061034533814272 85092 0 0
+/s/uploads/category_images/1605599705Tantaaa_(5)_381_286.jpg
+0 1 8387231245757579264 189341 0 0
+/users/login
+0 9 4121692158521912883 98458 0 0
+/s/assets/js/jquery-3.5.0.min.js
+0 4 28015 121236 0 0
+/returnpolicy
+0 1 104886647914804 10796 0 0
+/brands
+0 2 3690753969077039406 20662 0 0
+/public/frontend/images/icons/flags/en.png
+0 24 28587872 14007 0 0
+/s/uploads/category_images/1605599749Tantaaa_(11)_381_286.jpg
+0 4 0 242616 0 0
+/public/uploads/categories/icon/dbjjXJLDIil9JDDVJRHctmg41Egoo6rxRhj1Tt1T.png
+0 19 0 415549 0 0
+/s/assets/plugins/toaster/toastr.min.js
+0 5 0 9425 0 0
+/public/css/demo/fonts/nifty-demo-icons.woff
+0 2 0 125733 0 0
+/public/uploads/banners/2pw7ywk5m6NwEfRvHILP7f8qo0RRn2MlZqqdSsBZ.jpeg
+0 22 0 1048454 0 0
+/public/css/demo/fonts/nifty-demo-icons.ttf
+0 3 0 169218 0 0
+/public/uploads/categories/banner/jmdTaOKnXzdAcEl96XKM2iGN4e9CVdFI9e6IriqW.jpeg
+0 19 0 1962529 0 0
+/public/js/demo/form-wizard.js
+0 2 0 3374 0 0
+/public/frontend/css/fb-style.css
+0 26 0 6085 0 0
+/public/js/spectrum.js
+0 2 0 35246 0 0
+/s/assets/plugins/theia-sticky-sidebar/ResizeSensor.js
+0 3 0 8643 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Regular-webfont.woff
+0 6 0 135960 0 0
+/public/uploads/products/thumbnail/STH3pMOvqTMaFmakfvtqW1hzLGZ0zSQaPd8Jg2jt.jpeg
+0 21 0 1015056 0 0
+/home/section/best_selling
+0 45 0 47589 4 6
+/public/uploads/banners/BxEMe5qgu7acEs3vvLnLmnyiriTpRdRbl3vJqTvf.jpeg
+0 23 0 1075118 0 0
+/public/js/active-shop.min.js
+0 2 0 21850 0 0
+/public/frontend/css/bootstrap-tagsinput.css
+0 26 0 10224 0 0
+/public/frontend/css/main.css
+0 29 0 439622 0 0
+/public/frontend/js/fb-script.js
+0 32 0 6723 0 0
+/s/assets/js/script_crop.js
+0 3 0 8712 0 0
+/public/frontend/css/font-awesome.min.css
+0 27 0 180307 0 0
+/public/uploads/categories/icon/fjU4MxLfyPrZ2F2kcpC6dKNumAZw4bqmSApi2dv4.jpeg
+0 23 0 2375693 0 0
+/s/uploads/category_images/1605599686Tantaaa_(2)_381_286.jpg
+0 2 0 104045 0 0
+/public/frontend/js/vendor/jquery.min.js
+0 35 0 995722 0 0
+/public/css/bootstrap.min.css
+0 2 0 36340 0 0
+/category/nav-element-list
+0 501 0 73767 15 15
+/public/plugins/datatables/extensions/Responsive/js/dataTables.responsive.min.js
+0 2 0 7812 0 0
+/public/uploads/sliders/NCv47fHKnhVOljpkXik5KgIHCleEbbpzcweNOIhl.jpeg
+0 1 0 0 0 0
+/s/assets/plugins/owlcarousel/owl.theme.default.min.css
+0 3 0 1125 0 0
+/public/frontend/css/bootstrap.min.css
+0 29 0 550801 0 0
+/public/frontend/css/intlTelInput.min.css
+0 26 0 59601 0 0
+/cpanel
+0 7 0 90485 5 0
+/public/js/custom.js
+0 2 0 2952 0 0
+/public/uploads/products/photos/F46MeQcNkASgAnK28xME9m3DYuU1yz5DI7P3ppsE.jpeg
+0 3 0 98757 0 0
+/s/assets/plugins/bootstrap/js/bootstrap.min.js
+0 3 0 42771 0 0
+/public/frontend/images/icons/cards/visa.png
+0 3 0 4416 0 0
+/public/plugins/bootstrap-datepicker/bootstrap-datepicker.min.js
+0 2 0 19598 0 0
+/public/frontend/js/active-shop.js
+0 35 0 229128 0 0
+/public/uploads/categories/icon/wnFWVHlljsJb88B67uTh8X9BJQ7H1Wk9kYKwCbVJ.png
+0 19 0 415549 0 0
+/public/js/spartan-multi-image-picker-min.js
+0 2 0 8006 0 0
+/
+0 142 0 3720195 165 38
+/public/css/active-shop.min.css
+0 2 0 56054 0 0
+/public/uploads/admin_login_sidebar/oifU5aQoMuLDhVmB6mn47gepy7rtZyRVC3RvN62e.png
+0 2 0 29190 0 0
+/public/frontend/images/icons/cards/cod.png
+0 25 0 678375 0 0
+/public/uploads/categories/banner/C6Psfdc7v4ggHjwbkSgMN5OCAwX9kLIgzgMyjU7P.jpeg
+0 19 0 1962529 0 0
+/shops/create
+0 2 0 22057 2 2
+/cPanel_magic_revision_1526491937/unprotected/cpanel/images/icon-password.png
+0 6 0 2700 0 0
+/public/uploads/products/photos/hGrnVIU0xo6q98eu7bOi8dnE7XCL2WP0VGx5J71W.jpeg
+0 3 0 145008 0 0
+/public/uploads/sliders/CP14XbpBDyORXvg9PPppWsUe2quZtCTFKVSbhXfw.jpeg
+0 21 0 1212435 0 0
+/public/uploads/categories/icon/01N7emZfgy0FFxCgM8i6ZozdZ28RtRyx816eDa1o.png
+0 19 0 415549 0 0
+/s/assets/plugins/jquery-ui/jquery-ui.min.js
+0 4 0 256820 0 0
+/public/frontend/images/placeholder.jpg
+0 2 0 0 0 0
+/s/assets/plugins/fontawesome/css/fontawesome.min.css
+0 5 0 58160 0 0
+/public/css/themes/type-c/theme-navy.min.css
+0 2 0 6416 0 0
+/s/uploads/category_images/1605599768Tantaaa_(14)_381_286.jpg
+0 3 0 264420 0 0
+/cPanel_magic_revision_1386192033/unprotected/cpanel/fonts/open_sans/OpenSans-Semibold-webfont.woff
+0 6 0 137448 0 0
+/product/Fresho-Pomegranate-4-pcs-approx-720-to-800-gmFresho-Pomegranate-4-pcs-approx-720-to-800-gm-UhmiT
+0 4 0 42259 0 0
+/public/js/demo/ui-alerts.js
+0 2 0 3418 0 0
+/public/plugins/datatables/media/js/dataTables.bootstrap.js
+0 2 0 3450 0 0
+/public/frontend/js/lazysizes.min.js
+0 31 0 98410 0 0
+/public/plugins/bootstrap-tagsinput/bootstrap-tagsinput.min.js
+0 2 0 6088 0 0
+/public/frontend/css/active-shop.css
+0 30 0 1747762 0 0
+/admin
+0 1 0 6294 0 0
+/public/frontend/images/icons/cards/maestro.png
+0 3 0 6180 0 0
+/public/frontend/js/intlTelInput.min.js
+0 29 0 285961 0 0
+/s/assets/plugins/datatables/datatables.min.js
+0 4 0 111376 0 0
+/public/uploads/banners/uH9kruntl3YjvMLCZmdTvaiUdiWazbxSptfOMbCn.jpeg
+0 24 0 1175760 0 0
+/public/frontend/js/main.js
+0 32 0 90414 0 0
+/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css
+0 6 0 3216 0 0
+/subscribers
+0 2 0 20 0 0
+/public/frontend/css/jodit.min.css
+0 27 0 440432 0 0
+/s/assets/css/bootstrap-datetimepicker.min.css
+0 3 0 3543 0 0
+/s/assets/plugins/jquery-confirm/jquery-confirm.min.css
+0 3 0 9444 0 0
+/s/assets/css/animate.min.css
+0 5 0 21600 0 0
+/public/uploads/sliders/IgF9mUyVsOSqikWxnWoEIMP0OxhBjKAu0m7OOWNd.jpeg
+0 20 0 2036257 0 0
+/public/uploads/banners/S2YV9CrWNiWwvBbEOeTS9OtGBkc868bWAx4rz07j.jpeg
+0 14 0 684166 0 0
+/public/frontend/images/icons/list.png
+0 4 0 2148 0 0
+/public/js/jquery.min.js
+0 2 0 59084 0 0
+/s/assets/js/multi-step-modal.js
+0 4 0 3608 0 0
+/cPanel_magic_revision_1526491937/unprotected/cpanel/style_v2_optimized.css
+0 6 1601394172 130506 0 0
+/public/frontend/css/line-awesome.min.css
+0 24 3544664334139469177 134704 0 0
+/language
+0 1 95 20 0 0
+/s/assets/plugins/toaster/toastr.min.css
+0 4 8317304086823174144 10624 0 0
+/public/css/custom.css
+0 2 0 5614 0 0
+/s/assets/plugins/theia-sticky-sidebar/theia-sticky-sidebar.js
+0 4 6919584109383201582 13752 0 0
+/public/plugins/select2/js/select2.min.js
+0 2 3904953145032245504 35230 0 0
+/s/assets/plugins/jquery-ui/jquery-ui.min.css
+0 3 0 22035 0 0
+/s/uploads/services/se_full_1605600644Tantaaa_(14).jpg
+0 2 0 96524 0 0
+/customer-packages
+0 3 0 31872 0 0
+/s/assets/js/bootstrap-datetimepicker.min.js
+0 5 0 45630 0 0
+/public/frontend/js/sweetalert2.min.js
+0 32 0 334038 0 0
+/product/variant_price
+0 2 0 128 0 0
+# End Of Table - urls
+# -sites- (monthly)
+180.163.220.68
+0 14 13 110217 1 1610340568
+-
+47.103.129.35
+0 2 2 25621 1 1611721072
+/
+ip-54-36-148-19.a.ahrefs.com
+0 1 0 20 0 0
+-
+ec2-35-172-117-28.compute-1.amazonaws.com
+0 3 0 0 1 1610594537
+-
+crawl-66-249-66-133.googlebot.com
+0 58 19 295336 37 1612081204
+-
+158.101.111.67
+0 1 1 12815 1 1611905008
+/
+daniela.probe.onyphe.net
+0 2 0 36286 1 1610398066
+-
+msnbot-207-46-13-210.search.msn.com
+0 32 0 17186 0 0
+-
+crawler.pagething.com
+0 4 0 40 2 1609775193
+-
+33.240.231.35.bc.googleusercontent.com
+0 4 2 28021 2 1611384498
+/
+rate-limited-proxy-66-249-92-195.google.com
+0 5 0 100 5 1610454300
+-
+ip-54-36-148-201.a.ahrefs.com
+0 1 1 12820 1 1611809648
+/
+62-210-152-248.rev.poneytelecom.eu
+0 1 0 20 1 1610545840
+-
+crawl-66-249-66-131.googlebot.com
+0 124 69 797097 46 1612062309
+/
+msnbot-13-66-139-88.search.msn.com
+0 30 0 18324 0 0
+-
+msnbot-157-55-39-201.search.msn.com
+0 1 0 20 1 1610237447
+-
+msnbot-207-46-13-27.search.msn.com
+0 1 0 1198 1 1611549928
+-
+171.13.14.4
+0 1 0 11608 1 1610051974
+-
+45.75.83.34.bc.googleusercontent.com
+0 1 1 0 1 1610828229
+/
+119-127-158-51.instances.scw.cloud
+0 1 0 35 1 1610243864
+-
+242.240.196.35.bc.googleusercontent.com
+0 2 0 40 1 1610370222
+-
+msnbot-157-55-39-131.search.msn.com
+0 1 0 20 1 1610138241
+-
+160.232.178.107.gae.googleusercontent.com
+0 2 2 25647 2 1611520943
+/
+msnbot-157-55-39-95.search.msn.com
+0 1 1 2060 0 0
+-
+42-111-25-164.live.vodafone.in
+0 1 1 13002 1 1610453043
+/cpanel
+85.185.75.34.bc.googleusercontent.com
+0 4 1 14052 2 1611622343
+/
+msnbot-157-55-39-9.search.msn.com
+0 2 0 2396 2 1611959232
+-
+104.129.255.158
+0 2 0 20 1 1610380284
+-
+209.17.97.18.rdns.cloudsystemnetworks.com
+0 1 1 106328 1 1612101654
+/
+ip-54-36-148-46.a.ahrefs.com
+0 1 0 1207 0 0
+-
+3-205-15-51.instances.scw.cloud
+0 1 1 106059 1 1610657710
+/
+203.81.243.186
+0 17 0 340 4 1611228360
+/
+ip-54-36-148-38.a.ahrefs.com
+0 1 1 12822 1 1610989121
+/
+209.17.97.66.rdns.cloudsystemnetworks.com
+0 1 0 36274 1 1612034978
+/
+115.97.194.46
+0 3 0 60 2 1609799384
+-
+209.17.96.154.rdns.cloudsystemnetworks.com
+0 1 1 106328 1 1611096495
+/
+47.31.163.215
+0 70 65 1944841 1 1611408452
+/home/section/home_categories
+fwdproxy-odn-005.fbsv.net
+0 1 0 20 0 0
+-
+ip-54-36-148-105.a.ahrefs.com
+0 1 1 12822 1 1611661315
+/
+204.11.225.117
+0 1 1 12812 1 1610735290
+/
+ip-54-36-149-72.a.ahrefs.com
+0 1 0 1207 0 0
+-
+209.17.97.58.rdns.cloudsystemnetworks.com
+0 1 1 104983 1 1611068633
+/
+103.61.253.237
+0 2 0 40 1 1611174685
+/
+42-111-4-198.live.vodafone.in
+0 1 1 13000 1 1610496807
+/cpanel
+47.31.184.24
+0 1 0 20 1 1609841498
+-
+crawl-66-249-66-218.googlebot.com
+0 18 18 311021 0 0
+-
+209.17.97.106.rdns.cloudsystemnetworks.com
+0 1 0 36274 1 1611357412
+/
+209.17.96.26.rdns.cloudsystemnetworks.com
+0 1 0 35 1 1610893230
+/
+209.17.96.194.rdns.cloudsystemnetworks.com
+0 1 1 106059 1 1612099332
+/
+209.17.96.186.rdns.cloudsystemnetworks.com
+0 3 3 318715 3 1611257368
+/
+researchscanner02.eecs.berkeley.edu
+0 1 1 12810 1 1610748143
+/
+ip-54-36-148-179.a.ahrefs.com
+0 1 1 12822 1 1612027892
+/
+199-148-172-163.instances.scw.cloud
+0 2 0 36286 2 1610304373
+-
+ip-54-36-148-24.a.ahrefs.com
+0 1 0 1207 0 0
+-
+185.97.92.118
+0 24 24 342940 1 1611957216
+/
+msnbot-207-46-13-123.search.msn.com
+0 1 0 1198 1 1610792241
+-
+msnbot-207-46-13-212.search.msn.com
+0 8 0 160 0 0
+-
+209.17.97.2.rdns.cloudsystemnetworks.com
+0 1 1 104983 1 1610815082
+/
+abts-north-dynamic-179.30.68.182.airtelbroadband.in
+0 224 213 7053767 3 1611334967
+/home/section/best_sellers
+ip-54-36-149-4.a.ahrefs.com
+0 1 1 12822 1 1611496501
+/
+199.244.88.132
+0 2 2 25624 2 1611059065
+/
+ec2-54-70-242-140.us-west-2.compute.amazonaws.com
+0 1 1 12809 1 1611656291
+/
+msnbot-13-66-139-83.search.msn.com
+0 1 1 109089 0 0
+-
+27.115.124.101
+0 14 13 110216 1 1610051861
+-
+msnbot-207-46-13-127.search.msn.com
+0 1 0 20 1 1609490913
+-
+180.163.220.5
+0 14 13 110223 1 1610051914
+-
+ip-54-36-148-178.a.ahrefs.com
+0 1 0 1207 0 0
+-
+crawl-66-249-66-220.googlebot.com
+0 10 9 329858 1 1610946547
+/s/
+45.55.60.131
+0 1 0 1198 0 0
+-
+23.236.152.76
+0 1 0 20 1 1609681644
+-
+ec2-54-226-223-96.compute-1.amazonaws.com
+0 1 0 20 1 1610180294
+-
+27.5.36.225
+0 76 72 2493837 1 1611008056
+/home/section/best_sellers
+40.75.230.35.bc.googleusercontent.com
+0 1 1 0 1 1610828231
+/
+ec2-54-235-16-196.compute-1.amazonaws.com
+0 1 0 20 1 1610241937
+-
+msnbot-40-77-188-183.search.msn.com
+0 39 35 493433 1 1610644299
+/home/section/home_categories
+27.5.23.40
+0 84 79 2603125 2 1611442607
+/category/nav-element-list
+209.17.96.122.rdns.cloudsystemnetworks.com
+0 2 0 70 2 1611604984
+/
+msnbot-40-77-167-0.search.msn.com
+0 1 0 1198 1 1611152604
+-
+27.5.32.195
+0 28 26 379961 1 1611762464
+/
+fwdproxy-vll-117.fbsv.net
+0 1 0 20 0 0
+-
+msnbot-40-77-167-41.search.msn.com
+0 2 1 109109 1 1609845556
+-
+crawl-66-249-66-216.googlebot.com
+0 14 14 233904 1 1610947372
+/s/user/service/get_category
+46.17.106.61
+0 2 1 12807 2 1612029076
+/
+ip-54-36-148-77.a.ahrefs.com
+0 1 1 12822 1 1611124488
+/
+vm-963649b4.netangels.ru
+0 2 0 1513 1 1611355410
+/
+209.17.96.114.rdns.cloudsystemnetworks.com
+0 1 1 106328 1 1611499714
+/
+38.18.44.157
+0 1 1 12812 1 1612011913
+/
+13.237.178.107.gae.googleusercontent.com
+0 2 0 40 1 1610607697
+-
+103.61.252.109
+0 3 0 60 1 1611174795
+/
+243.252.75.34.bc.googleusercontent.com
+0 2 0 40 1 1611230876
+/
+209.17.96.130.rdns.cloudsystemnetworks.com
+0 2 1 104983 2 1611612800
+/
+134.209.38.12
+0 1 0 0 1 1609938885
+-
+crawl-66-249-66-81.googlebot.com
+0 1 0 20 1 1609960763
+-
+209.17.97.34.rdns.cloudsystemnetworks.com
+0 1 0 0 1 1610504493
+-
+rate-limited-proxy-66-249-92-199.google.com
+0 9 0 180 8 1610554199
+-
+61-108-158-51.instances.scw.cloud
+0 3 0 36274 3 1610504859
+-
+27.58.128.152
+0 77 72 2494984 1 1610718710
+/home/section/best_selling
+134.175.228.189
+0 3 0 11680 1 1610034053
+-
+msnbot-157-55-39-41.search.msn.com
+0 2 0 2396 0 0
+-
+196.200.178.107.gae.googleusercontent.com
+0 2 2 25644 2 1611997631
+/
+abts-north-static-243.10.176.122.airtelbroadband.in
+0 2 0 40 1 1610389502
+-
+247.157.196.35.bc.googleusercontent.com
+0 2 0 40 1 1609570799
+-
+ip-54-36-148-131.a.ahrefs.com
+0 1 1 12820 1 1611022158
+/
+msnbot-207-46-13-220.search.msn.com
+0 20 0 21676 0 0
+-
+ip-54-36-148-114.a.ahrefs.com
+0 1 1 12823 1 1611901807
+/
+209.17.96.138.rdns.cloudsystemnetworks.com
+0 2 1 106059 2 1611688262
+/
+ec2-18-197-193-89.eu-central-1.compute.amazonaws.com
+0 1 1 12812 1 1611408628
+/
+209.17.96.234.rdns.cloudsystemnetworks.com
+0 2 1 105068 2 1611502993
+/
+crawl-66-249-66-215.googlebot.com
+0 1 0 20 1 1610133686
+-
+colton.probe.onyphe.net
+0 1 0 0 1 1610402840
+-
+msnbot-40-77-167-62.search.msn.com
+0 1 0 20 1 1609645867
+-
+ip-54-36-148-130.a.ahrefs.com
+0 1 1 12824 1 1611523404
+/
+crawl-66-249-66-135.googlebot.com
+0 2 0 2414 2 1611089138
+-
+msnbot-207-46-13-0.search.msn.com
+0 1 0 1198 1 1611580371
+-
+42-111-18-186.live.vodafone.in
+0 71 67 2080543 1 1611958225
+/home/section/featured
+crawl-66-249-66-151.googlebot.com
+0 1 0 1207 0 0
+-
+192-3-100-187-host.colocrossing.com
+0 1 0 20 1 1609681645
+-
+202.142.121.232
+0 84 80 2654841 1 1611257557
+/category/nav-element-list
+msnbot-13-66-139-8.search.msn.com
+0 22 22 1364 0 0
+-
+192.36.248.249
+0 1 0 20 1 1610074986
+-
+143.21.75.34.bc.googleusercontent.com
+0 2 0 40 1 1610485095
+-
+hn.kd.ny.adsl
+0 28 26 220442 2 1610681648
+/
+vmi448825.contaboserver.net
+0 5 5 52336 1 1611566170
+/users/login
+192-3-240-162-host.colocrossing.com
+0 2 0 20 1 1610380272
+-
+106.223.24.93
+0 2 1 2727 1 1611345641
+/login
+msnbot-13-66-139-35.search.msn.com
+0 33 29 150479 0 0
+-
+msnbot-13-66-139-2.search.msn.com
+0 12 4 28483 0 0
+-
+broadband.actcorp.in
+0 4 0 80 2 1609781537
+-
+fwdproxy-ftw-004.fbsv.net
+0 1 0 20 1 1609491859
+-
+104.248.139.248
+0 1 0 20 1 1610111495
+-
+macgregor.probe.onyphe.net
+0 4 0 36309 3 1610528209
+-
+ec2-44-234-63-92.us-west-2.compute.amazonaws.com
+0 3 2 66461 1 1611330712
+/
+ec2-54-221-27-173.compute-1.amazonaws.com
+0 1 0 20 1 1610311885
+-
+fwdproxy-odn-020.fbsv.net
+0 1 0 20 1 1611165190
+/
+209.17.97.114.rdns.cloudsystemnetworks.com
+0 1 0 36286 1 1611254126
+/
+24-98-158-51.instances.scw.cloud
+0 2 0 85 2 1610627085
+/
+crawl-66-249-64-51.googlebot.com
+0 15 0 300 7 1610406169
+-
+crawl-66-249-64-55.googlebot.com
+0 3 0 60 1 1610384809
+-
+fwdproxy-ftw-119.fbsv.net
+0 1 0 20 1 1609491859
+-
+246.52.105.34.bc.googleusercontent.com
+0 1 1 0 1 1610828227
+/
+221.231.178.107.gae.googleusercontent.com
+0 1 1 12824 1 1611064743
+/
+rate-limited-proxy-74-125-151-99.google.com
+0 3 0 60 2 1610278775
+-
+msnbot-157-55-39-124.search.msn.com
+0 4 1 14051 4 1610657637
+-
+nieve.probe.onyphe.net
+0 1 0 35 1 1610399479
+-
+83.24.94.41.ipv4.supernova.orange.pl
+0 1 1 104983 1 1611591287
+/
+ec2-3-228-7-149.compute-1.amazonaws.com
+0 1 0 1139 0 0
+-
+msnbot-13-66-139-161.search.msn.com
+0 21 0 25266 0 0
+-
+209.17.96.90.rdns.cloudsystemnetworks.com
+0 1 0 35 1 1610629339
+/
+rate-limited-proxy-74-125-151-103.google.com
+0 2 0 40 2 1610347444
+-
+13.109.237.35.bc.googleusercontent.com
+0 4 2 28016 2 1611570982
+/
+209.17.97.98.rdns.cloudsystemnetworks.com
+0 3 3 317101 3 1611752771
+/
+msnbot-40-77-167-55.search.msn.com
+0 1 0 20 1 1610293718
+-
+ip-54-36-148-230.a.ahrefs.com
+0 2 2 25646 2 1611879717
+/
+2.59.241.174
+0 1 0 20 1 1610380887
+-
+msnbot-13-66-139-108.search.msn.com
+0 12 4 132590 0 0
+-
+159.65.24.22
+0 7 6 70381 1 1610935632
+/search
+67.10.185.35.bc.googleusercontent.com
+0 2 1 14010 1 1611361219
+/
+ecs-117-78-0-83.compute.hwclouds-dns.com
+0 1 1 12821 1 1611721068
+/
+ip-54-36-148-115.a.ahrefs.com
+0 1 0 20 0 0
+-
+ip-54-36-149-35.a.ahrefs.com
+0 1 1 12823 1 1611723118
+/
+crawl-66-249-66-55.googlebot.com
+0 3 0 60 1 1610137780
+-
+1-38-51-162.live.vodafone.in
+0 109 106 2657293 1 1611764990
+/category/nav-element-list
+42-111-32-186.live.vodafone.in
+0 2 0 40 1 1611165215
+/
+ip-54-36-148-81.a.ahrefs.com
+0 1 1 12822 1 1611062608
+/
+27.6.194.153
+0 114 108 3600541 1 1611345390
+/admin
+static-50.192.99.14-tataidc.co.in
+0 355 320 4851390 8 1611344606
+/category/nav-element-list
+ip-54-36-148-195.a.ahrefs.com
+0 1 0 20 0 0
+-
+13.89.235.9
+0 1 1 104983 1 1610987079
+/
+msnbot-13-66-139-101.search.msn.com
+0 15 12 87375 0 0
+-
+rate-limited-proxy-66-249-92-201.google.com
+0 6 1 12911 6 1610715602
+/
+103.13.104.16
+0 1 0 20 1 1609842648
+-
+209.17.96.66.rdns.cloudsystemnetworks.com
+0 1 0 36286 1 1610815852
+/
+ip-54-36-149-27.a.ahrefs.com
+0 1 1 12823 1 1612087417
+/
+5-255-253-107.spider.yandex.com
+0 7 2 40614 3 1611727274
+/
+121.73.229.35.bc.googleusercontent.com
+0 2 1 14007 1 1612010394
+/
+138.229.74.34.bc.googleusercontent.com
+0 2 1 14010 1 1610781787
+/
+209.17.97.10.rdns.cloudsystemnetworks.com
+0 1 0 0 1 1609771060
+-
+ip-54-36-149-38.a.ahrefs.com
+0 1 0 1207 0 0
+-
+planetlab24.net.in.tum.de
+0 11 0 0 11 1611424833
+/
+ec2-34-229-89-58.compute-1.amazonaws.com
+0 3 0 2298 1 1610303004
+-
+ec2-34-222-200-121.us-west-2.compute.amazonaws.com
+0 1 1 12811 1 1611330681
+/
+ip-54-36-149-100.a.ahrefs.com
+0 1 0 1207 0 0
+-
+42-111-22-179.live.vodafone.in
+0 1 1 12971 1 1611344762
+/cpanel
+134.122.3.220
+0 1 0 20 1 1610022053
+-
+ip-54-36-149-78.a.ahrefs.com
+0 2 2 25645 2 1611935547
+/
+144.168.163.177
+0 10 0 0 1 1610489234
+-
+msnbot-157-55-39-207.search.msn.com
+0 1 0 1198 1 1612058511
+-
+209.17.96.50.rdns.cloudsystemnetworks.com
+0 1 0 36274 1 1611057069
+/
+abts-north-dynamic-229.178.180.122.airtelbroadband.in
+0 81 76 2611303 1 1611601202
+/category/nav-element-list
+112.79.198.255
+0 84 78 2509961 1 1610621119
+/category/nav-element-list
+unn-89-187-175-149.cdn77.com
+0 67 60 2143609 1 1611433892
+-
+65.154.226.165
+0 1 0 20 1 1610291030
+-
+ip-54-36-148-103.a.ahrefs.com
+0 1 0 20 0 0
+-
+5-255-253-138.spider.yandex.com
+0 1 1 12814 1 1610746388
+/
+msnbot-13-66-139-126.search.msn.com
+0 15 0 300 0 0
+-
+ip-54-36-149-20.a.ahrefs.com
+0 1 1 12822 1 1611622786
+/
+103.13.104.11
+0 96 86 2356142 1 1612019879
+/home/section/best_selling
+192.36.53.165
+0 1 0 20 1 1609621468
+-
+msnbot-13-66-139-139.search.msn.com
+0 41 8 290384 0 0
+-
+crawl-66-249-66-198.googlebot.com
+0 28 23 526600 5 1611790934
+/s/user/service/get_category
+planetlab24.gino-research.net.in.tum.de
+0 4 1 0 4 1611949020
+/
+49.33.251.212
+0 24 24 342940 1 1611348900
+/
+47.30.202.180
+0 1 0 20 1 1609859185
+-
+mehmet.probe.onyphe.net
+0 2 0 36274 2 1610527467
+-
+77-108-158-51.instances.scw.cloud
+0 1 0 36274 1 1610161314
+-
+abts-north-dynamic-046.171.69.182.airtelbroadband.in
+0 4 0 80 1 1609711916
+-
+msnbot-13-66-139-92.search.msn.com
+0 10 1 103471 0 0
+-
+msnbot-157-55-39-90.search.msn.com
+0 1 0 20 1 1609555163
+-
+rate-limited-proxy-66-249-92-59.google.com
+0 1 0 20 1 1609957525
+-
+ip-54-36-149-10.a.ahrefs.com
+0 1 0 1207 0 0
+-
+abts-north-dynamic-013.141.176.122.airtelbroadband.in
+0 78 72 2496187 1 1611587895
+/home/section/home_categories
+49.36.139.159
+0 4 0 80 1 1609779120
+-
+crawl-66-249-66-129.googlebot.com
+0 152 112 1074641 42 1612098445
+-
+38.18.50.133
+0 1 0 20 1 1609823934
+-
+msnbot-13-66-139-31.search.msn.com
+0 60 12 112596 0 0
+-
+crawl-66-249-66-200.googlebot.com
+0 19 13 508850 6 1612061957
+/s/
+ip-54-36-148-187.a.ahrefs.com
+0 1 0 1207 0 0
+-
+62-210-92-175.rev.poneytelecom.eu
+0 1 1 12811 1 1611579060
+/
+4.237.178.107.gae.googleusercontent.com
+0 2 0 40 1 1610147346
+-
+msnbot-13-66-139-117.search.msn.com
+0 2 2 73018 0 0
+-
+209.17.96.146.rdns.cloudsystemnetworks.com
+0 2 0 70 2 1612010804
+/
+crawl-66-249-66-196.googlebot.com
+0 103 92 873759 11 1612075581
+/s/user/service/get_category
+msnbot-13-66-139-95.search.msn.com
+0 9 7 431727 1 1609945708
+-
+ec2-3-22-95-84.us-east-2.compute.amazonaws.com
+0 2 2 105025 1 1611789914
+/
+vps-c31e126c.vps.ovh.net
+0 1 1 12812 1 1610657129
+/
+209.17.96.58.rdns.cloudsystemnetworks.com
+0 1 0 36274 1 1610633093
+/
+209.17.96.162.rdns.cloudsystemnetworks.com
+0 1 1 106328 1 1611786690
+/
+209.17.97.74.rdns.cloudsystemnetworks.com
+0 1 0 35 1 1611311530
+/
+163.13.75.34.bc.googleusercontent.com
+0 2 0 40 1 1610124421
+-
+238.231.178.107.gae.googleusercontent.com
+0 1 0 20 1 1610037099
+-
+204.200.178.107.gae.googleusercontent.com
+0 2 0 40 1 1609693390
+-
+103.157.7.84
+0 1 0 20 1 1609798130
+-
+192.71.2.171
+0 1 0 20 1 1610526541
+-
+209.17.96.2.rdns.cloudsystemnetworks.com
+0 2 0 0 2 1610114915
+-
+207.239.178.107.gae.googleusercontent.com
+0 1 1 12821 1 1611066473
+/
+ip-54-36-149-19.a.ahrefs.com
+0 1 0 1207 0 0
+-
+ip-54-36-148-74.a.ahrefs.com
+0 1 1 12822 1 1611960695
+/
+msnbot-207-46-13-28.search.msn.com
+0 1 0 1198 1 1611083242
+-
+223.226.173.255
+0 322 317 2686325 6 1611598813
+/category/nav-element-list
+ip-54-36-149-77.a.ahrefs.com
+0 2 2 25643 2 1611148569
+/
+209.17.96.210.rdns.cloudsystemnetworks.com
+0 1 0 0 1 1609608566
+-
+ip-54-36-149-106.a.ahrefs.com
+0 1 1 12825 1 1612054844
+/
+104.238.46.98
+0 1 0 0 1 1610319722
+-
+msnbot-207-46-13-2.search.msn.com
+0 1 0 20 1 1610331539
+-
+209.17.96.218.rdns.cloudsystemnetworks.com
+0 3 0 72645 3 1611877651
+/
+msnbot-13-66-139-124.search.msn.com
+0 3 3 33619 0 0
+-
+rate-limited-proxy-74-125-151-105.google.com
+0 3 0 60 3 1610347383
+-
+msnbot-157-55-39-128.search.msn.com
+0 2 1 110287 1 1610881883
+-
+crawl-66-249-64-53.googlebot.com
+0 12 0 240 4 1610406166
+-
+112-79-213-233.live.vodafone.in
+0 77 73 2506793 1 1611255769
+/home/section/best_selling
+209.17.96.202.rdns.cloudsystemnetworks.com
+0 1 0 36274 1 1610881888
+/
+127.98.185.35.bc.googleusercontent.com
+0 2 0 40 1 1610591785
+-
+rate-limited-proxy-66-249-92-91.google.com
+0 1 1 12812 1 1610658973
+/
+3-109-158-51.instances.scw.cloud
+0 1 0 35 1 1610552221
+-
+118-251-47-212.instances.scw.cloud
+0 1 0 0 1 1610252803
+-
+23-95-81-202-host.colocrossing.com
+0 2 0 20 1 1610380293
+-
+43.239.204.26
+0 75 66 2053457 2 1611160741
+/home/section/best_sellers
+msnbot-13-66-139-33.search.msn.com
+0 3 0 60 0 0
+-
+49.36.168.39
+0 316 256 5852718 3 1611331628
+/home/section/home_categories
+ip-54-36-148-218.a.ahrefs.com
+0 5 5 64119 5 1611990330
+/
+209.17.96.18.rdns.cloudsystemnetworks.com
+0 1 1 106328 1 1610739687
+/
+40.88.21.235
+0 1 0 20 1 1609524330
+-
+246.231.231.35.bc.googleusercontent.com
+0 2 1 14008 1 1611493260
+/
+27.6.252.82
+0 91 85 2657728 1 1611330913
+/category/nav-element-list
+115.97.140.38
+0 3 0 60 1 1611231651
+/
+171.13.14.76
+0 14 13 110217 1 1610051975
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+crawl-66-249-66-133.googlebot.com
+0 1 0 1207 1 1612081204
+-
+crawl-66-249-66-131.googlebot.com
+0 1 1 12823 1 1612062309
+/
+209.17.97.18.rdns.cloudsystemnetworks.com
+0 1 1 106328 1 1612101654
+/
+209.17.96.194.rdns.cloudsystemnetworks.com
+0 1 1 106059 1 1612099332
+/
+msnbot-13-66-139-8.search.msn.com
+0 2 2 124 0 0
+-
+ip-54-36-149-27.a.ahrefs.com
+0 1 1 12823 1 1612087417
+/
+msnbot-157-55-39-207.search.msn.com
+0 1 0 1198 1 1612058511
+-
+crawl-66-249-66-198.googlebot.com
+0 1 1 2086 0 0
+-
+crawl-66-249-66-129.googlebot.com
+0 4 0 4828 3 1612098445
+-
+crawl-66-249-66-200.googlebot.com
+0 1 1 17785 1 1612061957
+/s/
+ip-54-36-148-187.a.ahrefs.com
+0 1 0 1207 0 0
+-
+crawl-66-249-66-196.googlebot.com
+0 8 7 52494 1 1612075581
+/s/user/service/get_category
+ip-54-36-149-106.a.ahrefs.com
+0 1 1 12825 1 1612054844
+/
+msnbot-157-55-39-128.search.msn.com
+0 1 1 109089 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://tantaaa.com/dashboard
+0 1
+https://tantaaa.com/brands
+0 2
+https://tantaaa.com/search
+0 40
+android-app://com.google.android.googlequicksearchbox/
+0 2
+https://cpanel.tantaaa.com/cPanel_magic_revision_1386192030/unprotected/cpanel/fonts/open_sans/open_sans.min.css
+0 18
+https://l.instagram.com/
+0 4
+http://cpanel.tantaaa.com
+0 1
+https://tantaaa.com/public/frontend/css/jquery.share.css
+0 2
+https://www.tantaaa.com/public/frontend/css/line-awesome.min.css
+0 10
+https://tantaaa.com/public/frontend/css/font-awesome.min.css
+0 13
+https://www.tantaaa.com/shops/create
+0 21
+https://tantaaa.com/profile
+0 1
+https://tantaaa.com/admin
+0 27
+https://www.tantaaa.com/terms
+0 30
+http://baidu.com/
+0 5
+https://www.google.com/
+0 27
+- (Direct Request)
+0 976
+http://webdisk.tantaaa.com
+0 1
+https://tantaaa.com/support_ticket
+0 1
+https://tantaaa.com/purchase_history/details
+0 1
+https://tantaaa.com/login
+0 16
+https://tantaaa.com/wallet
+0 1
+https://tantaaa.com/product/Fresho-Pomegranate-4-pcs-approx-720-to-800-gmFresho-Pomegranate-4-pcs-approx-720-to-800-gm-UhmiT
+0 22
+https://tantaaa.com/s/
+0 147
+https://tantaaa.com/customer-packages
+0 3
+https://cpanel.tantaaa.com/cPanel_magic_revision_1526491937/unprotected/cpanel/style_v2_optimized.css
+0 42
+https://tantaaa.com/public/frontend/css/xzoom.css
+0 2
+https://cpanel.tantaaa.com/
+0 18
+https://tantaaa.com/public/uploads/logo/WRurcGIkPsP53wz5LsHpA0KtXLRj9MQrBVDf1xzn.png
+0 2
+http://tantaaa.com
+0 5
+http://tantaaa.com/
+0 46
+https://tantaaa.com/public/css/demo/active-shop-demo-icons.min.css
+0 5
+http://www.tantaaa.com/
+0 7
+https://tantaaa.com/public/plugins/font-awesome/css/font-awesome.min.css
+0 8
+https://www.tantaaa.com/
+0 1168
+https://tantaaa.com/
+0 1324
+https://tantaaa.com/public/frontend/css/line-awesome.min.css
+0 13
+https://www.tantaaa.com/public/frontend/css/font-awesome.min.css
+0 10
+https://tantaaa.com/users/login
+0 1
+https://www.tantaaa.com/categories
+0 13
+https://l.wl.co/
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; TestBot/0.1; +In_the_test_phase,_if_the_spider_brings_you_trouble,_please_add_our_IP_to_the_blacklis
+0 3
+Mozilla/5.0 (Linux; Android 5.1.1; vivo V3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36 OPR/46.0.2597.
+0 2
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/87.0.42
+0 72
+Mozilla/5.0 (compatible; DuckDuckGo-Favicons-Bot/1.0; +http://duckduckgo.com)
+0 1
+Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)
+0 42
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+0 355
+Mozilla/4.0 Java/1.8.0_181-google-v7
+0 1
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+0 5
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 39
+Mozilla/5.0 (Linux; U; Android 8.1.0; zh-CN; EML-AL00 Build/HUAWEIEML-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.
+0 70
+Mozilla/5.0 (Linux; Android 11; KB2001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+0 77
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/88.0.43
+0 28
+facebookexternalhit/1.1
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.71 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; AhrefsBot/6.1; +http://ahrefs.com/robot/)
+0 13
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.114 Mobile 
+0 19
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 117
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 324
+WhatsApp/2.20.202.18 A
+0 3
+PageThing http://pagething.com curl www
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:84.0) Gecko/20100101 Firefox/84.0
+0 316
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.112 Mobile 
+0 7
+Go-http-client/1.1
+0 6
+Mozilla/5.0 (Linux; Android 10; JSN-L22) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.93 Mobile Safari/537.36
+0 24
+Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+0 26
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11.1; rv:84.0) Gecko/20100101 Firefox/84.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36 TC2
+0 1
+Mozilla/5.0 (Linux; Android 10; HD1901 Build/QKQ1.190716.003; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/8
+0 2
+Googlebot-Image/1.0
+0 21
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+0 2
+Go-http-client/2.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36
+0 81
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 10; Redmi Note 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/5
+0 5
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Google-Test;)
+0 30
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.113 Mobile 
+0 25
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.65 Safari/537.31
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.85 Safari/537.36
+0 15
+python-requests/2.25.1
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+0 528
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 11
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 1
+colly - https://github.com/gocolly/colly/v2
+0 4
+Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+0 287
+Mozilla/5.0 (Linux; U; Android 10; en-gb; RMX1911 Build/QKQ1.200209.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 C
+0 70
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+0 28
+Mozilla/5.0 (Linux; Android 10; HD1901) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.101 Mobile Safari/537.36
+0 74
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 8
+Mozilla/5.0 (Linux; Android 10; HD1901) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36
+0 24
+Mozilla/5.0 (Linux; Android 8.0.0; Lenovo K8 Plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/
+0 5
+security_txt_analysis/1.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
+0 7
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Sa
+0 1
+ZoominfoBot (zoominfobot at zoominfo dot com)
+0 32
+node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+0 12
+IDBTE4M CODE87
+0 2
+Mozilla/5.0 (Windows NT 6.4; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 9; Redmi Note 5 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/53
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 10
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/4.9.4.3000 Chrome/39.0.2146.0 Safari/537.36
+0 73
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36
+0 14
+Mozilla/5.0 (Linux; Android 9; Redmi Note 5 Pro Build/PKQ1.180904.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0
+0 2
+Mozilla/5.0 (Linux; Android 10; vivo 1951) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.185 Mobile Safari/537.36
+0 96
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.90 Mobile S
+0 275
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+0 625
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+0 3
+WhatsApp/2.2049.10 N
+0 1
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 51
+Python/3.7 aiohttp/3.7.3
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

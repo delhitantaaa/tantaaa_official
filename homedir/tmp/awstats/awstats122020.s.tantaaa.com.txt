@@ -1,0 +1,288 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 202012 will be lost/reset.
+# Last config file used to build this data file was /home2/delhitantaa/tmp/awstats/awstats.s.tantaaa.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2014                
+POS_TIME 2686                
+POS_VISITOR 6766                
+POS_DAY 7089                
+POS_DOMAIN 3215                
+POS_LOGIN 3478                
+POS_ROBOT 3633                
+POS_WORMS 3765                
+POS_EMAILSENDER 3896                
+POS_EMAILRECEIVER 4039                
+POS_SESSION 7245                
+POS_SIDER 7424                
+POS_FILETYPES 4174                
+POS_DOWNLOADS 4393                
+POS_OS 4441                
+POS_BROWSER 4551                
+POS_SCREENSIZE 4692                
+POS_UNKNOWNREFERER 4766                
+POS_UNKNOWNREFERERBROWSER 4891                
+POS_ORIGIN 5011                
+POS_SEREFERRALS 5147                
+POS_PAGEREFS 5291                
+POS_SEARCHWORDS 5439                
+POS_KEYWORDS 5591                
+POS_MISC 2350                
+POS_ERRORS 5650                
+POS_CLUSTER 3334                
+POS_SIDER_404 5753                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210105104247 1 0 11054202718488
+FirstTime 20201216200115
+LastTime 20201226173344
+LastUpdate 20210105220337 1 0 0 0 0
+TotalVisits 6                   
+TotalUnique 6                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 6                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 1 1 557
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 13 65 3072526 0 15 8355
+18 0 0 0 0 0 0
+19 28 128 5797367 0 28 643662
+20 93 273 6988140 0 34 18938
+21 18 19 345129 1 1 557
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+ma 88 219 4297229
+in 55 209 9182037
+ca 9 57 2723896
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+js 154 1872193 0 0
+html 13 230543 0 0
+woff 4 160084 0 0
+jpg 74 11762461 0 0
+woff2 21 1152536 0 0
+png 13 16826 0 0
+css 92 567444 0 0
+Unknown 114 441075 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+Unknown 1 1
+linuxandroid 211 58
+win10 273 93
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 4
+chrome87.0.4280.101 122 22
+Unknown 1 1
+chrome87.0.4280.88 273 93
+chrome85.0.4183.101 89 36
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+WhatsApp/2.20.195.15_A 20201224195247
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+WhatsApp/2.20.195.15_A 20201224195247
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 11 11
+From1 0 0
+From2 0 0
+From3 0 0
+From4 141 474
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 69 38433
+206 10 633636
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 10
+/uploads/logo/1606308964_TANTAAA%20LOGO%20.png 6 http://s.tantaaa.com/edit-subcategory/2
+/uploads/logo/TANTAAA%20LOGO%20.png 6 http://www.s.tantaaa.com/
+/assets/img/title-image2.png 7 http://www.s.tantaaa.com/assets/css/style.css
+/wp-login.php 2 -
+/assets/img/logo-icon.png 7 http://s.tantaaa.com/edit-subcategory/2
+/uploads/profile_img/temp/1606308911.png 6 http://s.tantaaa.com/edit-subcategory/2
+/assets/img/title-image.png 7 http://www.s.tantaaa.com/assets/css/style.css
+/assets/img/hiwbg.png 2 http://www.s.tantaaa.com/assets/css/style.css
+/uploads/services/se_full_1604988718sparkel-shine.jpg 13 http://www.s.tantaaa.com/
+/uploads/services/se_full_160498885719813.jpg 13 http://www.s.tantaaa.com/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 6
+45.250.212.184 88 219 4297229 20201224202005
+1.38.52.13 19 71 3073471 20201224195249
+42.111.14.198 18 19 345129 20201224212830
+1.38.45.197 13 65 3072526 20201226173344
+47.31.142.190 9 57 2723896 20201223195836
+42.111.2.222 5 54 2690911 20201216200122
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 4
+20201216 5 54 2690911 1
+20201223 9 57 2723896 1
+20201224 125 309 7715829 3
+20201226 13 65 3072526 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+30s-2mn 3
+15mn-30mn 1
+0s-30s 1
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 25
+/admin/login/is_valid_login 35 735 0 0
+/user/service/get_category 32 5568 0 5
+/dashboard 17 44132 0 0
+/ 13 230543 5 0
+/search/hospitality 8 135027 1 0
+/assets/plugins/fontawesome/webfonts/fa-brands-400.woff2 7 527352 0 0
+/assets/plugins/fontawesome/webfonts/fa-solid-900.woff2 7 530096 0 0
+/assets/plugins/fontawesome/webfonts/fa-regular-400.woff2 7 95088 0 1
+/service-preview/hospitality-service 6 102683 0 0
+/search/salon-at-home 4 68097 0 0
+/categories 2 5784 0 0
+/subcategories 1 3179 0 0
+/admin 1 1192 0 0
+/service-list 1 3344 0 0
+/assets/fonts/CircularStd-Medium.woff 1 40840 0 0
+/search/home-cleaning 1 16942 0 0
+/search/home-repair 1 16495 0 0
+/assets/fonts/CircularStd-Black.woff 1 41324 0 0
+/assets/fonts/CircularStd-Book.woff 1 36612 0 0
+/search/mobile-repair-and-services 1 16499 0 0
+/edit-subcategory/2 1 2496 0 0
+/assets/fonts/CircularStd-Bold.woff 1 41308 0 0
+/edit-category/1 1 2351 0 0
+/map_lists 1 55 0 0
+/search/computers-repair-and-services 1 16496 0 0
+END_SIDER

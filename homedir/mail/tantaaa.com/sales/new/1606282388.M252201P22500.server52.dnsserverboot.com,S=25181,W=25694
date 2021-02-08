@@ -1,0 +1,513 @@
+Return-Path: <1axb9bsxcd2hdi39fbcn2pzqmp9fh8o14j8ln3-sales=tantaaa.com@bf01x.hubspotemail.net>
+Delivered-To: sales@tantaaa.com
+Received: from server52.dnsserverboot.com
+	by server52.dnsserverboot.com with LMTP id +ET1DpTsvV/kVwAAKDZJLQ
+	for <sales@tantaaa.com>; Wed, 25 Nov 2020 11:03:08 +0530
+Return-path: <1axb9bsxcd2hdi39fbcn2pzqmp9fh8o14j8ln3-sales=tantaaa.com@bf01x.hubspotemail.net>
+Envelope-to: sales@tantaaa.com
+Delivery-date: Wed, 25 Nov 2020 11:03:08 +0530
+Received: from pgg127.bf01x.hubspotemail.net ([54.174.52.65]:16515)
+	by server52.dnsserverboot.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89_1)
+	(envelope-from <1axb9bsxcd2hdi39fbcn2pzqmp9fh8o14j8ln3-sales=tantaaa.com@bf01x.hubspotemail.net>)
+	id 1khnQS-0008Lu-2F
+	for sales@tantaaa.com; Wed, 25 Nov 2020 11:03:08 +0530
+Received: by 172.16.224.35 with SMTP id aybkfun4xszmp149maaxw3y6xqqpeel3y1f6ai7v;
+        Wed, 25 Nov 2020 05:32:27 GMT
+DKIM-Signature: v=1; s=hs2; d=bf01x.hubspotemail.net; 
+        i=@bf01x.hubspotemail.net; 
+        h=sender:from:reply-to:to:subject:mime-version:content-type:list-unsubscribe:form-sub:feedback-id; 
+        a=rsa-sha256; c=relaxed/relaxed; 
+        bh=KEi7+sZPaIQuNfX4Bqqu4yujN7eH0y4F4ZIId3dFQ/E=; 
+        b=n2YitinsGSbWH2P/PpUdBz1Mh7cjug1CnESpPqctLE7H7Dv363puRrgNlxTuRE
+         z25I/xsGon7W0RiYzOsK6C9KjPxEjLmUO7YGzh/5bRUrMiOfoACneIrINvk6MOf
+         apeOey4pWNj89+Cx+i1xdzXNZTJQ/RdUQYgLfBTe1eKwwko4Bo0YjUbxdoRkgbG
+         VCRcAGS1MjXacxfs8LQhTXIPQTlzJiZhxf5IFGeeZzqpc0OHP1ySZSLXoK8wh0N
+         LUaZx+Wsx3sQoftKMIeA/IV+od3jX1sCXgdfQcHpiC3jdi4EdKO4v53Xm0sYJAE
+         uVkJs13fVa9kpyy99HDueW40ICJA==; q=dns/txt; t=1606282347;
+DKIM-Signature: v=1; s=hs1; d=razorpay.com; i=@razorpay.com; 
+        h=sender:from:reply-to:to:subject:mime-version:content-type:list-unsubscribe:form-sub:feedback-id; 
+        a=rsa-sha256; c=relaxed/relaxed; 
+        bh=KEi7+sZPaIQuNfX4Bqqu4yujN7eH0y4F4ZIId3dFQ/E=; 
+        b=mNNZRv8pOe4dNs9l7UZT3BcYX6FfZ9LgOtX8BQak+XA7I6g6fIS8ihVG23a4KW
+         C34NSbn++HTach9Y8cnhjFTu/uF+5zvpSVUzoxlYbnU67X7pzfxmXtzaZ4mia+W
+         3U8UfOJsEyQMf053NCY9cCxSb4BnYKVzLtMz8tIUpo73UG3UPYaSr0c4InHwa8n
+         HFzzf2ewG4D6jHIB6THIxPTP6ykdg28w1uSvnSyT0lsqhIUd1zJG7CYaxbsFswE
+         Qi+qaVXIJJChvdUo8HX5O0Rwk4xBg0YzNhcVDL7THyXG9c64otYbd7KxAwPuKGp
+         lOWlYY//z6FmhlOsYff1h0yAg4Mw==; q=dns/txt; t=1606282347;
+X-HS-Cid: 1axf2mdhpnujhkihl85g07a3jo2fkz2pq2xqq7
+List-Unsubscribe: <mailto:1axc9az68wsx2rvrr5zgj5h0o26wxcegeqgln3-sales=tantaaa.com@bf01x.hubspotemail.net?subject=unsubscribe>
+Date: Wed, 25 Nov 2020 11:02:27 +0530
+From: Team Razorpay <newsletter@razorpay.com>
+Reply-To: newsletter@razorpay.com
+To: sales@tantaaa.com
+Message-ID: <1606281624402.3a28efb6-e22f-400f-994b-6db617a5f7b7@bf01x.hubspotemail.net>
+Subject: =?utf-8?Q?The_pandemic_and_the_e-commerce?=
+ =?utf-8?Q?_market_-_Industry_report_2020=F0=9F=93=8A?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1530103_2018787210.1606282347098"
+X-Report-Abuse-To: abuse@hubspot.com (see
+ https://www.hubspot.com/abuse-complaints)
+
+------=_Part_1530103_2018787210.1606282347098
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Apologies! The link broke midway
+
+View in browser (https://i3.t.hubspotemail.net/e2t/sc2/MmZ-8ykbXXyW6YGb_y62=
+LRNYW5f7KnN8LvL2dW26F15-8fPlRzdBzP8M04 )
+
+Hello again,
+
+We had a glitch with the "Share Now" button while sending this report to yo=
+u. If you already shared this with your friends and colleagues, you know it=
+ - the link isn=E2=80=99t working.
+
+But hey, we just fixed this. You can share the correct link with your frien=
+ds now (and get yourself another topic to discuss when you catch-up next).
+
+Share Now (https://i3.t.hubspotemail.net/e2t/sc2/MmZ-8ykbXXyW6YGb_y62LRNYW5=
+f7KnN8LvL2dW26F15-8fPlRzdBzP8N04 )
+
+Razorpay, Hosur Road, Bengaluru, Karnataka
+
+Unsubscribe (https://hs-5558946.s.hubspotemail.net/hs/manage-preferences/un=
+subscribe-all?d=3DVnbTMb639-pdVFrjJq3K984HW3zd-fZ3z7rYZW43T2Pw6D1v7sW15gBJz=
+6KXJVLW8fm1Yy5BW1ZtW4K0RZx90RtD0VW-Xr38LjXJWMXk_7Qbw4BbW86fChL1SKS7NVK-YPz9=
+kNRjm3bHq2&v=3D3&_hsenc=3Dp2ANqtz-9uCg_bEi-PkunlW94f7eAyHAdQ5KwpzwM7JLsqzjL=
+TDuChlwCWhHn3nbeUPA9K0R4Mq70xetuJCGHvTfAC6b5B22ao3w&_hsmi=3D100890000 )
+
+Manage preferences (https://hs-5558946.s.hubspotemail.net/hs/manage-prefere=
+nces/unsubscribe?d=3DVnbTMb639-pdVFrjJq3K984HW3zd-fZ3z7rYZW43T2Pw6D1v7sW15g=
+BJz6KXJVLW8fm1Yy5BW1ZtW4K0RZx90RtD0VW-Xr38LjXJWMXk_7Qbw4BbW86fChL1SKS7NVK-Y=
+Pz9kNRjm3bHq2&v=3D3&_hsenc=3Dp2ANqtz-9uCg_bEi-PkunlW94f7eAyHAdQ5KwpzwM7JLsq=
+zjLTDuChlwCWhHn3nbeUPA9K0R4Mq70xetuJCGHvTfAC6b5B22ao3w&_hsmi=3D100890000 )
+------=_Part_1530103_2018787210.1606282347098
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3=
+.org/1999/xhtml" xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:=
+v=3D"urn:schemas-microsoft-com:vml" lang=3D"en"><head>
+    <title>The pandemic and the e-commerce market - Industry report 2020=F0=
+=9F=93=8A</title>
+    <meta property=3D"og:title" content=3D"The pandemic and the e-commerce =
+market - Industry report 2020=F0=9F=93=8A">
+    <meta name=3D"twitter:title" content=3D"The pandemic and the e-commerce=
+ market - Industry report 2020=F0=9F=93=8A">
+   =20
+   =20
+   =20
+<meta name=3D"x-apple-disable-message-reformatting">
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+    <!--[if gte mso 9]>
+  <xml>
+      <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+  </xml>
+ =20
+  <style>
+    ul > li {
+      text-indent: -1em;
+    }
+  </style>
+<![endif]-->
+<!--[if mso]>
+<style type=3D"text/css">
+ body, td {font-family: Arial, Helvetica, sans-serif;}
+</style>
+<![endif]-->
+   =20
+     =20
+   =20
+  <meta name=3D"generator" content=3D"HubSpot"><meta property=3D"og:url" co=
+ntent=3D"http://razorpay-5558946.hs-sites.com/the-pandemic-and-the-e-commer=
+ce-market-industry-report-2020"><meta name=3D"robots" content=3D"noindex,fo=
+llow"><!--[if !((mso)|(IE))]><!-- --><style type=3D"text/css">[owa] .hse-co=
+lumn-container{max-width:600px !important;width:600px !important}[owa] .hse=
+-column{display:table-cell;vertical-align:top}
+[owa] .hse-section .hse-size-12{max-width:600px !important;width:600px !imp=
+ortant}
+@media only screen and (min-width:640px){.hse-column-container{max-width:60=
+0px !important;width:600px !important}
+.hse-column{display:table-cell;vertical-align:top}.hse-section .hse-size-12=
+{max-width:600px !important;width:600px !important}
+}@media only screen and (max-width:639px){img.stretch-on-mobile,.hs_rss_ema=
+il_entries_table img{height:auto !important;width:100% !important}
+.display_block_on_small_screens{display:block}.hs_padded{padding-left:20px =
+!important;padding-right:20px !important}
+}</style><!--<![endif]--><style type=3D"text/css">a[x-apple-data-detectors]=
+{color:inherit !important;text-decoration:none !important;font-size:inherit=
+ !important;font-family:inherit !important;font-weight:inherit !important;l=
+ine-height:inherit !important}
+#outlook a{padding:0}.yshortcuts a{border-bottom:none !important}a{text-dec=
+oration:underline}
+.ExternalClass{width:100%}.ExternalClass,.ExternalClass p,.ExternalClass td=
+,.ExternalClass div,.ExternalClass span,.ExternalClass font{line-height:100=
+%}
+p{margin:0}body{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-we=
+bkit-font-smoothing:antialiased;moz-osx-font-smoothing:grayscale}</style></=
+head>
+  <body bgcolor=3D"#EEEEEE" style=3D"margin:0 !important; padding:0 !import=
+ant; font-family:Trebuchet MS, sans-serif; font-size:16px; color:#3a3a3a; w=
+ord-break:break-word">
+   =20
+<div id=3D"preview_text" style=3D"display:none!important;font-size:1px;colo=
+r:#EEEEEE;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:h=
+idden;">Apologies! The link broke midway</div>
+   =20
+<!--[if gte mso 9]>
+<v:background xmlns:v=3D"urn:schemas-microsoft-com:vml" fill=3D"t">
+ =20
+    <v:fill type=3D"tile" size=3D"100%,100%" color=3D"#EEEEEE"/>
+ =20
+</v:background>
+<![endif]-->
+    <div class=3D"hse-body-background" style=3D"background-color:#eeeeee" b=
+gcolor=3D"#eeeeee">
+      <table role=3D"presentation" class=3D"hse-body-wrapper-table" cellpad=
+ding=3D"0" cellspacing=3D"0" style=3D"border-spacing:0 !important; border-c=
+ollapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; margin:0; pad=
+ding:0; width:100% !important; min-width:320px !important; height:100% !imp=
+ortant" width=3D"100%" height=3D"100%">
+        <tbody><tr>
+          <td class=3D"hse-body-wrapper-td" valign=3D"top" style=3D"border-=
+collapse:collapse; mso-line-height-rule:exactly; font-family:Trebuchet MS, =
+sans-serif; font-size:16px; color:#3a3a3a; word-break:break-word; padding-t=
+op:20px">
+            <div id=3D"hs_cos_wrapper_main" class=3D"hs_cos_wrapper hs_cos_=
+wrapper_widget hs_cos_wrapper_type_dnd_area" style=3D"color: inherit; font-=
+size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widget" d=
+ata-hs-cos-type=3D"dnd_area">  <div id=3D"section_1606281062025" class=3D"h=
+se-section hse-section-first" style=3D"padding-left:10px; padding-right:10p=
+x">
+   =20
+   =20
+    <!--[if !((mso)|(IE))]><!-- -->
+      <div class=3D"hse-column-container" style=3D"min-width:280px; max-wid=
+th:600px; width:100%; Margin-left:auto; Margin-right:auto; border-collapse:=
+collapse; border-spacing:0">
+    <!--<![endif]-->
+   =20
+    <!--[if (mso)|(IE)]>
+      <div class=3D"hse-column-container" style=3D"min-width:280px;max-widt=
+h:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:colla=
+pse;border-spacing:0;">
+      <table align=3D"center" style=3D"border-collapse:collapse;mso-table-l=
+space:0pt;mso-table-rspace:0pt;width:600px;" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation">
+      <tr>
+    <![endif]-->
+    <!--[if (mso)|(IE)]>
+  <td valign=3D"top" style=3D"width:600px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role=3D"presentation" width=3D"600" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0pt;mso-table-rsp=
+ace:0pt;width:600px">
+<![endif]-->
+<div id=3D"column_1606281062025_0" class=3D"hse-column hse-size-12">
+  <div id=3D"hs_cos_wrapper_module_160628106202317" class=3D"hs_cos_wrapper=
+ hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inherit;=
+ font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"wid=
+get" data-hs-cos-type=3D"module">
+<div style=3D"overflow:hidden">
+<table role=3D"presentation" class=3D"hse-pre-header hse-secondary" width=
+=3D"100%" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing:0 !im=
+portant; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0=
+pt; text-align:right; font-family:Arial, sans-serif; font-size:12px; line-h=
+eight:135%; color:#23496d; margin-bottom:0; padding:0" align=3D"right">
+    <tbody>
+        <tr>
+            <td align=3D"right" valign=3D"top" style=3D"border-collapse:col=
+lapse; mso-line-height-rule:exactly; color:#3a3a3a; word-break:break-word; =
+text-align:right; font-family:Arial, sans-serif; font-size:12px; padding:10=
+px 0; margin-bottom:0; line-height:135%">
+                <a href=3D"https://i3.t.hubspotemail.net/e2t/tc/VVQkc16HSB2=
+0VzN_PJ6Ghh5_W6J3_6X4jQz_fN2_Qd4y5kbT_V3Zsc37CgN18W1ZQZb34QKhzcW2yVBqh1dJh5=
+GW2975VR4LxbM7W5-SFk06LZncRW89rbpw7Fln3yW8VNXch6Gldm2W2ZkSDK33gBymN46qbK3T4=
+bygW1SQf0g49lsTrW1b_Gpx2W8kSRW2PZWVg2p9K-CVSVVJ637XrGLMlYCzldQlHzW6qydXc2c2=
+_MKW8jQ3Q-8CX1CmVxl88V7h1nb4W3QjW931Lw7RFN35qwDQjT6_FW55T6SM1v7-d6W3sYq7m73=
+HKXwW19rMXj1zKFT5N8m_RTDxVrk9W8rlMFN7GXy39W1PJtTY2M_tFGW788k-y8HP8S0W8JjLQp=
+4tb580Vr7pLY8qpBMLW6mtmdk52Vnl-W8DPw6S2RN5lCN8GTbtzzkVWSW1DK01R4l3rGQW8HNJf=
+86PvgjGW8CTr1T7gD8LyN3lJy2YHyG_vW5SMqBG7MNldhW8lX0vW3P370DW39S3Yj86284HW7fD=
+Zlm7z_9ML36L81" style=3D"mso-line-height-rule:exactly; color:#0d97bd; font-=
+weight:normal; text-decoration:none; font-style:normal" data-hs-link-id=3D"=
+0" target=3D"_blank">View in browser</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+    </div>
+  =20
+  </div>
+  <div id=3D"section-0" class=3D"hse-section" style=3D"padding-left:10px; p=
+adding-right:10px">
+   =20
+   =20
+    <!--[if !((mso)|(IE))]><!-- -->
+      <div class=3D"hse-column-container" style=3D"min-width:280px; max-wid=
+th:600px; width:100%; Margin-left:auto; Margin-right:auto; border-collapse:=
+collapse; border-spacing:0">
+    <!--<![endif]-->
+   =20
+    <!--[if (mso)|(IE)]>
+      <div class=3D"hse-column-container" style=3D"min-width:280px;max-widt=
+h:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:colla=
+pse;border-spacing:0;">
+      <table align=3D"center" style=3D"border-collapse:collapse;mso-table-l=
+space:0pt;mso-table-rspace:0pt;width:600px;" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation">
+      <tr>
+    <![endif]-->
+    <!--[if (mso)|(IE)]>
+  <td valign=3D"top" style=3D"width:600px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role=3D"presentation" width=3D"600" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0pt;mso-table-rsp=
+ace:0pt;width:600px">
+<![endif]-->
+<div id=3D"column-0-1" class=3D"hse-column hse-size-12">
+  <div id=3D"hs_cos_wrapper_module-1-1-1" class=3D"hs_cos_wrapper hs_cos_wr=
+apper_widget hs_cos_wrapper_type_module" style=3D"color: inherit; font-size=
+: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widget" data-=
+hs-cos-type=3D"module">
+=09
+<table class=3D"hse-image-wrapper" role=3D"presentation" width=3D"100%" cel=
+lpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing:0 !important; bord=
+er-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt">
+    <tbody>
+        <tr>
+            <td align=3D"center" valign=3D"top" style=3D"border-collapse:co=
+llapse; mso-line-height-rule:exactly; font-family:Trebuchet MS, sans-serif;=
+ color:#3a3a3a; word-break:break-word; text-align:center; padding:10px 20px=
+; font-size:0px">
+               =20
+                <img alt=3D"razorpay-logo" src=3D"https://lp.razorpay.com/h=
+s-fs/hubfs/razorpay-logo.png?width=3D260&amp;upscale=3Dtrue&amp;name=3Drazo=
+rpay-logo.png" style=3D"outline:none; text-decoration:none; -ms-interpolati=
+on-mode:bicubic; max-width:100%; font-size:16px" width=3D"130" align=3D"mid=
+dle" srcset=3D"https://lp.razorpay.com/hs-fs/hubfs/razorpay-logo.png?upscal=
+e=3Dtrue&amp;width=3D260&amp;upscale=3Dtrue&amp;name=3Drazorpay-logo.png 13=
+0w, https://lp.razorpay.com/hs-fs/hubfs/razorpay-logo.png?upscale=3Dtrue&am=
+p;width=3D520&amp;upscale=3Dtrue&amp;name=3Drazorpay-logo.png 260w" sizes=
+=3D"(max-width: 130px) 100vw, 130px">
+               =20
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+    </div>
+  =20
+  </div>
+  <div id=3D"section_1606126104698" class=3D"hse-section" style=3D"padding-=
+left:10px; padding-right:10px">
+   =20
+   =20
+    <!--[if !((mso)|(IE))]><!-- -->
+      <div class=3D"hse-column-container" style=3D"min-width:280px; max-wid=
+th:600px; width:100%; Margin-left:auto; Margin-right:auto; border-collapse:=
+collapse; border-spacing:0; background-color:#FFFFFF; padding-bottom:35px; =
+padding-top:35px" bgcolor=3D"#FFFFFF">
+    <!--<![endif]-->
+   =20
+    <!--[if (mso)|(IE)]>
+      <div class=3D"hse-column-container" style=3D"min-width:280px;max-widt=
+h:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:colla=
+pse;border-spacing:0;">
+      <table align=3D"center" style=3D"border-collapse:collapse;mso-table-l=
+space:0pt;mso-table-rspace:0pt;width:600px;" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" width=3D"600" bgcolor=3D"#FFFFFF">
+      <tr style=3D"background-color:#FFFFFF;">
+    <![endif]-->
+    <!--[if (mso)|(IE)]>
+  <td valign=3D"top" style=3D"width:600px;padding-bottom:35px; padding-top:=
+35px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role=3D"presentation" width=3D"600" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0pt;mso-table-rsp=
+ace:0pt;width:600px">
+<![endif]-->
+<div id=3D"column_1606126104698_0" class=3D"hse-column hse-size-12">
+  <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%" style=3D"border-spacing:0 !important; border-collapse:collapse; mso-=
+table-lspace:0pt; mso-table-rspace:0pt"><tbody><tr><td class=3D"hs_padded" =
+style=3D"border-collapse:collapse; mso-line-height-rule:exactly; font-famil=
+y:Trebuchet MS, sans-serif; font-size:16px; color:#3a3a3a; word-break:break=
+-word; padding:10px 20px"><div id=3D"hs_cos_wrapper_module-6-1-1" class=3D"=
+hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"c=
+olor: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-gener=
+al-type=3D"widget" data-hs-cos-type=3D"module"><div id=3D"hs_cos_wrapper_mo=
+dule-6-1-1_" class=3D"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_t=
+ype_rich_text" style=3D"color: inherit; font-size: inherit; line-height: in=
+herit;" data-hs-cos-general-type=3D"widget" data-hs-cos-type=3D"rich_text">=
+<p style=3D"mso-line-height-rule:exactly; font-size:15px; line-height:150%"=
+>Hello again,&nbsp;<br><br>We had a glitch with the "Share Now" button whil=
+e sending this report to you. If you already shared this with your friends =
+and colleagues, you know it - the link isn=E2=80=99t working.</p>
+<p style=3D"mso-line-height-rule:exactly; font-size:15px; line-height:150%"=
+>&nbsp;</p>
+<p style=3D"mso-line-height-rule:exactly; font-size:15px; line-height:150%"=
+>But hey, we just fixed this. You can share the correct link with your frie=
+nds now (and get yourself another topic to discuss when you catch-up next).=
+</p></div></div></td></tr></tbody></table>
+<table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" style=3D"border-spacing:0 !important; border-collapse:collapse; mso-ta=
+ble-lspace:0pt; mso-table-rspace:0pt"><tbody><tr><td class=3D"hs_padded" st=
+yle=3D"border-collapse:collapse; mso-line-height-rule:exactly; font-family:=
+Trebuchet MS, sans-serif; font-size:16px; color:#3a3a3a; word-break:break-w=
+ord; padding:11px"><div id=3D"hs_cos_wrapper_module_16061261284842" class=
+=3D"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=
+=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-=
+general-type=3D"widget" data-hs-cos-type=3D"module"><img style=3D"outline:n=
+one; text-decoration:none; -ms-interpolation-mode:bicubic; vertical-align:m=
+iddle; width:45px; height:25px" src=3D"https://lp.razorpay.com/hubfs/WhatsA=
+pp-Symbol%201.png" width=3D"45" height=3D"25"><div style=3D"vertical-align:=
+middle; display:inline;"> <a href=3D"https://i3.t.hubspotemail.net/e2t/tc/V=
+VQkc16HSB20VzN_PJ6Ghh5_W6J3_6X4jQz_fN2_Qd3G7hMmhV5X_Kf7CgKpmN6-xpPwLbxd5W7V=
+Pv3H70v_ryN2yRFTCylSN8W9hQ2PJ5rYWd5N8wJH5FB5YQnW55wG8L659k21W5FCqcd4KZ-N3W5=
+8W5fh6f5Q7HW2GV26J7f_sV5W8Q8BN65nM4ptW9ltx1J8pnzCpW7f542p124XyyW3Tyl6K6z9R7=
+9W9jB7Q76P10tCW7Hm8C46msRK6Vr_c6l5yTVNWW6jhTDF30R_cRW5vb0kZ7YGJDjW5yBdGX5kL=
+7mXW6rrgZ-7MrB5SVwbjkb6Cv3g9VvPzrg6bFbFRW26ZCFg75zJTpW7nt2Fq6GBDrNW2xffHY25=
+XMGWW1Y5zfF5MmtZYW7YRmMG52-mV-W6CjvWN67tZ7SVR3t407HfJsTVJjYQG3Tk_lbW4jTJc13=
+8xTMNV-3dSP5ThyCXW7Gldt03s2ttSVj0lLR1ghbw-W41rXrp8cYq8MW26jfq_14kHLgW7MLwj5=
+5B5YBcW4_pJSh454C-6W7GMLMZ3T3Vs_W8FH_Dt7JW7L7W6dx0JL11xxjMW8K5-V984bHWHW6-v=
+Hg_3XZyf9W6Xmcwn7_p7lJW6gkmnH5FKc7KW8l9Zkz8wG2q7V8Y_0k5t4-lzW522mlc31bQhp38=
+hB1" style=3D"mso-line-height-rule:exactly; color:#64c64d" data-hs-link-id=
+=3D"0" target=3D"_blank">Share Now</a></div></div></td></tr></tbody></table=
+>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+    </div>
+  =20
+  </div>
+  <div id=3D"section-7" class=3D"hse-section hse-section-last" style=3D"pad=
+ding-left:10px; padding-right:10px; padding-bottom:20px">
+   =20
+   =20
+    <!--[if !((mso)|(IE))]><!-- -->
+      <div class=3D"hse-column-container" style=3D"min-width:280px; max-wid=
+th:600px; width:100%; Margin-left:auto; Margin-right:auto; border-collapse:=
+collapse; border-spacing:0; background-color:#eeeeee" bgcolor=3D"#eeeeee">
+    <!--<![endif]-->
+   =20
+    <!--[if (mso)|(IE)]>
+      <div class=3D"hse-column-container" style=3D"min-width:280px;max-widt=
+h:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:colla=
+pse;border-spacing:0;">
+      <table align=3D"center" style=3D"border-collapse:collapse;mso-table-l=
+space:0pt;mso-table-rspace:0pt;width:600px;" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" width=3D"600" bgcolor=3D"#eeeeee">
+      <tr style=3D"background-color:#eeeeee;">
+    <![endif]-->
+    <!--[if (mso)|(IE)]>
+  <td valign=3D"top" style=3D"width:600px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role=3D"presentation" width=3D"600" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0pt;mso-table-rsp=
+ace:0pt;width:600px">
+<![endif]-->
+<div id=3D"column-7-1" class=3D"hse-column hse-size-12">
+  <div id=3D"hs_cos_wrapper_module-7-1-1" class=3D"hs_cos_wrapper hs_cos_wr=
+apper_widget hs_cos_wrapper_type_module" style=3D"color: inherit; font-size=
+: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widget" data-=
+hs-cos-type=3D"module">
+ =20
+ =20
+ =20
+ =20
+ =20
+ =20
+ =20
+<table role=3D"presentation" class=3D"hse-footer hse-secondary" width=3D"10=
+0%" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing:0 !importan=
+t; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; fo=
+nt-family:Arial, sans-serif; font-size:12px; line-height:135%; color:#23496=
+d; margin-bottom:0; padding:0">
+    <tbody>
+        <tr>
+            <td align=3D"center" valign=3D"top" style=3D"border-collapse:co=
+llapse; mso-line-height-rule:exactly; font-family:Trebuchet MS, sans-serif;=
+ font-size:16px; color:#3a3a3a; word-break:break-word; text-align:center; m=
+argin-bottom:0; line-height:135%; padding:10px 20px">
+                <p style=3D"mso-line-height-rule:exactly; font-family:Helve=
+tica,Arial,sans-serif; font-size:12px; font-weight:normal; text-decoration:=
+none; font-style:normal; color:#9195a6">
+                  Razorpay, Hosur Road, Bengaluru, Karnataka
+                </p>
+                <p style=3D"mso-line-height-rule:exactly">
+                 =20
+                  <a data-unsubscribe=3D"true"  href=3D"https://hs-5558946.=
+s.hubspotemail.net/hs/manage-preferences/unsubscribe-all?d=3DVnbTMb639-pdVF=
+rjJq3K984HW3zd-fZ3z7rYZW43T2Pw6D1v7sW15gBJz6KXJVLW8fm1Yy5BW1ZtW4K0RZx90RtD0=
+VW-Xr38LjXJWMXk_7Qbw4BbW86fChL1SKS7NVK-YPz9kNRjm3bHq2&amp;v=3D3&amp;utm_sou=
+rce=3Dhs_email&amp;utm_medium=3Demail&amp;utm_content=3D100890000&amp;_hsen=
+c=3Dp2ANqtz--1vtGOojUHf7jxn6J7QFnSS6vtdUcGLzeRglNpxi3bjTxEcyLd_wntWwanMArsM=
+NT3AgSSYAL_TvzJMamFEVcpyB1kKw&amp;_hsmi=3D100890000" style=3D"mso-line-heig=
+ht-rule:exactly; font-family:Trebuchet MS, sans-serif; font-size:12px; colo=
+r:#0d97bd; font-weight:normal; text-decoration:underline; font-style:normal=
+" data-hs-link-id=3D"0" target=3D"_blank">Unsubscribe</a>
+                 =20
+                  <a data-unsubscribe=3D"true"  href=3D"https://hs-5558946.=
+s.hubspotemail.net/hs/manage-preferences/unsubscribe?d=3DVnbTMb639-pdVFrjJq=
+3K984HW3zd-fZ3z7rYZW43T2Pw6D1v7sW15gBJz6KXJVLW8fm1Yy5BW1ZtW4K0RZx90RtD0VW-X=
+r38LjXJWMXk_7Qbw4BbW86fChL1SKS7NVK-YPz9kNRjm3bHq2&amp;v=3D3&amp;utm_source=
+=3Dhs_email&amp;utm_medium=3Demail&amp;utm_content=3D100890000&amp;_hsenc=
+=3Dp2ANqtz--1vtGOojUHf7jxn6J7QFnSS6vtdUcGLzeRglNpxi3bjTxEcyLd_wntWwanMArsMN=
+T3AgSSYAL_TvzJMamFEVcpyB1kKw&amp;_hsmi=3D100890000" style=3D"mso-line-heigh=
+t-rule:exactly; font-family:Trebuchet MS, sans-serif; font-size:12px; color=
+:#0d97bd; font-weight:normal; text-decoration:underline; font-style:normal"=
+ data-hs-link-id=3D"0" target=3D"_blank">Manage preferences</a>
+                 =20
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+    </div>
+  =20
+  </div>
+</div>
+          </td>
+        </tr>
+      </tbody></table>
+    </div>
+ =20
+<img src=3D"https://i3.t.hubspotemail.net/e2t/to/VVQkc16HSB20VzN_PJ6Ghh5_W6=
+J3_6X4jQz_ff2_QcSB22" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=
+=3D"display:none!important;min-height:1px!important;width:1px!important;bor=
+der-width:0!important;margin-top:0!important;margin-bottom:0!important;marg=
+in-right:0!important;margin-left:0!important;padding-top:0!important;paddin=
+g-bottom:0!important;padding-right:0!important;padding-left:0!important"></=
+body></html>
+------=_Part_1530103_2018787210.1606282347098--
+

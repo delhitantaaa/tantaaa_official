@@ -1,0 +1,497 @@
+Return-Path: <bounce+19be49.674e4-sales=tantaaa.com@razorpay.com>
+Delivered-To: sales@tantaaa.com
+Received: from server25.dnsserverboot.com
+	by server25.dnsserverboot.com with LMTP id CEweEGMkbF+gLgAAwMDd9w
+	for <sales@tantaaa.com>; Thu, 24 Sep 2020 10:15:23 +0530
+Return-path: <bounce+19be49.674e4-sales=tantaaa.com@razorpay.com>
+Envelope-to: sales@tantaaa.com
+Delivery-date: Thu, 24 Sep 2020 10:15:23 +0530
+Received: from m192-135.mailgun.net ([161.38.192.135]:19547)
+	by server25.dnsserverboot.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89_1)
+	(envelope-from <bounce+19be49.674e4-sales=tantaaa.com@razorpay.com>)
+	id 1kLJ8F-0002vk-5X
+	for sales@tantaaa.com; Thu, 24 Sep 2020 10:15:23 +0530
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=razorpay.com; q=dns/txt;
+ s=smtp; t=1600922703; h=Content-Transfer-Encoding: Content-Type:
+ Mime-Version: To: From: Subject: Date: Message-Id: Sender;
+ bh=SzILoNv91Zegyb+rE2EcOFytPAGF3Fn8nLRpE7Rt54c=; b=o4iStnZGVAMLGYyd5+gcgRALk8YFWGHPzxL/GlOCi6Pp7izNZlH3BAwSNJLtdA49wu0IWRJq
+ PaHfiDqWC56l0sy2Emy0YclZMM9v0PXlG147FEw5LpJ2ET0fMsbyGERpvnu30T+u8B6CA54U
+ dI3haq9sbhIY2BF5cOqoeFEe/Oo=
+X-Mailgun-Sending-Ip: 161.38.192.135
+X-Mailgun-Sid: WyIxODA0ZSIsICJzYWxlc0B0YW50YWFhLmNvbSIsICI2NzRlNCJd
+Received: by luna.mailgun.net with HTTP; Thu, 24 Sep 2020 04:44:42 +0000
+Sender: support@razorpay.com
+Message-Id: <8cd2310779cc32348c9d0816116977b8@swift.generated>
+Date: Thu, 24 Sep 2020 04:44:41 +0000
+Subject: Razorpay | OTP to Verify Email
+From: Team Razorpay <support@razorpay.com>
+To: "" <sales@tantaaa.com>
+Mime-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>
+    <html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-mic=
+rosoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+      <head>
+        <title>
+         =20
+        </title>
+        <!--[if !mso]><!-- -->
+        <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+        <!--<![endif]-->
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DU=
+TF-8">
+        <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-sc=
+ale=3D1">
+        <style type=3D"text/css">
+          #outlook a { padding:0; }
+          .ReadMsgBody { width:100%; }
+          .ExternalClass { width:100%; }
+          .ExternalClass * { line-height:100%; }
+          body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-=
+size-adjust:100%; }
+          table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-tab=
+le-rspace:0pt; }
+          img { border:0;height:auto;line-height:100%; outline:none;text-de=
+coration:none;-ms-interpolation-mode:bicubic; }
+          p { display:block;margin:13px 0; }
+        </style>
+        <!--[if !mso]><!-->
+        <style type=3D"text/css">
+          @media  only screen and (max-width:480px) {
+            @-ms-viewport { width:320px; }
+            @viewport  { width:320px; }
+          }
+        </style>
+        <!--<![endif]-->
+        <!--[if mso]>
+        <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+        </xml>
+        <![endif]-->
+        <!--[if lte mso 11]>
+        <style type=3D"text/css">
+          .outlook-group-fix { width:100% !important; }
+        </style>
+        <![endif]-->
+       =20
+       =20
+    <style type=3D"text/css">
+      @media  only screen and (min-width:480px) {
+        .mj-column-per-100 { width:100% !important; max-width: 100%; }
+      }
+    </style>
+   =20
+ =20
+        <style type=3D"text/css">
+       =20
+       =20
+        </style>
+       =20
+       =20
+      </head>
+      <body style=3D"background-color:#FAFAFA;">
+       =20
+       =20
+      <div style=3D"background-color:#FAFAFA;">
+       =20
+     =20
+      <!--[if mso | IE]>
+      <table
+         align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+class=3D"max-width-override-outlook" style=3D"width:600px;" width=3D"600"
+      >
+        <tr>
+          <td style=3D"line-height:0px;font-size:0px;mso-line-height-rule:e=
+xactly;">
+      <![endif]-->
+   =20
+     =20
+      <div class=3D"max-width-override" style=3D"background: #03299C; backg=
+round-color: #03299C; Margin: 0px auto; max-width: unset;">
+       =20
+        <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"background:#03299C;background-color:#=
+03299C;width:100%;">
+          <tbody>
+            <tr>
+              <td style=3D"direction:ltr;font-size:0px;padding:0px;text-ali=
+gn:center;vertical-align:top;">
+                <!--[if mso | IE]>
+                  <table role=3D"presentation" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+               =20
+        <tr>
+     =20
+            <td
+               class=3D"" style=3D"vertical-align:top;width:600px;"
+            >
+          <![endif]-->
+           =20
+      <div class=3D"mj-column-per-100 outlook-group-fix" style=3D"font-size=
+:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top=
+;width:100%;">
+       =20
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"prese=
+ntation" width=3D"100%">
+        <tbody>
+          <tr>
+            <td style=3D"vertical-align:top;padding:0px;">
+             =20
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"prese=
+ntation" style=3D"" width=3D"100%">
+       =20
+            <tr>
+              <td align=3D"left" style=3D"font-size:0px;padding:0px;word-br=
+eak:break-word;">
+               =20
+      <div style=3D"font-family:Trebuchet MS;font-size:13px;line-height:1;t=
+ext-align:left;color:#000000;">
+        <div class=3D"header" style=3D"box-sizing: border-box; max-width: 1=
+00%;"><div class=3D"content branding rzp" style=3D"width: 85%; width: calc(=
+46000% - 211600px); max-width: 460px; min-width: 308px; margin-left: auto; =
+margin-right: auto; box-sizing: border-box; padding-left: 16px; padding-rig=
+ht: 16px; border-radius: 2px; padding-top: 12px; padding-bottom: 12px;"><di=
+v class=3D"branding-content" style=3D"text-align: center; width: fit-conten=
+t; margin: 0 auto; font-size: 12px; line-height: 1.5; color: #8D92A4;"><div=
+ class=3D"content-element logo" style=3D"display: inline-block; vertical-al=
+ign: middle; height: 18px; width: 85px; margin-left: 5px;"><img src=3D"http=
+s://cdn.razorpay.com/logo_invert.png" style=3D"height: 100%; width: 100%;">=
+</div></div></div><div class=3D"content title" style=3D"width: 85%; width: =
+calc(46000% - 211600px); max-width: 460px; min-width: 308px; margin-left: a=
+uto; margin-right: auto; box-sizing: border-box; padding-left: 16px; paddin=
+g-right: 16px; border-radius: 2px; background-color: #FFFFFF; padding-top: =
+12px; border-bottom-left-radius: 0; border-bottom-right-radius: 0;"><div cl=
+ass=3D"title-content" style=3D"text-align: center; width: fit-content; marg=
+in: 0 auto;"><div class=3D"center-align" style=3D"text-align: center;"><img=
+ class=3D"image small" src=3D"https://cdn.razorpay.com/static/assets/email/=
+launch.png" style=3D"margin: 8px; background: transparent; height: 44px;" h=
+eight=3D"44"></div></div></div></div>
+      </div>
+   =20
+              </td>
+            </tr>
+         =20
+      </table>
+   =20
+            </td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]>
+            </td>
+         =20
+        </tr>
+     =20
+                  </table>
+                <![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]>
+          </td>
+        </tr>
+      </table>
+     =20
+      <table
+         align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+class=3D"max-width-override-outlook" style=3D"width:600px;" width=3D"600"
+      >
+        <tr>
+          <td style=3D"line-height:0px;font-size:0px;mso-line-height-rule:e=
+xactly;">
+      <![endif]-->
+   =20
+     =20
+      <div class=3D"max-width-override" style=3D"Margin: 0px auto; max-widt=
+h: unset;">
+       =20
+        <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"width:100%;">
+          <tbody>
+            <tr>
+              <td style=3D"direction:ltr;font-size:0px;padding:0px;text-ali=
+gn:center;vertical-align:top;">
+                <!--[if mso | IE]>
+                  <table role=3D"presentation" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+               =20
+        <tr>
+     =20
+            <td
+               class=3D"" style=3D"vertical-align:top;width:600px;"
+            >
+          <![endif]-->
+           =20
+      <div class=3D"mj-column-per-100 outlook-group-fix" style=3D"font-size=
+:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top=
+;width:100%;">
+       =20
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"prese=
+ntation" width=3D"100%">
+        <tbody>
+          <tr>
+            <td style=3D"vertical-align:top;padding:0px;">
+             =20
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"prese=
+ntation" style=3D"" width=3D"100%">
+       =20
+            <tr>
+              <td align=3D"left" style=3D"font-size:0px;padding:0px;word-br=
+eak:break-word;">
+               =20
+      <div style=3D"font-family:Trebuchet MS;font-size:13px;line-height:1;t=
+ext-align:left;color:#000000;">
+        <div class=3D"card title" style=3D"width: 85%; width: calc(46000% -=
+ 211600px); max-width: 460px; min-width: 308px; margin-left: auto; margin-r=
+ight: auto; box-sizing: border-box; padding-left: 16px; padding-right: 16px=
+; border-radius: 2px; background-color: #FFFFFF; padding-bottom: 16px; bord=
+er-top-left-radius: 0; border-top-right-radius: 0;"><div class=3D"center-al=
+ign font-size-normal font-color-primary" style=3D"text-align: center; font-=
+size: 16px; line-height: 1.5; color: #0D2366;">Verify Your Email Address</d=
+iv></div>
+      </div>
+   =20
+              </td>
+            </tr>
+         =20
+      </table>
+   =20
+            </td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]>
+            </td>
+         =20
+        </tr>
+     =20
+                  </table>
+                <![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]>
+          </td>
+        </tr>
+      </table>
+     =20
+      <table
+         align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+class=3D"max-width-override-outlook" style=3D"width:600px;" width=3D"600"
+      >
+        <tr>
+          <td style=3D"line-height:0px;font-size:0px;mso-line-height-rule:e=
+xactly;">
+      <![endif]-->
+   =20
+     =20
+      <div class=3D"max-width-override" style=3D"Margin: 0px auto; max-widt=
+h: unset;">
+       =20
+        <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"width:100%;">
+          <tbody>
+            <tr>
+              <td style=3D"direction:ltr;font-size:0px;padding:0px;text-ali=
+gn:center;vertical-align:top;">
+                <!--[if mso | IE]>
+                  <table role=3D"presentation" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+               =20
+        <tr>
+     =20
+            <td
+               class=3D"" style=3D"vertical-align:top;width:600px;"
+            >
+          <![endif]-->
+           =20
+      <div class=3D"mj-column-per-100 outlook-group-fix" style=3D"font-size=
+:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top=
+;width:100%;">
+       =20
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"prese=
+ntation" width=3D"100%">
+        <tbody>
+          <tr>
+            <td style=3D"vertical-align:top;padding:0px;">
+             =20
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"prese=
+ntation" style=3D"" width=3D"100%">
+       =20
+            <tr>
+              <td align=3D"left" style=3D"font-size:0px;padding:0px;word-br=
+eak:break-word;">
+               =20
+      <div style=3D"font-family:Trebuchet MS;font-size:13px;line-height:1;t=
+ext-align:left;color:#000000;">
+        <div class=3D"card highlight" style=3D"width: 85%; width: calc(4600=
+0% - 211600px); max-width: 460px; min-width: 308px; margin-left: auto; marg=
+in-right: auto; box-sizing: border-box; padding-left: 16px; padding-right: =
+16px; border-radius: 2px; background-color: #FFFFFF; border-top: 2px solid =
+#528FF0; padding-top: 20px; padding-bottom: 20px; margin-top: 8px;"><p clas=
+s=3D"para-normal font-size-medium center-align" style=3D"text-align: center=
+; font-size: 14px; line-height: 1.5; color: #515978;">Verify your email to =
+finish signing up with Razorpay. Use the following verification code:</p><d=
+iv class=3D"center-align padding-top-8 padding-bottom-8 font-size-large otp=
+-field" style=3D"color: #0D2366; text-align: center; font-size: 24px; line-=
+height: 1.5; padding-top: 8px; padding-bottom: 8px;">731837</div><p class=
+=3D"para-normal padding-borttom-8 center-align font-size-medium" style=3D"t=
+ext-align: center; font-size: 14px; line-height: 1.5; color: #515978;">The =
+verification code is valid for 19 minutes.</p></div>
+      </div>
+   =20
+              </td>
+            </tr>
+         =20
+      </table>
+   =20
+            </td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]>
+            </td>
+         =20
+        </tr>
+     =20
+                  </table>
+                <![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]>
+          </td>
+        </tr>
+      </table>
+     =20
+      <table
+         align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+class=3D"max-width-override-outlook" style=3D"width:600px;" width=3D"600"
+      >
+        <tr>
+          <td style=3D"line-height:0px;font-size:0px;mso-line-height-rule:e=
+xactly;">
+      <![endif]-->
+   =20
+     =20
+      <div class=3D"max-width-override" style=3D"Margin: 0px auto; max-widt=
+h: unset;">
+       =20
+        <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" style=3D"width:100%;">
+          <tbody>
+            <tr>
+              <td style=3D"direction:ltr;font-size:0px;padding:0px;text-ali=
+gn:center;vertical-align:top;">
+                <!--[if mso | IE]>
+                  <table role=3D"presentation" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0">
+               =20
+        <tr>
+     =20
+            <td
+               class=3D"" style=3D"vertical-align:top;width:600px;"
+            >
+          <![endif]-->
+           =20
+      <div class=3D"mj-column-per-100 outlook-group-fix" style=3D"font-size=
+:13px;text-align:left;direction:ltr;display:inline-block;vertical-align:top=
+;width:100%;">
+       =20
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"prese=
+ntation" width=3D"100%">
+        <tbody>
+          <tr>
+            <td style=3D"vertical-align:top;padding:0px;">
+             =20
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"prese=
+ntation" style=3D"" width=3D"100%">
+       =20
+            <tr>
+              <td align=3D"left" style=3D"font-size:0px;padding:0px;word-br=
+eak:break-word;">
+               =20
+      <div style=3D"font-family:Trebuchet MS;font-size:13px;line-height:1;t=
+ext-align:left;color:#000000;">
+        <div class=3D"footer" style=3D"width: 85%; width: calc(46000% - 211=
+600px); max-width: 460px; min-width: 308px; margin-left: auto; margin-right=
+: auto; box-sizing: border-box; padding-left: 16px; padding-right: 16px; bo=
+rder-radius: 2px; margin-top: 8px; margin-bottom: 8px;"><div class=3D"foote=
+r-text" style=3D"font-size: 12px; line-height: 1.5; color: #7B8199; text-al=
+ign: center; padding: 8px 0;">For any further queries or clarifications, fe=
+el free to reach out to us by visiting&nbsp;<a class=3D"link" href=3D"https=
+://razorpay.com/support" target=3D"_blank" style=3D"text-decoration: none; =
+color: #528FF0;">here.</a></div></div>
+      </div>
+   =20
+              </td>
+            </tr>
+         =20
+      </table>
+   =20
+            </td>
+          </tr>
+        </tbody>
+      </table>
+   =20
+      </div>
+   =20
+          <!--[if mso | IE]>
+            </td>
+         =20
+        </tr>
+     =20
+                  </table>
+                <![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+       =20
+      </div>
+   =20
+     =20
+      <!--[if mso | IE]>
+          </td>
+        </tr>
+      </table>
+      <![endif]-->
+   =20
+   =20
+      </div>
+   =20
+      <img width=3D"1px" height=3D"1px" alt=3D"" src=3D"http://email.razorp=
+ay.com/o/eJwNy0EOAjEIAMDX2OOmUCzl0MewQHUTXZNtE7-vcx_vlSkoHb2ZY4HMLGYFCzUTzw=
+0qQBXmvd0oz-8x1vaIMy5d4enZMaOgANMYItXbnYZDGA7dGTVTuvrUV8x_XnouVd3s8_4BdAEiO=
+g"></body>
+    </html>

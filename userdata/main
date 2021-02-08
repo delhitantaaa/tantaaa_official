@@ -1,0 +1,10 @@
+--- 
+addon_domains: {}
+
+main_domain: tantaaa.com
+parked_domains: []
+
+sub_domains: 
+  - demo1.tantaaa.com
+  - demo.tantaaa.com
+  - s.tantaaa.com

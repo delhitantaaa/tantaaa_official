@@ -1,0 +1,615 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 202011 will be lost/reset.
+# Last config file used to build this data file was /home2/delhitantaa/tmp/awstats/awstats.tantaaa.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2677                
+POS_VISITOR 10971               
+POS_DAY 15150               
+POS_DOMAIN 3455                
+POS_LOGIN 3816                
+POS_ROBOT 3971                
+POS_WORMS 4411                
+POS_EMAILSENDER 4542                
+POS_EMAILRECEIVER 4685                
+POS_SESSION 15852               
+POS_SIDER 16059               
+POS_FILETYPES 4820                
+POS_DOWNLOADS 5146                
+POS_OS 5243                
+POS_BROWSER 5462                
+POS_SCREENSIZE 6175                
+POS_UNKNOWNREFERER 6249                
+POS_UNKNOWNREFERERBROWSER 6793                
+POS_ORIGIN 7171                
+POS_SEREFERRALS 7311                
+POS_PAGEREFS 7474                
+POS_SEARCHWORDS 7691                
+POS_KEYWORDS 7843                
+POS_MISC 2341                
+POS_ERRORS 7902                
+POS_CLUSTER 3672                
+POS_SIDER_404 8096                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20201201000522 20 4791 11589567222555
+FirstTime 0
+LastTime 20201130221529
+LastUpdate 20201201183841 20 0 19 0 0
+TotalVisits 114                 
+TotalUnique 94                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 107                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4 4 50582 5 9 202552
+1 1 1 0 7 7 2970
+2 0 0 0 2 2 1756
+3 0 0 0 7 30 251561
+4 1 1 12506 2 3 14487
+5 0 0 0 8 36 357513
+6 1 28 407566 3 4 106076
+7 10 109 3188231 37 40 55294
+8 3 3 37701 9 9 4773
+9 6 37 600474 9 15 12857
+10 63 125 1623640 47 69 63970
+11 204 808 19831381 213 284 358473
+12 52 52 231569 17 44 48356
+13 40 163 3565276 15 45 71909
+14 57 59 125069 16 31 163724
+15 110 226 2613051 19 49 457617
+16 190 522 9609801 21 90 873115
+17 94 320 9140814 6 40 45459
+18 128 373 4850897 7 25 27287
+19 72 297 7879064 74 111 200655
+20 44 131 2507019 12 30 90560
+21 98 439 12851939 22 80 1234159
+22 32 169 4876820 29 73 3159431
+23 25 200 5141927 8 12 224933
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+ca 699 1947 39607374
+in 400 1516 32072739
+us 63 214 4550450
+gb 49 196 7192916
+hk 15 152 5213552
+hu 6 6 75187
+nl 1 1 12725
+jp 1 34 407872
+ua 1 1 12512
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+Googlebot/ 124 1376517 20201125221523 0
+facebookexternalhit/ 8 125127 20201115163139 0
+bot[\s_+:,\.\;\/\\-] 2 25643 20201130120756 0
+no_user_agent 2 117600 20201116163250 0
+AhrefsBot/ 2 25380 20201117041647 0
+ruby/ 1 12505 20201109133553 0
+unknown 1 24 20201104111317 1
+LinkedInBot/ 1 12676 20201111004804 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+css 727 6758266 0 0
+Unknown 992 2193893 0 0
+xsd 1 2310 0 0
+woff2 70 4157112 0 0
+xlsx 1 9685 0 0
+ttf 2 251312 0 0
+eot 2 156175 0 0
+jpg 117 1864666 0 0
+xml 1 0 0 0
+js 938 15193742 0 0
+cgi 1 3987 0 0
+png 570 22292209 0 0
+html 166 2705649 0 0
+jpeg 479 33556321 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/public/download/product_bulk_demo.xlsx 1 0 9685
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+linux 31 16
+win7 915 259
+macosx10 1 1
+macosx6 1 1
+win8.1 1 1
+Unknown 144 66
+winxp 1 1
+macosx 109 10
+win10 1971 622
+linuxandroid 838 243
+ios_iphone 55 15
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 31
+safari14.0.1 55 15
+chrome76.0.3809.132 2 2
+msie6.0 1 1
+chrome70.0.3538.77 1 1
+firefox57.0 1 1
+chrome84.0.4147.135 32 4
+chrome44.0.2403.157 2 2
+firefox59.0 1 1
+chrome86.0.4240.198 229 38
+chrome86.0.4240.193 660 127
+chrome85.0.4183.101 334 144
+chrome87.0.4280.66 930 354
+chrome83.0.4103.97 1 1
+chrome80.0.3987 1 1
+msie11.0 100 31
+chrome86.0.4240.185 341 88
+mozilla 118 43
+firefox61.0 6 6
+chrome86.0.4240.183 1049 329
+firefox68.0 1 1
+chrome73.0.3683.90 1 1
+chrome86.0.4240.111 1 1
+chrome41.0.2226.0 1 1
+chrome84.0.4143.7 80 8
+firefox52.0 1 1
+chrome79.0.3945.88 1 1
+chrome85.0.4183.83 40 3
+chrome45.0.2454.94 1 1
+Unknown 26 23
+chrome83.0.4103.106 49 4
+safari5.1 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 9
+cortex/1.0 20201115163143
+WhatsApp/2.20.195.15_A 20201130130353
+Google-Search-Contributions 20201112003323
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20201129154619
+adreview/1.0 20201115163231
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20201113141212
+Mozilla/5.0_(compatible;_Dataprovider.com) 20201111210702
+AddThis.com_(http://support.addthis.com/) 20201111181215
+Go-http-client/1.1 20201113141202
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 7
+Go-http-client/1.1 20201113141202
+adreview/1.0 20201115163231
+cortex/1.0 20201115163143
+Google-Search-Contributions 20201112003323
+WhatsApp/2.20.195.15_A 20201130130353
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20201129154619
+AddThis.com_(http://support.addthis.com/) 20201111181215
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 179 183
+From1 1 1
+From2 3 3
+From3 8 8
+From4 1044 3872
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://brandnewblogs.com 6 6
+https://payuin.lightning.force.com 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+302 64 17363
+206 48 1375405
+419 25 1475
+503 2 2312
+403 9 10251
+405 6 2064
+301 116 70955
+404 647 785601
+500 73 4068589
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 65
+/wp 1 http://tantaaa.com/wp/
+/web/wp-includes/wlwmanifest.xml 1 -
+/public/img/favicon.png 2 http://www.tantaaa.com/login
+/humans.txt 1 -
+/public/frontend/images/placeholder-rect.jpg 66 http://www.tantaaa.com/
+/2018 1 http://tantaaa.com/2018/
+/old-wp 1 http://tantaaa.com/old-wp/
+/public/frontend/images/placeholder.jpg 141 http://www.tantaaa.com/
+/search 8 http://tantaaa.com/
+/new-site 1 http://tantaaa.com/new-site/
+/vendor/countdowntime/countdowntime.js 1 -
+/old-site 1 http://tantaaa.com/old-site/
+/product/variant_price 1 -
+/robots.txt 39 -
+/home/section/best_selling 18 http://tantaaa.com/
+/bk 1 http://tantaaa.com/bk/
+/wordpress/wp-includes/wlwmanifest.xml 1 -
+/wp1 1 http://tantaaa.com/wp1/
+/2019 1 http://tantaaa.com/2019/
+/dev 1 http://tantaaa.com/dev/
+/public/shop/logo/Gt1xw7vjTpMnwpADkGSilc35qrAfcw02kuZ36Jdn.png 7 http://tantaaa.com/
+/backup 1 http://tantaaa.com/backup/
+/v1 1 http://tantaaa.com/v1/
+/demo 1 http://tantaaa.com/demo/
+/users/login 3 http://tantaaa.com/
+/wp-includes/wlwmanifest.xml 1 -
+/new 1 http://tantaaa.com/new/
+/public/frontend/js/vendor/popper.min.js.map 1 http://www.tantaaa.com/
+/install 1 http://tantaaa.com/install/
+/category/nav-element-list 153 http://tantaaa.com/
+/home 1 http://tantaaa.com/home/
+/js/main.js 1 -
+/public/uploads/sliders/NCv47fHKnhVOljpkXik5KgIHCleEbbpzcweNOIhl.jpeg 102 http://www.tantaaa.com/
+/asset-manifest.json 1 http://www.tantaaa.com/
+/wp2 1 http://tantaaa.com/wp2/
+/public/frontend/images/xloading.gif 2 http://tantaaa.com/public/frontend/css/xzoom.css
+/home/section/home_categories 18 http://tantaaa.com/
+/old 1 http://tantaaa.com/old/
+/v2 1 http://tantaaa.com/v2/
+/dashboard 1 http://tantaaa.com/
+/wordpress 1 http://tantaaa.com/wordpress/
+/tmp 1 http://tantaaa.com/tmp/
+/temp 1 http://tantaaa.com/temp/
+/users/registration 2 -
+/home/section/featured 17 http://tantaaa.com/
+/public/frontend/js/bootstrap-tagsinput.min.js.map 1 http://www.tantaaa.com/
+//vendor/phpunit/phpunit/src/Util/PHP/kill.php 1 -
+/site 1 http://tantaaa.com/site/
+/test 1 http://tantaaa.com/test/
+/vendor/select2/select2.min.js 1 -
+/vendor/bootstrap/js/popper.js 1 -
+/main 1 http://tantaaa.com/main/
+/s/truely_web 1 -
+/xmlrpc.php 1 -
+/ads.txt 2 -
+/truely_web 1 -
+/2020 1 http://tantaaa.com/2020/
+/website/wp-includes/wlwmanifest.xml 1 -
+/cms 1 http://tantaaa.com/cms/
+/blog 1 http://tantaaa.com/blog/
+/home/section/best_sellers 18 http://tantaaa.com/
+/web 1 http://tantaaa.com/web/
+/blog/wp-includes/wlwmanifest.xml 1 -
+/bak 1 http://tantaaa.com/bak/
+/public/frontend/js/vendor/bootstrap.min.js.map 1 http://www.tantaaa.com/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 107
+122.176.8.222 170 752 17942384 20201117111953
+47.30.200.40 106 167 1109494 20201105183455
+47.30.215.17 90 188 3237657 20201128113851
+122.176.15.59 87 147 1025486 20201105151326
+47.30.164.76 63 152 2768553 20201121125030
+110.225.86.166 63 71 521341 20201125162520
+47.30.184.236 55 126 2258071 20201115182217
+47.31.185.191 37 45 448450 20201110210308
+47.30.198.48 33 121 3171656 20201129220840
+47.31.235.160 32 108 2903606 20201126213722
+47.31.13.11 32 96 2254686 20201115172940
+47.30.139.78 25 157 2973134 20201127181027
+47.30.198.217 24 24 59773 20201124192003
+47.30.203.118 24 45 1887191 20201130130556
+51.210.156.16 19 19 1261 20201113141211
+43.230.175.244 17 86 2322737 20201116193031
+103.95.121.207 17 77 1038787 20201105203647
+47.30.176.144 15 16 57489 20201116144712
+51.77.246.205 15 162 5978928 20201111210707
+116.50.60.180 15 152 5213552 20201111225435
+47.30.179.115 15 19 133526 20201126151833
+47.31.139.216 15 17 488353 20201118101407
+103.95.81.48 14 103 2670848 20201115235307
+51.222.43.160 13 13 1002713 20201111205817
+47.31.25.150 13 44 1375638 20201120192048
+135.14.238.250 1 1 106173 20201125170927
+107.178.232.249 1 1 12821 20201129154619
+66.133.109.36 3 3 261 20201113141212
+66.220.149.11 2 2 399 20201115163221
+47.30.204.158 10 10 29252 20201130221529
+161.35.124.51 1 1 12301 20201105074802
+47.30.208.2 5 5 15135 20201128131829
+47.30.157.235 5 5 14366 20201116074326
+34.211.6.84 1 1 87 20201113141209
+47.30.192.138 9 12 69925 20201125182804
+66.220.149.116 2 2 250 20201115163221
+43.245.148.99 5 5 14298 20201117142443
+107.178.200.193 1 1 12724 20201125002219
+66.220.149.18 4 15 74798 20201115163221
+47.31.47.41 10 48 1219470 20201120192048
+3.22.70.135 2 2 174 20201113141212
+66.102.6.153 1 1 12678 20201112003311
+47.30.174.250 5 7 67451 20201127090016
+188.166.212.87 1 1 12725 20201124063046
+47.31.7.18 5 5 14530 20201126101508
+47.31.164.37 13 13 15822 20201124201820
+47.31.16.149 7 73 2546625 20201119194503
+47.31.7.81 8 8 37621 20201115191506
+18.196.96.172 1 1 87 20201113141209
+157.43.215.89 7 78 2688744 20201111110354
+173.252.127.4 0 1 4065 
+107.178.236.7 1 1 12730 20201120153239
+49.40.64.148 2 2 90216 20201125232938
+47.31.23.107 0 1 24185 
+47.31.24.83 2 4 25214 20201122113008
+178.164.164.171 4 4 50177 20201116142753
+47.31.30.242 0 27 471845 
+103.95.121.96 1 28 449697 20201125203703
+47.30.193.235 12 77 2205483 20201124223925
+103.95.123.220 7 66 1892731 20201115235059
+77.234.65.129 2 2 25010 20201117100238
+34.209.232.166 2 2 174 20201113141212
+47.31.63.69 2 2 434 20201122113008
+47.31.30.145 4 115 3279024 20201115071836
+165.227.37.219 1 1 0 20201118014147
+66.102.6.154 1 1 12675 20201112003323
+173.252.87.116 0 1 4065 
+64.246.165.190 1 1 3987 20201115235027
+52.149.142.166 1 1 2310 20201115225953
+47.30.220.90 0 27 471845 
+35.187.232.113 1 1 106173 20201125170926
+107.178.200.229 1 1 12676 20201112085111
+8.210.239.61 1 1 12300 20201105235639
+182.18.144.50 0 27 471845 
+35.164.246.250 1 1 12808 20201128093446
+47.30.205.27 1 1 12482 20201108115337
+104.198.189.67 2 2 25311 20201111192508
+15.206.235.52 1 1 12513 20201116081432
+66.220.149.119 1 4 105355 20201115163201
+47.31.34.143 3 3 13254 20201115191413
+35.203.245.210 1 1 12529 20201116113836
+47.30.132.15 6 6 14630 20201122103040
+95.217.207.28 1 1 12512 20201116080654
+47.30.221.29 0 29 520215 
+3.128.26.105 1 1 87 20201113141209
+66.220.149.120 0 6 96430 
+139.167.242.66 3 41 612629 20201129132804
+42.106.160.9 1 15 164941 20201116165241
+66.220.149.26 0 9 97953 
+47.30.128.66 0 18 0 
+47.31.34.91 1 4 92563 20201115172850
+129.146.158.17 7 7 126464 20201111181215
+47.31.63.240 1 1 1044 20201115191506
+47.31.0.200 0 27 471845 
+117.97.242.147 12 82 2738508 20201125215238
+34.222.104.41 1 1 12300 20201104153155
+47.31.62.212 0 15 277381 
+47.31.170.59 11 76 2457450 20201110161919
+202.133.51.6 1 15 164943 20201116164117
+66.220.149.7 2 3 48754 20201115163221
+66.220.149.117 2 8 220764 20201115163221
+128.199.91.205 2 2 210014 20201108193421
+52.28.236.88 2 2 174 20201113141212
+202.173.124.245 1 34 407872 20201129180715
+182.79.251.82 3 40 563977 20201129132812
+66.220.149.118 2 6 73727 20201115163201
+47.31.53.234 0 3 111006 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 26
+20201104 1 1 12300 1
+20201105 212 393 3198368 5
+20201106 0 29 520215 0
+20201107 0 27 471845 0
+20201108 3 3 222496 2
+20201109 95 370 7560435 1
+20201110 59 203 5662212 6
+20201111 49 333 12291881 9
+20201112 4 4 50683 4
+20201113 31 31 2305 8
+20201114 0 27 471845 0
+20201115 142 624 14006110 20
+20201116 113 545 13613999 13
+20201117 13 13 66175 4
+20201118 16 18 488353 2
+20201119 7 76 2657631 1
+20201120 24 93 2607838 3
+20201121 63 152 2768553 1
+20201122 10 12 40278 3
+20201124 50 115 2293803 6
+20201125 90 198 4094757 9
+20201126 52 150 3051662 4
+20201127 30 164 3040585 2
+20201128 96 194 3265600 3
+20201129 41 237 4768955 5
+20201130 34 55 1916443 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 4
+15mn-30mn 4
+2mn-5mn 4
+5mn-15mn 7
+30s-2mn 10
+1h+ 2
+0s-30s 83
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 91
+/category/nav-element-list 273 46889 4 10
+/ 162 2666200 76 31
+/home/section/best_selling 122 121484 3 8
+/home/section/featured 122 35380 2 4
+/home/section/home_categories 122 53053 0 5
+/home/section/best_sellers 122 9640 1 19
+/ajax-search 38 1966 0 0
+/public/frontend/fonts/line-awesome.woff2 35 1533672 1 6
+/public/frontend/fonts/fontawesome-webfont.woff2 33 2469120 2 2
+/search 23 488734 1 1
+/login 12 18650 2 2
+/users/login 11 183391 2 2
+/customer-packages 8 146775 0 1
+/admin/smtp-settings 7 43279 0 0
+/admin/business-settings/update/activation 6 126 0 0
+/product/variant_price 5 338 1 1
+/users/registration 5 55537 0 1
+/.well-known/acme-challenge/1ZX9h5HhS9hstTkJiEO6W-vVjscLlN8f-ABDncahRNs 4 348 0 0
+/admin/generalsettings 4 22933 0 0
+/.well-known/acme-challenge/qPdofeUfPBDzEAd5gpyP8J53bt6R0ygKGREDqBOX9Js 4 348 0 0
+/.well-known/acme-challenge/a_uqWS8NrfuhP3tUeghS5iU1U7YlpTFChhbhPbUkN14 4 348 4 0
+/.well-known/acme-challenge/eCFsXYu5opl_pHccueqFVZTaW5ue5C5YOPYM8MZ2ocY 4 348 0 4
+/cpanel 4 49929 3 4
+/product-bulk-upload/index 4 50143 0 0
+/product/Fresho-Pomegranate-4-pcs-approx-720-to-800-gmFresho-Pomegranate-4-pcs-approx-720-to-800-gm-UhmiT 4 56170 1 0
+/public/frontend/ 1 518 0 0
+/sellerpolicy 1 10211 0 0
+/.well-known/acme-challenge/plugin-test-1605256922065875199 1 31 0 0
+/checkout 1 15683 0 0
+//vendor/phpunit/phpunit/phpunit.xsd 1 2310 1 1
+/cart/nav-cart-items 1 881 0 0
+/cgi-sys/suspendedpage.cgi 1 3987 1 1
+/public/ 1 692 0 0
+/admin/flash_deals 1 5606 0 0
+/public/frontend/fonts/fontawesome-webfont.eot 1 98225 0 0
+/track_your_order 3 92790 0 0
+/s/truleysell_web/search/Salon-At-Home 1 17915 0 1
+/admin/addons 1 5923 0 0
+/admin/seosetting 1 5560 0 0
+/checkout/order-confirmed 1 11449 0 0
+/terms 1 70025 0 0
+/admin/conversations 2 11556 0 0
+/admin/facebook-chat 1 5876 0 0
+/admin/social-login 2 10974 0 0
+/.well-known/acme-challenge/plugin-test-1605256920683488339 1 31 0 0
+/public/plugins/font-awesome/fonts/fontawesome-webfont.woff2 2 154320 0 0
+/admin/pick_up_points/create 1 5466 0 1
+/email/verify 2 2473 0 0
+/admin/color 1 5404 0 0
+/admin/sellers 2 12662 0 0
+/s/truleysell_web/search/Mobile-Repair-and-Services 1 17465 1 1
+/supportpolicy 2 20712 0 0
+/products 2 24360 0 0
+/cart/addtocart 1 585 0 0
+/.well-known/acme-challenge/plugin-test-1605256914705355432 1 31 0 0
+/webmail 1 12485 0 0
+/shops/create 2 22044 0 0
+/.well-known/acme-challenge/plugin-test-1605256912225857303 1 31 0 0
+/admin/google-analytics 1 5328 0 0
+/privacypolicy 2 80575 0 0
+/admin/support_ticket 1 5356 0 0
+/checkout/payment_select 1 12225 0 0
+/admin/orders_by_pickup_point 2 10454 0 0
+/password/reset 2 2863 0 0
+/checkout/delivery_info 1 12341 0 0
+/returnpolicy 1 10208 0 1
+/product/demo-product-22-mNs8V 1 13512 0 0
+/.well-known/acme-challenge/plugin-test-1605256919216096254 1 31 0 0
+/admin 3 19325 0 0
+/admin/activation 2 12735 0 0
+/s/truleysell_web/search/home-repair 1 17468 1 0
+/.well-known/acme-challenge/plugin-test-1605256907902231675 1 31 1 0
+/admin/orders 2 11738 0 0
+/admin/pick_up_points 1 5262 0 0
+/admin/frontend_settings/home 1 7884 0 0
+/.well-known/acme-challenge/plugin-test-1605256916257242792 1 31 0 0
+/s/truleysell_web/all-services 1 17910 1 0
+/sitemap.xml 1 0 0 0
+/shops 2 26508 0 0
+/categories 2 22279 0 0
+/public/frontend/fonts/line-awesome.eot 1 57950 0 0
+/s/truleysell_web/search/Painting 1 17467 1 1
+/cart 2 90573 0 0
+/.well-known/acme-challenge/MqdTZ-bUpvGG_1lDupJ96YmYOoPknn6GrgxPANW45Tk 4 348 0 1
+/admin/logo 1 5401 0 0
+/admin/newsletter 1 5471 0 0
+/admin/payment-method 1 6103 0 0
+/s/truleysell_web/ 2 38239 1 2
+/.well-known/acme-challenge/iT5R0VHN4FB-qQUaRtz4LzYUTCe7UOaXBvcW7sxT4BI 4 348 3 3
+/language 4 80 0 0
+/public/css/demo/fonts/nifty-demo-icons.ttf 2 251312 0 0
+END_SIDER

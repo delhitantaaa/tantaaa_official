@@ -1,0 +1,436 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 202009 will be lost/reset.
+# Last config file used to build this data file was /home/delhitantaa/tmp/awstats/awstats.tantaaa.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2011                
+POS_TIME 2686                
+POS_VISITOR 8006                
+POS_DAY 9962                
+POS_DOMAIN 3378                
+POS_LOGIN 3697                
+POS_ROBOT 3852                
+POS_WORMS 4283                
+POS_EMAILSENDER 4414                
+POS_EMAILRECEIVER 4557                
+POS_SESSION 10255               
+POS_SIDER 10433               
+POS_FILETYPES 4692                
+POS_DOWNLOADS 4962                
+POS_OS 5038                
+POS_BROWSER 5228                
+POS_SCREENSIZE 5853                
+POS_UNKNOWNREFERER 5927                
+POS_UNKNOWNREFERERBROWSER 6287                
+POS_ORIGIN 6429                
+POS_SEREFERRALS 6565                
+POS_PAGEREFS 6709                
+POS_SEARCHWORDS 6885                
+POS_KEYWORDS 7037                
+POS_MISC 2349                
+POS_ERRORS 7096                
+POS_CLUSTER 3553                
+POS_SIDER_404 7236                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20201001000108 2 179 13971690795710
+FirstTime 20200906112121
+LastTime 20200915121032
+LastUpdate 20201001210201 2 0 1 0 0
+TotalVisits 41                  
+TotalUnique 39                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 55                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+AddToFavourites 0 13 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 1341 51 60 650766
+1 6 26 861945 33 34 38128
+2 0 0 0 3 4 588
+3 4 4 6736 3 6 2072
+4 3 3 1341 1 2 1336
+5 0 0 0 2 4 2537
+6 1 1 1341 2 5 3824
+7 1 12 137811 0 0 0
+8 0 0 0 4 4 768
+9 1 1 1341 12 12 2680
+10 10 30 861945 19 28 169738
+11 5 24 5369 18 22 3664
+12 157 307 4187240 57 67 728406
+13 1 2 517 9 10 2971
+14 6 27 997235 1 4 3636
+15 5 16 11248309 20 30 36601
+16 17 59 263231 10 21 40241
+17 4 4 2370 33 36 6647
+18 7 38 1010897 9 92 51226
+19 2 5 15343 10 14 3220
+20 6 26 861945 19 21 47420
+21 4 5 254262 14 86 113615
+22 6 26 873088 12 33 695737
+23 0 0 0 11 19 44757
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+in 164 341 5079053
+ca 43 141 2937192
+us 24 79 8175378
+ip 6 26 873086
+gb 6 26 865973
+se 3 3 3152
+fr 1 1 5395
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+bingbot/ 18 138804 20200917185800 4
+Googlebot/ 14 35547 20200928114126 4
+bingpreview 11 638494 20200915000004 0
+unknown 11 264 20200930052433 11
+no_user_agent 3 16185 20200910160248 0
+bot[\s_+:,\.\;\/\\-] 2 48 20200926025854 2
+crawl 2 48 20200930031405 2
+facebookexternalhit/ 1 470 20200906155935 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+css 80 503301 0 0
+php 10 10194 0 0
+Unknown 139 77956 0 0
+jpg 68 3853524 0 0
+png 74 223603 0 0
+html 59 89830 0 0
+ttf 24 2058720 0 0
+js 142 1857709 0 0
+woff2 15 1366228 0 0
+zip 3 7824168 0 0
+gif 3 73996 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/geniusCart.zip 3 2 7824168
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+win10 426 189
+linuxandroid 121 34
+win7 7 4
+macosx8 1 1
+ios_iphone 29 6
+linux 1 1
+win8 2 0
+win8.1 5 2
+Unknown 23 9
+winxp 4 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 30
+firefox80.0 27 8
+firefox72.0 2 2
+Unknown 6 3
+firefox50.0 1 1
+chrome84.0.4147.105 1 1
+chrome73.0.3683.90 1 1
+opera12.0 1 0
+chrome41.0.2228.0 2 1
+chrome85.0.4183.102 309 159
+cloudflare 3 3
+chrome84.0.4147.111 6 2
+chrome83.0.4103.96 25 5
+chrome80.0.3987.99 25 5
+firefox57.0 1 1
+mozilla 2 2
+chrome41.0.2226.0 1 1
+opera12.16 2 0
+chrome85.0.4183.81 4 1
+chrome83.0.4103.106 61 21
+chrome85.0.4183.83 64 16
+iphone 25 5
+msie10.0 2 0
+msie11 1 0
+chrome84.0.4147.135 25 5
+safari13.1.2 4 1
+chrome41.0.2225.0 1 1
+wap 12 1
+chrome37.0.2049.0 2 0
+chrome23.0.1271.95 2 0
+chrome41.0.2224.3 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_(compatible;_Wappalyzer) 20200909180831
+Go-http-client/1.1 20200914000037
+cortex/1.0 20200906155906
+Mozilla/5.0_(compatible;_CloudFlare-AlwaysOnline/1.0;_http://www.cloudflare.com/always-online) 20200913121654
+Mozilla/5.0_(compatible;_ips-agent) 20200912035249
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+cortex/1.0 20200906155906
+Go-http-client/1.1 20200914000037
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 48 79
+From1 0 0
+From2 0 0
+From3 9 9
+From4 190 531
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://l.instagram.com 9 9
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+301 2 1234
+500 21 812
+302 428 88889
+404 49 71562
+206 24 1273765
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 34
+/blog/ 1 -
+/v1/ 1 -
+/2018/ 1 -
+/bk/ 1 -
+/wp1/ 1 -
+/old/ 1 -
+/robots.txt 10 -
+/wp2/ 1 -
+/2020/ 1 -
+/test/ 1 -
+/home/ 1 -
+/site/ 1 -
+/humans.txt 3 -
+/tmp/ 1 -
+/wp-admin/install.php 3 -
+/v2/ 1 -
+/install/ 1 -
+/temp/ 1 -
+/backup/ 1 -
+/wordpress/ 1 -
+/ads.txt 3 -
+/old-wp/ 1 -
+/web/ 1 -
+/admin/ 1 -
+/2019/ 1 -
+/bak/ 1 -
+/install/assets/images/favicon.png 1 http://tantaaa.com/install/
+/dev/ 1 -
+/cms/ 1 -
+/new/ 1 -
+/main/ 1 -
+/old-site/ 1 -
+/new-site/ 1 -
+/wp/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 55
+106.207.35.32 154 304 4187240 20200915121032
+144.48.39.114 8 27 295803 20200909172948
+2401:4900:3b08:8ef0:39a2:3cca:c8e7:6289 6 26 873086 20200909180901
+47.8.177.254 5 25 860604 20200906204116
+86.7.110.220 5 25 860604 20200908015846
+112.79.242.120 5 25 860604 20200914105343
+47.9.165.20 5 10 7118 20200906164205
+47.8.99.134 5 5 1341 20200914100035
+47.9.168.176 5 25 1341 20200908164928
+47.9.19.62 5 25 860604 20200906225125
+47.9.16.170 4 5 254262 20200906210539
+47.9.21.113 4 23 0 20200907110555
+47.8.187.242 4 6 703354 20200911140741
+157.43.26.58 3 13 7591992 20200906160803
+142.93.157.43 2 2 0 20200912041747
+47.30.194.49 2 6 4458 20200906164445
+27.60.205.43 2 5 15343 20200906191602
+34.121.185.21 2 2 2682 20200911015313
+172.69.28.95 1 1 0 20200913121654
+149.202.67.223 1 1 5395 20200907032858
+47.30.157.25 1 4 2865 20200906165656
+35.165.129.26 1 1 1341 20200912073221
+51.77.64.72 1 1 5369 20200906112121
+72.13.46.2 1 1 1341 20200912035249
+192.71.44.44 1 1 1341 20200913064002
+54.201.88.107 0 1 1781 
+35.161.66.17 0 1 5460 
+34.216.207.96 0 1 538 
+52.10.247.251 0 1 16707 
+114.31.132.232 1 4 2865 20200906160222
+54.203.130.201 0 1 30153 
+173.252.127.21 0 1 1114 
+192.71.3.26 1 1 470 20200906142303
+34.209.72.41 0 1 21180 
+34.222.48.221 0 1 19008 
+171.51.147.13 1 1 12484 20200907220049
+47.9.87.43 1 5 241245 20200906165106
+69.171.251.28 0 1 1106 
+34.76.187.105 1 12 137811 20200909180831
+34.222.141.101 0 1 2597 
+54.213.29.242 0 1 12966 
+27.60.199.30 1 2 517 20200906133250
+72.13.62.25 1 1 1341 20200911043027
+172.69.24.88 1 1 0 20200913121654
+69.171.251.20 0 1 1114 
+34.235.233.220 1 1 1341 20200909095340
+159.203.63.239 1 1 0 20200911033603
+159.203.40.244 1 1 0 20200911033608
+34.219.166.96 0 1 499 
+192.71.30.89 1 1 1341 20200914000037
+173.252.127.26 0 1 1106 
+173.252.127.3 1 2 645 20200906155838
+69.171.251.11 0 1 171 
+52.43.63.76 0 1 25581 
+172.69.29.26 1 1 0 20200913121654
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 10
+20200906 33 111 13507346 14
+20200907 6 25 17879 3
+20200908 10 50 861945 2
+20200909 16 66 1308041 5
+20200910 1 1 1341 1
+20200911 8 10 706036 5
+20200912 4 15 139152 3
+20200913 4 4 1341 4
+20200914 11 31 863286 3
+20200915 154 304 4187240 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+0s-30s 35
+30mn-1h 1
+5mn-15mn 3
+30s-2mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 36
+/ 50 77596 37 26
+/admin/user/notf/count 31 651 0 0
+/admin/product/notf/count 30 630 0 0
+/admin/conv/notf/count 29 609 0 0
+/admin/order/notf/count 26 546 0 0
+/admin/general-settings/update/all 8 384 0 0
+/fonts/Aldrich/Aldrich-Regular.ttf 8 339288 0 6
+/fonts/Poppins/Poppins-Bold.ttf 8 847560 0 0
+/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2 8 462960 2 1
+/fonts/Poppins/Poppins-Regular.ttf 8 871872 0 0
+/install/ 5 10302 0 0
+/smtp.php 4 2370 1 1
+/geniusCart/ 3 1362 0 1
+/demo/PHPMailer-master/src/Exception.php 3 22 0 1
+/assets/front/css/styles.php 2 7775 0 0
+/admin/login 2 1379 0 0
+/extras 2 10538 0 0
+/cpanel 2 24964 0 2
+/admin/general-settings/contents 1 5850 0 0
+/admin/general-settings/security/1 1 20 0 1
+/admin 1 6741 0 0
+/webmail 1 12484 1 1
+/assets/admin/fonts/icofont.woff2 1 109200 0 0
+/admin/general-settings/admin/loader/0 1 20 0 0
+/assets/front/fonts/fa-solid-900.woff2 1 79100 0 0
+/assets/admin/webfonts/fa-solid-900.woff2 1 74348 0 0
+/install/run_install.php 1 27 0 0
+/assets/front/fonts/fa-regular-400.woff2 1 14872 0 0
+/assets/admin/webfonts/fa-regular-400.woff2 1 13592 0 0
+/assets/front/fonts/icofont.woff2 1 537868 0 0
+/admin/general-settings/loader/0 1 20 0 0
+/geniusCart/GeniusCart/ 1 570 0 1
+/admin/general-settings/logo 1 4293 0 0
+/admin/general-settings/footer 1 4466 0 0
+/assets/front/fonts/fa-brands-400.woff2 1 74288 0 0
+/admin/general-settings/loader 1 4361 0 0
+END_SIDER

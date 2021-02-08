@@ -1,0 +1,314 @@
+Return-Path: <pritish.gupta@razorpay.com>
+Delivered-To: sales@tantaaa.com
+Received: from server25.dnsserverboot.com
+	by server25.dnsserverboot.com with LMTP id WBu2NVmKbF+vZgAAwMDd9w
+	for <sales@tantaaa.com>; Thu, 24 Sep 2020 17:30:25 +0530
+Return-path: <pritish.gupta@razorpay.com>
+Envelope-to: sales@tantaaa.com
+Delivery-date: Thu, 24 Sep 2020 17:30:25 +0530
+Received: from mail-ot1-f48.google.com ([209.85.210.48]:40388)
+	by server25.dnsserverboot.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89_1)
+	(envelope-from <pritish.gupta@razorpay.com>)
+	id 1kLPvF-0007D3-R8
+	for sales@tantaaa.com; Thu, 24 Sep 2020 17:30:25 +0530
+Received: by mail-ot1-f48.google.com with SMTP id c2so825153otp.7
+        for <sales@tantaaa.com>; Thu, 24 Sep 2020 05:00:05 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=razorpay.com; s=google;
+        h=mime-version:from:date:message-id:subject:to:cc;
+        bh=5YqPnpXO5RilRLOVSYYGULTZVrPiQerD+IBV7rvyyzM=;
+        b=i3ezAXgUHlKaD0ap3RbEE3XzWSDEwQIYYP5/nZPXCH9d64FZ+LfmGT3Y1Z8389WSc7
+         XlIL+Zo/uP7eEPj6cf+c/A+lw4xFsfRvgSNzMqEpNye5n83qjHDLOGAsK6Tn8M5qBnlN
+         hPLjducUdzKu7aou194AQJGm2247fSNfAxZsw=
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to:cc;
+        bh=5YqPnpXO5RilRLOVSYYGULTZVrPiQerD+IBV7rvyyzM=;
+        b=V3ACfmqPdXYWbeTDyXB4V2bhr/mUDtUtCY7HD47cmzHvMmohRL21aaXnqjR7TlOL3j
+         qsAuP9WSICblqry4a93AvAA4xH2U+NtsyWphf+uNPKfUVsOGeFXuhTbA502LkqclGVV7
+         YzfEXV4eRfU19yHzjQGucBKFTzDEIhkE1KNdNZeTpoLOMmCokSom+TgllvUzL1LMKmhD
+         lHieUSxi3xZeUMFl7+X0QZI7LBqqrisKYtFtmiaEARWL1bwM2+FUojZqh3n6P0tJ7Par
+         HuvyYvLteN+H9SpNGhsIKKM/yXmuQtWI4U1OtJv2eEiOVlpVH1zm09qpfeCokdgs/Kh5
+         MCcA==
+X-Gm-Message-State: AOAM532ARyjwuNBgJBq1oLBkj3t17Nqtq7TS14W6Q702ygoF+ncrp900
+	GmUhKWlLY8fwmPQV90cU1c4gw8E0HZLMplyGG5lDLZSDkNsA7ZiYecp/vC+rdCrCFg6JhTJwzYa
+	rAWxa/gJVNFyCOIVViPc7xmjmEzo=
+X-Google-Smtp-Source: ABdhPJzc//dthR/P4gVEZbkl+Lnqy/EUEq/2xPDE3fkUEaKLh7hyJZCqb8vP3Rdca1shPF3oz46DzX18A2YdoDgH5MA=
+X-Received: by 2002:a9d:66d4:: with SMTP id t20mr2681307otm.133.1600948784745;
+ Thu, 24 Sep 2020 04:59:44 -0700 (PDT)
+MIME-Version: 1.0
+From: Pritish Gupta <pritish.gupta@razorpay.com>
+Date: Thu, 24 Sep 2020 17:29:33 +0530
+Message-ID: <CAJgH80M71zLhTY4RwVDDw7oAPR=JXM2iiybk1PfHzCLygnMk=A@mail.gmail.com>
+Subject: Razorpay Connect Email
+To: sales@tantaaa.com
+Cc: Rahul Sharma <rahul.sharma@razorpay.com>
+Content-Type: multipart/alternative; boundary="0000000000009e5bc905b00deff3"
+
+--0000000000009e5bc905b00deff3
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Manoj,
+
+
+It was really nice talking to you. Kindly revert back to this mail after
+uploading the documents. Our activations team will send you an email once
+your account is activated. Kindly reply back if you receive an email from
+our support team regarding any clarification related to your account
+activation.
+
+
+To start things, please find the details mentioned below.
+
+
+*Sign up and Integration*
+
+We have a very simple two-step process to complete the process and they can
+be completed in tandem.
+
+a. Please sign up here
+<https://t.yesware.com/tt/71235113280f65820cf93888b13ce77f203acd50/df3abbd3=
+bf40679e9789ae30b0d61fb9/6161977806d793c5302e9b271ca6c15a/dashboard.razorpa=
+y.com/>
+and
+once signed up, you can submit all the documents here
+<https://t.yesware.com/tt/71235113280f65820cf93888b13ce77f203acd50/df3abbd3=
+bf40679e9789ae30b0d61fb9/a08799edf17e88e4efe75321292f8f9f/dashboard.razorpa=
+y.com/#/app/activation>
+.
+
+Reiterating the documentation here once again
+
+   1.
+*Business Registration Proof *
+   2.
+*Business PAN *
+   3.
+*Company=E2=80=99s Bank Account Statement with Address *
+   4.
+*Authorized Signatory=E2=80=99s ID Proof with clear photo and address *
+   5.
+*PAN of Authorized signatory (copy not needed) *
+
+b. You can start integrating once the sign up is complete. The process can
+be started here
+<https://t.yesware.com/tt/71235113280f65820cf93888b13ce77f203acd50/df3abbd3=
+bf40679e9789ae30b0d61fb9/b207ab887dc04e8e7ece499ff41d07b1/razorpay.com/inte=
+grations/>
+and
+the relevant docs available for the same can be found here
+<https://t.yesware.com/tt/71235113280f65820cf93888b13ce77f203acd50/df3abbd3=
+bf40679e9789ae30b0d61fb9/ae3c049635e9a2454778e4596819cedb/docs.razorpay.com=
+/>
+
+
+
+For developers for integration refer to the following links :
+
+https://razorpay.com/docs/ (documentation)
+https://razorpay.com/integrations/ (Integration)
+https://razorpay.com/docs/api (API references)
+
+In case of support related queries, you can raise a ticket by pressing the
+headphone button at the bottom right corner at your Razorpay dashboard. Que=
+ries
+related to integration can be emailed to integrations@razorpay.com
+
+Razorpay Dashboard Link: here
+<https://razorpay.com/docs/payment-gateway/dashboard-guide/?origin_team=3DT=
+0276T56F>
+
+Razorpay Master Deck (2).pdf
+<https://presentations.yesware.com/d6e567d96182d0b596b0ee13acf58181>
+Regards,
+
+--=20
+
+*Best Regards, *
+
+*Pritish Gupta*
+
+*Associate, Business Development*
+
+--=20
+---------------------------------------------------------------------------=
+---------------------------------------------------------------------------=
+-----------------
+
+**IMPORTANT**: The contents of this email and any attachments are=20
+confidential and protected by applicable laws. If you have received this=20
+email by mistake, please (i) notify the sender immediately; (ii) delete it=
+=20
+from your database; and (iii) do not disclose the contents to anyone or=20
+make copies thereof. Razorpay accepts no liability caused due to any=20
+inadvertent/ unintentional data transmitted through this email.
+
+---------------------------------------------------------------------------=
+---------------------------------------------------------------------------=
+-----------------
+
+
+--0000000000009e5bc905b00deff3
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div di=
+r=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><p style=3D"font-variant-numeri=
+c:normal;font-variant-east-asian:normal;font-stretch:normal;line-height:nor=
+mal;margin:0px;text-align:justify"><font face=3D"verdana, sans-serif">Hi Ma=
+noj,</font></p><p style=3D"font-variant-numeric:normal;font-variant-east-as=
+ian:normal;font-stretch:normal;line-height:normal;margin:0px;min-height:16p=
+x"><font face=3D"verdana, sans-serif"><br></font></p><p style=3D"font-varia=
+nt-numeric:normal;font-variant-east-asian:normal;font-stretch:normal;line-h=
+eight:normal;margin:0px;text-align:justify"><font face=3D"verdana, sans-ser=
+if">It was really nice talking to you. Kindly revert back to this mail afte=
+r uploading the documents.=C2=A0<span style=3D"white-space:pre-wrap">Our ac=
+tivations team will send you an email once your account is activated. Kindl=
+y reply back if you receive an email from our support team regarding any cl=
+arification related to your account activation.</span></font></p><p style=
+=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"></p><p style=3D"font=
+-variant-numeric:normal;font-variant-east-asian:normal;font-stretch:normal;=
+line-height:normal;margin:0px;text-align:justify"><font face=3D"verdana, sa=
+ns-serif"><br></font></p><p style=3D"font-variant-numeric:normal;font-varia=
+nt-east-asian:normal;font-stretch:normal;line-height:normal;margin:0px;text=
+-align:justify"><font face=3D"verdana, sans-serif">To start things, please =
+find the details mentioned below.=C2=A0</font></p><p style=3D"font-variant-=
+numeric:normal;font-variant-east-asian:normal;font-stretch:normal;line-heig=
+ht:normal;margin:0px;min-height:16px"><font face=3D"verdana, sans-serif"><b=
+r></font></p><p style=3D"font-variant-numeric:normal;font-variant-east-asia=
+n:normal;font-stretch:normal;line-height:normal;margin:0px;text-align:justi=
+fy"><b><font face=3D"verdana, sans-serif">Sign up and Integration</font></b=
+></p><p style=3D"font-variant-numeric:normal;font-variant-east-asian:normal=
+;font-stretch:normal;line-height:normal;margin:0px;text-align:justify"><fon=
+t face=3D"verdana, sans-serif">We have a very simple two-step process to co=
+mplete the process and they can be completed in tandem.</font></p><p style=
+=3D"font-variant-numeric:normal;font-variant-east-asian:normal;font-stretch=
+:normal;line-height:normal;margin:0px;text-align:justify"><font face=3D"ver=
+dana, sans-serif">a. Please sign up<a href=3D"https://t.yesware.com/tt/7123=
+5113280f65820cf93888b13ce77f203acd50/df3abbd3bf40679e9789ae30b0d61fb9/61619=
+77806d793c5302e9b271ca6c15a/dashboard.razorpay.com/" target=3D"_blank"><spa=
+n style=3D"color:rgb(220,161,13)">=C2=A0here</span></a>=C2=A0and once signe=
+d up, you can submit all the documents<a href=3D"https://t.yesware.com/tt/7=
+1235113280f65820cf93888b13ce77f203acd50/df3abbd3bf40679e9789ae30b0d61fb9/a0=
+8799edf17e88e4efe75321292f8f9f/dashboard.razorpay.com/#/app/activation" tar=
+get=3D"_blank"><span style=3D"color:rgb(220,161,13)">=C2=A0here</span></a>.=
+</font></p><p style=3D"font-variant-numeric:normal;font-variant-east-asian:=
+normal;font-stretch:normal;line-height:normal;margin:0px;text-align:justify=
+"><font face=3D"verdana, sans-serif">Reiterating the documentation here onc=
+e again</font></p><ol><li style=3D"margin:0px;font-variant-numeric:normal;f=
+ont-variant-east-asian:normal;font-stretch:normal;line-height:normal"><b><f=
+ont face=3D"verdana, sans-serif">Business Registration Proof<br></font></b>=
+</li><li style=3D"margin:0px;font-variant-numeric:normal;font-variant-east-=
+asian:normal;font-stretch:normal;line-height:normal"><b><font face=3D"verda=
+na, sans-serif">Business PAN<br></font></b></li><li style=3D"margin:0px;fon=
+t-variant-numeric:normal;font-variant-east-asian:normal;font-stretch:normal=
+;line-height:normal"><b><font face=3D"verdana, sans-serif">Company=E2=80=99=
+s Bank Account Statement with Address<br></font></b></li><li style=3D"margi=
+n:0px;font-variant-numeric:normal;font-variant-east-asian:normal;font-stret=
+ch:normal;line-height:normal"><b><font face=3D"verdana, sans-serif">Authori=
+zed Signatory=E2=80=99s ID Proof with clear photo and address<br></font></b=
+></li><li style=3D"margin:0px;font-variant-numeric:normal;font-variant-east=
+-asian:normal;font-stretch:normal;line-height:normal"><b><font face=3D"verd=
+ana, sans-serif">PAN of Authorized signatory (copy not needed)<br></font></=
+b></li></ol><p style=3D"font-variant-numeric:normal;font-variant-east-asian=
+:normal;font-stretch:normal;line-height:normal;margin:0px;text-align:justif=
+y"><font face=3D"verdana, sans-serif">b. You can start integrating once the=
+ sign up is complete. The process can be started<a href=3D"https://t.yeswar=
+e.com/tt/71235113280f65820cf93888b13ce77f203acd50/df3abbd3bf40679e9789ae30b=
+0d61fb9/b207ab887dc04e8e7ece499ff41d07b1/razorpay.com/integrations/" target=
+=3D"_blank"><span style=3D"color:rgb(220,161,13)">=C2=A0here</span></a>=C2=
+=A0and the relevant docs available for the same can be found<a href=3D"http=
+s://t.yesware.com/tt/71235113280f65820cf93888b13ce77f203acd50/df3abbd3bf406=
+79e9789ae30b0d61fb9/ae3c049635e9a2454778e4596819cedb/docs.razorpay.com/" ta=
+rget=3D"_blank"><span style=3D"color:rgb(220,161,13)">=C2=A0here</span></a>=
+=C2=A0</font></p><p style=3D"font-variant-numeric:normal;font-variant-east-=
+asian:normal;font-stretch:normal;line-height:normal;margin:0px;text-align:j=
+ustify"><font face=3D"verdana, sans-serif"><br></font></p><div><div><div><f=
+ont color=3D"#000000" face=3D"verdana, sans-serif">For=C2=A0developers=C2=
+=A0for integration refer to the following links :</font></div></div><div><f=
+ont color=3D"#000000" face=3D"verdana, sans-serif">=C2=A0</font></div><div>=
+<font color=3D"#000000" face=3D"verdana, sans-serif"><a href=3D"https://raz=
+orpay.com/docs/" target=3D"_blank">https://razorpay.com/docs/</a>=C2=A0(doc=
+umentation)<br></font></div><div><font color=3D"#000000" face=3D"verdana, s=
+ans-serif"><a href=3D"https://razorpay.com/integrations/" target=3D"_blank"=
+>https://razorpay.com/integrations/</a>=C2=A0(Integration)</font></div><div=
+><font color=3D"#000000" face=3D"verdana, sans-serif"><a href=3D"https://ra=
+zorpay.com/docs/api" target=3D"_blank">https://razorpay.com/docs/api</a>=C2=
+=A0(API references)</font></div></div><div><span style=3D"color:rgb(0,0,0)"=
+><font face=3D"verdana, sans-serif"><br></font></span></div><div><font face=
+=3D"verdana, sans-serif"><span style=3D"color:rgb(0,0,0)">In case of suppor=
+t related queries, you can raise a ticket by pressing the headphone button =
+at the bottom right corner at your Razorpay dashboard.=C2=A0</span>Queries =
+related to integration can be emailed to=C2=A0<a href=3D"mailto:integration=
+s@razorpay.com" target=3D"_blank">integrations@razorpay.com</a>=C2=A0</font=
+></div></div></div></div></div><div><font face=3D"verdana, sans-serif"><br>=
+</font></div><div><div dir=3D"ltr"><div><font face=3D"verdana, sans-serif">=
+Razorpay Dashboard Link:=C2=A0<a href=3D"https://razorpay.com/docs/payment-=
+gateway/dashboard-guide/?origin_team=3DT0276T56F" target=3D"_blank">here</a=
+></font></div><div><font face=3D"verdana, sans-serif"><br></font></div><div=
+><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div d=
+ir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"l=
+tr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><di=
+v dir=3D"ltr"><div dir=3D"ltr"><div><div><span style=3D"display:block"><spa=
+n style=3D"display:inline-block;width:448px;height:64px;font-size:14px;line=
+-height:16px;border:1px solid rgb(215,219,222)"><span style=3D"display:inli=
+ne-block;width:448px;overflow:hidden;white-space:nowrap;padding:15px 0px 0p=
+x 15px;border:none;font-weight:bold"><span style=3D"color:rgb(38,87,197);ve=
+rtical-align:bottom"><a href=3D"https://presentations.yesware.com/d6e567d96=
+182d0b596b0ee13acf58181" target=3D"_blank"><font face=3D"verdana, sans-seri=
+f">Razorpay Master Deck (2).pdf</font></a></span></span></span></span></div=
+></div></div></div></div></div></div></div></div></div></div></div></div></=
+div></div></div></div></div></div><div></div></div></div><div><div dir=3D"l=
+tr"><div dir=3D"ltr"><div dir=3D"ltr"><font face=3D"verdana, sans-serif">Re=
+gards,</font></div></div></div></div><div><br></div>-- <br><div dir=3D"ltr"=
+><div dir=3D"ltr"><table style=3D"color:rgb(136,136,136);border:none;border=
+-collapse:collapse"><tbody><tr style=3D"height:40pt"><td style=3D"border-ri=
+ght:0.99609pt solid rgb(243,243,243);border-bottom:0.99609pt solid rgb(255,=
+255,255);border-top:0.99609pt solid rgb(255,255,255);vertical-align:top"><p=
+ dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;margin-bottom:0pt"><b=
+><font color=3D"#073763" face=3D"trebuchet ms, sans-serif"><span style=3D"b=
+ackground-color:transparent;vertical-align:baseline;white-space:pre-wrap">B=
+est Regards, </span></font></b></p><p dir=3D"ltr" style=3D"line-height:1.38=
+;margin-top:0pt;margin-bottom:0pt"><font color=3D"#073763" face=3D"trebuche=
+t ms, sans-serif"><span style=3D"white-space:pre-wrap"><b>Pritish Gupta</b>=
+</span></font></p><p dir=3D"ltr" style=3D"line-height:1.38;margin-top:0pt;m=
+argin-bottom:0pt"><font color=3D"#073763" face=3D"trebuchet ms, sans-serif"=
+><span style=3D"white-space:pre-wrap"><b>Associate, Business Development</b=
+></span></font></p></td><td style=3D"border-width:0.99609pt;border-style:so=
+lid;border-color:rgb(255,255,255) rgb(255,255,255) rgb(255,255,255) rgb(243=
+,243,243);vertical-align:top"><br><p dir=3D"ltr" style=3D"line-height:1.38;=
+margin-top:0pt;margin-bottom:0pt"></p></td></tr></tbody></table><div><font =
+color=3D"#073763" face=3D"trebuchet ms, sans-serif"><b><br></b></font><img =
+src=3D"https://lh3.googleusercontent.com/yVkAjWfeP4tQesDj80nohyBQU7IhzG9y-s=
+rdtJa7uKBSietzEjaIaluH76JGtbwacQA-KrKhcKTciw0eV_FjOF9AJ_Nz_lVLQv5drjuVV1RBS=
+KSW2yU1086VnT691QbPv2t8qQhL" width=3D"131" height=3D"48" style=3D"color:rgb=
+(136,136,136);font-size:12.8px;border:none"><br></div></div></div></div><im=
+g src=3D"https://t.yesware.com/t/510ee1e2a8dc4ae7c121a6788b3d162dd8f4b268/0=
+1148830d948946388d8b648bcf605db/spacer.gif" style=3D"border:0; width:0; hei=
+ght:0; overflow:hidden;" width=3D"0" height=3D"0"><font face=3D"yw-510ee1e2=
+a8dc4ae7c121a6788b3d162dd8f4b268-01148830d948946388d8b648bcf605db--to" styl=
+e=3D"display:none"></font></div>
+
+<br>
+<div style=3D"margin:0cm 0cm 0.0001pt;font-size:11pt;font-family:Calibri,sa=
+ns-serif"><span style=3D"font-family:&quot;Times New Roman&quot;,serif">---=
+---------------------------<wbr>------------------------------<wbr>--------=
+----------------------<wbr>------------------------------<wbr>-------------=
+-----------------<wbr>-----------------</span></div><div style=3D"margin:0c=
+m 0cm 0.0001pt;font-size:11pt;font-family:Calibri,sans-serif"><b><u><span s=
+tyle=3D"font-family:&quot;Times New Roman&quot;,serif">IMPORTANT</span></u>=
+</b><span style=3D"font-family:&quot;Times New Roman&quot;,serif">: The con=
+tents of this email and any attachments are confidential and protected by a=
+pplicable laws. If you have received this email by mistake, please (i) noti=
+fy the sender immediately; (ii) delete it from your database; and (iii) do =
+not disclose the contents to anyone or make copies thereof. Razorpay accept=
+s no liability caused due to any inadvertent/ unintentional data transmitte=
+d through this email.</span></div><div style=3D"margin:0cm 0cm 0.0001pt;fon=
+t-size:11pt;font-family:Calibri,sans-serif"><span style=3D"font-family:&quo=
+t;Times New Roman&quot;,serif">------------------------------<wbr>---------=
+---------------------<wbr>------------------------------<wbr>--------------=
+----------------<wbr>------------------------------<wbr>-----------------</=
+span></div>
+--0000000000009e5bc905b00deff3--

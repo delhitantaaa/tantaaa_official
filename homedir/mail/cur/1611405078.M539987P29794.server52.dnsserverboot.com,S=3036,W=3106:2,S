@@ -1,0 +1,70 @@
+Return-Path: <>
+Delivered-To: delhitantaa@server52.dnsserverboot.com
+Received: from server52.dnsserverboot.com
+	by server52.dnsserverboot.com with LMTP id SE+ZHxYXDGBidAAAKDZJLQ
+	for <delhitantaa@server52.dnsserverboot.com>; Sat, 23 Jan 2021 18:01:18 +0530
+Return-path: <>
+Envelope-to: delhitantaa@server52.dnsserverboot.com
+Delivery-date: Sat, 23 Jan 2021 18:01:18 +0530
+Received: from mailnull by server52.dnsserverboot.com with local (Exim 4.89_1)
+	id 1l3I4U-0001j3-Fv
+	for delhitantaa@server52.dnsserverboot.com; Sat, 23 Jan 2021 18:01:18 +0530
+X-Failed-Recipients: gzhandler@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server52.dnsserverboot.com>
+To: delhitantaa@server52.dnsserverboot.com
+Content-Type: multipart/report; report-type=delivery-status; boundary=1611405078-eximdsn-415577607
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1l3I4U-0001j3-Fv@server52.dnsserverboot.com>
+Date: Sat, 23 Jan 2021 18:01:18 +0530
+
+--1611405078-eximdsn-415577607
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  gzhandler@gmail.com
+    host gmail-smtp-in.l.google.com [74.125.206.26]
+    SMTP error from remote mail server after RCPT TO:<gzhandler@gmail.com>:
+    550-5.2.1 The user you are trying to contact is receiving mail at a rate that
+    550-5.2.1 prevents additional messages from being delivered. For more
+    550-5.2.1 information, please visit
+    550 5.2.1  https://support.google.com/mail/?p=ReceivingRatePerm m5si8511804wml.175 - gsmtp
+
+--1611405078-eximdsn-415577607
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server52.dnsserverboot.com
+
+Action: failed
+Final-Recipient: rfc822;gzhandler@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.2.1 The user you are trying to contact is receiving mail at a rate that
+ 550-5.2.1 prevents additional messages from being delivered. For more
+ 550-5.2.1 information, please visit
+ 550 5.2.1  https://support.google.com/mail/?p=ReceivingRatePerm m5si8511804wml.175 - gsmtp
+
+--1611405078-eximdsn-415577607
+Content-type: message/rfc822
+
+Return-path: <delhitantaa@server52.dnsserverboot.com>
+Received: from delhitantaa by server52.dnsserverboot.com with local (Exim 4.89_1)
+	(envelope-from <delhitantaa@server52.dnsserverboot.com>)
+	id 1l2x4Z-0000N3-RQ
+	for gzhandler@gmail.com; Fri, 22 Jan 2021 19:35:59 +0530
+To: gzhandler@gmail.com
+Subject: 
+X-PHP-Script: tantaaa.com/index.php for 14.99.192.50
+X-PHP-Originating-Script: 2204:Helpers.php
+Message-Id: <E1l2x4Z-0000N3-RQ@server52.dnsserverboot.com>
+From: delhitantaa@server52.dnsserverboot.com
+Date: Fri, 22 Jan 2021 19:35:59 +0530
+
+https://tantaaa.com/product/Fresho-Pomegranate-4-pcs-approx-720-to-800-gmFresho-Pomegranate-4-pcs-approx-720-to-800-gm-UhmiT
+
+--1611405078-eximdsn-415577607--

@@ -1,0 +1,134 @@
+# Webalizer V2.23-08 Incremental Data - 12/24/2020 20:19:53
+2020 12 24 20 19 53
+7 7 1 6 0 0 43384 1 1 1
+1 7 7 24 24
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+7 7 43384 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+7 7 43384 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+7
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home2/delhitantaa/public_html/s/application/config/routes.php
+0 1 0 12394 0 0
+/home2/delhitantaa/public_html/s/application/controllers/Home.php
+0 1 0 14492 0 0
+/home2/delhitantaa/public_html/s/application/helpers/common_helper.php
+0 2 0 3480 0 0
+/home2/delhitantaa/public_html/s/application/views/user/template.php
+0 1 0 221 0 0
+/home2/delhitantaa/public_html/s/application/views/user/services/
+0 1 0 8948 1 0
+/home2/delhitantaa/public_html/s/application/helpers/currency_helper.php
+0 1 11151088 3849 0 0
+# End Of Table - urls
+# -sites- (monthly)
+45.250.212.184
+0 7 7 43384 1 1608840992
+/home2/delhitantaa/public_html/s/application/views/user/services/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+45.250.212.184
+0 7 7 43384 1 1608840992
+/home2/delhitantaa/public_html/s/application/views/user/services/
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+delhitantaa
+0 7 7 43384 2 1608840992
+# End Of Table - usernames

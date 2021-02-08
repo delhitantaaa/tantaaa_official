@@ -1,0 +1,68 @@
+Return-Path: <>
+Delivered-To: delhitantaa@server52.dnsserverboot.com
+Received: from server52.dnsserverboot.com
+	by server52.dnsserverboot.com with LMTP id KIL9KlC/tF8GfQAAKDZJLQ
+	for <delhitantaa@server52.dnsserverboot.com>; Wed, 18 Nov 2020 11:59:36 +0530
+Return-path: <>
+Envelope-to: delhitantaa@server52.dnsserverboot.com
+Delivery-date: Wed, 18 Nov 2020 11:59:36 +0530
+Received: from mailnull by server52.dnsserverboot.com with local (Exim 4.89_1)
+	id 1kfGyG-0001AR-MX
+	for delhitantaa@server52.dnsserverboot.com; Wed, 18 Nov 2020 11:59:36 +0530
+X-Failed-Recipients: gzhandler@gmail.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@server52.dnsserverboot.com>
+To: delhitantaa@server52.dnsserverboot.com
+Content-Type: multipart/report; report-type=delivery-status; boundary=1605680976-eximdsn-1149043664
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1kfGyG-0001AR-MX@server52.dnsserverboot.com>
+Date: Wed, 18 Nov 2020 11:59:36 +0530
+
+--1605680976-eximdsn-1149043664
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  gzhandler@gmail.com
+    host alt1.gmail-smtp-in.l.google.com [172.253.118.27]
+    SMTP error from remote mail server after RCPT TO:<gzhandler@gmail.com>:
+    552-5.2.2 The email account that you tried to reach is over quota. Please direct
+    552-5.2.2 the recipient to
+    552 5.2.2  https://support.google.com/mail/?p=OverQuotaPerm s140si21565650pfc.223 - gsmtp
+
+--1605680976-eximdsn-1149043664
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; server52.dnsserverboot.com
+
+Action: failed
+Final-Recipient: rfc822;gzhandler@gmail.com
+Status: 5.0.0
+Remote-MTA: dns; alt1.gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 552-5.2.2 The email account that you tried to reach is over quota. Please direct
+ 552-5.2.2 the recipient to
+ 552 5.2.2  https://support.google.com/mail/?p=OverQuotaPerm s140si21565650pfc.223 - gsmtp
+
+--1605680976-eximdsn-1149043664
+Content-type: message/rfc822
+
+Return-path: <delhitantaa@server52.dnsserverboot.com>
+Received: from delhitantaa by server52.dnsserverboot.com with local (Exim 4.89_1)
+	(envelope-from <delhitantaa@server52.dnsserverboot.com>)
+	id 1kfGyD-00018t-5k
+	for gzhandler@gmail.com; Wed, 18 Nov 2020 11:59:33 +0530
+To: gzhandler@gmail.com
+Subject: 
+X-PHP-Script: tantaaa.com/index.php for 122.162.201.1
+X-PHP-Originating-Script: 2204:Helpers.php
+Message-Id: <E1kfGyD-00018t-5k@server52.dnsserverboot.com>
+From: delhitantaa@server52.dnsserverboot.com
+Date: Wed, 18 Nov 2020 11:59:33 +0530
+
+https://tantaaa.com/product/Fresho-Pomegranate-4-pcs-approx-720-to-800-gmFresho-Pomegranate-4-pcs-approx-720-to-800-gm-UhmiT
+
+--1605680976-eximdsn-1149043664--

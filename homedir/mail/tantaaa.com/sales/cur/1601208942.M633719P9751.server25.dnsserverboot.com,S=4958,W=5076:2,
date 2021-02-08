@@ -1,0 +1,118 @@
+Return-Path: <pritish.gupta=razorpay.com__71sz0xc7a9uvkbjk@w87v1grbfk2o.6f-1url0uaa.ap4.bnc.salesforce.com>
+Delivered-To: sales@tantaaa.com
+Received: from server25.dnsserverboot.com
+	by server25.dnsserverboot.com with LMTP id QNGlJW6CcF8XJgAAwMDd9w
+	for <sales@tantaaa.com>; Sun, 27 Sep 2020 17:45:42 +0530
+Return-path: <pritish.gupta=razorpay.com__71sz0xc7a9uvkbjk@w87v1grbfk2o.6f-1url0uaa.ap4.bnc.salesforce.com>
+Envelope-to: sales@tantaaa.com
+Delivery-date: Sun, 27 Sep 2020 17:45:42 +0530
+Received: from smtp06-ukb-sp1.mta.salesforce.com ([101.53.164.229]:56541)
+	by server25.dnsserverboot.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.89_1)
+	(envelope-from <pritish.gupta=razorpay.com__71sz0xc7a9uvkbjk@w87v1grbfk2o.6f-1url0uaa.ap4.bnc.salesforce.com>)
+	id 1kMVag-0002Xn-E8
+	for sales@tantaaa.com; Sun, 27 Sep 2020 17:45:42 +0530
+Authentication-Results:  mx1-ukb-sp1.mta.salesforce.com x-tls.subject="/C=US/ST=California/L=San Francisco/O=salesforce.com, inc./OU=0:app;1:ukb;2:ukb-sp1;3:ap4;4:prod/CN=ap4-app2-24-ukb.ops.sfdc.net"; auth=pass (cipher=ECDHE-RSA-AES256-GCM-SHA384)
+Received: from [10.218.195.98] ([10.218.195.98:52852] helo=ap4-app2-24-ukb.ops.sfdc.net)
+	by mx1-ukb-sp1.mta.salesforce.com (envelope-from <pritish.gupta=razorpay.com__71sz0xc7a9uvkbjk@w87v1grbfk2o.6f-1url0uaa.ap4.bnc.salesforce.com>)
+	(ecelerity 4.2.38.62368 r(Core:release/4.2.38.0)) with ESMTPS (cipher=ECDHE-RSA-AES256-GCM-SHA384
+	subject="/C=US/ST=California/L=San Francisco/O=salesforce.com, inc./OU=0:app;1:ukb;2:ukb-sp1;3:ap4;4:prod/CN=ap4-app2-24-ukb.ops.sfdc.net") 
+	id 1E/34-31125-442807F5; Sun, 27 Sep 2020 12:15:00 +0000
+Date: Sun, 27 Sep 2020 12:15:00 +0000 (GMT)
+From: Pritish Gupta <pritish.gupta@razorpay.com>
+To: "sales@tantaaa.com" <sales@tantaaa.com>
+Cc: "onboard@razorpay.com" <onboard@razorpay.com>
+Message-ID: <smz6Q000000000000000000000000000000000000000000000QHBGOZ00NcFUMQRKRmyBtTo6gydxnQ@sfdc.net>
+Subject: MANOJ KUMAR MISHRA | Razorpay Connect Mail
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_3009_1596018579.1601208900001"
+X-SFDC-LK: 00D6F000001url0
+X-SFDC-User: 0056F00000E6SMP
+X-Sender: postmaster@salesforce.com
+X-mail_abuse_inquiries: http://www.salesforce.com/company/abuse.jsp
+X-SFDC-TLS-NoRelay: 1
+X-SFDC-Binding: 1WrIRBV94myi25uB
+X-SFDC-EmailCategory: workflowActionAlert
+X-SFDC-EntityId: 01W6F000000HsKA
+X-SFDC-Interface: internal
+
+------=_Part_3009_1596018579.1601208900001
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hello Not Provided,
+
+It=92s been a while since we connected.
+
+I wanted to quickly check if you had a chance to go through my previous mai=
+l.
+
+If you do not have a website, we have a couple of products that will help y=
+ou collect payments faster than ever without integrating.
+
+Payment Link:
+
+You can create payment links for all your customers using the Razorpay Dash=
+board or API
+You can share the links through SMS, Whatsapp, Facebook messenger etc
+You can also batch upload the customer details through a simple CSV file
+You can also initiate partial payments from your customers
+
+Payment Pages:
+
+A customized Payment Page to accept the payments from your customers
+You can create the page from the dashboard and link to your website
+You can customize the page as per your requirements
+You can send the page to the customers through email, SMS, social media, et=
+c
+
+Let me know if we can quickly connect over a call and see how best we can h=
+elp you.
+
+Eager to hear back on the same.
+
+Regards,
+Team Razorpay
+------=_Part_3009_1596018579.1601208900001
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><p>Hello Not Provided,</p>
+
+<p>It=92s been a while since we connected.</p>
+
+<p>I wanted to quickly check if you had a chance to go through my previous =
+mail.</p>
+
+<p>If you do not have a website, we have a couple of products that will hel=
+p you collect payments faster than ever without integrating.</p>
+
+Payment Link:
+<ul type=3D"disc">
+  <li>You can create payment links for all your customers using the Razorpa=
+y Dashboard or API</li>
+  <li>You can share the links through SMS, Whatsapp, Facebook messenger etc=
+</li>
+  <li>You can also batch upload the customer details through a simple CSV f=
+ile</li>
+  <li>You can also initiate partial payments from your customers</li>
+</ul>
+
+Payment Pages:
+<ul type=3D"disc">
+  <li>A customized Payment Page to accept the payments from your customers<=
+/li>
+  <li>You can create the page from the dashboard and link to your website</=
+li>
+  <li>You can customize the page as per your requirements</li>
+  <li>You can send the page to the customers through email, SMS, social med=
+ia, etc</li>
+</ul>
+
+<p>Let me know if we can quickly connect over a call and see how best we ca=
+n help you.</p>
+
+<p>Eager to hear back on the same.</p>
+<p>Regards,<br/>Team Razorpay</p></html>
+------=_Part_3009_1596018579.1601208900001--

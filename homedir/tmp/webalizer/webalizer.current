@@ -1,0 +1,1223 @@
+# Webalizer V2.23-08 Incremental Data - 01/31/2021 16:37:14
+2021 1 31 16 37 14
+2440 1554 179 137 50 87 35870709 701 214 0
+8 80 907 1 31
+3 0 1234 3 3 3
+10 0 1991 6 4 3
+3 0 1254 3 3 3
+17 0 3245 7 16 8
+11 0 1414 7 8 5
+1 0 20 1 1 1
+9 0 2548 5 8 5
+13 0 2648 9 6 5
+5 0 677 4 5 4
+35 24 6487 16 6 6
+12 0 1991 6 8 5
+16 0 2668 9 12 7
+17 0 1514 8 12 4
+166 129 4038259 14 34 12
+42 36 551161 6 5 5
+66 53 851559 9 21 9
+7 5 16463 4 6 4
+12 6 129926 7 9 6
+203 129 3503578 11 19 10
+16 6 34812 7 11 7
+52 42 537404 9 15 10
+1326 917 22531884 16 328 15
+21 10 72941 7 16 7
+12 5 55356 7 7 7
+16 8 176803 8 11 10
+52 43 844903 7 11 6
+19 15 97505 8 18 12
+16 11 53400 5 8 5
+77 38 529767 6 47 7
+79 57 1601268 11 26 14
+106 20 216029 8 17 9
+13 2 35549 6
+17 8 59943 12
+9 6 153601 4
+10 1 12869 5
+45 42 451561 7
+3 0 1254 2
+21 8 48503 13
+56 46 466895 14
+36 28 319052 8
+61 44 1522893 20
+94 61 1826869 30
+15 8 45819 12
+40 18 285362 26
+172 22 390583 37
+84 73 2215236 9
+990 665 15267484 299
+260 161 3400218 71
+154 130 3134613 30
+37 19 351955 22
+21 3 132355 5
+209 154 4903537 30
+20 5 243296 9
+67 45 586006 24
+6 5 15256 6
+4
+0
+0
+1554
+0
+0
+0
+0
+0
+4
+0
+150
+6
+0
+333
+0
+0
+0
+0
+0
+3
+255
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+130
+0
+0
+0
+0
+0
+# -urls- 
+/public/plugins/bootstrap-wizard/jquery.bootstrap.wizard.min.js
+0 2 72057594037927936 3400 0 0
+/public/frontend/js/vendor/popper.min.js
+0 23 72057594037927936 115264 0 0
+/compare/addToCompare
+0 2 1608990871 332 0 0
+/public/frontend/js/jquery.share.js
+0 23 85622484513075250 29830 0 0
+/home/section/featured
+0 46 28846832 13340 4 3
+/cart/show-cart-modal
+0 2 0 3038 0 0
+/public/uploads/sliders/X6MMpLZ8eteE4ok2jwoO443KDyeSMcet9XHW1YVt.png
+0 18 0 5188812 0 0
+/public/frontend/css/jquery.share.css
+0 19 0 14492 0 0
+/.well-known/acme-challenge/iIM24uSS6YPVSxWcw1WAapkvMc-3Uzd4bh2d4K17QUs
+0 4 0 348 0 0
+/public/uploads/categories/banner/qUwudEZfv1faRCrFvthPBkwUvWZK6G05LSUYMoqJ.png
+0 12 0 153097 0 0
+/public/plugins/bootstrap-validator/bootstrapValidator.min.js
+0 2 0 51976 0 0
+/public/frontend/js/jquery.countdown.min.js
+0 25 0 44216 0 0
+/public/uploads/products/photos/yxfrROcZpxVnWmiqCO9Xeasdc12XJZn5xhvdVHd7.jpeg
+0 1 0 30073 0 0
+/public/frontend/js/vendor/bootstrap.min.js
+0 24 0 248934 0 0
+/public/uploads/categories/icon/iKxNp8VBAUYWyLxQvE8eMuRQjnxOvLjiBqxTH6EW.png
+0 13 0 116760 0 0
+/public/plugins/font-awesome/css/font-awesome.min.css
+0 2 0 13982 0 0
+/admin/brands
+0 1 0 5924 0 0
+/public/uploads/logo/WRurcGIkPsP53wz5LsHpA0KtXLRj9MQrBVDf1xzn.png
+0 22 0 112065 0 0
+/public/frontend/css/xzoom.css
+0 21 0 13566 0 0
+/public/frontend/js/bootstrap-tagsinput.min.js
+0 24 0 60124 0 0
+/public/frontend/css/sweetalert2.min.css
+0 20 0 71224 0 0
+/public/frontend/css/custom-style.css
+0 20 0 595 0 0
+/public/uploads/categories/icon/KjJP9wuEZNL184XVUk3S7EiZ8NnBN99kiU4wdvp3.png
+0 18 0 262452 0 0
+/public/css/demo/active-shop-demo-icons.min.css
+0 2 0 5442 0 0
+/public/frontend/fonts/fontawesome-webfont.woff2
+0 15 0 925920 0 0
+/public/frontend/images/icons/flags/in.png
+0 18 0 6036 0 0
+/public/frontend/js/nouislider.min.js
+0 24 0 94566 0 0
+/public/plugins/datatables/media/js/jquery.dataTables.js
+0 2 0 227468 0 0
+/.well-known/acme-challenge/35jwo4rdPCdKqu_v-whIaw-Bp0xlr85FNxUQLnzxdLM
+0 4 0 348 0 0
+/track_your_order
+0 1 0 10527 0 0
+/public/uploads/products/photos/YoCi6VwFYN1vZUb6Kd7KEFpQSu4OdqVEDeKD8rkB.jpeg
+0 1 0 86385 0 0
+/public/uploads/favicon/N5j9jcWkUo60mje8JTDGladBOFG2nWekxQNp3ot8.png
+0 17 0 786750 0 0
+/public/uploads/banners/tplb01x4ZWQZQyfXQFeH11XpJ5Db1VYoVNAUPHcq.jpeg
+0 18 0 586428 0 0
+/public/frontend/images/icons/user-placeholder.jpg
+0 6 0 116680 0 0
+/public/uploads/brands/brand.jpg
+0 15 0 172308 0 0
+/public/js/jodit.min.js
+0 2 0 230756 0 0
+/terms
+0 3 0 38991 2 2
+/password/reset
+0 2 0 2725 2 2
+/public/frontend/css/slick.css
+0 20 0 9389 0 0
+/public/css/spectrum.css
+0 19 0 64000 0 0
+/sellerpolicy
+0 1 0 10247 0 0
+/public/uploads/banners/4u8M09tIL4wV7wRDWdBsoqw0L11WSYyPcR2zSrsc.jpeg
+0 13 0 489900 0 0
+/public/css/demo/active-shop-demo.min.css
+0 2 0 4470 0 0
+/.well-known/acme-challenge/gXyA_qg1SX3s-N8BoeQRakuNJhPiG-DnBL72f1jEyRY
+0 4 0 348 0 0
+/public/uploads/categories/icon/feUnaSk7vYgQZlDc3JmoLgxxCktdsiJcmZzAeztb.jpeg
+0 14 0 981801 0 0
+/home/section/best_sellers
+0 47 0 940 2 12
+/users/registration
+0 1 0 11315 0 0
+/public/uploads/categories/icon/h9XhWwI401u6sRoLITEk9SUMRAlWN8moGrpPfS6I.png
+0 18 0 262452 0 0
+/public/frontend/fonts/line-awesome.woff2
+0 15 0 541296 0 0
+/public/uploads/products/flash_deal/8zmMX1I0ccrrUhNdL45t0p8RJPmkGd6eZFwi73aA.jpeg
+0 12 0 338352 0 0
+/public/js/bootstrap.min.js
+0 2 0 19658 0 0
+/public/frontend/css/colors/2.css
+0 20 0 61048 0 0
+/currency
+0 1 0 20 0 0
+/public/uploads/sliders/QH6ULgS7FQ2o1VAbVG1IdKZdw2kfnFf2kUToWl1k.jpeg
+0 20 0 695305 0 0
+/public/uploads/sliders/jP33zrOGWk09VrK9JUhXYAEkxnMXaxxjTWGw5rWc.jpeg
+0 20 0 1309069 0 0
+/public/frontend/js/jodit.min.js
+0 24 0 2024766 0 0
+/public/frontend/js/xzoom.min.js
+0 24 30803244233226081 82218 0 0
+/public/uploads/categories/banner/category-banner.jpg
+0 18 3329336813347221042 267761 0 0
+/.well-known/acme-challenge/xoPa24mKiuIo6Coy3MnUk8dcfTyKyoYn85mW2_HvK-Q
+0 4 8515855504653430326 348 0 0
+/public/plugins/switchery/switchery.min.js
+0 2 7957688409566442853 12526 0 0
+/public/uploads/categories/icon/DMAOTD2zo5rE9Ind62gtgwlIjIvMuzhs2163xh7w.png
+0 13 3330193320121019961 174968 0 0
+/public/uploads/categories/icon/HovxKRvdxgYhfK4es21I2x810V0UAGn2LzspWLuR.jpeg
+0 18 8319667402903088999 1239492 0 0
+/categories
+0 3 95 33631 1 1
+/public/uploads/banners/ibCzEGJVr02oBDST7ZuOiVFPZpwhYSbGqv3FzlxR.jpeg
+0 14 0 524227 0 0
+/home/section/home_categories
+0 46 0 20102 3 5
+/search
+0 12 0 142594 1 0
+/public/frontend/js/select2.min.js
+0 24 0 333606 0 0
+/public/frontend/js/slick.min.js
+0 23 0 185590 0 0
+/public/js/demo/tables-datatables.js
+0 2 0 1732 0 0
+/public/uploads/categories/icon/rKAPw5rNlS84JtD9ZQqn366jwE11qyJqbzAe5yaA.png
+0 18 0 262452 0 0
+/login
+0 3 0 12138 0 0
+/public/uploads/categories/banner/Q7ksWQE0TZqncsAoBetGLclpthMZN3O2u9VMqjRX.jpeg
+0 12 0 763623 0 0
+/users/login
+0 4 0 43867 2 2
+/returnpolicy
+0 7 0 75708 5 5
+/brands
+0 4 0 41387 4 4
+/public/frontend/images/icons/flags/en.png
+0 18 0 7308 0 0
+/public/uploads/categories/icon/dbjjXJLDIil9JDDVJRHctmg41Egoo6rxRhj1Tt1T.png
+0 13 0 174968 0 0
+/public/uploads/banners/2pw7ywk5m6NwEfRvHILP7f8qo0RRn2MlZqqdSsBZ.jpeg
+0 18 0 571884 0 0
+/public/uploads/categories/banner/jmdTaOKnXzdAcEl96XKM2iGN4e9CVdFI9e6IriqW.jpeg
+0 12 0 723037 0 0
+/public/js/demo/form-wizard.js
+0 2 0 3644 0 0
+/public/frontend/css/fb-style.css
+0 19 0 4348 0 0
+/public/js/spectrum.js
+0 2 0 36256 0 0
+/public/uploads/products/thumbnail/STH3pMOvqTMaFmakfvtqW1hzLGZ0zSQaPd8Jg2jt.jpeg
+0 15 0 531696 0 0
+/home/section/best_selling
+0 43 0 45494 8 0
+/public/uploads/banners/BxEMe5qgu7acEs3vvLnLmnyiriTpRdRbl3vJqTvf.jpeg
+0 18 0 586428 0 0
+/public/js/active-shop.min.js
+0 2 0 22450 0 0
+/public/frontend/css/bootstrap-tagsinput.css
+0 20 0 7638 0 0
+/public/frontend/css/main.css
+0 21 0 297472 0 0
+/public/frontend/js/fb-script.js
+0 23 0 4589 0 0
+/.well-known/acme-challenge/2UEgYZj8gqV7Rxcwa7rrH98xUgy-qtBU930ao52cnoA
+0 4 0 348 0 0
+/public/frontend/css/font-awesome.min.css
+0 19 0 110556 0 0
+/public/uploads/categories/icon/fjU4MxLfyPrZ2F2kcpC6dKNumAZw4bqmSApi2dv4.jpeg
+0 18 0 1239492 0 0
+/public/frontend/js/vendor/jquery.min.js
+0 24 0 563727 0 0
+/public/css/bootstrap.min.css
+0 2 0 39370 0 0
+/category/nav-element-list
+0 141 0 23853 0 1
+/public/plugins/datatables/extensions/Responsive/js/dataTables.responsive.min.js
+0 2 0 8194 0 0
+/public/frontend/css/bootstrap.min.css
+0 20 0 368492 0 0
+/public/frontend/css/intlTelInput.min.css
+0 21 0 48420 0 0
+/cpanel
+0 2 0 24972 0 0
+/public/js/custom.js
+0 3 0 4666 0 0
+/public/uploads/products/photos/F46MeQcNkASgAnK28xME9m3DYuU1yz5DI7P3ppsE.jpeg
+0 1 0 32919 0 0
+/public/plugins/bootstrap-datepicker/bootstrap-datepicker.min.js
+0 3 0 29905 0 0
+/public/frontend/js/active-shop.js
+0 23 0 118394 0 0
+/public/uploads/categories/icon/wnFWVHlljsJb88B67uTh8X9BJQ7H1Wk9kYKwCbVJ.png
+0 13 0 174968 0 0
+/public/js/spartan-multi-image-picker-min.js
+0 2 0 8688 0 0
+/
+0 88 0 2141184 100 20
+/public/css/active-shop.min.css
+0 2 0 57168 0 0
+/public/frontend/images/icons/cards/cod.png
+0 13 0 271350 0 0
+/public/uploads/categories/banner/C6Psfdc7v4ggHjwbkSgMN5OCAwX9kLIgzgMyjU7P.jpeg
+0 12 0 723037 0 0
+/cart
+0 2 0 22269 2 1
+/privacypolicy
+0 4 0 55290 4 3
+/public/uploads/products/photos/hGrnVIU0xo6q98eu7bOi8dnE7XCL2WP0VGx5J71W.jpeg
+0 1 0 48336 0 0
+/public/uploads/sliders/CP14XbpBDyORXvg9PPppWsUe2quZtCTFKVSbhXfw.jpeg
+0 18 0 750555 0 0
+/public/uploads/categories/icon/01N7emZfgy0FFxCgM8i6ZozdZ28RtRyx816eDa1o.png
+0 13 0 174968 0 0
+/public/css/themes/type-c/theme-navy.min.css
+0 2 0 6778 0 0
+/public/js/demo/ui-alerts.js
+0 3 0 5429 0 0
+/public/plugins/datatables/media/js/dataTables.bootstrap.js
+0 2 0 3748 0 0
+/public/frontend/js/lazysizes.min.js
+0 24 0 60150 0 0
+/public/plugins/bootstrap-tagsinput/bootstrap-tagsinput.min.js
+0 2 0 6440 0 0
+/public/frontend/css/active-shop.css
+0 20 0 1087618 0 0
+/admin
+0 1 0 6293 1 0
+/public/frontend/js/intlTelInput.min.js
+0 23 0 189331 0 0
+/public/uploads/banners/uH9kruntl3YjvMLCZmdTvaiUdiWazbxSptfOMbCn.jpeg
+0 18 0 587880 0 0
+/public/frontend/js/main.js
+0 23 0 51602 0 0
+/public/frontend/css/jodit.min.css
+0 20 0 291215 0 0
+/public/uploads/sliders/IgF9mUyVsOSqikWxnWoEIMP0OxhBjKAu0m7OOWNd.jpeg
+0 17 0 1239492 0 0
+/public/uploads/banners/S2YV9CrWNiWwvBbEOeTS9OtGBkc868bWAx4rz07j.jpeg
+0 15 0 537559 0 0
+/public/frontend/images/icons/list.png
+0 6 0 2685 0 0
+/public/js/jquery.min.js
+0 2 0 60332 0 0
+/public/frontend/css/line-awesome.min.css
+0 20 0 101558 0 0
+/language
+0 1 0 20 0 0
+/.well-known/acme-challenge/NMqnw5lJB5gW3ye1D0KnhZXTUBRFsdelJwO0DcbvgTw
+0 4 0 348 0 0
+/public/css/custom.css
+0 2 0 5840 0 0
+/public/plugins/select2/js/select2.min.js
+0 2 0 37986 0 0
+/customer-packages
+0 3 139729284335544 31934 2 1
+/public/frontend/js/sweetalert2.min.js
+0 23 48 186938 0 0
+/product/variant_price
+0 3 28806816 192 0 0
+# End Of Table - urls
+# -sites- (monthly)
+47.103.129.35
+0 1 0 617 1 1611721069
+/
+42-111-19-186.live.vodafone.in
+0 9 5 19470 1 1612095905
+/home/section/best_sellers
+ec2-35-172-117-28.compute-1.amazonaws.com
+0 2 0 617 1 1610594536
+-
+158.101.111.67
+0 1 0 617 1 1611905007
+/
+daniela.probe.onyphe.net
+0 3 0 617 2 1610398298
+-
+42-111-23-131.live.vodafone.in
+0 72 10 90391 2 1611329292
+/home/section/home_categories
+crawler.pagething.com
+0 4 0 1234 2 1609775193
+-
+33.240.231.35.bc.googleusercontent.com
+0 8 2 31727 2 1611385077
+/
+42-111-28-158.live.vodafone.in
+0 2 0 40 1 1611231750
+/
+42-111-85-109.live.vodafone.in
+0 43 40 710459 1 1611683783
+/home/section/best_sellers
+62-210-152-248.rev.poneytelecom.eu
+0 1 0 617 1 1610545835
+-
+117.222.60.17
+0 74 69 2148552 1 1611346291
+/home/section/home_categories
+192.71.224.240
+0 2 0 40 0 0
+-
+42-111-22-239.live.vodafone.in
+0 7 0 140 1 1609799379
+-
+47.106.209.123
+0 1 1 12833 1 1611721071
+/
+208.rbx2.ovh.abcd.network
+0 1 0 20 0 0
+-
+119.18.52.177
+0 1 0 20 0 0
+-
+185.192.70.106
+0 1 1 106059 1 1610989182
+/
+242.240.196.35.bc.googleusercontent.com
+0 4 0 677 1 1610371185
+-
+160.232.178.107.gae.googleusercontent.com
+0 1 1 12834 1 1611518717
+/
+47.31.237.145
+0 1 0 20 1 1609933316
+-
+42-111-25-164.live.vodafone.in
+0 4 0 80 1 1610452755
+-
+85.185.75.34.bc.googleusercontent.com
+0 8 1 16541 2 1611622892
+/
+203.81.243.186
+0 2 0 637 2 1611174806
+-
+1-38-42-29.live.vodafone.in
+0 3 0 60 1 1609844148
+-
+204.11.225.117
+0 1 0 617 1 1610735288
+/
+185.192.70.30
+0 2 2 212118 2 1611072858
+/
+1-38-52-179.live.vodafone.in
+0 1 1 12836 1 1611761766
+/
+47.31.214.86
+0 72 59 1795177 1 1610621615
+/home/section/best_selling
+47.31.184.24
+0 2 0 637 1 1609841497
+-
+209.17.96.242.rdns.cloudsystemnetworks.com
+0 1 1 105790 1 1611696046
+/
+209.17.97.106.rdns.cloudsystemnetworks.com
+0 1 0 617 1 1610653767
+/
+42-111-16-66.live.vodafone.in
+0 4 4 1805 1 1610820063
+/home/section/best_selling
+209.17.96.26.rdns.cloudsystemnetworks.com
+0 1 0 617 1 1610144441
+-
+209.17.96.194.rdns.cloudsystemnetworks.com
+0 1 1 105790 1 1611588390
+/
+209.17.96.186.rdns.cloudsystemnetworks.com
+0 1 0 617 1 1609515554
+-
+129.213.31.250
+0 39 2 59669 2 1611932633
+-
+42-106-160-198.live.vodafone.in
+0 1 0 20 1 1609843430
+-
+209.17.97.50.rdns.cloudsystemnetworks.com
+0 1 0 617 1 1611771195
+/
+abts-north-dynamic-179.30.68.182.airtelbroadband.in
+0 6 0 5460 3 1611334964
+/
+199.244.88.132
+0 2 0 1234 2 1611059064
+/
+209.17.96.250.rdns.cloudsystemnetworks.com
+0 1 1 106059 1 1611256041
+/
+ec2-34-220-123-143.us-west-2.compute.amazonaws.com
+0 1 0 617 1 1611636004
+/
+ec2-54-70-242-140.us-west-2.compute.amazonaws.com
+0 1 0 617 1 1611656288
+/
+42-111-37-121.live.vodafone.in
+0 19 11 217074 1 1610820062
+/
+42-111-18-90.live.vodafone.in
+0 80 5 19472 1 1612111018
+/home/section/best_selling
+192.71.126.175
+0 1 0 617 1 1610074986
+-
+23.236.152.76
+0 1 0 617 1 1609681643
+-
+ec2-54-226-223-96.compute-1.amazonaws.com
+0 1 0 617 1 1610180293
+-
+40.75.230.35.bc.googleusercontent.com
+0 1 0 0 1 1610828230
+/
+ec2-54-235-16-196.compute-1.amazonaws.com
+0 1 0 617 1 1610241937
+-
+ip-148-72-214-23.ip.secureserver.net
+0 1 0 20 0 0
+-
+42-111-27-20.live.vodafone.in
+0 2 0 40 1 1610350491
+-
+vps-7ca18dc4.vps.ovh.net
+0 1 0 617 1 1611967705
+/
+27.218.112.199
+0 1 0 617 1 1609773402
+-
+ec2-54-245-171-188.us-west-2.compute.amazonaws.com
+0 1 0 617 1 1609795890
+-
+46.17.106.61
+0 2 0 1234 2 1612029076
+/
+42-108-168-88.live.vodafone.in
+0 14 12 253076 1 1610635354
+/
+ip-160-153-235-196.ip.secureserver.net
+0 1 0 20 0 0
+-
+42-108-174-222.live.vodafone.in
+0 57 54 1835623 1 1610635235
+/home/section/best_sellers
+msnbot-207-46-13-144.search.msn.com
+0 1 0 20 0 0
+-
+crawl-66-249-66-134.googlebot.com
+0 94 78 894096 21 1612082047
+/returnpolicy
+crawl-66-249-64-58.googlebot.com
+0 2 0 40 0 0
+-
+47.31.63.78
+0 2 0 40 1 1610189366
+-
+192.71.38.71
+0 1 0 20 0 0
+-
+38.18.44.157
+0 1 0 617 1 1612011912
+/
+42-111-23-107.live.vodafone.in
+0 77 13 176462 1 1611064102
+/home/section/best_sellers
+103.61.252.109
+0 1 0 617 1 1611174785
+/
+msnbot-157-55-39-49.search.msn.com
+0 1 0 617 1 1611214584
+/
+107.ip-213-32-20.eu
+0 1 0 20 0 0
+-
+243.252.75.34.bc.googleusercontent.com
+0 4 0 677 1 1611231254
+/
+91.207.173.10
+0 4 2 11294 1 1611427826
+/login
+42-111-19-42.live.vodafone.in
+0 9 5 19475 1 1612009383
+/home/section/best_sellers
+192.71.12.140
+0 1 0 20 0 0
+-
+134.175.228.189
+0 4 0 677 1 1610034048
+-
+vps-f9a0ff0d.vps.ovh.net
+0 1 0 617 1 1610621437
+-
+346681.cloudwaysapps.com
+0 1 0 20 0 0
+-
+crawl-66-249-66-132.googlebot.com
+0 172 164 1435089 22 1612067886
+/customer-packages
+247.157.196.35.bc.googleusercontent.com
+0 2 0 637 1 1609570798
+-
+167.99.45.76
+0 1 0 617 1 1610111493
+-
+209.17.96.138.rdns.cloudsystemnetworks.com
+0 1 0 617 1 1610041756
+-
+ec2-34-241-77-13.eu-west-1.compute.amazonaws.com
+0 2 0 2406 0 0
+-
+ec2-18-197-193-89.eu-central-1.compute.amazonaws.com
+0 1 0 617 1 1611408628
+/
+vps-90e71cbe.vps.ovh.net
+0 1 0 617 1 1611967702
+/
+ec2-3-128-26-105.us-east-2.compute.amazonaws.com
+0 1 1 87 0 0
+-
+205.200.178.107.gae.googleusercontent.com
+0 1 0 20 1 1610145311
+-
+231.232.178.107.gae.googleusercontent.com
+0 1 0 20 1 1610605623
+-
+fwdproxy-frc-120.fbsv.net
+0 1 0 1208 1 1611479823
+-
+fwdproxy-frc-005.fbsv.net
+0 1 0 1208 1 1611479825
+-
+42-111-19-210.live.vodafone.in
+0 40 36 1412482 1 1611997434
+/home/section/best_sellers
+108-174-5-112.fwd.linkedin.com
+0 2 2 25668 1 1611329157
+/
+192-3-100-187-host.colocrossing.com
+0 1 0 617 1 1609681644
+-
+192.71.42.108
+0 1 0 20 0 0
+-
+192.36.248.249
+0 1 0 617 1 1610526541
+-
+ec2-15-188-51-34.eu-west-3.compute.amazonaws.com
+0 1 0 1139 0 0
+-
+143.21.75.34.bc.googleusercontent.com
+0 4 0 677 1 1610485508
+-
+vmi448825.contaboserver.net
+0 1 0 617 1 1611566157
+/
+192-3-240-162-host.colocrossing.com
+0 1 0 617 1 1610380258
+-
+45.145.67.109
+0 1 0 20 0 0
+-
+82.165.48.181
+0 1 0 20 0 0
+-
+ec2-54-221-27-173.compute-1.amazonaws.com
+0 1 0 617 1 1610311885
+-
+139.59.237.87
+0 2 0 2406 1 1612055087
+-
+46.101.120.8
+0 1 0 20 0 0
+-
+server52.dnsserverboot.com
+0 12 12 1044 0 0
+-
+192.71.103.173
+0 1 0 20 0 0
+-
+47.31.0.104
+0 1 0 20 1 1610189342
+-
+66.249.135.104
+0 1 1 105790 1 1611334059
+/
+msnbot-157-55-39-124.search.msn.com
+0 1 0 1203 0 0
+-
+83.24.94.41.ipv4.supernova.orange.pl
+0 1 0 617 1 1611591287
+/
+ec2-3-228-7-149.compute-1.amazonaws.com
+0 1 0 617 0 0
+-
+185.81.157.115
+0 1 0 4963 0 0
+-
+209.17.96.90.rdns.cloudsystemnetworks.com
+0 1 1 106059 1 1612100581
+/
+52.143.95.27
+0 3 3 42427 0 0
+-
+13.109.237.35.bc.googleusercontent.com
+0 8 2 31725 2 1611571546
+/
+209.17.97.98.rdns.cloudsystemnetworks.com
+0 1 0 0 1 1610431499
+-
+159.65.24.22
+0 1 0 617 1 1610935628
+/
+crawl-66-249-66-136.googlebot.com
+0 29 21 298194 13 1612078539
+/cart
+67.10.185.35.bc.googleusercontent.com
+0 4 1 15865 1 1611361782
+/
+39.238.178.107.gae.googleusercontent.com
+0 1 0 20 1 1609691494
+-
+157.33.200.116
+0 120 115 2685212 1 1611335361
+/category/nav-element-list
+51.222.43.160
+0 1 0 0 1 1610476456
+-
+1-38-52-155.live.vodafone.in
+0 9 0 180 1 1610543754
+-
+1-38-51-162.live.vodafone.in
+0 3 2 26288 2 1611764849
+/
+msnbot-157-55-39-25.search.msn.com
+0 1 0 1203 0 0
+-
+d2.2b.2fa9.ip4.static.sl-reverse.com
+0 1 0 617 1 1610476999
+-
+static-50.192.99.14-tataidc.co.in
+0 52 5 68466 1 1611345903
+/admin/brands
+13.89.235.9
+0 1 0 617 1 1610987079
+/
+192.36.52.37
+0 1 0 617 1 1609621468
+-
+108-174-5-113.fwd.linkedin.com
+0 3 3 42427 0 0
+-
+42-111-21-83.live.vodafone.in
+0 80 76 2677849 1 1611087017
+/home/section/best_sellers
+5-255-253-107.spider.yandex.com
+0 6 1 17947 3 1610731442
+/
+121.73.229.35.bc.googleusercontent.com
+0 4 1 15861 1 1612010968
+/
+138.229.74.34.bc.googleusercontent.com
+0 4 1 15862 1 1610782183
+/
+crawl-66-249-66-199.googlebot.com
+0 1 0 20 0 0
+-
+ec2-34-229-89-58.compute-1.amazonaws.com
+0 3 0 1851 1 1610303002
+-
+1-38-44-215.live.vodafone.in
+0 2 0 40 1 1610458425
+-
+prod-nyc3-3.qencode-encoder-2f4108f0626511eb808c06d3bc90c6b1
+0 1 1 105790 1 1611888358
+/
+ec2-18-196-96-172.eu-central-1.compute.amazonaws.com
+0 3 3 261 0 0
+-
+134.122.3.220
+0 1 0 617 1 1610022027
+-
+ipv4-64-246-165-190.greenhousedata.net
+0 2 0 20 1 1609731178
+-
+192.71.225.127
+0 1 0 20 0 0
+-
+144.168.163.177
+0 1 0 617 1 1610489224
+-
+ec2-3-22-70-135.us-east-2.compute.amazonaws.com
+0 2 2 174 0 0
+-
+47.31.184.160
+0 17 10 37736 1 1611330981
+/home/section/home_categories
+192.71.36.158
+0 1 0 20 0 0
+-
+unn-89-187-175-149.cdn77.com
+0 1 0 617 1 1611433830
+/
+65.154.226.165
+0 1 0 617 1 1610291030
+-
+outbound2.letsencrypt.org
+0 3 3 261 0 0
+-
+1.237.178.107.gae.googleusercontent.com
+0 1 1 12837 1 1611995440
+/
+49.36.139.159
+0 1 0 617 1 1609779110
+-
+242.100.230.35.bc.googleusercontent.com
+0 1 1 0 1 1610828229
+/
+38.18.50.133
+0 1 0 617 1 1609823934
+-
+62-210-92-175.rev.poneytelecom.eu
+0 1 0 617 1 1611579039
+/
+tor-exit-anonymizer.appliedprivacy.net
+0 1 0 617 1 1611293170
+/
+52.188.34.21
+0 81 76 2679056 1 1611329166
+/home/section/best_sellers
+vps-c31e126c.vps.ovh.net
+0 1 0 617 1 1610657129
+/
+ec2-34-209-232-166.us-west-2.compute.amazonaws.com
+0 3 3 261 0 0
+-
+209.17.96.58.rdns.cloudsystemnetworks.com
+0 1 0 0 1 1609506709
+-
+47.31.194.24
+0 8 3 132373 1 1610659225
+/home/section/best_sellers
+209.17.97.74.rdns.cloudsystemnetworks.com
+0 1 1 106059 1 1610800698
+/
+163.13.75.34.bc.googleusercontent.com
+0 4 0 677 1 1610124845
+-
+238.231.178.107.gae.googleusercontent.com
+0 1 0 617 1 1610037099
+-
+ipv4-64-246-165-200.greenhousedata.net
+0 2 1 17905 1 1611824468
+/
+209.17.96.178.rdns.cloudsystemnetworks.com
+0 1 0 0 1 1609754770
+-
+192.71.142.35
+0 1 0 20 0 0
+-
+157.232.178.107.gae.googleusercontent.com
+0 1 1 12838 1 1611064416
+/
+152.57.60.232
+0 90 80 2359009 1 1611335617
+/home/section/best_selling
+209.17.97.122.rdns.cloudsystemnetworks.com
+0 1 1 106059 1 1610736174
+/
+104.238.46.98
+0 1 0 617 1 1610319718
+-
+vps-33f18167.vps.ovh.us
+0 1 0 617 1 1610621438
+-
+127.98.185.35.bc.googleusercontent.com
+0 2 0 637 1 1610591785
+-
+254.77.9.96.sinet.com.kh
+0 1 0 1139 0 0
+-
+106.215.203.170
+0 2 0 40 1 1609843430
+-
+43.239.204.26
+0 1 0 617 1 1611150486
+/
+209.17.96.82.rdns.cloudsystemnetworks.com
+0 1 0 0 1 1610199725
+-
+ec2-18-237-188-205.us-west-2.compute.amazonaws.com
+0 1 0 617 1 1611848304
+/
+49.36.168.39
+0 805 542 12231484 2 1611335633
+/search
+40.88.21.235
+0 1 0 617 1 1609524330
+-
+246.231.231.35.bc.googleusercontent.com
+0 2 0 1820 1 1611493259
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+42-111-19-186.live.vodafone.in
+0 9 5 19470 1 1612095905
+/home/section/best_sellers
+42-111-18-90.live.vodafone.in
+0 80 5 19472 1 1612111018
+/home/section/best_selling
+crawl-66-249-66-134.googlebot.com
+0 3 2 14062 2 1612082047
+/returnpolicy
+crawl-66-249-66-132.googlebot.com
+0 7 5 30119 1 1612067886
+/customer-packages
+ec2-15-188-51-34.eu-west-3.compute.amazonaws.com
+0 1 0 1139 0 0
+-
+139.59.237.87
+0 2 0 2406 1 1612055087
+-
+209.17.96.90.rdns.cloudsystemnetworks.com
+0 1 1 106059 1 1612100581
+/
+crawl-66-249-66-136.googlebot.com
+0 3 2 23302 2 1612078539
+/cart
+# End Of Table - sites (daily)
+# -referrers- 
+http://mail.tantaaa.com/web/
+0 1
+http://www.tantaaa.com/public/frontend/css/xzoom.css
+0 1
+http://www.tantaaa.com/returnpolicy
+0 33
+http://www.tantaaa.com/cart
+0 5
+http://mail.tantaaa.com/old/
+0 1
+http://mail.tantaaa.com/dev/
+0 1
+http://mail.tantaaa.com/main/
+0 1
+http://mail.tantaaa.com/blog/
+0 1
+http://mail.tantaaa.com/2018/
+0 1
+https://www.tantaaa.com/terms
+0 6
+https://downloadgalaxy.eu/the-who-the-25-best-songs-2017-mp3-320kbps-hunter-786zx-137910-magnet
+0 1
+http://www.tantaaa.com/categories
+0 9
+http://mail.tantaaa.com/site/
+0 1
+https://mydreamdl.me/the-many-faces-of-s02e04-michael-crawford-hdtv-x264-barge-34631-magnet
+0 1
+http://mail.tantaaa.com/backup/
+0 1
+http://mail.tantaaa.com/old-wp/
+0 1
+http://mail.tantaaa.com/temp/
+0 1
+http://mail.tantaaa.com/home/
+0 1
+http://www.tantaaa.com/search
+0 51
+http://www.tantaaa.com/users/registration
+0 4
+http://www.tantaaa.com/track_your_order
+0 2
+http://www.tantaaa.com/terms
+0 2
+https://www.google.com/
+0 2
+- (Direct Request)
+0 416
+http://mail.tantaaa.com/old-site/
+0 1
+http://www.tantaaa.com/brands
+0 2
+http://tantaaa.com/admin
+0 29
+http://mail.tantaaa.com/wordpress/
+0 1
+http://mail.tantaaa.com/wp/
+0 1
+http://www.tantaaa.com/public/frontend/css/font-awesome.min.css
+0 15
+http://www.tantaaa.com/public/frontend/css/line-awesome.min.css
+0 15
+http://mail.tantaaa.com/test/
+0 1
+http://mail.tantaaa.com/cms/
+0 1
+www.google.com
+0 1
+http://mail.tantaaa.com/tmp/
+0 1
+http://www.tantaaa.com/sellerpolicy
+0 2
+http://tantaaa.com
+0 1
+http://www.tantaaa.com/users/login
+0 4
+http://mail.tantaaa.com/new/
+0 1
+http://tantaaa.com/
+0 2
+http://www.tantaaa.com/password/reset
+0 3
+http://www.tantaaa.com/privacypolicy
+0 34
+https://mydreamdl.me/dead-or-alive-hats-the-way-i-like-it-the-best-of-2010-mfa-1225185-magnet
+0 1
+http://www.tantaaa.com/customer-packages
+0 10
+android-app://com.linkedin.android/
+0 1
+http://www.tantaaa.com/
+0 1748
+https://www.tantaaa.com/
+0 2
+http://tantaaa.com/login
+0 17
+http://tantaaa.com/admin/brands
+0 1
+https://downloadgalaxy.eu/the-perverts-guide-to-cinema-2006-slavoj-iek-528628-magnet
+0 1
+# End Of Table - referrers
+# -agents- 
+curl/7.35.0
+0 1
+Mozilla/5.0 (Linux; Android 5.1.1; SM-J111F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+0 38
+Mozilla/5.0 (compatible; TestBot/0.1; +In_the_test_phase,_if_the_spider_brings_you_trouble,_please_add_our_IP_to_the_blacklis
+0 4
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+0 3
+Mozilla/5.0 (Linux; Android 5.1.1; vivo V3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36 OPR/46.0.2597.
+0 2
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/87.0.42
+0 44
+Mozilla/5.0 (compatible; DuckDuckGo-Favicons-Bot/1.0; +http://duckduckgo.com)
+0 1
+Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)
+0 15
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36
+0 52
+Mozilla/4.0 Java/1.8.0_181-google-v7
+0 1
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+0 84
+Mozilla/5.0 (Linux; Android 10; M2003J15SC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.101 Mobile Safari/537.36
+0 90
+Mozilla/5.0 (Linux; Android 11; KB2001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/88.0.43
+0 42
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 24
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.136 Safari/537.36
+0 81
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.71 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 9; Redmi 6A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36
+0 80
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+0 120
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36 OPR/54.0.2
+0 1
+LinkedInBot/1.0 (compatible; Mozilla/5.0; Apache-HttpClient +http://www.linkedin.com)
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.114 Mobile 
+0 10
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 39
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.2 Safari/537.36
+0 2
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 4
+PageThing http://pagething.com curl www
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:84.0) Gecko/20100101 Firefox/84.0
+0 565
+Go-http-client/1.1
+0 12
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.75 Safari/537.36
+0 1
+Googlebot-Image/1.0
+0 7
+WhatsApp/2.20.206.24 A
+0 5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+0 2
+Mozilla
+0 4
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.113 Mobile 
+0 10
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+0 137
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.65 Safari/537.31
+0 1
+python-requests/2.25.1
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+0 286
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 2
+Python-urllib/2.7
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 2
+colly - https://github.com/gocolly/colly/v2
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+0 4
+Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; .NET CLR 1.1.4322),
+0 1
+Mozilla/5.0 (Linux; Android 10; HD1901) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.101 Mobile Safari/537.36
+0 291
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 6
+Mozilla/5.0 (Windows NT 10.0; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4086.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 7
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.170 Safari/537.36 OPR/53.0.2
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36 OPR/54.0.29
+0 1
+Mozilla/5.0 (Linux; Android 8.1.0; vivo 1802) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.93 Mobile Safari/537.36
+0 74
+ZoominfoBot (zoominfobot at zoominfo dot com)
+0 58
+node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+0 6
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2224.3 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2226.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+0 1
+Mozilla: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.3 Mozilla/5.0 (Macintosh; Intel Mac OS X
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 3
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/4.9.4.3000 Chrome/39.0.2146.0 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/84.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 9; Mi A1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.90 Mobile S
+0 146
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+0 2
+Python/3.7 aiohttp/3.7.3
+0 1
+Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.31
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

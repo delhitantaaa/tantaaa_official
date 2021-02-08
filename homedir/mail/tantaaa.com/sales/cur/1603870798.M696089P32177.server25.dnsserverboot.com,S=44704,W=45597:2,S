@@ -1,0 +1,893 @@
+Return-Path: <1axcbddl437sy6pwpkht11yh9wv9h2cvc3srzn-sales=tantaaa.com@bf01x.hubspotemail.net>
+Delivered-To: sales@tantaaa.com
+Received: from server25.dnsserverboot.com
+	by server25.dnsserverboot.com with LMTP id 4L5pKU4gmV+xfQAAwMDd9w
+	for <sales@tantaaa.com>; Wed, 28 Oct 2020 13:09:58 +0530
+Return-path: <1axcbddl437sy6pwpkht11yh9wv9h2cvc3srzn-sales=tantaaa.com@bf01x.hubspotemail.net>
+Envelope-to: sales@tantaaa.com
+Delivery-date: Wed, 28 Oct 2020 13:09:58 +0530
+Received: from pgg18a.bf01x.hubspotemail.net ([54.174.52.248]:39983)
+	by server25.dnsserverboot.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89_1)
+	(envelope-from <1axcbddl437sy6pwpkht11yh9wv9h2cvc3srzn-sales=tantaaa.com@bf01x.hubspotemail.net>)
+	id 1kXg3q-000052-Hs
+	for sales@tantaaa.com; Wed, 28 Oct 2020 13:09:58 +0530
+Received: by 172.16.224.35 with SMTP id aw646eswp3ibyarv85jhbtfympeyla11w8si;
+        Wed, 28 Oct 2020 07:39:16 GMT
+DKIM-Signature: v=1; s=hs1; d=bf01x.hubspotemail.net; 
+        i=@bf01x.hubspotemail.net; 
+        h=sender:from:reply-to:to:subject:mime-version:content-type:list-unsubscribe:form-sub:feedback-id; 
+        a=rsa-sha256; c=relaxed/relaxed; 
+        bh=G3yZSWbOdNxqqOSRDGrToDgn7pcuX9kWrMKv6h1k1F8=; 
+        b=OUSzeZ8G7yMlThXJ6Z074L9InrPHHibaeHLIEVVupTDsYQH4bvm0RojVVovxDv
+         f8XghqAbEn/l9Y8GxOVD67qnFgUTqddRfkbrbWQ6u9hygenDvPAT9w9FOPUZsO0
+         /AYWYfVfS5mXgg99VDtse5/SrHLtYnIOmlWH1TTOnY6gVcPbeDNEwbxTkOinjnc
+         4rWv1/rHF/Bh1wUrOuaI5mVzGFjsmIrXX3SaWOkMwFft8x1tpQ7usUmKtok4NzF
+         7mSu0Id2CFxuTzkh80oqkybILRrXXY3q11hfXKg6RzPi0/pLa3hOVGlM3e8MWPp
+         jckbvpGKkTNcU8/innYj0rNGxJ4Q==; q=dns/txt; t=1603870756;
+DKIM-Signature: v=1; s=hs2; d=razorpay.com; i=@razorpay.com; 
+        h=sender:from:reply-to:to:subject:mime-version:content-type:list-unsubscribe:form-sub:feedback-id; 
+        a=rsa-sha256; c=relaxed/relaxed; 
+        bh=G3yZSWbOdNxqqOSRDGrToDgn7pcuX9kWrMKv6h1k1F8=; 
+        b=KZQdJf8mSoFHMpA+gFc11AeF+ImBq+Ly6ROsizXmU0dcsTUp4wmfcI7g3A6Tdq
+         EZJQNWtHl2ncXXIXG/wO3fqLjcvH8WhYixJBapNd/WPJxN7Iy0Vk/bafIFVPQyT
+         w6iVMmjK771s9WKob9o8Nuh4KsGbrMSJaKAqIqTaNoe+e6hUzWpkNzrtKLLeLg0
+         1+EBpxBmMUjVJae3NNgn22MJrj0JudrFAVn0BA+DRO4h4/8veCYCJBDJ8SI7Q6n
+         F2rjNJxGnJx1fWIw15JrBo6O5fa9VXzHwe9el0TUiLZSDfMxIkjPW9tycj8jLbO
+         y1cV/PmDgVIbwrfbRSGPZ0efKwhA==; q=dns/txt; t=1603870756;
+X-HS-Cid: 1axf20nd35z65qg8vcb18u5l6q95xs7vsofb8j
+List-Unsubscribe: <mailto:1axc7khn98kavh9lmfrj4f8qp81g83f1kw9uib-sales=tantaaa.com@bf01x.hubspotemail.net?subject=unsubscribe>
+Date: Wed, 28 Oct 2020 13:09:16 +0530
+From: Team Razorpay <noreply@razorpay.com>
+Reply-To: noreply@razorpay.com
+To: sales@tantaaa.com
+Message-ID: <1603870649590.cd36becb-827d-4695-8115-d0b26af2d10f@bf01x.hubspotemail.net>
+Subject: =?utf-8?Q?Razorpay_Webinars:_Unlock_Business_Growth?=
+ =?utf-8?Q?_with_Ankur_Warikoo_and_Harshil_Mathur_=F0=9F=8E=87?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_16121654_582318378.1603870756666"
+X-Report-Abuse-To: abuse@hubspot.com (see
+ https://www.hubspot.com/abuse-complaints)
+
+------=_Part_16121654_582318378.1603870756666
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Stand a chance to win Rs. 50,000 Razorpay credits and Amazon vouchers. Regi=
+ster Now!
+
+View in browser (https://i3.t.hubspotemail.net/e2t/sc2/Mm-nFbjW8bhW7VvQg-53=
+h4PRW5t4vvB6ML72cW7vvsTY7ZgtlKf1HVPN203 )
+
+Hey there,
+
+Growing a business is always a challenging task - requiring the correct ble=
+nd of resources, insights and efforts. But this task becomes especially tou=
+gher if your business is operating at a time when the world is going throug=
+h a daunting pandemic.
+
+We bring to you a webinar that will help you power through the current busi=
+ness environment while answering all your doubts - big and small. Join Anku=
+r Warikoo (Co-Founder and Board Member of Nearbuy.com) and Harshil Mathur (=
+Co-Founder and CEO at Razorpay) as they come together for our webinar - Unl=
+ocking Growth for Your Business in The Era of COVID and Beyond.
+
+Register For Free
+(https://i3.t.hubspotemail.net/e2t/sc2/Mm-nFbjW8bhW7VvQg-53h4PRW5t4vvB6ML72=
+cW7vvsTY7ZgtlKf1HVPN213 )
+
+Here=E2=80=99s why this webinar deserves to be on your to-do list.
+
+=F0=9F=9A=80 Learn mantras for festive growth in the post COVID world
+
+=F0=9F=9A=80 Lessons on monetising your passion and unlocking opportunities
+
+=F0=9F=9A=80 #AMA with Ankur Warikoo and Harshil Mathur
+
+=F0=9F=8E=81 Exciting opportunity to unlock free credits worth Rs. 50,000 a=
+nd win amazon vouchers
+
+So block your calendars for 2 PM on 5th November 2020 and register now for =
+the event at no cost. Limited seats available. So, hurry now!
+
+Reserve my seat
+(https://i3.t.hubspotemail.net/e2t/sc2/Mm-nFbjW8bhW7VvQg-53h4PRW5t4vvB6ML72=
+cW7vvsTY7ZgtlKf1HVPN223 )
+
+For more information and updates, visit our event page here (https://i3.t.h=
+ubspotemail.net/e2t/sc2/Mm-nFbjW8bhW7VvQg-53h4PRW5t4vvB6ML72cW7vvsTY7ZgtlKf=
+1HVPN233 ) .
+
+Unlocking business opportunities for you,
+
+Team Razorpay
+
+Razorpay, Hosur Road, Bengaluru, Karnataka
+
+Unsubscribe (https://hs-5558946.s.hubspotemail.net/hs/manage-preferences/un=
+subscribe-all?d=3DVnchcR639-pdVFrjJq3K984HW3zd-fZ3z7rYZW43T2Pw6D1v7sW17f7hv=
+5fpVNSW64Jxdv4KxXV7W5b5fdH7ZwF-_V28Yzy5g0P9CMGKd_P20N5RW7hp2ym7Snn0sV6p6K_9=
+l1Pm_4sjn_1&v=3D3&_hsenc=3Dp2ANqtz-8Z8-bM9PNBhC-kEEegQ65oZUNjQXIV3mpZ6OHdhA=
+EbvnUy4VDAq_8osZY0L9fyNWuK_WGFF7mWuaqunbpPf3kjM31gdg&_hsmi=3D98428436 )
+
+Manage preferences (https://hs-5558946.s.hubspotemail.net/hs/manage-prefere=
+nces/unsubscribe?d=3DVnchcR639-pdVFrjJq3K984HW3zd-fZ3z7rYZW43T2Pw6D1v7sW17f=
+7hv5fpVNSW64Jxdv4KxXV7W5b5fdH7ZwF-_V28Yzy5g0P9CMGKd_P20N5RW7hp2ym7Snn0sV6p6=
+K_9l1Pm_4sjn_1&v=3D3&_hsenc=3Dp2ANqtz-8Z8-bM9PNBhC-kEEegQ65oZUNjQXIV3mpZ6OH=
+dhAEbvnUy4VDAq_8osZY0L9fyNWuK_WGFF7mWuaqunbpPf3kjM31gdg&_hsmi=3D98428436 )
+------=_Part_16121654_582318378.1603870756666
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3=
+.org/1999/xhtml" xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:=
+v=3D"urn:schemas-microsoft-com:vml" lang=3D"en"><head>
+    <title>Razorpay Webinars: Unlock Festive Growth with Ankur Warikoo and =
+Harshil Mathur =F0=9F=8E=87</title>
+    <meta property=3D"og:title" content=3D"Razorpay Webinars: Unlock Festiv=
+e Growth with Ankur Warikoo and Harshil Mathur =F0=9F=8E=87">
+    <meta name=3D"twitter:title" content=3D"Razorpay Webinars: Unlock Festi=
+ve Growth with Ankur Warikoo and Harshil Mathur =F0=9F=8E=87">
+   =20
+   =20
+   =20
+<meta name=3D"x-apple-disable-message-reformatting">
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+    <!--[if gte mso 9]>
+  <xml>
+      <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+  </xml>
+ =20
+  <style>
+    ul > li {
+      text-indent: -1em;
+    }
+  </style>
+<![endif]-->
+<!--[if mso]>
+<style type=3D"text/css">
+ body, td {font-family: Arial, Helvetica, sans-serif;}
+</style>
+<![endif]-->
+   =20
+     =20
+   =20
+  <meta name=3D"generator" content=3D"HubSpot"><meta property=3D"og:url" co=
+ntent=3D"http://razorpay-5558946.hs-sites.com/razorpay-webinars-unlock-fest=
+ive-growth-with-ankur-warikoo-and-harshil-mathur"><meta name=3D"robots" con=
+tent=3D"noindex,follow"><!--[if !((mso)|(IE))]><!-- --><style type=3D"text/=
+css">[owa] .hse-column-container{max-width:600px !important;width:600px !im=
+portant}[owa] .hse-column{display:table-cell;vertical-align:top}
+[owa] .hse-section .hse-size-12{max-width:600px !important;width:600px !imp=
+ortant}
+@media only screen and (min-width:640px){.hse-column-container{max-width:60=
+0px !important;width:600px !important}
+.hse-column{display:table-cell;vertical-align:top}.hse-section .hse-size-12=
+{max-width:600px !important;width:600px !important}
+}@media only screen and (max-width:639px){img.stretch-on-mobile,.hs_rss_ema=
+il_entries_table img{height:auto !important;width:100% !important}
+.display_block_on_small_screens{display:block}.hs_padded{padding-left:20px =
+!important;padding-right:20px !important}
+}</style><!--<![endif]--><style type=3D"text/css">a[x-apple-data-detectors]=
+{color:inherit !important;text-decoration:none !important;font-size:inherit=
+ !important;font-family:inherit !important;font-weight:inherit !important;l=
+ine-height:inherit !important}
+#outlook a{padding:0}.yshortcuts a{border-bottom:none !important}a{text-dec=
+oration:underline}
+.ExternalClass{width:100%}.ExternalClass,.ExternalClass p,.ExternalClass td=
+,.ExternalClass div,.ExternalClass span,.ExternalClass font{line-height:100=
+%}
+p{margin:0}body{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-we=
+bkit-font-smoothing:antialiased;moz-osx-font-smoothing:grayscale}</style></=
+head>
+  <body bgcolor=3D"#EEEEEE" style=3D"margin:0 !important; padding:0 !import=
+ant; font-family:Trebuchet MS, sans-serif; font-size:16px; color:#3a3a3a; w=
+ord-break:break-word">
+   =20
+<div id=3D"preview_text" style=3D"display:none!important;font-size:1px;colo=
+r:#EEEEEE;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:h=
+idden;">Stand a chance to win Rs. 50,000 Razorpay credits and Amazon vouche=
+rs. Register Now!</div>
+   =20
+<!--[if gte mso 9]>
+<v:background xmlns:v=3D"urn:schemas-microsoft-com:vml" fill=3D"t">
+ =20
+    <v:fill type=3D"tile" color=3D"#EEEEEE"/>
+ =20
+</v:background>
+<![endif]-->
+    <div class=3D"hse-body-background" style=3D"background-color:#eeeeee" b=
+gcolor=3D"#eeeeee">
+      <table role=3D"presentation" class=3D"hse-body-wrapper-table" cellpad=
+ding=3D"0" cellspacing=3D"0" style=3D"border-spacing:0 !important; border-c=
+ollapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; margin:0; pad=
+ding:0; width:100% !important; min-width:320px !important; height:100% !imp=
+ortant" width=3D"100%" height=3D"100%">
+        <tbody><tr>
+          <td class=3D"hse-body-wrapper-td" valign=3D"top" style=3D"border-=
+collapse:collapse; mso-line-height-rule:exactly; font-family:Trebuchet MS, =
+sans-serif; font-size:16px; color:#3a3a3a; word-break:break-word; padding-t=
+op:20px">
+            <div id=3D"hs_cos_wrapper_main" class=3D"hs_cos_wrapper hs_cos_=
+wrapper_widget hs_cos_wrapper_type_dnd_area" style=3D"color: inherit; font-=
+size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widget" d=
+ata-hs-cos-type=3D"dnd_area">  <div id=3D"section_1603745645797" class=3D"h=
+se-section hse-section-first" style=3D"padding-left:10px; padding-right:10p=
+x">
+   =20
+   =20
+    <!--[if !((mso)|(IE))]><!-- -->
+      <div class=3D"hse-column-container" style=3D"min-width:280px; max-wid=
+th:600px; width:100%; Margin-left:auto; Margin-right:auto; border-collapse:=
+collapse; border-spacing:0">
+    <!--<![endif]-->
+   =20
+    <!--[if (mso)|(IE)]>
+      <div class=3D"hse-column-container" style=3D"min-width:280px;max-widt=
+h:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:colla=
+pse;border-spacing:0;">
+      <table align=3D"center" style=3D"border-collapse:collapse;mso-table-l=
+space:0pt;mso-table-rspace:0pt;width:600px;" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation">
+      <tr>
+    <![endif]-->
+    <!--[if (mso)|(IE)]>
+  <td valign=3D"top" style=3D"width:600px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role=3D"presentation" width=3D"600" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0pt;mso-table-rsp=
+ace:0pt;width:600px">
+<![endif]-->
+<div id=3D"column_1603745645797_0" class=3D"hse-column hse-size-12">
+  <div id=3D"hs_cos_wrapper_module_160374564579418" class=3D"hs_cos_wrapper=
+ hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inherit;=
+ font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"wid=
+get" data-hs-cos-type=3D"module">
+<div style=3D"overflow:hidden">
+<table role=3D"presentation" class=3D"hse-pre-header hse-secondary" width=
+=3D"100%" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing:0 !im=
+portant; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0=
+pt; text-align:right; font-family:Arial, sans-serif; font-size:12px; line-h=
+eight:135%; color:#23496d; margin-bottom:0; padding:0" align=3D"right">
+    <tbody>
+        <tr>
+            <td align=3D"right" valign=3D"top" style=3D"border-collapse:col=
+lapse; mso-line-height-rule:exactly; color:#3a3a3a; word-break:break-word; =
+text-align:right; font-family:Arial, sans-serif; font-size:12px; padding:10=
+px 0; margin-bottom:0; line-height:135%">
+                <a href=3D"https://i3.t.hubspotemail.net/e2t/tc/VWYxb27rycW=
+lW5s_78d6x1NdSVyCbyQ4hJNgdN8_nRGQ5nxHXV3Zsc37CgCRSW7JgfYV9l_0-ZW9401yJ4nd6s=
+KN8_ZN4p2Sc-tW8d4K018y2jh5W4l5QxB8yXLKzW4B7Xkg5Bs7WdW30-P_F19bdrsVSPSR41chR=
+-MW6tBc1B2MR2ZRW2y0gDL3lN_HNW1vqRtp6vpJsYVDB2067pm8lpW5yXPlP3JL29RW2VbKZW5M=
+s65lW5vCrYb4Bvl9pW3jv-J07Xx6NpW1RTrkV10nyl0W3YLJG97g7QCGW3ZBzZb2p63MjW7gnx9=
+T2BBQNHW46583p39dkwpW394Lk02S_rS3W1zh72X2JM2MpW12Q5Yx4WN8VJW5fcClB6ClljqVWW=
+1v-8MFMWhW30R_8_3MP-TvW7Z7J9Q7_CscxVttymg3npVfLW50m77Y26xdQ_W3dwbhp9d7rqSW5=
+4JKHy3HhH-7W6vJDbG3sH3cxW5Cc5Hf7PTTTWV9Ng2F95zvSsW8lfw_H5n8RSYW1v3fyY8JtCFr=
+W94CKsK4ZdmwjW6l0_S_6VhHs0W6Szv1p11pTMXW85kXCV1SVQK8W8ryqcJ44qr8jW3J_F8N4Tz=
+KvsV2914M3n_Zh133Qy1" style=3D"mso-line-height-rule:exactly; color:#0d97bd;=
+ font-weight:normal; text-decoration:none; font-style:normal" data-hs-link-=
+id=3D"0" target=3D"_blank">View in browser</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+    </div>
+  =20
+  </div>
+  <div id=3D"section_1603745461101" class=3D"hse-section" style=3D"padding-=
+left:10px; padding-right:10px">
+   =20
+   =20
+    <!--[if !((mso)|(IE))]><!-- -->
+      <div class=3D"hse-column-container" style=3D"min-width:280px; max-wid=
+th:600px; width:100%; Margin-left:auto; Margin-right:auto; border-collapse:=
+collapse; border-spacing:0; background-color:#FFFFFF" bgcolor=3D"#FFFFFF">
+    <!--<![endif]-->
+   =20
+    <!--[if (mso)|(IE)]>
+      <div class=3D"hse-column-container" style=3D"min-width:280px;max-widt=
+h:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:colla=
+pse;border-spacing:0;">
+      <table align=3D"center" style=3D"border-collapse:collapse;mso-table-l=
+space:0pt;mso-table-rspace:0pt;width:600px;" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" width=3D"600" bgcolor=3D"#FFFFFF">
+      <tr style=3D"background-color:#FFFFFF;">
+    <![endif]-->
+    <!--[if (mso)|(IE)]>
+  <td valign=3D"top" style=3D"width:600px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role=3D"presentation" width=3D"600" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0pt;mso-table-rsp=
+ace:0pt;width:600px">
+<![endif]-->
+<div id=3D"column_1603745461101_0" class=3D"hse-column hse-size-12">
+  <div id=3D"hs_cos_wrapper_module_15356269602292" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inherit; =
+font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widg=
+et" data-hs-cos-type=3D"module">
+=09
+<table class=3D"hse-image-wrapper" role=3D"presentation" width=3D"100%" cel=
+lpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing:0 !important; bord=
+er-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt">
+    <tbody>
+        <tr>
+            <td class=3D"hs_padded" align=3D"center" valign=3D"top" style=
+=3D"border-collapse:collapse; mso-line-height-rule:exactly; font-family:Tre=
+buchet MS, sans-serif; color:#3a3a3a; word-break:break-word; text-align:cen=
+ter; padding:10px 20px; font-size:0px">
+               =20
+                <img alt=3D"razorpay-logo-dark-outline" src=3D"https://lp.r=
+azorpay.com/hs-fs/hubfs/razorpay-logo-dark-outline.png?width=3D260&amp;upsc=
+ale=3Dtrue&amp;name=3Drazorpay-logo-dark-outline.png" style=3D"outline:none=
+; text-decoration:none; -ms-interpolation-mode:bicubic; max-width:100%; fon=
+t-size:16px" width=3D"130" align=3D"middle" srcset=3D"https://lp.razorpay.c=
+om/hs-fs/hubfs/razorpay-logo-dark-outline.png?upscale=3Dtrue&amp;width=3D26=
+0&amp;upscale=3Dtrue&amp;name=3Drazorpay-logo-dark-outline.png 130w, https:=
+//lp.razorpay.com/hs-fs/hubfs/razorpay-logo-dark-outline.png?upscale=3Dtrue=
+&amp;width=3D520&amp;upscale=3Dtrue&amp;name=3Drazorpay-logo-dark-outline.p=
+ng 260w" sizes=3D"(max-width: 130px) 100vw, 130px">
+               =20
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+    </div>
+  =20
+  </div>
+  <div id=3D"section_1603785637894" class=3D"hse-section" style=3D"padding-=
+left:10px; padding-right:10px">
+   =20
+   =20
+    <!--[if !((mso)|(IE))]><!-- -->
+      <div class=3D"hse-column-container" style=3D"min-width:280px; max-wid=
+th:600px; width:100%; Margin-left:auto; Margin-right:auto; border-collapse:=
+collapse; border-spacing:0; background-color:#FFFFFF; padding-top:10px" bgc=
+olor=3D"#FFFFFF">
+    <!--<![endif]-->
+   =20
+    <!--[if (mso)|(IE)]>
+      <div class=3D"hse-column-container" style=3D"min-width:280px;max-widt=
+h:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:colla=
+pse;border-spacing:0;">
+      <table align=3D"center" style=3D"border-collapse:collapse;mso-table-l=
+space:0pt;mso-table-rspace:0pt;width:600px;" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" width=3D"600" bgcolor=3D"#FFFFFF">
+      <tr style=3D"background-color:#FFFFFF;">
+    <![endif]-->
+    <!--[if (mso)|(IE)]>
+  <td valign=3D"top" style=3D"width:600px;padding-top:10px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role=3D"presentation" width=3D"600" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0pt;mso-table-rsp=
+ace:0pt;width:600px">
+<![endif]-->
+<div id=3D"column_1603785637894_0" class=3D"hse-column hse-size-12">
+  <div id=3D"hs_cos_wrapper_module_16037856378331" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inherit; =
+font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widg=
+et" data-hs-cos-type=3D"module">
+=09
+<table class=3D"hse-image-wrapper" role=3D"presentation" width=3D"100%" cel=
+lpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing:0 !important; bord=
+er-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt">
+    <tbody>
+        <tr>
+            <td class=3D"hs_padded" align=3D"center" valign=3D"top" style=
+=3D"border-collapse:collapse; mso-line-height-rule:exactly; font-family:Tre=
+buchet MS, sans-serif; color:#3a3a3a; word-break:break-word; text-align:cen=
+ter; padding:10px 20px; font-size:0px">
+               =20
+                <img alt=3D"Unlock growth webinar" src=3D"https://lp.razorp=
+ay.com/hs-fs/hubfs/Frame%2035%201.png?width=3D1120&amp;upscale=3Dtrue&amp;n=
+ame=3DFrame%2035%201.png" style=3D"outline:none; text-decoration:none; -ms-=
+interpolation-mode:bicubic; max-width:100%; font-size:16px" width=3D"560" a=
+lign=3D"middle" srcset=3D"https://lp.razorpay.com/hs-fs/hubfs/Frame%2035%20=
+1.png?upscale=3Dtrue&amp;width=3D1120&amp;upscale=3Dtrue&amp;name=3DFrame%2=
+035%201.png 560w, https://lp.razorpay.com/hs-fs/hubfs/Frame%2035%201.png?up=
+scale=3Dtrue&amp;width=3D2240&amp;upscale=3Dtrue&amp;name=3DFrame%2035%201.=
+png 1120w" sizes=3D"(max-width: 560px) 100vw, 560px">
+               =20
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+    </div>
+  =20
+  </div>
+  <div id=3D"section_1535626975583" class=3D"hse-section" style=3D"padding-=
+left:10px; padding-right:10px">
+   =20
+   =20
+    <!--[if !((mso)|(IE))]><!-- -->
+      <div class=3D"hse-column-container" style=3D"min-width:280px; max-wid=
+th:600px; width:100%; Margin-left:auto; Margin-right:auto; border-collapse:=
+collapse; border-spacing:0; background-color:#FFFFFF; background-image:url(=
+''); background-position:center; background-repeat:repeat; padding-top:10px=
+" bgcolor=3D"#FFFFFF">
+    <!--<![endif]-->
+   =20
+    <!--[if (mso)|(IE)]>
+      <div class=3D"hse-column-container" style=3D"min-width:280px;max-widt=
+h:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:colla=
+pse;border-spacing:0;">
+      <table align=3D"center" style=3D"border-collapse:collapse;mso-table-l=
+space:0pt;mso-table-rspace:0pt;width:600px;" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" width=3D"600" bgcolor=3D"#FFFFFF">
+      <tr style=3D"background-color:#FFFFFF; background-image:url(''); back=
+ground-position:center; background-repeat:repeat;">
+    <![endif]-->
+    <!--[if (mso)|(IE)]>
+  <td valign=3D"top" style=3D"width:600px;padding-top:10px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role=3D"presentation" width=3D"600" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0pt;mso-table-rsp=
+ace:0pt;width:600px">
+<![endif]-->
+<div id=3D"column_1535626975583_0" class=3D"hse-column hse-size-12">
+  <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%" style=3D"border-spacing:0 !important; border-collapse:collapse; mso-=
+table-lspace:0pt; mso-table-rspace:0pt"><tbody><tr><td class=3D"hs_padded" =
+style=3D"border-collapse:collapse; mso-line-height-rule:exactly; font-famil=
+y:Trebuchet MS, sans-serif; font-size:16px; color:#3a3a3a; word-break:break=
+-word; padding:10px 20px"><div id=3D"hs_cos_wrapper_module_15911837077985" =
+class=3D"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" s=
+tyle=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-=
+cos-general-type=3D"widget" data-hs-cos-type=3D"module"><div id=3D"hs_cos_w=
+rapper_module_15911837077985_" class=3D"hs_cos_wrapper hs_cos_wrapper_widge=
+t hs_cos_wrapper_type_rich_text" style=3D"color: inherit; font-size: inheri=
+t; line-height: inherit;" data-hs-cos-general-type=3D"widget" data-hs-cos-t=
+ype=3D"rich_text"><p style=3D"mso-line-height-rule:exactly; font-size:15px;=
+ line-height:150%"><span style=3D"font-family: 'Trebuchet MS', sans-serif;"=
+>Hey there,</span></p>
+<p style=3D"mso-line-height-rule:exactly; font-size:15px; line-height:150%"=
+><span style=3D"font-family: 'Trebuchet MS', sans-serif;">&nbsp;</span></p>
+<p style=3D"mso-line-height-rule:exactly; font-size:15px; line-height:150%"=
+>Growing a business is always a challenging task - requiring the correct bl=
+end of resources, insights and efforts. But this task becomes especially to=
+ugher if your business is operating at a time when the world is going throu=
+gh a daunting pandemic.</p>
+<p style=3D"mso-line-height-rule:exactly; font-size:15px; line-height:150%"=
+>&nbsp;</p>
+<p style=3D"mso-line-height-rule:exactly; font-size:15px; line-height:150%"=
+>We bring to you a webinar that will help you power through the current bus=
+iness environment while answering all your doubts - big and small. Join <st=
+rong><span style=3D"color: #3574e3;">Ankur Warikoo</span></strong> <span st=
+yle=3D"color: #3574e3;">(Co-Founder and Board Member of&nbsp;Nearbuy.com)</=
+span> and <strong><span style=3D"color: #3574e3;">Harshil Mathur </span></s=
+trong><span style=3D"color: #3574e3;">(Co-Founder and CEO&nbsp;at Razorpay)=
+</span> as they come together for our webinar - Unlocking Growth for Your B=
+usiness in The Era of COVID and Beyond.</p></div></div></td></tr></tbody></=
+table>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+    </div>
+  =20
+  </div>
+  <div id=3D"section_1596710159269" class=3D"hse-section" style=3D"padding-=
+left:10px; padding-right:10px">
+   =20
+   =20
+    <!--[if !((mso)|(IE))]><!-- -->
+      <div class=3D"hse-column-container" style=3D"min-width:280px; max-wid=
+th:600px; width:100%; Margin-left:auto; Margin-right:auto; border-collapse:=
+collapse; border-spacing:0; background-color:#FFFFFF" bgcolor=3D"#FFFFFF">
+    <!--<![endif]-->
+   =20
+    <!--[if (mso)|(IE)]>
+      <div class=3D"hse-column-container" style=3D"min-width:280px;max-widt=
+h:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:colla=
+pse;border-spacing:0;">
+      <table align=3D"center" style=3D"border-collapse:collapse;mso-table-l=
+space:0pt;mso-table-rspace:0pt;width:600px;" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" width=3D"600" bgcolor=3D"#FFFFFF">
+      <tr style=3D"background-color:#FFFFFF;">
+    <![endif]-->
+    <!--[if (mso)|(IE)]>
+  <td valign=3D"top" style=3D"width:600px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role=3D"presentation" width=3D"600" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0pt;mso-table-rsp=
+ace:0pt;width:600px">
+<![endif]-->
+<div id=3D"column_1596710159269_0" class=3D"hse-column hse-size-12">
+  <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%" style=3D"border-spacing:0 !important; border-collapse:collapse; mso-=
+table-lspace:0pt; mso-table-rspace:0pt"><tbody><tr><td class=3D"hs_padded" =
+style=3D"border-collapse:collapse; mso-line-height-rule:exactly; font-famil=
+y:Trebuchet MS, sans-serif; font-size:16px; color:#3a3a3a; word-break:break=
+-word; padding:10px 20px"><div id=3D"hs_cos_wrapper_module_15912087956323" =
+class=3D"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" s=
+tyle=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-=
+cos-general-type=3D"widget" data-hs-cos-type=3D"module">
+ =20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing:0 !important; mso-table-lspac=
+e:0pt; mso-table-rspace:0pt; border-collapse:separate!important">
+    <tbody><tr>
+        <!--[if mso]>
+      <td align=3D"center" valign=3D"middle" bgcolor=3D"#456bf2" role=3D"pr=
+esentation"  valign=3D"middle" style=3D"border-radius:25px;cursor:auto;back=
+ground-color:#456bf2;padding:12px 18px;">
+      <a href=3D"https://i3.t.hubspotemail.net/e2t/tc/VWYxb27rycWlW5s_78d6x=
+1NdSVyCbyQ4hJNgdN8_nRH53p8dNV1-WJV7CgGf3W13jgnD6YGSLQW3j9sKQ2wJd_3W5F0zSV2S=
+Kc9-VNdp9053TCsgW8_4-z_6yQqbsW3LkGWn962JtpVkBW1w3mqyT6W1yZDBG1v_DLrW73kWqb2=
+VlSY1W9dMKk21Qqdv2W9ft7Tk58H3-ZW7MKpB345rFTCW6Qy23Z4Y9t7wW8jc-2m1sXDdWW7W2D=
+3y5gsZxLW7yTBXn8bj774V1B5j320nm9pW7jc0cT6PWtcbW7FWS5X7bkss0W70jYw81lLYRqW1s=
+qSR87hcz3LW1XGQLS53T_lqN7kYcxdJK7XLW5qHXW1990RnCW2BHjTW3l_XGGW30yn5N3LB9jDW=
+2Y2t5v2VVyPKW8bBGmJ1Bw3n-W2_zTp845VcM5W90sBls6GwY2k2vM1" target=3D"_blank" =
+style=3D"font-size:16px;font-family:Trebuchet MS, sans-serif;color:#ffffff;=
+font-weight:bold;text-decoration:none;font-style:normal;Margin:0;text-trans=
+form:none;">
+      Register For Free
+      </a>
+      </td>
+    <![endif]-->
+    <!--[if !mso]><!-- -->
+    <td align=3D"center" valign=3D"middle" bgcolor=3D"#456bf2" role=3D"pres=
+entation" style=3D"border-collapse:collapse; mso-line-height-rule:exactly; =
+font-family:Trebuchet MS, sans-serif; font-size:16px; color:#3a3a3a; word-b=
+reak:break-word; border-radius:25px; cursor:auto; background-color:#456bf2"=
+>
+    <a href=3D"https://i3.t.hubspotemail.net/e2t/tc/VWYxb27rycWlW5s_78d6x1N=
+dSVyCbyQ4hJNgdN8_nRH53p_b1V1-WJV7Cg-khW8pBS362ySZ2XW60qmDn7Px0jMW4ys98W4C3m=
+JpW3CpKcl1jGLfGW8dm2h45CSJ3CW9lP-fH3JxvdwN3gshW4Yyv94W1MKnBN3ynjYPW1N_z-T1r=
+jfMJN1fRNvvr7654W2gH9S_8Y1RP4N7CzFc4QDP7WMD4Hr8Vx1r7W2gs-Sv2b_W-WW2973-c1kQ=
+MyTW3nbvn71McyBPW6dHFrs7TG2C0W8VGTLd4xgbHxW5BMwKQ7Fv-0SVM7F8T93dkQ7W2VFGzk9=
+7dchHW4ghYS21wtXPMW7WRMGB21cRvCW2rYHc37K1HDzVN6w5G1tMdMKW2wlhd-8lrHyhW1m2F0=
+X7zSY8fW8l2TbT4GqMXxW7rWFTY7HFz8jW8xh3yZ6ClMP43jH71" target=3D"_blank" styl=
+e=3D"mso-line-height-rule:exactly; font-size:16px; font-family:Trebuchet MS=
+, sans-serif; color:#ffffff; font-weight:bold; text-decoration:none; font-s=
+tyle:normal; Margin:0; text-transform:none; padding:12px 18px; display:bloc=
+k" data-hs-link-id=3D"0">
+      Register For Free
+    </a>
+    </td>
+   <!--<![endif]-->
+    </tr>
+  </tbody></table>
+</div></td></tr></tbody></table>
+<table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" style=3D"border-spacing:0 !important; border-collapse:collapse; mso-ta=
+ble-lspace:0pt; mso-table-rspace:0pt"><tbody><tr><td class=3D"hs_padded" st=
+yle=3D"border-collapse:collapse; mso-line-height-rule:exactly; font-family:=
+Trebuchet MS, sans-serif; font-size:16px; color:#3a3a3a; word-break:break-w=
+ord; padding:10px 20px 0px"><div id=3D"hs_cos_wrapper_module_15967101471362=
+" class=3D"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module"=
+ style=3D"color: inherit; font-size: inherit; line-height: inherit;" data-h=
+s-cos-general-type=3D"widget" data-hs-cos-type=3D"module"><div id=3D"hs_cos=
+_wrapper_module_15967101471362_" class=3D"hs_cos_wrapper hs_cos_wrapper_wid=
+get hs_cos_wrapper_type_rich_text" style=3D"color: inherit; font-size: inhe=
+rit; line-height: inherit;" data-hs-cos-general-type=3D"widget" data-hs-cos=
+-type=3D"rich_text"><p style=3D"mso-line-height-rule:exactly; line-height:1=
+50%"><span style=3D"font-size: 15px; font-family: 'Trebuchet MS', sans-seri=
+f;">Here=E2=80=99s why this webinar deserves to be on your to-do list.</spa=
+n></p>
+<p style=3D"mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style=3D"mso-line-height-rule:exactly; line-height:150%"><span style=3D"=
+font-size: 15px; font-family: 'Trebuchet MS', sans-serif;">=F0=9F=9A=80 Lea=
+rn mantras for festive growth in the post COVID world</span></p>
+<p style=3D"mso-line-height-rule:exactly; line-height:150%"><span style=3D"=
+font-size: 15px; font-family: 'Trebuchet MS', sans-serif;">=F0=9F=9A=80 Les=
+sons on monetising your passion and unlocking opportunities</span></p>
+<p style=3D"mso-line-height-rule:exactly; line-height:150%"><span style=3D"=
+font-size: 15px; font-family: 'Trebuchet MS', sans-serif;">=F0=9F=9A=80 #AM=
+A with Ankur Warikoo and Harshil Mathur</span></p>
+<p style=3D"mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style=3D"mso-line-height-rule:exactly; line-height:150%"><span style=3D"=
+font-size: 15px; font-family: 'Trebuchet MS', sans-serif;">=F0=9F=8E=81 <sp=
+an style=3D"color: #456bf2;">Exciting opportunity to unlock free credits wo=
+rth Rs. 50,000 and win amazon vouchers</span></span></p>
+<p style=3D"mso-line-height-rule:exactly; line-height:150%">&nbsp;</p>
+<p style=3D"mso-line-height-rule:exactly; line-height:150%"><span style=3D"=
+font-size: 15px; font-family: 'Trebuchet MS', sans-serif;"><span style=3D"f=
+ont-family: 'Trebuchet MS', sans-serif;">So block your calendars for 2 PM o=
+n 5th November 2020 and register now for the event at no cost. Limited seat=
+s available. So, hurry now!</span></span></p>
+<ol style=3D"mso-line-height-rule:exactly; line-height:175%"></ol></div></d=
+iv></td></tr></tbody></table>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+    </div>
+  =20
+  </div>
+  <div id=3D"module_1586761828306" class=3D"hse-section" style=3D"padding-l=
+eft:10px; padding-right:10px">
+   =20
+   =20
+    <!--[if !((mso)|(IE))]><!-- -->
+      <div class=3D"hse-column-container" style=3D"min-width:280px; max-wid=
+th:600px; width:100%; Margin-left:auto; Margin-right:auto; border-collapse:=
+collapse; border-spacing:0; background-color:#FFFFFF" bgcolor=3D"#FFFFFF">
+    <!--<![endif]-->
+   =20
+    <!--[if (mso)|(IE)]>
+      <div class=3D"hse-column-container" style=3D"min-width:280px;max-widt=
+h:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:colla=
+pse;border-spacing:0;">
+      <table align=3D"center" style=3D"border-collapse:collapse;mso-table-l=
+space:0pt;mso-table-rspace:0pt;width:600px;" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" width=3D"600" bgcolor=3D"#FFFFFF">
+      <tr style=3D"background-color:#FFFFFF;">
+    <![endif]-->
+    <!--[if (mso)|(IE)]>
+  <td valign=3D"top" style=3D"width:600px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role=3D"presentation" width=3D"600" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0pt;mso-table-rsp=
+ace:0pt;width:600px">
+<![endif]-->
+<div id=3D"module_1586761828306_0" class=3D"hse-column hse-size-12">
+  <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%" style=3D"border-spacing:0 !important; border-collapse:collapse; mso-=
+table-lspace:0pt; mso-table-rspace:0pt"><tbody><tr><td class=3D"hs_padded" =
+style=3D"border-collapse:collapse; mso-line-height-rule:exactly; font-famil=
+y:Trebuchet MS, sans-serif; font-size:16px; color:#3a3a3a; word-break:break=
+-word; padding:10px 20px"><div id=3D"hs_cos_wrapper_module_15930825409211" =
+class=3D"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" s=
+tyle=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-=
+cos-general-type=3D"widget" data-hs-cos-type=3D"module">
+ =20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing:0 !important; mso-table-lspac=
+e:0pt; mso-table-rspace:0pt; border-collapse:separate!important">
+    <tbody><tr>
+        <!--[if mso]>
+      <td align=3D"center" valign=3D"middle" bgcolor=3D"#456bf2" role=3D"pr=
+esentation"  valign=3D"middle" style=3D"border-radius:25px;cursor:auto;back=
+ground-color:#456bf2;padding:12px 18px;">
+      <a href=3D"https://i3.t.hubspotemail.net/e2t/tc/VWYxb27rycWlW5s_78d6x=
+1NdSVyCbyQ4hJNgdN8_nRH53p8dNV1-WJV7CgRc0W8yTkGM7t69z6VYpFh05B5TmDW3FkZc94Mr=
+vThW83c28P5YY8XkW1NtzR18bm6z2W5PcyR68ZRkyKW12VPGm6R75SSW2qGMz92hzWh8W7G-Y14=
+4GXZJMW8rcLBJ7BTGtpN3K8kTlt6tVcW6nVHK08qXBx2W3Z61822K2gvQMtgcgGr_x01W62p5J6=
+2wztfWW3kdv5X8flNJTW1g12F76KRs4mMGwLrSSPPq-W3lxsD14BYPcrN1xldfqPg3kYW77pjVr=
+891RxWW6q1-Md7NJzQnW46bFGv9f7qjjW6xq4dx3TxD9jW2SVSYv8G11XMW3m3gY72df0ZtW1vy=
+BsT1sYMkdW7Vhtb92Tw_0WN3LBN2N_nlCjW8hcPYV64-My-3jJD1" target=3D"_blank" sty=
+le=3D"font-size:16px;font-family:Trebuchet MS, sans-serif;color:#ffffff;fon=
+t-weight:bold;text-decoration:none;font-style:normal;Margin:0;text-transfor=
+m:none;">
+      Reserve my seat
+      </a>
+      </td>
+    <![endif]-->
+    <!--[if !mso]><!-- -->
+    <td align=3D"center" valign=3D"middle" bgcolor=3D"#456bf2" role=3D"pres=
+entation" style=3D"border-collapse:collapse; mso-line-height-rule:exactly; =
+font-family:Trebuchet MS, sans-serif; font-size:16px; color:#3a3a3a; word-b=
+reak:break-word; border-radius:25px; cursor:auto; background-color:#456bf2"=
+>
+    <a href=3D"https://i3.t.hubspotemail.net/e2t/tc/VWYxb27rycWlW5s_78d6x1N=
+dSVyCbyQ4hJNgdN8_nRH53p_b1V1-WJV7CgDJqW4BGmD_2CvJGRW3w9pCj4SRNFPVr_3288Gg--=
+jW67_7xp7v1Q5CW2z_PDG8K9P4_W4v3DD88twzyPW6200ZY4Fq7GdW1nG39P30gXFQVwt6Ty8z9=
+3w1W8hlmPb7JsJv5W8PbnyS2WPXbMW18z-J394K2fNN2P2_GWc8DDtN2BjRYxsT0w2W40BQZx4B=
+HSP4W6wVSbW8SslFWW72BHnQ6sBhm0W5crxHh6lF8C3W4TVx978V0GQnN2SGyql2v_1hMC-Pw96=
+hNglW8Q-r2r6WTW9yN5qczw-cRD5HW8VkGbP3cy_p4W36mtM12CjpBNW4xQt8b4tS3QCMVMGTfm=
+gmncW68T1JM8Mj8MQW5GjhGB5lrSRkW3VYxlb74Kgw33plS1" target=3D"_blank" style=
+=3D"mso-line-height-rule:exactly; font-size:16px; font-family:Trebuchet MS,=
+ sans-serif; color:#ffffff; font-weight:bold; text-decoration:none; font-st=
+yle:normal; Margin:0; text-transform:none; padding:12px 18px; display:block=
+" data-hs-link-id=3D"1">
+      Reserve my seat
+    </a>
+    </td>
+   <!--<![endif]-->
+    </tr>
+  </tbody></table>
+</div></td></tr></tbody></table>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+    </div>
+  =20
+  </div>
+  <div id=3D"section_1592297725741" class=3D"hse-section" style=3D"padding-=
+left:10px; padding-right:10px">
+   =20
+   =20
+    <!--[if !((mso)|(IE))]><!-- -->
+      <div class=3D"hse-column-container" style=3D"min-width:280px; max-wid=
+th:600px; width:100%; Margin-left:auto; Margin-right:auto; border-collapse:=
+collapse; border-spacing:0; background-color:#FFFFFF; padding-bottom:10px; =
+padding-top:4px" bgcolor=3D"#FFFFFF">
+    <!--<![endif]-->
+   =20
+    <!--[if (mso)|(IE)]>
+      <div class=3D"hse-column-container" style=3D"min-width:280px;max-widt=
+h:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:colla=
+pse;border-spacing:0;">
+      <table align=3D"center" style=3D"border-collapse:collapse;mso-table-l=
+space:0pt;mso-table-rspace:0pt;width:600px;" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" width=3D"600" bgcolor=3D"#FFFFFF">
+      <tr style=3D"background-color:#FFFFFF;">
+    <![endif]-->
+    <!--[if (mso)|(IE)]>
+  <td valign=3D"top" style=3D"width:600px;padding-bottom:10px; padding-top:=
+4px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role=3D"presentation" width=3D"600" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0pt;mso-table-rsp=
+ace:0pt;width:600px">
+<![endif]-->
+<div id=3D"column_1592297725741_0" class=3D"hse-column hse-size-12">
+  <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%" style=3D"border-spacing:0 !important; border-collapse:collapse; mso-=
+table-lspace:0pt; mso-table-rspace:0pt"><tbody><tr><td class=3D"hs_padded" =
+style=3D"border-collapse:collapse; mso-line-height-rule:exactly; font-famil=
+y:Trebuchet MS, sans-serif; font-size:16px; color:#3a3a3a; word-break:break=
+-word; padding:10px 20px"><div id=3D"hs_cos_wrapper_module_15912087768942" =
+class=3D"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" s=
+tyle=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-=
+cos-general-type=3D"widget" data-hs-cos-type=3D"module"><div id=3D"hs_cos_w=
+rapper_module_15912087768942_" class=3D"hs_cos_wrapper hs_cos_wrapper_widge=
+t hs_cos_wrapper_type_rich_text" style=3D"color: inherit; font-size: inheri=
+t; line-height: inherit;" data-hs-cos-general-type=3D"widget" data-hs-cos-t=
+ype=3D"rich_text"><p style=3D"mso-line-height-rule:exactly; font-size:15px;=
+ line-height:150%">&nbsp;</p>
+<p style=3D"mso-line-height-rule:exactly; font-size:15px; line-height:150%"=
+>For more information and updates, visit our event page <span style=3D"colo=
+r: #456bf2;"><a href=3D"https://i3.t.hubspotemail.net/e2t/tc/VWYxb27rycWlW5=
+s_78d6x1NdSVyCbyQ4hJNgdN8_nRH53p_b1V1-WJV7CgGzpW2VWqNQ1jQlY1VLGpgD5LVDcNW6V=
+M9ZD2YGYzkW3-wFz438K3mNW4M8tQg5p1961W5FKfw35W2kDGW1H6kZM7FkZybW1CmxSw80XRqj=
+W1cpgJD4x7W8yVmTZy-14v1BHW55mT8Y46KPXcW7-M7sr2vbSh7W1RjB2h4Shg9bW3G9LMF79jH=
+qQW8wHFmG1wC5M1W7DWVHd37VpbtW14Wzg78L88pBW7c_VST6JHqLTW53SW_P1D6LKdW4SkWN86=
+CktLcW5PKlYj5rdJ37W6rnBFP1Fy3WcN5SHg_GnZrlbW2_lgWg9gvgtdF5jXz2-QjxyV7p7sw3F=
+vB7WW1WgXRF54YDfSW1wvsC77hPM2NW72V-Q67tDGyFW2rBzhc5GYX-X33-p1" style=3D"mso=
+-line-height-rule:exactly; text-decoration:none; color:#456bf2" rel=3D"noop=
+ener" data-hs-link-id=3D"0" target=3D"_blank">here</a></span>.</p>
+<p style=3D"mso-line-height-rule:exactly; font-size:15px; line-height:150%"=
+>&nbsp;</p>
+<p style=3D"mso-line-height-rule:exactly; font-size:15px; line-height:150%"=
+>Unlocking business opportunities for you,</p>
+<p style=3D"mso-line-height-rule:exactly; font-size:15px; line-height:150%"=
+>Team Razorpay</p></div></div></td></tr></tbody></table>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+    </div>
+  =20
+  </div>
+  <div id=3D"section_1603811776160" class=3D"hse-section hse-section-last" =
+style=3D"padding-left:10px; padding-right:10px; padding-bottom:20px">
+   =20
+   =20
+    <!--[if !((mso)|(IE))]><!-- -->
+      <div class=3D"hse-column-container" style=3D"min-width:280px; max-wid=
+th:600px; width:100%; Margin-left:auto; Margin-right:auto; border-collapse:=
+collapse; border-spacing:0; background-color:#EEEEEE" bgcolor=3D"#EEEEEE">
+    <!--<![endif]-->
+   =20
+    <!--[if (mso)|(IE)]>
+      <div class=3D"hse-column-container" style=3D"min-width:280px;max-widt=
+h:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:colla=
+pse;border-spacing:0;">
+      <table align=3D"center" style=3D"border-collapse:collapse;mso-table-l=
+space:0pt;mso-table-rspace:0pt;width:600px;" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" width=3D"600" bgcolor=3D"#EEEEEE">
+      <tr style=3D"background-color:#EEEEEE;">
+    <![endif]-->
+    <!--[if (mso)|(IE)]>
+  <td valign=3D"top" style=3D"width:600px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role=3D"presentation" width=3D"600" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0pt;mso-table-rsp=
+ace:0pt;width:600px">
+<![endif]-->
+<div id=3D"column_1603811776160_0" class=3D"hse-column hse-size-12">
+  <div id=3D"hs_cos_wrapper_builtin_module_4_0_0" class=3D"hs_cos_wrapper h=
+s_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inherit; f=
+ont-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widge=
+t" data-hs-cos-type=3D"module">
+ =20
+ =20
+ =20
+ =20
+ =20
+ =20
+ =20
+<table role=3D"presentation" class=3D"hse-footer hse-secondary" width=3D"10=
+0%" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing:0 !importan=
+t; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; fo=
+nt-family:Arial, sans-serif; font-size:12px; line-height:135%; color:#23496=
+d; margin-bottom:0; padding:0">
+    <tbody>
+        <tr>
+            <td align=3D"center" valign=3D"top" style=3D"border-collapse:co=
+llapse; mso-line-height-rule:exactly; font-family:Trebuchet MS, sans-serif;=
+ font-size:16px; color:#3a3a3a; word-break:break-word; text-align:center; m=
+argin-bottom:0; line-height:135%; padding:10px 20px">
+                <p style=3D"mso-line-height-rule:exactly; font-family:Helve=
+tica,Arial,sans-serif; font-size:12px; font-weight:normal; text-decoration:=
+none; font-style:normal; color:#9195a6">
+                  Razorpay, Hosur Road, Bengaluru, Karnataka
+                </p>
+                <p style=3D"mso-line-height-rule:exactly">
+                 =20
+                  <a data-unsubscribe=3D"true"  href=3D"https://hs-5558946.=
+s.hubspotemail.net/hs/manage-preferences/unsubscribe-all?d=3DVnchcR639-pdVF=
+rjJq3K984HW3zd-fZ3z7rYZW43T2Pw6D1v7sW17f7hv5fpVNSW64Jxdv4KxXV7W5b5fdH7ZwF-_=
+V28Yzy5g0P9CMGKd_P20N5RW7hp2ym7Snn0sV6p6K_9l1Pm_4sjn_1&amp;v=3D3&amp;utm_ca=
+mpaign=3Dunlock%20growth%202.0%20webinar&amp;utm_source=3Dhs_email&amp;utm_=
+medium=3Demail&amp;utm_content=3D98428436&amp;_hsenc=3Dp2ANqtz-9cqKnsIyVSWb=
+AqbY5-Bji1GgZB8cMsoUNroxODdxcy6z-BWiZXuLhw9CKdSwxikOMDA2Use4crMKyBZJrL5bKLj=
+z32xA&amp;_hsmi=3D98428436" style=3D"mso-line-height-rule:exactly; font-fam=
+ily:Trebuchet MS, sans-serif; font-size:12px; color:#0d97bd; font-weight:no=
+rmal; text-decoration:underline; font-style:normal" data-hs-link-id=3D"0" t=
+arget=3D"_blank">Unsubscribe</a>
+                 =20
+                  <a data-unsubscribe=3D"true"  href=3D"https://hs-5558946.=
+s.hubspotemail.net/hs/manage-preferences/unsubscribe?d=3DVnchcR639-pdVFrjJq=
+3K984HW3zd-fZ3z7rYZW43T2Pw6D1v7sW17f7hv5fpVNSW64Jxdv4KxXV7W5b5fdH7ZwF-_V28Y=
+zy5g0P9CMGKd_P20N5RW7hp2ym7Snn0sV6p6K_9l1Pm_4sjn_1&amp;v=3D3&amp;utm_campai=
+gn=3Dunlock%20growth%202.0%20webinar&amp;utm_source=3Dhs_email&amp;utm_medi=
+um=3Demail&amp;utm_content=3D98428436&amp;_hsenc=3Dp2ANqtz-9cqKnsIyVSWbAqbY=
+5-Bji1GgZB8cMsoUNroxODdxcy6z-BWiZXuLhw9CKdSwxikOMDA2Use4crMKyBZJrL5bKLjz32x=
+A&amp;_hsmi=3D98428436" style=3D"mso-line-height-rule:exactly; font-family:=
+Trebuchet MS, sans-serif; font-size:12px; color:#0d97bd; font-weight:normal=
+; text-decoration:underline; font-style:normal" data-hs-link-id=3D"0" targe=
+t=3D"_blank">Manage preferences</a>
+                 =20
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+    </div>
+  =20
+  </div>
+</div>
+          </td>
+        </tr>
+      </tbody></table>
+    </div>
+ =20
+<img src=3D"https://i3.t.hubspotemail.net/e2t/to/VWYxb27rycWlW5s_78d6x1NdSV=
+yCbyQ4hJNgdf8_nRpZ22" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=
+=3D"display:none!important;min-height:1px!important;width:1px!important;bor=
+der-width:0!important;margin-top:0!important;margin-bottom:0!important;marg=
+in-right:0!important;margin-left:0!important;padding-top:0!important;paddin=
+g-bottom:0!important;padding-right:0!important;padding-left:0!important"></=
+body></html>
+------=_Part_16121654_582318378.1603870756666--
+

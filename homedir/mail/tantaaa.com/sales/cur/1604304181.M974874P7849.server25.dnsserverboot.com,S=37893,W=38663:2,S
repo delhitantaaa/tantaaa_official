@@ -1,0 +1,770 @@
+Return-Path: <1axb9evuppyur2i7ovjlzm1elvkijca9qzosy7-sales=tantaaa.com@bf01x.hubspotemail.net>
+Delivered-To: sales@tantaaa.com
+Received: from server25.dnsserverboot.com
+	by server25.dnsserverboot.com with LMTP id gJ/2OTW9n1+pHgAAwMDd9w
+	for <sales@tantaaa.com>; Mon, 02 Nov 2020 13:33:01 +0530
+Return-path: <1axb9evuppyur2i7ovjlzm1elvkijca9qzosy7-sales=tantaaa.com@bf01x.hubspotemail.net>
+Envelope-to: sales@tantaaa.com
+Delivery-date: Mon, 02 Nov 2020 13:33:01 +0530
+Received: from pgg127.bf01x.hubspotemail.net ([54.174.52.65]:38273)
+	by server25.dnsserverboot.com with esmtps (TLSv1.2:ECDHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.89_1)
+	(envelope-from <1axb9evuppyur2i7ovjlzm1elvkijca9qzosy7-sales=tantaaa.com@bf01x.hubspotemail.net>)
+	id 1kZUnt-0002Cg-RD
+	for sales@tantaaa.com; Mon, 02 Nov 2020 13:33:01 +0530
+Received: by 172.16.224.35 with SMTP id aw646eswp3ibyarv85jhbtfympeyla11w8si;
+        Mon, 2 Nov 2020 08:02:21 GMT
+DKIM-Signature: v=1; s=hs1; d=bf01x.hubspotemail.net; 
+        i=@bf01x.hubspotemail.net; 
+        h=sender:from:reply-to:to:subject:mime-version:content-type:list-unsubscribe:form-sub:feedback-id; 
+        a=rsa-sha256; c=relaxed/relaxed; 
+        bh=t2cYrnEYVLTQe/iv/Ay6TlBwf/Xy3u2lmVYDcLhqevk=; 
+        b=MhnmqATmd4g9Ks6O5ZgKm2kBYuYSwyTC9C0K1p8/EuY00Bop7ABQApVDoEqA7f
+         ogcyAwWJqSRIJVlTP6CIEfz16JMaF42iK8AItIDATlpQVQ3Cp2oeBEz98pVEi9x
+         eaX2qVFjw99VqVi30rkAs4OAAHsnso/PHNyxoJ2z0hWU07i/kv9pRWxKb4bSyE3
+         CgvvrLj32pte+XuB56CPxW7l0Uw5Td9FA2rRDy/Uxe10/oNj1dYsRd9uf9McC6r
+         EFHLL5GREWflvh9UemN5MaA4+0jLmJ2MlPYytZQ2peKryVYTJtkSDrnbNTKlks+
+         CsJGb2R4M9fH1rD80Y0uZ7quHErw==; q=dns/txt; t=1604304141;
+DKIM-Signature: v=1; s=hs1; d=razorpay.com; i=@razorpay.com; 
+        h=sender:from:reply-to:to:subject:mime-version:content-type:list-unsubscribe:form-sub:feedback-id; 
+        a=rsa-sha256; c=relaxed/relaxed; 
+        bh=t2cYrnEYVLTQe/iv/Ay6TlBwf/Xy3u2lmVYDcLhqevk=; 
+        b=C8sNhhYXjmfMVc5wrtzxHnYg8XFx+Pu6TJkdPW8sX+3drDZlQbBQVJA2xssWEN
+         cyuNQgXKqL4sEEkp7dpJ84W/3doJ+JoQQQjEixbsKbmwCS/swI17t5uA3cx7RTr
+         +G2uXNSYKKjXz950vWmHGYx5hcJsTMNmFEdM0NYI4L1YuX5/kd3DNGpUIp2Dip7
+         5u15xrDpB3YZcTtLTsUw2mFLgeVPqUHbxU9qRuLxBAI6yhqhBOtZXx6oxOk4eym
+         JYt2YgprMhs7Xu/SfCzklhVH/lCra51h85V70dteo7zXmnc3xqP/MTFHG3RTayv
+         bRdcMVUDpfNkVApsB92BV4anJgYw==; q=dns/txt; t=1604304141;
+X-HS-Cid: 1axf2dc5kfklefspuqi6dcmrncuz1x1fh8965f
+List-Unsubscribe: <mailto:1axc9js4p2u12u8j7961rp3yh83eifd9ekxq5f-sales=tantaaa.com@bf01x.hubspotemail.net?subject=unsubscribe>
+Date: Mon, 2 Nov 2020 13:32:21 +0530
+From: Team Razorpay <noreply@razorpay.com>
+Reply-To: noreply@razorpay.com
+To: sales@tantaaa.com
+Message-ID: <1604303335020.e010e27a-5b4b-4164-876b-8b82c79c83f1@bf01x.hubspotemail.net>
+Subject: =?utf-8?Q?=E2=8F=B3Final_Call:_Catch_Ankur_Warikoo_and_Har?=
+ =?utf-8?Q?shil_Mathur_Live_on_Unlock_Growth_Webinar?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_14863481_2064242883.1604304141270"
+X-Report-Abuse-To: abuse@hubspot.com (see
+ https://www.hubspot.com/abuse-complaints)
+
+------=_Part_14863481_2064242883.1604304141270
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Unlock =E2=82=B950,000 Razorpay credits and stand a chance to win Amazon vo=
+uchers. Register Now!
+
+View in browser (https://i3.t.hubspotemail.net/e2t/sc2/Mm-nFbkFWlKW6WgJr46F=
+94hzW8lTZMg638CwKW89-Srg83w4Y4f1HVPN203 )
+
+Hey MANOJ KUMAR MISHRA,
+
+We are sure you have hundreds of webinar invites in your inbox.
+
+But we need just three reasons to convince you that this edition of Razorpa=
+y webinar on =E2=80=98Unlocking Growth for Your Business in The Era of COVI=
+D and Beyond=E2=80=99 is worth your time.
+
+- Ask Ankur Warikoo(Co-founder, Nearbuy) and Harshil Mathur(CEO and Co-foun=
+der, Razorpay) about anything from the business world
+- Learn mantras for business growth in the era of COVID and beyond
+- Lessons on monetising your passion and unlocking career opportunities
+
+=F0=9F=8E=81 Also, Unlock free Razorpay credits worth =E2=82=B950,000 that =
+can be used to accept payments and grow your business, with zero gateway ch=
+arges.
+
+Book Your Seat for Free
+(https://i3.t.hubspotemail.net/e2t/sc2/Mm-nFbkFWlKW6WgJr46F94hzW8lTZMg638Cw=
+KW89-Srg83w4Y4f1HVPN213 )
+
+Time: 2 PM Date: 5th November 2020
+
+Other Perks: Win Amazon vouchers worth =E2=82=B93,000 during the webinar
+
+For more information and updates, visit our event page here (https://i3.t.h=
+ubspotemail.net/e2t/sc2/Mm-nFbkFWlKW6WgJr46F94hzW8lTZMg638CwKW89-Srg83w4Y4f=
+1HVPN223 ) .
+
+Unlocking business opportunities for you,
+
+Team Razorpay
+
+Razorpay, Hosur Road, Bengaluru, Karnataka
+
+Unsubscribe (https://hs-5558946.s.hubspotemail.net/hs/manage-preferences/un=
+subscribe-all?d=3DVnchcR639-pdVFrjJq3K984HW3zd-fZ3z7rYZW43T2Pw6D1v7sW17f7hv=
+8RzfKnW6kddpL4YnbXKW4NSnMy7BSWz4V28XJb6MxngbMGKd_P20N4LW58kBX55YF41mW95k6Qy=
+5CLGRn4gRPy1&v=3D3&_hsenc=3Dp2ANqtz--f0NMN9zLgeo6Q5Hw23TKlZ70sy32nmjgiOMD2f=
+d8rKJloN7jJ6A8wPjVx5_MFTFF17Rk-zpEG-JA6WZ5UJE71sfVlGw&_hsmi=3D98792448 )
+
+Manage preferences (https://hs-5558946.s.hubspotemail.net/hs/manage-prefere=
+nces/unsubscribe?d=3DVnchcR639-pdVFrjJq3K984HW3zd-fZ3z7rYZW43T2Pw6D1v7sW17f=
+7hv8RzfKnW6kddpL4YnbXKW4NSnMy7BSWz4V28XJb6MxngbMGKd_P20N4LW58kBX55YF41mW95k=
+6Qy5CLGRn4gRPy1&v=3D3&_hsenc=3Dp2ANqtz--f0NMN9zLgeo6Q5Hw23TKlZ70sy32nmjgiOM=
+D2fd8rKJloN7jJ6A8wPjVx5_MFTFF17Rk-zpEG-JA6WZ5UJE71sfVlGw&_hsmi=3D98792448 )
+------=_Part_14863481_2064242883.1604304141270
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3=
+.org/1999/xhtml" xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:=
+v=3D"urn:schemas-microsoft-com:vml" lang=3D"en"><head>
+    <title>=E2=8F=B3Final Call: Catch Ankur Warikoo and Harshil Mathur Live=
+ on Unlock Growth Webinar</title>
+    <meta property=3D"og:title" content=3D"=E2=8F=B3Final Call: Catch Ankur=
+ Warikoo and Harshil Mathur Live on Unlock Growth Webinar">
+    <meta name=3D"twitter:title" content=3D"=E2=8F=B3Final Call: Catch Anku=
+r Warikoo and Harshil Mathur Live on Unlock Growth Webinar">
+   =20
+   =20
+   =20
+<meta name=3D"x-apple-disable-message-reformatting">
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0">
+    <!--[if gte mso 9]>
+  <xml>
+      <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+      </o:OfficeDocumentSettings>
+  </xml>
+ =20
+  <style>
+    ul > li {
+      text-indent: -1em;
+    }
+  </style>
+<![endif]-->
+<!--[if mso]>
+<style type=3D"text/css">
+ body, td {font-family: Arial, Helvetica, sans-serif;}
+</style>
+<![endif]-->
+   =20
+     =20
+   =20
+  <meta name=3D"generator" content=3D"HubSpot"><meta property=3D"og:url" co=
+ntent=3D"http://razorpay-5558946.hs-sites.com/final-call-catch-ankur-wariko=
+o-and-harshil-mathur-live-on-unlock-growth-webinar-1"><meta name=3D"robots"=
+ content=3D"noindex,follow"><!--[if !((mso)|(IE))]><!-- --><style type=3D"t=
+ext/css">[owa] .hse-column-container{max-width:600px !important;width:600px=
+ !important}[owa] .hse-column{display:table-cell;vertical-align:top}
+[owa] .hse-section .hse-size-12{max-width:600px !important;width:600px !imp=
+ortant}
+@media only screen and (min-width:640px){.hse-column-container{max-width:60=
+0px !important;width:600px !important}
+.hse-column{display:table-cell;vertical-align:top}.hse-section .hse-size-12=
+{max-width:600px !important;width:600px !important}
+}@media only screen and (max-width:639px){img.stretch-on-mobile,.hs_rss_ema=
+il_entries_table img{height:auto !important;width:100% !important}
+.display_block_on_small_screens{display:block}.hs_padded{padding-left:20px =
+!important;padding-right:20px !important}
+}</style><!--<![endif]--><style type=3D"text/css">a[x-apple-data-detectors]=
+{color:inherit !important;text-decoration:none !important;font-size:inherit=
+ !important;font-family:inherit !important;font-weight:inherit !important;l=
+ine-height:inherit !important}
+#outlook a{padding:0}.yshortcuts a{border-bottom:none !important}a{text-dec=
+oration:underline}
+.ExternalClass{width:100%}.ExternalClass,.ExternalClass p,.ExternalClass td=
+,.ExternalClass div,.ExternalClass span,.ExternalClass font{line-height:100=
+%}
+p{margin:0}body{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;-we=
+bkit-font-smoothing:antialiased;moz-osx-font-smoothing:grayscale}</style></=
+head>
+  <body bgcolor=3D"#e0ecf8" style=3D"margin:0 !important; padding:0 !import=
+ant; font-family:Trebuchet MS, sans-serif; font-size:16px; color:#3a3a3a; w=
+ord-break:break-word">
+   =20
+<div id=3D"preview_text" style=3D"display:none!important;font-size:1px;colo=
+r:#e0ecf8;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:h=
+idden;">Unlock =E2=82=B950,000 Razorpay credits and stand a chance to win A=
+mazon vouchers. Register Now!</div>
+   =20
+<!--[if gte mso 9]>
+<v:background xmlns:v=3D"urn:schemas-microsoft-com:vml" fill=3D"t">
+ =20
+    <v:fill type=3D"tile" color=3D"#e0ecf8"/>
+ =20
+</v:background>
+<![endif]-->
+    <div class=3D"hse-body-background" style=3D"background-color:#e0ecf8" b=
+gcolor=3D"#e0ecf8">
+      <table role=3D"presentation" class=3D"hse-body-wrapper-table" cellpad=
+ding=3D"0" cellspacing=3D"0" style=3D"border-spacing:0 !important; border-c=
+ollapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; margin:0; pad=
+ding:0; width:100% !important; min-width:320px !important; height:100% !imp=
+ortant" width=3D"100%" height=3D"100%">
+        <tbody><tr>
+          <td class=3D"hse-body-wrapper-td" valign=3D"top" style=3D"border-=
+collapse:collapse; mso-line-height-rule:exactly; font-family:Trebuchet MS, =
+sans-serif; font-size:16px; color:#3a3a3a; word-break:break-word; padding-t=
+op:20px">
+            <div id=3D"hs_cos_wrapper_main" class=3D"hs_cos_wrapper hs_cos_=
+wrapper_widget hs_cos_wrapper_type_dnd_area" style=3D"color: inherit; font-=
+size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widget" d=
+ata-hs-cos-type=3D"dnd_area">  <div id=3D"section_1604303053328" class=3D"h=
+se-section hse-section-first" style=3D"padding-left:10px; padding-right:10p=
+x">
+   =20
+   =20
+    <!--[if !((mso)|(IE))]><!-- -->
+      <div class=3D"hse-column-container" style=3D"min-width:280px; max-wid=
+th:600px; width:100%; Margin-left:auto; Margin-right:auto; border-collapse:=
+collapse; border-spacing:0">
+    <!--<![endif]-->
+   =20
+    <!--[if (mso)|(IE)]>
+      <div class=3D"hse-column-container" style=3D"min-width:280px;max-widt=
+h:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:colla=
+pse;border-spacing:0;">
+      <table align=3D"center" style=3D"border-collapse:collapse;mso-table-l=
+space:0pt;mso-table-rspace:0pt;width:600px;" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation">
+      <tr>
+    <![endif]-->
+    <!--[if (mso)|(IE)]>
+  <td valign=3D"top" style=3D"width:600px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role=3D"presentation" width=3D"600" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0pt;mso-table-rsp=
+ace:0pt;width:600px">
+<![endif]-->
+<div id=3D"column_1604303053328_0" class=3D"hse-column hse-size-12">
+  <div id=3D"hs_cos_wrapper_module_160430305332315" class=3D"hs_cos_wrapper=
+ hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inherit;=
+ font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"wid=
+get" data-hs-cos-type=3D"module">
+<div style=3D"overflow:hidden">
+<table role=3D"presentation" class=3D"hse-pre-header hse-secondary" width=
+=3D"100%" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing:0 !im=
+portant; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0=
+pt; text-align:right; font-family:Arial, sans-serif; font-size:12px; line-h=
+eight:135%; color:#23496d; margin-bottom:0; padding:0" align=3D"right">
+    <tbody>
+        <tr>
+            <td align=3D"right" valign=3D"top" style=3D"border-collapse:col=
+lapse; mso-line-height-rule:exactly; color:#3a3a3a; word-break:break-word; =
+text-align:right; font-family:Arial, sans-serif; font-size:12px; padding:10=
+px 0; margin-bottom:0; line-height:135%">
+                <a href=3D"https://i3.t.hubspotemail.net/e2t/tc/VX4mVx4tqGc=
+GW3Hl_Tm4P25FmW8QwHkG4hWvVRN3Z5rbf5nxHXV3Zsc37CgRXPMhcS0Mckk6kW81MLvQ1Q1t0j=
+W2wYFR11dFNHHTM2X66GJ02ZW319cG22WVdF_W176sbw15xWrWW8ffsR75sKwPQV_d-dL7f5ThR=
+W9fCtHF4c4tD6W55-wDT97C9NpN1LzpWfGpNKgVnBLxQ8YnCJ0W2ZKYLK3hnYr2W42mdtx8d58k=
+NW1tgbzp2T_9LrV2TbLf96P6z2W82P0rd4NSPLjV2xc_p750GhMW1fKvC_3fLXGkW2FgJT77H4t=
+MCW1tsyR93_yQG5W4FZ10015l9kFN8lzxxHSs8vFVRnqgV8PY46HW6MzRvk2YqTY5W8PhFVC70D=
+8w6W3ZqDx42hYF4XW9hhWr71mSx9RW3j8L8n5MHNrMW44QG9D7gfw-_VYhVLK7TcGP_W2fXWS18=
+GQm0bW7YyPx452sS3RW83CtmY2PT7BWW3TSH2V5c6Q9ZW8ydlcl2Np-lGW3mjTB61-srPrW2Cf2=
+SW5LG7ZlVkC4W529d4GzW14z2z647PP_SW5B2WWP4-sRdbN7Qng4B1CF7FW48VWz01ZWYy_W6Dz=
+XMd5Fskxw3fT11" style=3D"mso-line-height-rule:exactly; color:#0d97bd; font-=
+weight:normal; text-decoration:none; font-style:normal" data-hs-link-id=3D"=
+0" target=3D"_blank">View in browser</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+    </div>
+  =20
+  </div>
+  <div id=3D"section_1603745461101" class=3D"hse-section" style=3D"padding-=
+left:10px; padding-right:10px">
+   =20
+   =20
+    <!--[if !((mso)|(IE))]><!-- -->
+      <div class=3D"hse-column-container" style=3D"min-width:280px; max-wid=
+th:600px; width:100%; Margin-left:auto; Margin-right:auto; border-collapse:=
+collapse; border-spacing:0; background-color:#FAFAFA" bgcolor=3D"#FAFAFA">
+    <!--<![endif]-->
+   =20
+    <!--[if (mso)|(IE)]>
+      <div class=3D"hse-column-container" style=3D"min-width:280px;max-widt=
+h:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:colla=
+pse;border-spacing:0;">
+      <table align=3D"center" style=3D"border-collapse:collapse;mso-table-l=
+space:0pt;mso-table-rspace:0pt;width:600px;" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" width=3D"600" bgcolor=3D"#FAFAFA">
+      <tr style=3D"background-color:#FAFAFA;">
+    <![endif]-->
+    <!--[if (mso)|(IE)]>
+  <td valign=3D"top" style=3D"width:600px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role=3D"presentation" width=3D"600" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0pt;mso-table-rsp=
+ace:0pt;width:600px">
+<![endif]-->
+<div id=3D"column_1603745461101_0" class=3D"hse-column hse-size-12">
+  <div id=3D"hs_cos_wrapper_module_15356269602292" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inherit; =
+font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widg=
+et" data-hs-cos-type=3D"module">
+=09
+<table class=3D"hse-image-wrapper" role=3D"presentation" width=3D"100%" cel=
+lpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing:0 !important; bord=
+er-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt">
+    <tbody>
+        <tr>
+            <td class=3D"hs_padded" align=3D"center" valign=3D"top" style=
+=3D"border-collapse:collapse; mso-line-height-rule:exactly; font-family:Tre=
+buchet MS, sans-serif; color:#3a3a3a; word-break:break-word; text-align:cen=
+ter; padding:10px 20px; font-size:0px">
+               =20
+                <img alt=3D"razorpay-logo-dark-outline" src=3D"https://lp.r=
+azorpay.com/hs-fs/hubfs/razorpay-logo-dark-outline.png?width=3D260&amp;upsc=
+ale=3Dtrue&amp;name=3Drazorpay-logo-dark-outline.png" style=3D"outline:none=
+; text-decoration:none; -ms-interpolation-mode:bicubic; max-width:100%; fon=
+t-size:16px" width=3D"130" align=3D"middle" srcset=3D"https://lp.razorpay.c=
+om/hs-fs/hubfs/razorpay-logo-dark-outline.png?upscale=3Dtrue&amp;width=3D26=
+0&amp;upscale=3Dtrue&amp;name=3Drazorpay-logo-dark-outline.png 130w, https:=
+//lp.razorpay.com/hs-fs/hubfs/razorpay-logo-dark-outline.png?upscale=3Dtrue=
+&amp;width=3D520&amp;upscale=3Dtrue&amp;name=3Drazorpay-logo-dark-outline.p=
+ng 260w" sizes=3D"(max-width: 130px) 100vw, 130px">
+               =20
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+    </div>
+  =20
+  </div>
+  <div id=3D"section_1603785637894" class=3D"hse-section" style=3D"padding-=
+left:10px; padding-right:10px">
+   =20
+   =20
+    <!--[if !((mso)|(IE))]><!-- -->
+      <div class=3D"hse-column-container" style=3D"min-width:280px; max-wid=
+th:600px; width:100%; Margin-left:auto; Margin-right:auto; border-collapse:=
+collapse; border-spacing:0; background-color:#FAFAFA; padding-bottom:10px; =
+padding-top:10px" bgcolor=3D"#FAFAFA">
+    <!--<![endif]-->
+   =20
+    <!--[if (mso)|(IE)]>
+      <div class=3D"hse-column-container" style=3D"min-width:280px;max-widt=
+h:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:colla=
+pse;border-spacing:0;">
+      <table align=3D"center" style=3D"border-collapse:collapse;mso-table-l=
+space:0pt;mso-table-rspace:0pt;width:600px;" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" width=3D"600" bgcolor=3D"#FAFAFA">
+      <tr style=3D"background-color:#FAFAFA;">
+    <![endif]-->
+    <!--[if (mso)|(IE)]>
+  <td valign=3D"top" style=3D"width:600px;padding-bottom:10px; padding-top:=
+10px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role=3D"presentation" width=3D"600" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0pt;mso-table-rsp=
+ace:0pt;width:600px">
+<![endif]-->
+<div id=3D"column_1603785637894_0" class=3D"hse-column hse-size-12">
+  <div id=3D"hs_cos_wrapper_module_16037856378331" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inherit; =
+font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widg=
+et" data-hs-cos-type=3D"module">
+=09
+<table class=3D"hse-image-wrapper" role=3D"presentation" width=3D"100%" cel=
+lpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing:0 !important; bord=
+er-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt">
+    <tbody>
+        <tr>
+            <td class=3D"hs_padded" align=3D"center" valign=3D"top" style=
+=3D"border-collapse:collapse; mso-line-height-rule:exactly; font-family:Tre=
+buchet MS, sans-serif; color:#3a3a3a; word-break:break-word; text-align:cen=
+ter; padding:10px 20px; font-size:0px">
+               =20
+                <img alt=3D"Unlock growth webinar banner" src=3D"https://lp=
+.razorpay.com/hs-fs/hubfs/Frame%2013%20(2)%201%20(1).png?width=3D1120&amp;u=
+pscale=3Dtrue&amp;name=3DFrame%2013%20(2)%201%20(1).png" style=3D"outline:n=
+one; text-decoration:none; -ms-interpolation-mode:bicubic; max-width:100%; =
+font-size:16px" width=3D"560" align=3D"middle" srcset=3D"https://lp.razorpa=
+y.com/hs-fs/hubfs/Frame%2013%20(2)%201%20(1).png?upscale=3Dtrue&amp;width=
+=3D1120&amp;upscale=3Dtrue&amp;name=3DFrame%2013%20(2)%201%20(1).png 560w, =
+https://lp.razorpay.com/hs-fs/hubfs/Frame%2013%20(2)%201%20(1).png?upscale=
+=3Dtrue&amp;width=3D2240&amp;upscale=3Dtrue&amp;name=3DFrame%2013%20(2)%201=
+%20(1).png 1120w" sizes=3D"(max-width: 560px) 100vw, 560px">
+               =20
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+    </div>
+  =20
+  </div>
+  <div id=3D"section_1535626975583" class=3D"hse-section" style=3D"padding-=
+left:10px; padding-right:10px">
+   =20
+   =20
+    <!--[if !((mso)|(IE))]><!-- -->
+      <div class=3D"hse-column-container" style=3D"min-width:280px; max-wid=
+th:600px; width:100%; Margin-left:auto; Margin-right:auto; border-collapse:=
+collapse; border-spacing:0; background-color:#FAFAFA; background-image:url(=
+''); background-position:center; background-repeat:repeat; padding-top:10px=
+" bgcolor=3D"#FAFAFA">
+    <!--<![endif]-->
+   =20
+    <!--[if (mso)|(IE)]>
+      <div class=3D"hse-column-container" style=3D"min-width:280px;max-widt=
+h:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:colla=
+pse;border-spacing:0;">
+      <table align=3D"center" style=3D"border-collapse:collapse;mso-table-l=
+space:0pt;mso-table-rspace:0pt;width:600px;" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" width=3D"600" bgcolor=3D"#FAFAFA">
+      <tr style=3D"background-color:#FAFAFA; background-image:url(''); back=
+ground-position:center; background-repeat:repeat;">
+    <![endif]-->
+    <!--[if (mso)|(IE)]>
+  <td valign=3D"top" style=3D"width:600px;padding-top:10px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role=3D"presentation" width=3D"600" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0pt;mso-table-rsp=
+ace:0pt;width:600px">
+<![endif]-->
+<div id=3D"column_1535626975583_0" class=3D"hse-column hse-size-12">
+  <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%" style=3D"border-spacing:0 !important; border-collapse:collapse; mso-=
+table-lspace:0pt; mso-table-rspace:0pt"><tbody><tr><td class=3D"hs_padded" =
+style=3D"border-collapse:collapse; mso-line-height-rule:exactly; font-famil=
+y:Trebuchet MS, sans-serif; font-size:16px; color:#3a3a3a; word-break:break=
+-word; padding:10px 20px"><div id=3D"hs_cos_wrapper_module_15911837077985" =
+class=3D"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" s=
+tyle=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-=
+cos-general-type=3D"widget" data-hs-cos-type=3D"module"><div id=3D"hs_cos_w=
+rapper_module_15911837077985_" class=3D"hs_cos_wrapper hs_cos_wrapper_widge=
+t hs_cos_wrapper_type_rich_text" style=3D"color: inherit; font-size: inheri=
+t; line-height: inherit;" data-hs-cos-general-type=3D"widget" data-hs-cos-t=
+ype=3D"rich_text"><p style=3D"mso-line-height-rule:exactly; font-size:15px;=
+ line-height:150%">Hey MANOJ KUMAR MISHRA,</p>
+<p style=3D"mso-line-height-rule:exactly; font-size:15px; line-height:150%"=
+>&nbsp;</p>
+<p style=3D"mso-line-height-rule:exactly; font-size:15px; line-height:150%"=
+>We are sure you have hundreds of webinar invites in your inbox.</p>
+<p style=3D"mso-line-height-rule:exactly; font-size:15px; line-height:150%"=
+>&nbsp;</p>
+<p style=3D"mso-line-height-rule:exactly; font-size:15px; line-height:150%"=
+>But we need just three reasons to convince you that this edition of Razorp=
+ay webinar on<strong> =E2=80=98</strong>Unlocking Growth for Your Business =
+in The Era of COVID and Beyond=E2=80=99 is worth your time.</p>
+<ul style=3D"mso-line-height-rule:exactly; line-height:175%">
+<li style=3D"mso-line-height-rule:exactly; font-size:15px; line-height:150%=
+">Ask Ankur Warikoo(Co-founder, Nearbuy) and Harshil Mathur(CEO and Co-foun=
+der, Razorpay) about anything from the business world</li>
+<li style=3D"mso-line-height-rule:exactly; font-size:15px; line-height:150%=
+">Learn mantras for business growth in the era of COVID and beyond</li>
+<li style=3D"mso-line-height-rule:exactly; font-size:15px; line-height:150%=
+">Lessons on monetising your passion and unlocking career opportunities</li=
+>
+</ul>
+<p style=3D"mso-line-height-rule:exactly; font-size:15px; line-height:150%"=
+><strong>=F0=9F=8E=81 </strong><span style=3D"color: #3574e3;">Also, Unlock=
+ free Razorpay credits worth =E2=82=B950,000 that can be used to accept pay=
+ments and grow your business, with zero gateway charges.</span></p></div></=
+div></td></tr></tbody></table>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+    </div>
+  =20
+  </div>
+  <div id=3D"section_1596710159269" class=3D"hse-section" style=3D"padding-=
+left:10px; padding-right:10px">
+   =20
+   =20
+    <!--[if !((mso)|(IE))]><!-- -->
+      <div class=3D"hse-column-container" style=3D"min-width:280px; max-wid=
+th:600px; width:100%; Margin-left:auto; Margin-right:auto; border-collapse:=
+collapse; border-spacing:0; background-color:#FAFAFA" bgcolor=3D"#FAFAFA">
+    <!--<![endif]-->
+   =20
+    <!--[if (mso)|(IE)]>
+      <div class=3D"hse-column-container" style=3D"min-width:280px;max-widt=
+h:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:colla=
+pse;border-spacing:0;">
+      <table align=3D"center" style=3D"border-collapse:collapse;mso-table-l=
+space:0pt;mso-table-rspace:0pt;width:600px;" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" width=3D"600" bgcolor=3D"#FAFAFA">
+      <tr style=3D"background-color:#FAFAFA;">
+    <![endif]-->
+    <!--[if (mso)|(IE)]>
+  <td valign=3D"top" style=3D"width:600px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role=3D"presentation" width=3D"600" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0pt;mso-table-rsp=
+ace:0pt;width:600px">
+<![endif]-->
+<div id=3D"column_1596710159269_0" class=3D"hse-column hse-size-12">
+  <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%" style=3D"border-spacing:0 !important; border-collapse:collapse; mso-=
+table-lspace:0pt; mso-table-rspace:0pt"><tbody><tr><td class=3D"hs_padded" =
+style=3D"border-collapse:collapse; mso-line-height-rule:exactly; font-famil=
+y:Trebuchet MS, sans-serif; font-size:16px; color:#3a3a3a; word-break:break=
+-word; padding:10px 20px"><div id=3D"hs_cos_wrapper_module_15912087956323" =
+class=3D"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" s=
+tyle=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-=
+cos-general-type=3D"widget" data-hs-cos-type=3D"module">
+ =20
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+role=3D"presentation" style=3D"border-spacing:0 !important; mso-table-lspac=
+e:0pt; mso-table-rspace:0pt; border-collapse:separate!important">
+    <tbody><tr>
+        <!--[if mso]>
+      <td align=3D"center" valign=3D"middle" bgcolor=3D"#456bf2" role=3D"pr=
+esentation"  valign=3D"middle" style=3D"border-radius:25px;cursor:auto;back=
+ground-color:#456bf2;padding:12px 18px;">
+      <a href=3D"https://i3.t.hubspotemail.net/e2t/tc/VX4mVx4tqGcGW3Hl_Tm4P=
+25FmW8QwHkG4hWvVRN3Z5rby3p8dNV1-WJV7CgW4wW24vK6k7smW1NW6SQXpM1KST-BW4cjtvy6=
+5fnGrN4Y7lWJV1LG8W1XDTvQ55nLs0V7ngc16mndP8W771Dgh1TZ6DKW7dcSlX7j6FgzW7w9j6L=
+4cw2zdW8kRqB45XKqJhW19t0Rv3FBGtgW8lfCmn345QQPVrjsQv448Bw8W1VlF7L74SnptW1r01=
+ft8ZNt5bW2vjd5n1xSd5GW2WbCrm70yYSRW7l0Bdf80V1P2W4hVLzx2_qpnZN1l6n5gFGzyfW6f=
+qnN79gjPb8W7RZ1x87PJ2GgW74PfRK8QxZc-N1fwcpPJMkKhVF69sP6DJn05VRsdpr3xG5CrW5d=
+ksD65zbZ7zN5-tz-fy5D4rN1Q0P7BJ69XYW8fxPN75FPsKB3bxH1" target=3D"_blank" sty=
+le=3D"font-size:16px;font-family:Trebuchet MS, sans-serif;color:#ffffff;fon=
+t-weight:bold;text-decoration:none;font-style:normal;Margin:0;text-transfor=
+m:none;">
+      Book Your Seat for Free
+      </a>
+      </td>
+    <![endif]-->
+    <!--[if !mso]><!-- -->
+    <td align=3D"center" valign=3D"middle" bgcolor=3D"#456bf2" role=3D"pres=
+entation" style=3D"border-collapse:collapse; mso-line-height-rule:exactly; =
+font-family:Trebuchet MS, sans-serif; font-size:16px; color:#3a3a3a; word-b=
+reak:break-word; border-radius:25px; cursor:auto; background-color:#456bf2"=
+>
+    <a href=3D"https://i3.t.hubspotemail.net/e2t/tc/VX4mVx4tqGcGW3Hl_Tm4P25=
+FmW8QwHkG4hWvVRN3Z5rby3p_b1V1-WJV7CgKRKW3lclBF3tmXqyW7vGLWj51CmL4W3Rm7D-2kx=
+mMpW6T2hxS9g_WPSW3McF9J7ZMf9XN4_xwf6Cs778W6bmpQW5CRh0zW3vpWNZ7zTrV8W6yPhQV6=
+5H4z3W5L8DgB1BXCrgW1K7XPZ8_V-DfW8KSM3w1dzV2zW40Q-f82P_HT2W78XwBp2xf0WBW34WR=
+5z6jwcM8VT9PZr2dD34VN5GxlNQtFFYkW4M3LLF2lRyYzW61HPCG5j-LjpW1p7ZB-4nPMY1W8BX=
+g0K70PkycW2dFzjs67PZj-W3QFgK6693wQPW16wxDF7dq9hcW9brz5n72nx87W4Q8SmD1cnmJpN=
+87-GZhbpqmtN78npHDMCt-PW6KzYxh2s9pg0N5SWFTW4TP1_3m4N1" target=3D"_blank" st=
+yle=3D"mso-line-height-rule:exactly; font-size:16px; font-family:Trebuchet =
+MS, sans-serif; color:#ffffff; font-weight:bold; text-decoration:none; font=
+-style:normal; Margin:0; text-transform:none; padding:12px 18px; display:bl=
+ock" data-hs-link-id=3D"0">
+      Book Your Seat for Free
+    </a>
+    </td>
+   <!--<![endif]-->
+    </tr>
+  </tbody></table>
+</div></td></tr></tbody></table>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+    </div>
+  =20
+  </div>
+  <div id=3D"section_1592297725741" class=3D"hse-section" style=3D"padding-=
+left:10px; padding-right:10px">
+   =20
+   =20
+    <!--[if !((mso)|(IE))]><!-- -->
+      <div class=3D"hse-column-container" style=3D"min-width:280px; max-wid=
+th:600px; width:100%; Margin-left:auto; Margin-right:auto; border-collapse:=
+collapse; border-spacing:0; background-color:#FAFAFA; padding-bottom:10px; =
+padding-top:4px" bgcolor=3D"#FAFAFA">
+    <!--<![endif]-->
+   =20
+    <!--[if (mso)|(IE)]>
+      <div class=3D"hse-column-container" style=3D"min-width:280px;max-widt=
+h:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:colla=
+pse;border-spacing:0;">
+      <table align=3D"center" style=3D"border-collapse:collapse;mso-table-l=
+space:0pt;mso-table-rspace:0pt;width:600px;" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" width=3D"600" bgcolor=3D"#FAFAFA">
+      <tr style=3D"background-color:#FAFAFA;">
+    <![endif]-->
+    <!--[if (mso)|(IE)]>
+  <td valign=3D"top" style=3D"width:600px;padding-bottom:10px; padding-top:=
+4px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role=3D"presentation" width=3D"600" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0pt;mso-table-rsp=
+ace:0pt;width:600px">
+<![endif]-->
+<div id=3D"column_1592297725741_0" class=3D"hse-column hse-size-12">
+  <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%" style=3D"border-spacing:0 !important; border-collapse:collapse; mso-=
+table-lspace:0pt; mso-table-rspace:0pt"><tbody><tr><td class=3D"hs_padded" =
+style=3D"border-collapse:collapse; mso-line-height-rule:exactly; font-famil=
+y:Trebuchet MS, sans-serif; font-size:16px; color:#3a3a3a; word-break:break=
+-word; padding:10px 20px"><div id=3D"hs_cos_wrapper_module_15912087768942" =
+class=3D"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" s=
+tyle=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-=
+cos-general-type=3D"widget" data-hs-cos-type=3D"module"><div id=3D"hs_cos_w=
+rapper_module_15912087768942_" class=3D"hs_cos_wrapper hs_cos_wrapper_widge=
+t hs_cos_wrapper_type_rich_text" style=3D"color: inherit; font-size: inheri=
+t; line-height: inherit;" data-hs-cos-general-type=3D"widget" data-hs-cos-t=
+ype=3D"rich_text"><p style=3D"mso-line-height-rule:exactly; font-size:15px;=
+ line-height:150%; text-align:left" align=3D"left"><span style=3D"color: #3=
+574e3;"><strong>Time</strong>:</span> 2 PM <span style=3D"color: #3574e3;">=
+<strong>Date</strong>:</span> 5th November 2020</p>
+<p style=3D"mso-line-height-rule:exactly; font-size:15px; line-height:150%;=
+ text-align:left" align=3D"left"><span style=3D"color: #3574e3;"><strong>Ot=
+her Perks</strong>:</span> Win Amazon vouchers worth =E2=82=B93,000 during =
+the webinar</p>
+<p style=3D"mso-line-height-rule:exactly; font-size:15px; line-height:150%"=
+>&nbsp;</p>
+<p style=3D"mso-line-height-rule:exactly; font-size:15px; line-height:150%"=
+>&nbsp;</p>
+<p style=3D"mso-line-height-rule:exactly; font-size:15px; line-height:150%"=
+>For more information and updates, visit our event page <span style=3D"colo=
+r: #456bf2;"><a href=3D"https://i3.t.hubspotemail.net/e2t/tc/VX4mVx4tqGcGW3=
+Hl_Tm4P25FmW8QwHkG4hWvVRN3Z5rby3p_b1V1-WJV7CgF6nN8wXXFNC4hH-W3j9qPq5fgkfjW4=
+lG_zs3gGzh8W68vDfD2n2VWNW6N8XgT9bZXzqW2RhvQR6BtJ9wW2plxTw5CVT6fW3RSrrQ27bd2=
+ZW7x4rkH1zycR8N4wQYVvbb6Z3W2xsLKn1pPW9kW13JZMp1xnjZgW828kZJ8TCPzFW3VxZVD2PN=
+5dRW8y10zf5r0jJ3W2-d_3p5lkgz4W52xbl_22rdQVW7vjFj088pbRbW5d0r5M5wFtZCW3MNv_Q=
+7yvd9XW7g10x35Kp5vWW1QpY1W3z3j1sW3ddZX161f-ljV5FbTJ4VFp6mW51-Nm68VgkbkW7XwX=
+5c6tP79yW1HqTDM1XWVTjN2lhp2YjgdTpW6VqcjQ6xNHqRN4zHNHzlYS3y28W1" style=3D"ms=
+o-line-height-rule:exactly; text-decoration:none; color:#456bf2" rel=3D"noo=
+pener" data-hs-link-id=3D"0" target=3D"_blank">here</a></span>.</p>
+<p style=3D"mso-line-height-rule:exactly; font-size:15px; line-height:150%"=
+>&nbsp;</p>
+<p style=3D"mso-line-height-rule:exactly; font-size:15px; line-height:150%"=
+>Unlocking business opportunities for you,</p>
+<p style=3D"mso-line-height-rule:exactly; font-size:15px; line-height:150%"=
+>Team Razorpay</p></div></div></td></tr></tbody></table>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+    </div>
+  =20
+  </div>
+  <div id=3D"section_1603811776160" class=3D"hse-section hse-section-last" =
+style=3D"padding-left:10px; padding-right:10px; padding-bottom:20px">
+   =20
+   =20
+    <!--[if !((mso)|(IE))]><!-- -->
+      <div class=3D"hse-column-container" style=3D"min-width:280px; max-wid=
+th:600px; width:100%; Margin-left:auto; Margin-right:auto; border-collapse:=
+collapse; border-spacing:0; background-color:#e0ecf8" bgcolor=3D"#e0ecf8">
+    <!--<![endif]-->
+   =20
+    <!--[if (mso)|(IE)]>
+      <div class=3D"hse-column-container" style=3D"min-width:280px;max-widt=
+h:600px;width:100%;Margin-left:auto;Margin-right:auto;border-collapse:colla=
+pse;border-spacing:0;">
+      <table align=3D"center" style=3D"border-collapse:collapse;mso-table-l=
+space:0pt;mso-table-rspace:0pt;width:600px;" cellpadding=3D"0" cellspacing=
+=3D"0" role=3D"presentation" width=3D"600" bgcolor=3D"#e0ecf8">
+      <tr style=3D"background-color:#e0ecf8;">
+    <![endif]-->
+    <!--[if (mso)|(IE)]>
+  <td valign=3D"top" style=3D"width:600px;">
+<![endif]-->
+<!--[if gte mso 9]>
+  <table role=3D"presentation" width=3D"600" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0pt;mso-table-rsp=
+ace:0pt;width:600px">
+<![endif]-->
+<div id=3D"column_1603811776160_0" class=3D"hse-column hse-size-12">
+  <div id=3D"hs_cos_wrapper_builtin_module_4_0_0" class=3D"hs_cos_wrapper h=
+s_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inherit; f=
+ont-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widge=
+t" data-hs-cos-type=3D"module">
+ =20
+ =20
+ =20
+ =20
+ =20
+ =20
+ =20
+<table role=3D"presentation" class=3D"hse-footer hse-secondary" width=3D"10=
+0%" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing:0 !importan=
+t; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; fo=
+nt-family:Arial, sans-serif; font-size:12px; line-height:135%; color:#23496=
+d; margin-bottom:0; padding:0">
+    <tbody>
+        <tr>
+            <td align=3D"center" valign=3D"top" style=3D"border-collapse:co=
+llapse; mso-line-height-rule:exactly; font-family:Trebuchet MS, sans-serif;=
+ font-size:16px; color:#3a3a3a; word-break:break-word; text-align:center; m=
+argin-bottom:0; line-height:135%; padding:10px 20px">
+                <p style=3D"mso-line-height-rule:exactly; font-family:Helve=
+tica,Arial,sans-serif; font-size:12px; font-weight:normal; text-decoration:=
+none; font-style:normal; color:#9195a6">
+                  Razorpay, Hosur Road, Bengaluru, Karnataka
+                </p>
+                <p style=3D"mso-line-height-rule:exactly">
+                 =20
+                  <a data-unsubscribe=3D"true"  href=3D"https://hs-5558946.=
+s.hubspotemail.net/hs/manage-preferences/unsubscribe-all?d=3DVnchcR639-pdVF=
+rjJq3K984HW3zd-fZ3z7rYZW43T2Pw6D1v7sW17f7hv8RzfKnW6kddpL4YnbXKW4NSnMy7BSWz4=
+V28XJb6MxngbMGKd_P20N4LW58kBX55YF41mW95k6Qy5CLGRn4gRPy1&amp;v=3D3&amp;utm_c=
+ampaign=3Dunlock%20growth%202.0%20webinar&amp;utm_source=3Dhs_email&amp;utm=
+_medium=3Demail&amp;utm_content=3D98792448&amp;_hsenc=3Dp2ANqtz-9ji6GE9tJot=
+_C83zrNTlcn5VbQBujmHoDZ9BEc4oc87g2kPJp8Q226mx4fQt28SX2CWMMMRJlUHqUJsgMHUv8l=
+ua9EKg&amp;_hsmi=3D98792448" style=3D"mso-line-height-rule:exactly; font-fa=
+mily:Trebuchet MS, sans-serif; font-size:12px; color:#0d97bd; font-weight:n=
+ormal; text-decoration:underline; font-style:normal" data-hs-link-id=3D"0" =
+target=3D"_blank">Unsubscribe</a>
+                 =20
+                  <a data-unsubscribe=3D"true"  href=3D"https://hs-5558946.=
+s.hubspotemail.net/hs/manage-preferences/unsubscribe?d=3DVnchcR639-pdVFrjJq=
+3K984HW3zd-fZ3z7rYZW43T2Pw6D1v7sW17f7hv8RzfKnW6kddpL4YnbXKW4NSnMy7BSWz4V28X=
+Jb6MxngbMGKd_P20N4LW58kBX55YF41mW95k6Qy5CLGRn4gRPy1&amp;v=3D3&amp;utm_campa=
+ign=3Dunlock%20growth%202.0%20webinar&amp;utm_source=3Dhs_email&amp;utm_med=
+ium=3Demail&amp;utm_content=3D98792448&amp;_hsenc=3Dp2ANqtz-9ji6GE9tJot_C83=
+zrNTlcn5VbQBujmHoDZ9BEc4oc87g2kPJp8Q226mx4fQt28SX2CWMMMRJlUHqUJsgMHUv8lua9E=
+Kg&amp;_hsmi=3D98792448" style=3D"mso-line-height-rule:exactly; font-family=
+:Trebuchet MS, sans-serif; font-size:12px; color:#0d97bd; font-weight:norma=
+l; text-decoration:underline; font-style:normal" data-hs-link-id=3D"0" targ=
+et=3D"_blank">Manage preferences</a>
+                 =20
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+</div>
+<!--[if gte mso 9]></table><![endif]-->
+<!--[if (mso)|(IE)]></td><![endif]-->
+    <!--[if (mso)|(IE)]></tr></table><![endif]-->
+    </div>
+  =20
+  </div>
+</div>
+          </td>
+        </tr>
+      </tbody></table>
+    </div>
+ =20
+<img src=3D"https://i3.t.hubspotemail.net/e2t/to/VX4mVx4tqGcGW3Hl_Tm4P25FmW=
+8QwHkG4hWvVRf3Z5qYp22" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=
+=3D"display:none!important;min-height:1px!important;width:1px!important;bor=
+der-width:0!important;margin-top:0!important;margin-bottom:0!important;marg=
+in-right:0!important;margin-left:0!important;padding-top:0!important;paddin=
+g-bottom:0!important;padding-right:0!important;padding-left:0!important"></=
+body></html>
+------=_Part_14863481_2064242883.1604304141270--
+

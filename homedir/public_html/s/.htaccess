@@ -1,0 +1,26 @@
+
+
+
+RewriteEngine On
+
+
+
+RewriteBase /s/
+
+
+
+RewriteRule ^index\.php$ - [L]
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-d
+
+
+
+RewriteRule . /s/index.php [L]
+
+

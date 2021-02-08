@@ -1,0 +1,398 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 202101 will be lost/reset.
+# Last config file used to build this data file was /home2/delhitantaa/tmp/awstats/awstats.tantaaa.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2681                
+POS_VISITOR 8538                
+POS_DAY 10272               
+POS_DOMAIN 3410                
+POS_LOGIN 3718                
+POS_ROBOT 3873                
+POS_WORMS 4249                
+POS_EMAILSENDER 4380                
+POS_EMAILRECEIVER 4523                
+POS_SESSION 10656               
+POS_SIDER 10841               
+POS_FILETYPES 4658                
+POS_DOWNLOADS 4885                
+POS_OS 4933                
+POS_BROWSER 5105                
+POS_SCREENSIZE 5557                
+POS_UNKNOWNREFERER 5631                
+POS_UNKNOWNREFERERBROWSER 6037                
+POS_ORIGIN 6227                
+POS_SEREFERRALS 6364                
+POS_PAGEREFS 6508                
+POS_SEARCHWORDS 6656                
+POS_KEYWORDS 6808                
+POS_MISC 2345                
+POS_ERRORS 6867                
+POS_CLUSTER 3574                
+POS_SIDER_404 7039                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210131163714 107 26803 15248545695311
+FirstTime 0
+LastTime 20210131163658
+LastUpdate 20210131192118 107 0 107 0 0
+TotalVisits 43                  
+TotalUnique 40                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 41                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 9 13 35549
+1 0 0 0 13 17 59943
+2 1 1 105790 3 8 47811
+3 0 0 0 5 10 12869
+4 1 1 12833 6 44 438728
+5 0 0 0 2 3 1254
+6 0 0 0 13 21 48503
+7 0 0 0 14 56 466895
+8 1 1 12837 7 35 306215
+9 8 33 1362891 14 28 160002
+10 7 59 1788977 26 35 37892
+11 1 1 12839 12 14 32980
+12 11 11 135340 16 29 150022
+13 15 132 250352 27 40 140231
+14 9 66 2082659 3 18 132577
+15 255 802 14857841 79 188 406019
+16 60 198 3026235 15 62 373983
+17 22 123 3066199 12 31 68414
+18 12 17 219825 11 20 132130
+19 2 2 14018 3 19 118337
+20 20 150 4853062 15 59 49267
+21 0 3 130929 10 17 112367
+22 0 0 0 27 67 586006
+23 0 0 0 6 6 15256
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+in 302 1218 21652013
+us 88 292 7988764
+ca 17 72 1949186
+gb 12 12 1044
+ru 5 5 328787
+cn 1 1 12833
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+Googlebot/ 262 2537412 20210131083420 0
+bot[\s_+:,\.\;\/\\-] 14 738496 20210131134301 0
+LinkedInBot/ 5 68095 20210122152557 0
+no_user_agent 3 42427 20210122152617 0
+Googlebot\-Image/ 2 57735 20210131141920 0
+YandexBot/ 1 12836 20210115172402 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+js 345 3827504 0 0
+woff2 30 1467216 0 0
+Unknown 340 379434 0 0
+html 55 1158824 0 0
+jpeg 301 14501642 0 0
+jpg 35 486837 0 0
+png 240 8117149 0 0
+css 254 1994021 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+winxp 1 1
+win10 413 72
+win7 1 1
+macosx 117 48
+linuxandroid 435 80
+linux 599 190
+Unknown 33 32
+macosx10 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 19
+chrome88.0.4324.96 5 5
+chrome87.0.4280.101 63 7
+firefox47.0 3 3
+chrome87.0.4280.88 72 7
+firefox57.0 1 1
+mozilla 25 25
+firefox84.0 487 149
+Unknown 6 5
+chrome85.0.4183.101 222 50
+chrome79.0.3945.136 76 7
+chrome87.0.4280.141 484 137
+chrome73.0.3683.90 1 1
+chrome88.0.4324.93 69 8
+chrome41.0.2224.3 1 1
+chrome83.0.4103.101 80 14
+chrome76.0.3809.132 1 1
+firefox59.0 1 1
+chrome62.0.3202.75 1 1
+netscape 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20210130083040
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20210129024558
+WhatsApp/2.20.206.24_A 20210114144235
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20210110150223
+Mozilla 20210123185026
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WhatsApp/2.20.206.24_A 20210114144235
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20210130083040
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 75 76
+From1 1 1
+From2 0 0
+From3 0 0
+From4 349 1523
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+403 3 3417
+302 6 1494
+500 130 7847
+301 150 90699
+404 251 314589
+405 1 374
+419 4 236
+206 4 57593
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 28
+/tmp 1 http://mail.tantaaa.com/tmp/
+/wp-login.php 3 -
+/wordpress 1 http://mail.tantaaa.com/wordpress/
+/robots.txt 47 -
+/old-site 1 http://mail.tantaaa.com/old-site/
+/web 1 http://mail.tantaaa.com/web/
+/public/frontend/images/placeholder.jpg 90 http://www.tantaaa.com/
+/wp 1 http://mail.tantaaa.com/wp/
+/temp 1 http://mail.tantaaa.com/temp/
+/dup-installer/main.installer.php 1 -
+/backup 1 http://mail.tantaaa.com/backup/
+/administrator/index.php 1 -
+/test 1 http://mail.tantaaa.com/test/
+/site 1 http://mail.tantaaa.com/site/
+/dev 1 http://mail.tantaaa.com/dev/
+/public/uploads/sliders/NCv47fHKnhVOljpkXik5KgIHCleEbbpzcweNOIhl.jpeg 43 http://www.tantaaa.com/
+/public/frontend/images/xloading.gif 1 http://www.tantaaa.com/public/frontend/css/xzoom.css
+/2018 1 http://mail.tantaaa.com/2018/
+/main 1 http://mail.tantaaa.com/main/
+/blog 1 http://mail.tantaaa.com/blog/
+/public/frontend/images/placeholder-rect.jpg 42 http://www.tantaaa.com/
+/new 1 http://mail.tantaaa.com/new/
+/old 1 http://mail.tantaaa.com/old/
+/home 1 http://mail.tantaaa.com/home/
+/public/img/favicon.png 3 http://tantaaa.com/login
+/about-us 2 -
+/cms 1 http://mail.tantaaa.com/cms/
+/old-wp 1 http://mail.tantaaa.com/old-wp/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 41
+49.36.168.39 213 691 12115475 20210122171353
+157.33.200.116 46 115 2679172 20210122170921
+152.57.60.232 14 80 2346929 20210122171337
+51.210.156.16 12 12 1044 20210110150222
+42.111.23.131 11 63 80676 20210122152812
+47.31.184.160 10 10 29280 20210122155621
+117.222.60.17 8 69 2142512 20210122201131
+52.188.34.21 7 76 2673016 20210122152607
+42.111.21.83 7 76 2673017 20210119201017
+42.111.18.90 7 76 14640 20210131163658 20210131163655 /home/section/best_selling
+42.111.19.210 7 32 1350057 20210130090355
+42.111.23.107 7 72 170422 20210119134822
+47.31.214.86 7 59 1788977 20210114105335
+42.108.174.222 6 54 1831999 20210114144035
+42.111.37.121 6 11 207410 20210116180102
+14.99.192.50 5 5 38717 20210122200503
+42.111.19.42 5 5 14643 20210130122303
+42.111.19.186 5 5 14638 20210131122505
+42.111.85.109 5 40 706835 20210126175623
+42.111.16.66 4 4 1805 20210116180103
+34.209.232.166 3 3 261 20210110150223
+42.108.168.88 3 12 250660 20210114144234
+18.196.96.172 3 3 261 20210110150223
+64.78.149.164 3 3 261 20210110150223
+185.192.70.30 2 2 212118 20210119161418
+47.106.209.123 1 1 12833 20210127041751
+66.249.135.104 1 1 105790 20210122164739
+3.22.70.135 2 2 174 20210110150223
+129.213.31.250 2 2 25680 20210129150342
+107.178.237.1 1 1 12837 20210130083040
+35.230.100.242 1 1 0 20210116201709
+3.128.26.105 1 1 87 20210110150218
+1.38.52.179 1 1 12836 20210127153606
+185.192.70.106 1 1 106059 20210118165942
+107.178.232.157 1 1 12838 20210119135336
+47.31.194.24 0 3 130929 
+107.178.232.160 1 1 12834 20210124200517
+138.197.9.124 1 1 105790 20210129024558
+1.38.51.162 2 2 25671 20210127155215
+64.246.165.200 1 1 12834 20210128090108
+91.207.173.10 2 2 10610 20210123185026
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 14
+20210110 24 24 2088 6
+20210114 16 128 4002565 3
+20210116 11 16 209215 3
+20210118 1 1 106059 1
+20210119 17 151 3068395 5
+20210122 315 1110 22211567 10
+20210123 2 2 10610 1
+20210124 1 1 12834 1
+20210126 5 40 706835 1
+20210127 4 4 51340 3
+20210128 1 1 12834 1
+20210129 3 3 131470 3
+20210130 13 38 1377537 3
+20210131 12 81 29278 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+1h+ 1
+15mn-30mn 2
+2mn-5mn 1
+30s-2mn 4
+0s-30s 34
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 31
+/category/nav-element-list 141 23853 0 1
+/ 55 1158824 33 17
+/home/section/best_sellers 36 720 1 6
+/home/section/home_categories 35 15295 0 3
+/home/section/featured 35 10150 0 0
+/home/section/best_selling 32 33856 1 3
+/public/frontend/fonts/line-awesome.woff2 15 541296 0 2
+/public/frontend/fonts/fontawesome-webfont.woff2 15 925920 0 1
+/search 12 142594 0 1
+/.well-known/acme-challenge/gXyA_qg1SX3s-N8BoeQRakuNJhPiG-DnBL72f1jEyRY 4 348 1 0
+/.well-known/acme-challenge/35jwo4rdPCdKqu_v-whIaw-Bp0xlr85FNxUQLnzxdLM 4 348 0 1
+/.well-known/acme-challenge/xoPa24mKiuIo6Coy3MnUk8dcfTyKyoYn85mW2_HvK-Q 4 348 0 4
+/.well-known/acme-challenge/NMqnw5lJB5gW3ye1D0KnhZXTUBRFsdelJwO0DcbvgTw 4 348 1 0
+/.well-known/acme-challenge/iIM24uSS6YPVSxWcw1WAapkvMc-3Uzd4bh2d4K17QUs 4 348 0 0
+/.well-known/acme-challenge/2UEgYZj8gqV7Rxcwa7rrH98xUgy-qtBU930ao52cnoA 4 348 4 1
+/login 3 12138 1 1
+/product/variant_price 3 192 0 0
+/cpanel 2 24972 1 0
+/users/login 2 21950 0 0
+/cart/show-cart-modal 2 3038 0 0
+/categories 2 22422 0 0
+/compare/addToCompare 2 332 0 0
+/track_your_order 1 10527 0 0
+/admin 1 6293 0 0
+/returnpolicy 1 10831 0 0
+/language 1 20 0 0
+/currency 1 20 0 0
+/users/registration 1 11315 0 0
+/sellerpolicy 1 10247 0 0
+/admin/brands 1 5924 0 1
+/customer-packages 1 10657 0 0
+END_SIDER
